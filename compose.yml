@@ -4,6 +4,7 @@ services:
     container_name: ${CONTAINER_NAME:-tech-blogs}
     restart: "no"
     environment:
+      TZ: ${TZ:-Europe/Madrid}
       OPML_FILE: /opml/engineering_blogs.opml
       OUTPUT_DIR: /data
     volumes:
