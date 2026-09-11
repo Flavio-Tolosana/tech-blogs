@@ -16,7 +16,7 @@ from datetime import datetime
 from pathlib import Path
 
 TIMEOUT = 5
-MAX_WORKERS = 25
+MAX_WORKERS = 25  # max concurrent RSS fetches
 
 REPO_ROOT = Path(__file__).parent.parent
 
