@@ -1,5 +1,40 @@
 [
  {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Introducing automatic remediation policies with Cloudflare CASB",
+  "link": "https://blog.cloudflare.com/casb-policies/",
+  "published": "2026-09-11T13:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Eloquent Performance and Database Design: Evidence Before Eager Loading",
+  "link": "https://freek.dev/3190-eloquent-performance-and-database-design-evidence-before-eager-loading",
+  "published": "2026-09-11T12:30:27"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Mixpanel Is Easy to Install. Trusting the Data Takes Work.",
+  "link": "https://spin.atomicobject.com/mixpanel-trusting-data/",
+  "published": "2026-09-11T12:00:56"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "The Real Python Podcast – Episode #311: Django Developers Survey Results & Reproducible Python Builds",
+  "link": "https://realpython.com/podcasts/rpp/311/",
+  "published": "2026-09-11T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: The subprocess Module: Wrapping Programs With Python",
+  "link": "https://realpython.com/quizzes/python-subprocess/",
+  "published": "2026-09-11T12:00:00"
+ },
+ {
   "blog_name": "SitePoint",
   "blog_url": "https://sitepoint.com",
   "title": "Building With Voice: A Developer's Look at Integrating AI Speech Into Applications",
@@ -35,11 +70,25 @@
   "published": "2026-09-11T06:33:46"
  },
  {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Error'd: Unrewarding",
+  "link": "https://thedailywtf.com/articles/unrewarding",
+  "published": "2026-09-11T06:30:00"
+ },
+ {
   "blog_name": "Vlad Mihalcea",
   "blog_url": "https://vladmihalcea.com/",
   "title": "Meet Jos Roseboom",
   "link": "https://vladmihalcea.com/meet-jos-roseboom/",
   "published": "2026-09-11T04:23:25"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "PayZephyr: One Payment API for Stripe, Paystack, and PayPal",
+  "link": "https://laravel-news.com/payzephyr?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-11T01:46:25"
  },
  {
   "blog_name": "Pinterest",
@@ -376,6 +425,13 @@
   "title": "Five AI Questions We're Hearing from Financial Services Leaders",
   "link": "https://www.databricks.com/blog/five-ai-questions-were-hearing-financial-services-leaders",
   "published": "2026-09-09T18:09:29"
+ },
+ {
+  "blog_name": "Codrops",
+  "blog_url": "https://tympanus.net/codrops/",
+  "title": "Turning Names Into Digital Architecture with Three.js",
+  "link": "https://tympanus.net/codrops/2026/09/09/turning-names-into-digital-architecture-with-three-js/",
+  "published": "2026-09-09T17:55:00"
  },
  {
   "blog_name": "Gusto",
@@ -2609,6 +2665,13 @@
   "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
   "link": "https://blog.fogus.me/llm/born-against.html",
   "published": "2026-08-04T09:07:49"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas loc filter order: Put the most selective filter first",
+  "link": "https://lernerpython.com/2026/08/04/pandas-loc-filter-order-put-the-most-selective-filter-first/",
+  "published": "2026-08-04T06:00:00"
  },
  {
   "blog_name": "Eli Bendersky",
