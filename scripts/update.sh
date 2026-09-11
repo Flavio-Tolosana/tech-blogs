@@ -2,7 +2,7 @@
 #
 # Actualiza los blogs de ingeniería:
 #   1. git pull de engineering-blogs (renueva engineering_blogs.opml)
-#   2. docker compose pull & up -d  (one-shot detached: ejecuta el script y el contenedor sale solo)
+#   2. docker compose pull & up  (one-shot: ejecuta el script y el contenedor sale solo)
 #   3. commit + push del index.html y posts_cache.json generados
 #
 # Requiere un fichero .env en la raíz del repo (ver .env.example).
@@ -37,7 +37,7 @@ git -C "$TECH_BLOGS_DIR" pull --ff-only
 
 echo "==> [3/5] docker compose pull + up (one-shot)"
 $COMPOSE pull
-$COMPOSE up -d
+$COMPOSE up
 
 echo "==> [4/5] commit + push de los archivos generados"
 cd "$TECH_BLOGS_DIR"
