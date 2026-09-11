@@ -1,5 +1,68 @@
 [
  {
+  "blog_name": "Timescale",
+  "blog_url": "https://blog.timescale.com/",
+  "title": "The Real Cost of a Single Insert in Postgres",
+  "link": "https://www.tigerdata.com/blog/real-cost-of-single-insert-in-postgres",
+  "published": "2026-09-11T20:23:58"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "Moving from XCTest to Swift Testing [FREE]",
+  "link": "https://www.kodeco.com/53560697-moving-from-xctest-to-swift-testing",
+  "published": "2026-09-11T18:41:42"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Health Plans: Your BI Tells You MLR Moved. Can Your AI Tell You Why?",
+  "link": "https://www.databricks.com/blog/health-plans-your-bi-tells-you-mlr-moved-can-your-ai-tell-you-why",
+  "published": "2026-09-11T18:26:59"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+  "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+  "published": "2026-09-11T18:26:10"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Unify your marketing data with Lakeflow Connect",
+  "link": "https://www.databricks.com/blog/unify-your-marketing-data-lakeflow-connect",
+  "published": "2026-09-11T18:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "5 reasons your online store isn’t making sales",
+  "link": "https://www.hostinger.com/blog/5-reasons-your-online-store-isnt-making-sales/",
+  "published": "2026-09-11T16:26:25"
+ },
+ {
+  "blog_name": "Ramon Fried",
+  "blog_url": "https://nativeguru.wordpress.com/",
+  "title": "Seven years of bitwise: a weekend project, a Hackernews front page, and the long road into Debian",
+  "link": "https://nativeguru.wordpress.com/2026/09/11/seven-years-of-bitwise-a-weekend-project-a-hackernews-front-page-and-the-long-road-into-debian/",
+  "published": "2026-09-11T15:21:24"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Newsprint: Turning e-mail newsletters into a personal PDF",
+  "link": "https://lernerpython.com/2026/09/11/newsprint-turning-e-mail-newsletters-into-a-personal-pdf/",
+  "published": "2026-09-11T15:03:23"
+ },
+ {
+  "blog_name": "Pinterest",
+  "blog_url": "https://medium.com/@Pinterest_Engineering",
+  "title": "Evolving Pinterest’s Embedding Retrieval Platform",
+  "link": "https://medium.com/pinterest-engineering/evolving-pinterests-embedding-retrieval-platform-aede4e831e01?source=rss-ef81ef829bcb------2",
+  "published": "2026-09-11T15:01:03"
+ },
+ {
   "blog_name": "Cloudflare",
   "blog_url": "https://blog.cloudflare.com/",
   "title": "Introducing automatic remediation policies with Cloudflare CASB",
@@ -89,6 +152,20 @@
   "title": "PayZephyr: One Payment API for Stripe, Paystack, and PayPal",
   "link": "https://laravel-news.com/payzephyr?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
   "published": "2026-09-11T01:46:25"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Adding Google Login to a React App with Auth0",
+  "link": "https://auth0.com/blog/adding-google-login-to-react-app-with-auth0/",
+  "published": "2026-09-11T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "A Developer's Guide to API Access Policies in Auth0",
+  "link": "https://auth0.com/blog/developers-guide-api-access-policies-auth0/",
+  "published": "2026-09-11T00:00:00"
  },
  {
   "blog_name": "Pinterest",
@@ -215,6 +292,13 @@
   "title": "CR talk : Éloge du compromis",
   "link": "https://blog.octo.com/octo-article-de-blog-25",
   "published": "2026-09-10T14:21:54"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+  "published": "2026-09-10T14:00:00"
  },
  {
   "blog_name": "Databricks",
@@ -9084,6 +9168,13 @@
   "title": "Pulling Images From Private Docker Registries on GitLab CI",
   "link": "https://mherman.org/blog/gitlab-ci-private-docker-registry/",
   "published": "2020-07-16T05:00:00"
+ },
+ {
+  "blog_name": "Mozilla Release Engineering",
+  "blog_url": "https://planet.mozilla.org/releng/",
+  "title": "New backfill action",
+  "link": "https://armenzg.medium.com/new-backfill-action-26788d0db81a?source=rss-d4d8839a88ef------2",
+  "published": "2020-07-15T14:10:42"
  },
  {
   "blog_name": "Matt Aimonetti",
