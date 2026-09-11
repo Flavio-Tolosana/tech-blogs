@@ -1,7 +1,7 @@
 # Tech Blogs
 
 Agregador de blogs de ingeniería. Lee el listado de fuentes RSS de
-[`engineering-blogs`](https://github.com/engineering-blogs/engineering-blogs) (un fichero
+[`kilimchoi/engineering-blogs`](https://github.com/kilimchoi/engineering-blogs) (un fichero
 `engineering_blogs.opml`), descarga los posts de todos los feeds y genera un `index.html`
 estático con los posts agrupados por día.
 
@@ -11,7 +11,7 @@ Requiere `python3` y `git`.
 
 ```bash
 cd tech-blogs
-git clone https://github.com/engineering-blogs/engineering-blogs.git ../engineering-blogs
+git clone https://github.com/kilimchoi/engineering-blogs.git ../engineering-blogs
 ./scripts/fetch_local.sh
 ```
 
@@ -39,7 +39,7 @@ El repositorio está pensado para ejecutarse de forma periódica en un servidor 
 
 1. **Clona ambos repos** en el servidor:
    ```bash
-   git clone https://github.com/engineering-blogs/engineering-blogs.git
+   git clone https://github.com/kilimchoi/engineering-blogs.git
    git clone https://github.com/<tu-usuario>/tech-blogs.git
    ```
 2. **Configura las rutas** (copia de `.env.example` a `.env`):
