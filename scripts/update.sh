@@ -9,12 +9,24 @@
 #
 set -euo pipefail
 
+SEP="================================================================"
+
+log() {
+  echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*"
+}
+
+START_EPOCH=$(date +%s)
+
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(dirname "$SCRIPT_DIR")"
 ENV_FILE="$REPO_ROOT/.env"
 
+echo "$SEP"
+log "INICIO: actualización de engineering blogs"
+echo "$SEP"
+
 if [[ ! -f "$ENV_FILE" ]]; then
-  echo "ERROR: No existe $ENV_FILE. Copia .env.example a .env y configura las rutas." >&2
+  log "ERROR: No existe $ENV_FILE. Copia .env.example a .env y configura las rutas."
   exit 1
 fi
 
@@ -29,24 +41,26 @@ set +a
 
 COMPOSE="docker compose --env-file $ENV_FILE -f $REPO_ROOT/compose.yml"
 
-echo "==> [1/5] git pull de engineering-blogs"
+log "==> [1/5] git pull de engineering-blogs"
 git -C "$ENGINEERING_BLOGS_DIR" pull --ff-only
 
-echo "==> [2/5] git pull de tech-blogs (sincronizar antes de generar)"
+log "==> [2/5] git pull de tech-blogs (sincronizar antes de generar)"
 git -C "$TECH_BLOGS_DIR" pull --ff-only
 
-echo "==> [3/5] docker compose pull + up (one-shot)"
+log "==> [3/5] docker compose pull + up (one-shot)"
 $COMPOSE pull
 $COMPOSE up
 
-echo "==> [4/5] commit + push de los archivos generados"
+log "==> [4/5] commit + push de los archivos generados"
 cd "$TECH_BLOGS_DIR"
 git add index.html posts_cache.json
 if git diff --cached --quiet; then
-  echo "    Sin cambios detectados. Nada que pushear."
+  log "    Sin cambios detectados. Nada que pushear."
 else
   git commit -m "chore: actualizar engineering blogs"
   git push origin main
 fi
 
-echo "==> [5/5] Listo ✔"
+echo "$SEP"
+log "FIN: actualización completada en $(( $(date +%s) - START_EPOCH ))s"
+echo "$SEP"
