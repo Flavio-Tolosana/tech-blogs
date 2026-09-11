@@ -1,0 +1,12 @@
+# Entorno local
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# pathlib __pycache__
+app/__pycache__/
+
+# Generados
+posts_cache.json
+index.html

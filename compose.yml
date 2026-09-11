@@ -1,0 +1,12 @@
+services:
+  tech-blogs:
+    image: ${IMAGE_NAME}:${IMAGE_TAG:-latest}
+    container_name: ${CONTAINER_NAME:-tech-blogs}
+    restart: "no"
+    environment:
+      OPML_FILE: /opml/engineering_blogs.opml
+      OUTPUT_DIR: /data
+    volumes:
+      - ${ENGINEERING_BLOGS_DIR}:/opml:ro
+      - ${TECH_BLOGS_DIR}:/data
+    # Ejecuta el script una vez (entrypoint del Dockerfile) y el contenedor sale solo
