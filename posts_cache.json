@@ -1,5 +1,54 @@
 [
  {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Logarithmic auto-scaling for Laravel Horizon",
+  "link": "https://freek.dev/3191-logarithmic-auto-scaling-for-laravel-horizon",
+  "published": "2026-09-12T12:30:30"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "GitHub Alternative List: Quintessential Options",
+  "link": "https://spin.atomicobject.com/github-alternative/",
+  "published": "2026-09-12T12:00:11"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python Debugging With Pdb",
+  "link": "https://realpython.com/quizzes/python-debugging-pdb/",
+  "published": "2026-09-12T12:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Power Up Your AI Agent With Live Web Search, for Fewer Tokens",
+  "link": "https://www.sitepoint.com/ai-agent-live-web-search-fewer-tokens/?utm_source=rss",
+  "published": "2026-09-12T08:48:30"
+ },
+ {
+  "blog_name": "Codrops",
+  "blog_url": "https://tympanus.net/codrops/",
+  "title": "Yestalgia: Bringing Decathlon’s ’90s Spirit to Life Through a Playful Digital Experience",
+  "link": "https://tympanus.net/codrops/2026/09/12/yestalgia-bringing-decathlons-90s-spirit-to-life-through-a-playful-digital-experience/",
+  "published": "2026-09-12T08:40:31"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Juicebox vs hireEZ: An honest comparison for recruiting teams",
+  "link": "https://www.sitepoint.com/juicebox-vs-hireez-comparison/?utm_source=rss",
+  "published": "2026-09-12T07:56:04"
+ },
+ {
+  "blog_name": "Vanilla Java",
+  "blog_url": "http://vanillajava.blogspot.com/",
+  "title": "Deciding how to progress your career and find work you find interesting/challenging.",
+  "link": "http://blog.vanillajava.blog/2026/09/deciding-how-to-progress-your-career.html",
+  "published": "2026-09-12T07:32:17"
+ },
+ {
   "blog_name": "Aaron Patterson",
   "blog_url": "http://tenderlovemaking.com/",
   "title": "What a time to be alive",
@@ -12,6 +61,13 @@
   "title": "The Real Cost of a Single Insert in Postgres",
   "link": "https://www.tigerdata.com/blog/real-cost-of-single-insert-in-postgres",
   "published": "2026-09-11T20:23:58"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Predicting Health Plan Member Behavior with Neural Networks: Building a Privacy-First Pipeline for Medicare, Medicaid, and ACA Data",
+  "link": "https://www.sitepoint.com/predicting-health-plan-member-behavior-with-neural-networks-building-a-privacy-first-pipeline-for-medicare-medicaid-and-aca-data/?utm_source=rss",
+  "published": "2026-09-11T19:09:12"
  },
  {
   "blog_name": "Ray Wenderlich",
@@ -54,6 +110,13 @@
   "title": "Seven years of bitwise: a weekend project, a Hackernews front page, and the long road into Debian",
   "link": "https://nativeguru.wordpress.com/2026/09/11/seven-years-of-bitwise-a-weekend-project-a-hackernews-front-page-and-the-long-road-into-debian/",
   "published": "2026-09-11T15:21:24"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Implement Tool Calling in an AI Agent With Python",
+  "link": "https://www.sitepoint.com/how-to-implement-tool-calling-in-an-ai-agent-with-python/?utm_source=rss",
+  "published": "2026-09-11T15:16:31"
  },
  {
   "blog_name": "Lerner Consulting Blog",
@@ -2630,6 +2693,13 @@
   "title": "We Gave Our Service More CPU — and It Took Down Production",
   "link": "https://medium.com/engineering-housing/we-gave-our-service-more-cpu-and-it-took-down-production-7e3926669e94?source=rss----3a69e32e2594---4",
   "published": "2026-08-10T06:48:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas data frame preview: df.head and df.sample",
+  "link": "https://lernerpython.com/2026/08/10/pandas-data-frame-preview-df-head-and-df-sample/",
+  "published": "2026-08-10T06:00:00"
  },
  {
   "blog_name": "8th Light",
