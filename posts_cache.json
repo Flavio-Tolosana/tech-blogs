@@ -1,5 +1,12 @@
 [
  {
+  "blog_name": "Hayden James",
+  "blog_url": "https://haydenjames.io/",
+  "title": "Linux server performance: Is disk I/O slowing your application?",
+  "link": "https://linuxblog.io/linux-server-performance-disk-io-slowing-application/",
+  "published": "2026-09-12T16:11:54"
+ },
+ {
   "blog_name": "Freek Van der Herten",
   "blog_url": "https://murze.be/",
   "title": "Logarithmic auto-scaling for Laravel Horizon",
@@ -54,6 +61,13 @@
   "title": "What a time to be alive",
   "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
   "published": "2026-09-12T00:02:11"
+ },
+ {
+  "blog_name": "Armin Ronacher",
+  "blog_url": "http://lucumr.pocoo.org/",
+  "title": "P(doom)",
+  "link": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+  "published": "2026-09-12T00:00:00"
  },
  {
   "blog_name": "Timescale",
@@ -1110,6 +1124,13 @@
   "blog_url": "https://blog.rust-lang.org/",
   "title": "Rust debugging survey 2026 results",
   "link": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
+  "published": "2026-09-07T00:00:00"
+ },
+ {
+  "blog_name": "Dan Luu",
+  "blog_url": "https://danluu.com/",
+  "title": "How well do agents use test/verification techniques?",
+  "link": "https://danluu.com/agentic-testing/",
   "published": "2026-09-07T00:00:00"
  },
  {
@@ -2553,6 +2574,13 @@
   "title": "From broadcast rights to fan experiences: How SPOTV is rethinking sports engagement in Southeast Asia",
   "link": "https://www.pubnub.com/blog/from-broadcast-rights-to-fan-experiences-how-spotv-is-rethinking-sports-engagement-in-southeast-asia",
   "published": "2026-08-12T07:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Changing a Pandas column dtype: Use astype, not assignment",
+  "link": "https://lernerpython.com/2026/08/12/changing-a-pandas-column-dtype-use-astype-not-assignment/",
+  "published": "2026-08-12T06:00:00"
  },
  {
   "blog_name": "Babbel",
@@ -5535,6 +5563,13 @@
   "title": "Cat Pics",
   "link": "https://tenderlovemaking.com/shots/2025-12-30-cat-pics/",
   "published": "2025-12-31T02:00:58"
+ },
+ {
+  "blog_name": "Marcelo Rinesi",
+  "blog_url": "https://blog.rinesi.com/",
+  "title": "Accretion",
+  "link": "https://blog.rinesi.com/2025/12/accretion",
+  "published": "2025-12-27T03:00:00"
  },
  {
   "blog_name": "Marcelo Rinesi",
