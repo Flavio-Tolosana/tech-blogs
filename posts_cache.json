@@ -1,5 +1,12 @@
 [
  {
+  "blog_name": "Aaron Patterson",
+  "blog_url": "http://tenderlovemaking.com/",
+  "title": "What a time to be alive",
+  "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+  "published": "2026-09-12T00:02:11"
+ },
+ {
   "blog_name": "Timescale",
   "blog_url": "https://blog.timescale.com/",
   "title": "The Real Cost of a Single Insert in Postgres",
@@ -165,6 +172,13 @@
   "blog_url": "https://auth0.com/blog/",
   "title": "A Developer's Guide to API Access Policies in Auth0",
   "link": "https://auth0.com/blog/developers-guide-api-access-policies-auth0/",
+  "published": "2026-09-11T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "[Webinar] Elevating customer engagement with WhatsApp",
+  "link": "https://www.twilio.com/en-us/blog/events/webinar-elevating-customer-engagement-with-WhatsApp",
   "published": "2026-09-11T00:00:00"
  },
  {
@@ -466,6 +480,34 @@
   "blog_url": "https://robots.thoughtbot.com/",
   "title": "5 easy, actionable tips for software development in healthcare",
   "link": "https://feed.thoughtbot.com/link/24077/17443867/5-easy-actionable-tips-for-software-development-in-healthcare",
+  "published": "2026-09-10T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Build a Voice AI Agent with OpenAI's GPT-Live, Twilio Agent Connect, and Python",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live-voice-ai-agent-python",
+  "published": "2026-09-10T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Build Voice AI Experiences with Twilio and GPT-Live-1 in the OpenAI API",
+  "link": "https://www.twilio.com/en-us/blog/developers/twilio-openai-gpt-live-1-api-resources",
+  "published": "2026-09-10T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "121+ Cyber Monday email subject line examples in 2026",
+  "link": "https://www.twilio.com/en-us/blog/insights/cyber-monday-email-subject-lines",
+  "published": "2026-09-10T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Build an AI Voice Assistant with Twilio Voice and Media Streams, OpenAI's GPT-Live API, and Node.js",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-assistant-openai-gpt-live-1-node",
   "published": "2026-09-10T00:00:00"
  },
  {
