@@ -70,6 +70,13 @@
   "published": "2026-09-12T00:00:00"
  },
  {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Connect Your Twilio Agent to External APIs in Python",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-twilio-agent-to-external-apis-python",
+  "published": "2026-09-12T00:00:00"
+ },
+ {
   "blog_name": "Timescale",
   "blog_url": "https://blog.timescale.com/",
   "title": "The Real Cost of a Single Insert in Postgres",
@@ -2420,6 +2427,13 @@
   "title": "Scratch a simple data model, find a complex one",
   "link": "https://codeblog.jonskeet.uk/2026/08/14/scratch-a-simple-data-model-find-a-complex-one/",
   "published": "2026-08-14T10:09:48"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas int8 overflow: Why small dtypes wrap around silently",
+  "link": "https://lernerpython.com/2026/08/14/pandas-int8-overflow-why-small-dtypes-wrap-around-silently/",
+  "published": "2026-08-14T06:00:00"
  },
  {
   "blog_name": "REA Group",
