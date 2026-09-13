@@ -1,5 +1,26 @@
 [
  {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "How I Used a Pinterest Board to Get Better Visual Results From Claude Design",
+  "link": "https://spin.atomicobject.com/pinterest-board-claude-design/",
+  "published": "2026-09-13T12:00:33"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Traditional Face Detection With Python",
+  "link": "https://realpython.com/quizzes/traditional-face-detection-python/",
+  "published": "2026-09-13T12:00:00"
+ },
+ {
+  "blog_name": "Codrops",
+  "blog_url": "https://tympanus.net/codrops/",
+  "title": "Building Depth: Designing and Developing a 3D Renderer Inside Figma",
+  "link": "https://tympanus.net/codrops/2026/09/13/building-depth-designing-and-developing-a-3d-renderer-inside-figma/",
+  "published": "2026-09-13T11:34:39"
+ },
+ {
   "blog_name": "Hayden James",
   "blog_url": "https://haydenjames.io/",
   "title": "Linux server performance: Is disk I/O slowing your application?",
@@ -2350,6 +2371,13 @@
   "title": "The benchmarkpocalypse",
   "link": "https://danluu.com/benchpocalypse/",
   "published": "2026-08-17T00:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "PyArrow dtypes in Pandas 3: Missing values without float conversion",
+  "link": "https://lernerpython.com/2026/08/16/pyarrow-dtypes-in-pandas-3-missing-values-without-float-conversion/",
+  "published": "2026-08-16T06:00:00"
  },
  {
   "blog_name": "MapTiler",
@@ -7642,6 +7670,13 @@
   "title": "Amazing Summer on ML Team, Search + Recommendation",
   "link": "https://medium.com/strava-engineering/amazing-summer-on-ml-team-search-recommendation-308223bb2b75?source=rss----89d4108ce2a3---4",
   "published": "2023-11-08T01:24:23"
+ },
+ {
+  "blog_name": "Rachel Kroll",
+  "blog_url": "https://rachelbythebay.com/w/",
+  "title": "Administrivia: HTML generation and my general clowniness",
+  "link": "https://rachelbythebay.com/w/2023/03/31/html/",
+  "published": "2023-10-12T19:43:55"
  },
  {
   "blog_name": "Joe Nelson",
