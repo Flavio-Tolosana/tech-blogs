@@ -1,5 +1,19 @@
 [
  {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Organiser une équipe de développement à l’ère de l’IA - Part III",
+  "link": "https://blog.octo.com/organiser-une-equipe-de-developpement-a-l'ere-de-l'ia-partie-iii",
+  "published": "2026-09-14T04:44:10"
+ },
+ {
+  "blog_name": "Thoughtbot",
+  "blog_url": "https://robots.thoughtbot.com/",
+  "title": "Client success starts before kickoff",
+  "link": "https://feed.thoughtbot.com/link/24077/17461100/client-success-starts-before-kickoff",
+  "published": "2026-09-14T00:00:00"
+ },
+ {
   "blog_name": "SitePoint",
   "blog_url": "https://sitepoint.com",
   "title": "Tailwind CSS v4 Migration: Decouple Vite and PostCSS Pipelines",
@@ -53,6 +67,13 @@
   "blog_url": "http://evanhahn.com/",
   "title": "Anecdotally, programmers dislike \"reduce\"",
   "link": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+  "published": "2026-09-13T00:00:00"
+ },
+ {
+  "blog_name": "Josh Sherman",
+  "blog_url": "https://joshtronic.com/",
+  "title": "New pic, who dis?",
+  "link": "https://joshtronic.com/2026/09/13/new-pic-who-dis/",
   "published": "2026-09-13T00:00:00"
  },
  {
@@ -2161,6 +2182,13 @@
   "title": "How Fuzz Testing for APIs Is Evolving",
   "link": "https://nordicapis.com/how-fuzz-testing-for-apis-is-evolving/",
   "published": "2026-08-21T07:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "PyArrow dtypes in Pandas aren’t always faster than NumPy",
+  "link": "https://lernerpython.com/2026/08/21/pyarrow-dtypes-in-pandas-arent-always-faster-than-numpy/",
+  "published": "2026-08-21T06:00:00"
  },
  {
   "blog_name": "Okta",
