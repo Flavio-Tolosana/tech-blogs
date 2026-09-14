@@ -1,5 +1,61 @@
 [
  {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "2 Changes Made Our Azure Durable Functions 3X Faster",
+  "link": "https://spin.atomicobject.com/azure-durable-functions-3x/",
+  "published": "2026-09-14T12:00:32"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Agentic Engineering in Python: From Vibes to Evidence",
+  "link": "https://realpython.com/quizzes/agentic-engineering/",
+  "published": "2026-09-14T12:00:00"
+ },
+ {
+  "blog_name": "Codrops",
+  "blog_url": "https://tympanus.net/codrops/",
+  "title": "Making the Internet a Bit Less Sh*t: Inside Resn’s Digital Experiences",
+  "link": "https://tympanus.net/codrops/2026/09/14/inside-resns-digital-experiences/",
+  "published": "2026-09-14T11:30:10"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Inside Hostinger’s AI-first approach: What the agentic AI era means for businesses",
+  "link": "https://www.hostinger.com/blog/inside-hostingers-ai-first-approach/",
+  "published": "2026-09-14T10:27:03"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Sécuriser ses agents IA : guide de défense en profondeur pour vos systèmes de production",
+  "link": "https://blog.octo.com/securiser-ses-agents-ia--guide-de-defense-en-profondeur-pour-vos-systemes-de-production",
+  "published": "2026-09-14T09:17:10"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Quand une partie de l'organisation accélère",
+  "link": "https://blog.octo.com/quand-une-partie-de-l'organisation-accelere",
+  "published": "2026-09-14T07:37:13"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: I Exist",
+  "link": "https://thedailywtf.com/articles/i-exist",
+  "published": "2026-09-14T06:30:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Serving AVIF, Working in JPG: A Developer's Guide to Living Between Image Formats",
+  "link": "https://www.sitepoint.com/avif-jpg-image-format-workflow/?utm_source=rss",
+  "published": "2026-09-14T06:22:57"
+ },
+ {
   "blog_name": "OCTO Technology",
   "blog_url": "https://blog.octo.com/en/",
   "title": "Organiser une équipe de développement à l’ère de l’IA - Part III",
@@ -11,6 +67,13 @@
   "blog_url": "https://robots.thoughtbot.com/",
   "title": "Client success starts before kickoff",
   "link": "https://feed.thoughtbot.com/link/24077/17461100/client-success-starts-before-kickoff",
+  "published": "2026-09-14T00:00:00"
+ },
+ {
+  "blog_name": "MapTiler",
+  "blog_url": "https://www.maptiler.com/blog/",
+  "title": "MapTiler Land v4: High-Precision Alignment for Land and Water Boundaries",
+  "link": "https://www.maptiler.com/news/2026/09/maptiler-land-v4-high-precision-alignment-for-land-and-water-boundaries",
   "published": "2026-09-14T00:00:00"
  },
  {
@@ -1596,6 +1659,13 @@
   "published": "2026-09-02T07:00:00"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Mutable default arguments in Python: why `__defaults__` bites",
+  "link": "https://lernerpython.com/2026/09/02/mutable-default-arguments-in-python-why-defaults-bites/",
+  "published": "2026-09-02T06:00:00"
+ },
+ {
   "blog_name": "Evil Martians",
   "blog_url": "https://evilmartians.com/chronicles/",
   "title": "Why Gusto hired Evil Martians for Sidekiq infrastructure",
@@ -1839,6 +1909,13 @@
   "title": "Mollie and GoCardless combine to create Europe's leading payments and financial services partner",
   "link": "https://gocardless.com/blog/mollie-and-gocardless-combine",
   "published": "2026-08-28T15:24:21"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python generator frames: Inspecting locals with gi_frame",
+  "link": "https://lernerpython.com/2026/08/28/python-generator-frames-inspecting-locals-with-gi-frame/",
+  "published": "2026-08-28T06:00:00"
  },
  {
   "blog_name": "Eli Bendersky",
