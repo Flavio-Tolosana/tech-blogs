@@ -1,5 +1,117 @@
 [
  {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Announcing On-Demand State Repartitioning for Apache Spark™ Structured Streaming on Databricks",
+  "link": "https://www.databricks.com/blog/announcing-demand-state-repartitioning-apache-sparktm-structured-streaming-databricks",
+  "published": "2026-09-14T21:04:30"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Modeling LLM Context Costs and Tiered Pricing Beyond 200k Tokens",
+  "link": "https://www.sitepoint.com/modeling-llm-context-costs-tiered-pricing-beyond-200k-tokens/?utm_source=rss",
+  "published": "2026-09-14T20:10:25"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Build Hybrid Automated Code Review with Deterministic Rules and LLMs",
+  "link": "https://www.sitepoint.com/build-hybrid-automated-code-review-deterministic-rules-llms/?utm_source=rss",
+  "published": "2026-09-14T20:10:23"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Build an Edge Support Desk with Workers, D1, R2, and Queues",
+  "link": "https://www.sitepoint.com/build-edge-support-desk-workers-d1-r2-queues/?utm_source=rss",
+  "published": "2026-09-14T20:10:21"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Securing AI Agent Extensions with Signed Registries and AST Gates",
+  "link": "https://www.sitepoint.com/securing-ai-agent-extensions-signed-registries-ast-gates/?utm_source=rss",
+  "published": "2026-09-14T20:10:19"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Preventing AI Agent Context Poisoning with TypeScript HMAC Middleware",
+  "link": "https://www.sitepoint.com/preventing-ai-agent-context-poisoning-with-typescript-hmac-middleware/?utm_source=rss",
+  "published": "2026-09-14T20:10:18"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Hostinger weekly product updates: Week 37, 2026",
+  "link": "https://www.hostinger.com/blog/product-updates-week-37-2026/",
+  "published": "2026-09-14T19:39:20"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "Kodebits Day 92: Collection For Loop [FREE]",
+  "link": "https://www.kodeco.com/52032933-kodebits-day-92-collection-for-loop",
+  "published": "2026-09-14T18:00:05"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Share your .NET story with the community",
+  "link": "https://devblogs.microsoft.com/dotnet/share-your-dotnet-story/",
+  "published": "2026-09-14T17:05:00"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)",
+  "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/",
+  "published": "2026-09-14T15:56:33"
+ },
+ {
+  "blog_name": "Dean Hume",
+  "blog_url": "http://deanhume.com/",
+  "title": "What a Technical Program Manager actually does",
+  "link": "https://deanhume.com/what-a-technical-program-manager-actually-does/",
+  "published": "2026-09-14T15:54:31"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+  "link": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+  "published": "2026-09-14T15:00:52"
+ },
+ {
+  "blog_name": "Jerry Gamblin",
+  "blog_url": "https://jerrygamblin.com/",
+  "title": "RBP Tracker: Counting the CVE IDs the CVE List Cannot See",
+  "link": "https://jerrygamblin.com/2026/09/14/rbp-tracker-counting-the-cve-ids-the-cve-list-cannot-see/",
+  "published": "2026-09-14T14:16:42"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Why didn’t Read­Directory­ChangesW provide a way to correlate the two sides of a rename operation?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260914-00/?p=112696",
+  "published": "2026-09-14T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Agentic Engineering in Python: From Vibes to Evidence",
+  "link": "https://realpython.com/agentic-engineering/",
+  "published": "2026-09-14T14:00:00"
+ },
+ {
+  "blog_name": "SurveyMonkey",
+  "blog_url": "https://engineering.surveymonkey.com/",
+  "title": "The accessibility audit that lowkey turned into a visual identity refresh",
+  "link": "https://www.surveymonkey.com/curiosity/accessible-brand-indentity-refresh/?ut_source=rss",
+  "published": "2026-09-14T13:25:15"
+ },
+ {
   "blog_name": "Atomic Object",
   "blog_url": "https://spin.atomicobject.com/",
   "title": "2 Changes Made Our Azure Durable Functions 3X Faster",
@@ -42,6 +154,13 @@
   "published": "2026-09-14T07:37:13"
  },
  {
+  "blog_name": "Philip Walton",
+  "blog_url": "https://philipwalton.com/",
+  "title": "Modern Web Types",
+  "link": "https://philipwalton.com/articles/modern-web-types/",
+  "published": "2026-09-14T07:22:45"
+ },
+ {
   "blog_name": "The Daily WTF",
   "blog_url": "http://thedailywtf.com/",
   "title": "CodeSOD: I Exist",
@@ -63,6 +182,13 @@
   "published": "2026-09-14T04:44:10"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "PostgreSQL Monitoring and Schema Linting for Laravel with Vacuum",
+  "link": "https://laravel-news.com/vacuum-laravel-postgresql-monitoring?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-14T04:24:35"
+ },
+ {
   "blog_name": "Thoughtbot",
   "blog_url": "https://robots.thoughtbot.com/",
   "title": "Client success starts before kickoff",
@@ -75,6 +201,27 @@
   "title": "MapTiler Land v4: High-Precision Alignment for Land and Water Boundaries",
   "link": "https://www.maptiler.com/news/2026/09/maptiler-land-v4-high-precision-alignment-for-land-and-water-boundaries",
   "published": "2026-09-14T00:00:00"
+ },
+ {
+  "blog_name": "Jane Street",
+  "blog_url": "https://blogs.janestreet.com/category/ocaml/",
+  "title": "A study of sequence weighting at scale",
+  "link": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+  "published": "2026-09-14T00:00:00"
+ },
+ {
+  "blog_name": "Armin Ronacher",
+  "blog_url": "http://lucumr.pocoo.org/",
+  "title": "Interpreting Pangram",
+  "link": "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/",
+  "published": "2026-09-14T00:00:00"
+ },
+ {
+  "blog_name": "Dennis Felsing",
+  "blog_url": "https://hookrace.net/",
+  "title": "Staying in Taiyuan, China",
+  "link": "https://hookrace.net/blog/taiyuan/",
+  "published": "2026-09-13T22:00:00"
  },
  {
   "blog_name": "SitePoint",
@@ -266,6 +413,13 @@
   "published": "2026-09-11T16:26:25"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Building EasyReply: How We Used Laravel to Unify Customer Support",
+  "link": "https://laravel-news.com/easyreply-laravel-shared-inbox?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-11T16:06:51"
+ },
+ {
   "blog_name": "Ramon Fried",
   "blog_url": "https://nativeguru.wordpress.com/",
   "title": "Seven years of bitwise: a weekend project, a Hackernews front page, and the long road into Debian",
@@ -292,6 +446,13 @@
   "title": "Evolving Pinterest’s Embedding Retrieval Platform",
   "link": "https://medium.com/pinterest-engineering/evolving-pinterests-embedding-retrieval-platform-aede4e831e01?source=rss-ef81ef829bcb------2",
   "published": "2026-09-11T15:01:03"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "How can I remove the Close button from my window caption?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260911-00/?p=112691",
+  "published": "2026-09-11T14:00:00"
  },
  {
   "blog_name": "Cloudflare",
@@ -1323,6 +1484,13 @@
   "published": "2026-09-05T12:00:36"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python operator overloading: Implementing __add__ for +",
+  "link": "https://lernerpython.com/2026/09/05/python-operator-overloading-implementing-add-for/",
+  "published": "2026-09-05T06:00:00"
+ },
+ {
   "blog_name": "T.J. Maher",
   "blog_url": "http://adventuresinautomation.blogspot.com/",
   "title": "Testing the Swagger Petstore: Reviewing API Documentation Formatted in OpenAPI 3.0 with Swagger UI",
@@ -1426,6 +1594,13 @@
   "title": "Error'd: Good Time",
   "link": "https://thedailywtf.com/articles/good-time",
   "published": "2026-09-04T06:30:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python operator overloading: Why x + y and y + x give different errors",
+  "link": "https://lernerpython.com/2026/09/04/python-operator-overloading-why-x-y-and-y-x-give-different-errors/",
+  "published": "2026-09-04T06:00:00"
  },
  {
   "blog_name": "Thoughtbot",
@@ -7217,6 +7392,13 @@
   "published": "2024-09-10T08:00:00"
  },
  {
+  "blog_name": "Philip Walton",
+  "blog_url": "https://philipwalton.com/",
+  "title": "The State of ES5 on the Web",
+  "link": "https://philipwalton.com/articles/the-state-of-es5-on-the-web/",
+  "published": "2024-09-08T15:18:32"
+ },
+ {
   "blog_name": "Guardian",
   "blog_url": "https://www.theguardian.com/info/developer-blog",
   "title": "Day in the Life: Alex Guild",
@@ -8365,6 +8547,13 @@
   "published": "2022-12-31T19:36:56"
  },
  {
+  "blog_name": "Philip Walton",
+  "blog_url": "https://philipwalton.com/",
+  "title": "Dynamic LCP Priority: Learning from Past Visits",
+  "link": "https://philipwalton.com/articles/dynamic-lcp-priority/",
+  "published": "2022-12-28T20:43:44"
+ },
+ {
   "blog_name": "Alan Storm",
   "blog_url": "http://alanstorm.com/",
   "title": "Five Reasons Your PHP Application is Hard to Containerize for Production",
@@ -8918,6 +9107,13 @@
   "published": "2022-01-04T22:51:11"
  },
  {
+  "blog_name": "Philip Walton",
+  "blog_url": "https://philipwalton.com/",
+  "title": "Performant A/B Testing with Cloudflare Workers",
+  "link": "https://philipwalton.com/articles/performant-a-b-testing-with-cloudflare-workers/",
+  "published": "2021-12-20T14:01:14"
+ },
+ {
   "blog_name": "Josh Haberman",
   "blog_url": "http://blog.reverberate.org/",
   "title": "Arenas and Rust",
@@ -9042,6 +9238,13 @@
   "title": "Analyzing and Detecting a VMTools Persistence Technique",
   "link": "https://bohops.com/2021/10/08/analyzing-and-detecting-a-vmtools-persistence-technique/",
   "published": "2021-10-08T03:42:18"
+ },
+ {
+  "blog_name": "Philip Walton",
+  "blog_url": "https://philipwalton.com/",
+  "title": "My Challenge to the Web Performance Community",
+  "link": "https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/",
+  "published": "2021-10-06T07:18:38"
  },
  {
   "blog_name": "Stephen Colebourne",
