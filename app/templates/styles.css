@@ -54,11 +54,10 @@
     gap: 0.75rem;
     margin: 0 auto 2rem;
     max-width: 560px;
-    flex-wrap: wrap;
   }
   .search-box {
-    flex: 1;
-    min-width: 220px;
+    flex: 1 1 0;
+    min-width: 0;
     padding: 0.8rem 1.2rem;
     border: 1px solid #30363d;
     border-radius: 8px;
@@ -76,8 +75,10 @@
   .toolbar-btn {
     display: inline-flex;
     align-items: center;
+    justify-content: center;
+    flex: 1 1 0;
     gap: 0.4rem;
-    padding: 0 1.4rem;
+    padding: 0 1rem;
     border: 1px solid #30363d;
     border-radius: 8px;
     background: #21262d;
@@ -168,7 +169,7 @@
     background: #21262d;
     border: 1px solid #30363d;
     border-radius: 999px;
-    padding: 0.25rem 0.3rem 0.25rem 0.75rem;
+    padding: 0.25rem 0.85rem 0.25rem 0.75rem;
     transition: border-color 0.2s ease, box-shadow 0.2s ease;
   }
   .source-chip:hover {
@@ -330,9 +331,14 @@
   @media (max-width: 640px) {
     body { padding: 1rem; }
     h1 { font-size: 1.6rem; }
+    .filters-toolbar {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0.5rem;
+    }
+    .toolbar-btn { padding: 0.8rem 1rem; }
     .day-button { padding: 0.8rem 1rem; }
     .day-date { font-size: 1rem; }
     .post-card { flex-direction: column; gap: 0.3rem; }
     .post-time { min-width: auto; }
-    .toolbar-btn { padding: 0 1rem; }
   }
