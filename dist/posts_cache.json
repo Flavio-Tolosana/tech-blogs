@@ -1,10 +1,178 @@
 [
  {
+  "blog_name": "Airbnb",
+  "blog_url": "https://medium.com/airbnb-engineering",
+  "title": "Beyond the Model: Engineering AI Infra with Scientific Judgement",
+  "link": "https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss----53c7c27702d5---4",
+  "published": "2026-09-15T17:06:18"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+  "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+  "published": "2026-09-15T17:05:57"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
+  "link": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/",
+  "published": "2026-09-15T17:00:11"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+  "link": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+  "published": "2026-09-15T16:55:59"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+  "link": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+  "published": "2026-09-15T16:55:40"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
+  "link": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin/",
+  "published": "2026-09-15T16:55:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
+  "link": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/",
+  "published": "2026-09-15T16:55:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How energy teams turn theft detection into governed action with Genie and AI business processes",
+  "link": "https://www.databricks.com/blog/how-energy-teams-turn-theft-detection-governed-action-genie-and-ai-business-processes",
+  "published": "2026-09-15T16:50:00"
+ },
+ {
+  "blog_name": "Confluent",
+  "blog_url": "https://www.confluent.io/blog",
+  "title": "Third-Party Risk Assessments | How Confluent Helps You Move Faster with Confidence",
+  "link": "https://www.confluent.io/blog/third-party-risk-assessments-or-how-confluent-helps-you-move-faster-with-confidence/",
+  "published": "2026-09-15T16:40:06"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Le Context Engineering pour les Product people",
+  "link": "https://blog.octo.com/le-context-engineering-pour-les-product-people",
+  "published": "2026-09-15T16:39:10"
+ },
+ {
+  "blog_name": "Whatnot Engineering",
+  "blog_url": "https://medium.com/whatnot-engineering",
+  "title": "All Dashboards Green, All Screens Black",
+  "link": "https://medium.com/whatnot-engineering/all-dashboards-green-all-screens-black-bcdb4a175633?source=rss----162aeca881b0---4",
+  "published": "2026-09-15T16:31:01"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
+  "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/",
+  "published": "2026-09-15T16:18:19"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
+  "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/",
+  "published": "2026-09-15T16:11:36"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Announcing instance preference lists for Amazon SageMaker AI training jobs",
+  "link": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/",
+  "published": "2026-09-15T16:01:47"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Your Agent Aced the Task. Will It Do It Again?",
+  "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+  "published": "2026-09-15T16:00:44"
+ },
+ {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Simplifying Terraform for IBM Z with intent-driven workflows",
+  "link": "https://www.hashicorp.com/blog/simplifying-terraform-for-ibm-z-with-intent-driven-workflows",
+  "published": "2026-09-15T16:00:00"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Nail the Narrative",
+  "link": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
+  "published": "2026-09-15T15:11:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE",
+  "link": "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare/",
+  "published": "2026-09-15T15:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Cops Searched Thousands of Flock Cameras for Reasons of 'LMAO,' 'IDK,' 'Hehe,' And 'Asdfg'",
+  "link": "https://yro.slashdot.org/story/26/09/15/0032227/cops-searched-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-15T14:34:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laravel MCP 1.0 Is Released",
+  "link": "https://laravel-news.com/laravel-mcp-1-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-15T14:27:51"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Automating EDA With fg-data-profiling",
+  "link": "https://realpython.com/courses/automating-eda-with-fg-data-profiling/",
+  "published": "2026-09-15T14:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Introducing ClickHouse's new TimeSeries Engine: Your drop-In Prometheus replacement",
+  "link": "https://clickhouse.com/blog/introducing-promql",
+  "published": "2026-09-15T14:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laravel Vet: Review Composer Code Before It Installs",
+  "link": "https://laravel-news.com/laravel-vet?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-15T13:33:11"
+ },
+ {
   "blog_name": "Red Hat",
   "blog_url": "https://developers.redhat.com/blog/",
   "title": "Red Hat Developer Hub: Preventing compliance violations with AI coding agents",
   "link": "https://developers.redhat.com/articles/2026/09/15/red-hat-developer-hub-preventing-compliance-violations-ai-coding-agents",
   "published": "2026-09-15T13:17:13"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Replica-aware routing public beta",
+  "link": "https://clickhouse.com/blog/replica-aware-routing-public-beta",
+  "published": "2026-09-15T13:15:00"
  },
  {
   "blog_name": "Cloudflare",
@@ -119,6 +287,13 @@
   "published": "2026-09-15T07:00:00"
  },
  {
+  "blog_name": "Confluent",
+  "blog_url": "https://www.confluent.io/blog",
+  "title": "Aiven, Confluent, Redpanda, StreamNative and Ververica Form Streamhouse Working Group",
+  "link": "https://www.confluent.io/blog/aiven-confluent-redpanda-streamnative-and-ververica-form-streamhouse-working-group/",
+  "published": "2026-09-15T07:00:00"
+ },
+ {
   "blog_name": "SitePoint",
   "blog_url": "https://sitepoint.com",
   "title": "8 Keyword Research Tools Compared by API and Automation (2026)",
@@ -175,6 +350,13 @@
   "published": "2026-09-15T00:44:32"
  },
  {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How Databricks’ marketers use data 3x more with Genie, an AI analytics assistant",
+  "link": "https://www.databricks.com/blog/databricks-marketers-use-data-3x-genie-ai-analytics-assistant",
+  "published": "2026-09-15T00:36:33"
+ },
+ {
   "blog_name": "Ruby-lang",
   "blog_url": "https://www.ruby-lang.org/en/news/",
   "title": "Ruby 4.0.7 Released",
@@ -186,6 +368,41 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Native Drag and Drop Meets Cross-Device Continuity",
   "link": "https://www.codenameone.com/blog/continuity-restoring-work/",
+  "published": "2026-09-15T00:00:00"
+ },
+ {
+  "blog_name": "Evil Martians",
+  "blog_url": "https://evilmartians.com/chronicles/",
+  "title": "Rails Hyperdrive: supercharged agentic development for Rails",
+  "link": "https://evilmartians.com/chronicles/rails-hyperdrive-supercharged-agentic-development-for-rails",
+  "published": "2026-09-15T00:00:00"
+ },
+ {
+  "blog_name": "Stripe",
+  "blog_url": "https://stripe.com/blog",
+  "title": "What Stripe data shows about fraud at AI startups",
+  "link": "https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups",
+  "published": "2026-09-15T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "The only perfect Endpoint Prevention and Response (EPR) score in 2026 belongs to Elastic",
+  "link": "https://www.elastic.co/blog/av-comparatives-epr-test-2026",
+  "published": "2026-09-15T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Gemini 3.8 Live models now available on AI Gateway",
+  "link": "https://vercel.com/changelog/gemini-3-8-live-models-now-available-on-ai-gateway",
+  "published": "2026-09-15T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "How to operate shared platforms safely at agent scale",
+  "link": "https://www.datadoghq.com/blog/operating-shared-platforms-agent-scale/",
   "published": "2026-09-15T00:00:00"
  },
  {
@@ -481,6 +698,13 @@
   "title": "Modern Web Types",
   "link": "https://philipwalton.com/articles/modern-web-types/",
   "published": "2026-09-14T07:22:45"
+ },
+ {
+  "blog_name": "Confluent",
+  "blog_url": "https://www.confluent.io/blog",
+  "title": "KCP: How to Migrate to Confluent Cloud in Days, Not Weeks",
+  "link": "https://www.confluent.io/blog/automate-kafka-migration-with-kcp/",
+  "published": "2026-09-14T07:00:00"
  },
  {
   "blog_name": "The Daily WTF",
@@ -1068,6 +1292,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Vercel Sandbox now provides 64 GB of storage",
   "link": "https://vercel.com/changelog/vercel-sandbox-64-gb-storage",
+  "published": "2026-09-11T06:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python | operator: Bitwise or and dict merging with __or__",
+  "link": "https://lernerpython.com/2026/09/11/python-operator-bitwise-or-and-dict-merging-with-or/",
   "published": "2026-09-11T06:00:00"
  },
  {
@@ -2688,6 +2919,13 @@
   "published": "2026-09-03T18:00:00"
  },
  {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Introducing HCP Terraform Metrics: operational visibility at scale",
+  "link": "https://www.hashicorp.com/blog/introducing-hcp-terraform-metrics-operational-visibility-at-scale",
+  "published": "2026-09-03T18:00:00"
+ },
+ {
   "blog_name": "Microsoft Edge",
   "blog_url": "https://blogs.windows.com/msedgedev/",
   "title": "Calling for Interop 2027 proposals",
@@ -4001,6 +4239,13 @@
   "blog_url": "https://engineeringblog.yelp.com/",
   "title": "Building Menu Vision: Real-Time Dish Recognition",
   "link": "https://engineeringblog.yelp.com/2026/08/building-menu-vision-real-time-dish-recognition.html",
+  "published": "2026-08-20T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "The search multiplier: Driving revenue, productivity, and AI at scale",
+  "link": "https://www.elastic.co/blog/the-search-multiplier",
   "published": "2026-08-20T00:00:00"
  },
  {
