@@ -1,5 +1,19 @@
 [
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Scientists Discover Mysterious New X-Ray Objects 'Unlike Any They Have Seen Before'",
+  "link": "https://science.slashdot.org/story/26/09/12/189245/scientists-discover-mysterious-new-x-ray-objects-unlike-any-they-have-seen-before?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-15T19:04:00"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "Kodebits Day 93: Default Parameter [FREE]",
+  "link": "https://www.kodeco.com/52032936-kodebits-day-93-default-parameter",
+  "published": "2026-09-15T18:00:07"
+ },
+ {
   "blog_name": "Airbnb",
   "blog_url": "https://medium.com/airbnb-engineering",
   "title": "Beyond the Model: Engineering AI Infra with Scientific Judgement",
@@ -329,6 +343,13 @@
   "published": "2026-09-15T04:00:00"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "How Delphi ships 100 times a day with its Python backend on Vercel",
+  "link": "https://vercel.com/blog/how-delphi-ships-100-times-a-day-with-its-python-backend-on-vercel",
+  "published": "2026-09-15T04:00:00"
+ },
+ {
   "blog_name": "Laravel",
   "blog_url": "https://laravel-news.com/blog/",
   "title": "What's New in PHP 8.6",
@@ -410,6 +431,34 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Monitor TAS and gang scheduling for AI training in Kubernetes",
   "link": "https://www.datadoghq.com/blog/monitor-tas-and-gang-scheduling-for-ai-training-in-kubernetes/",
+  "published": "2026-09-15T00:00:00"
+ },
+ {
+  "blog_name": "Jonathan Snook",
+  "blog_url": "https://snook.ca/",
+  "title": "Reminder of Things",
+  "link": "https://snook.ca/everything/reminder-of-things/",
+  "published": "2026-09-15T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Stack 9.4.7 released",
+  "link": "https://www.elastic.co/blog/elastic-stack-9-4-7-released",
+  "published": "2026-09-15T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Stack 9.5.4 released",
+  "link": "https://www.elastic.co/blog/elastic-stack-9-5-4-released",
+  "published": "2026-09-15T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Manage Cursor costs with Datadog Cloud Cost Management",
+  "link": "https://www.datadoghq.com/blog/cursor-cloud-cost-management/",
   "published": "2026-09-15T00:00:00"
  },
  {
