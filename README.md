@@ -17,13 +17,20 @@ cd tech-blogs
 `fetch_local.sh` hace lo siguiente:
 
 1. Comprueba si existe `.venv`; si no, lo crea e instala las dependencias de `app/requirements.txt`.
-2. Ejecuta `app/fetch_blogs.py --local` con el Python del `.venv`.
+2. Ejecuta `python -m app --local`.
 3. Genera `index.html`, `posts_cache.json` y `opml/` en la raíz de `tech-blogs`.
 
 Para usar el modo contenedor (variable de entorno `OUTPUT_DIR`):
 
 ```bash
-OUTPUT_DIR=/ruta/salida .venv/bin/python app/fetch_blogs.py
+OUTPUT_DIR=/ruta/salida .venv/bin/python -m app
+```
+
+## Tests
+
+```bash
+.venv/bin/pip install -r app/requirements-dev.txt
+.venv/bin/python -m pytest tests/
 ```
 
 ## Ejecución en servidor (homelab)
@@ -74,9 +81,21 @@ nunca dispara la pipeline de DockerHub, y los cambios de código en `app/` nunca
 ```
 tech-blogs/
 ├── app/
-│   ├── fetch_blogs.py      # script principal (modo contenedor y modo --local)
+│   ├── __main__.py         # entry point (python -m app)
+│   ├── cli.py              # parsing de args y orquestación
+│   ├── config.py           # Config dataclass y constantes
+│   ├── opml.py             # descarga, parseo y merge de OPMLs
+│   ├── feed.py             # fetching de feeds RSS (concurrente)
+│   ├── cache.py            # caché JSON incremental
+│   ├── html_generator.py   # generación del HTML desde template
+│   ├── templates/
+│   │   └── page.html       # template HTML/CSS/JS
+│   ├── fetch_blogs.py      # entry point compatible (Docker/scripts)
 │   ├── requirements.txt
-│   └── Dockerfile
+│   ├── requirements-dev.txt
+│   ├── Dockerfile
+│   └── .dockerignore
+├── tests/                  # pytest (ops, feeds, caché, HTML, CLI)
 ├── compose.yml             # servicio one-shot (monta directorio de salida)
 ├── .env.example            # rutas e imagen configurables
 ├── scripts/

@@ -27,4 +27,5 @@ fi
 
 PYTHON="$REPO_ROOT/.venv/bin/python"
 
-exec "$PYTHON" "$REPO_ROOT/app/fetch_blogs.py" --local
+cd "$REPO_ROOT"
+exec "$PYTHON" -m app --local
