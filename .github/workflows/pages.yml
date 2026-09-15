@@ -5,6 +5,7 @@ on:
     branches: [main, master]
     paths:
       - "dist/index.html"
+      - "dist/sources.html"
   workflow_dispatch:
 
 permissions:
@@ -27,6 +28,7 @@ jobs:
         run: |
           mkdir -p _site
           cp dist/index.html _site/index.html
+          cp dist/sources.html _site/sources.html
 
       - name: Subir artefacto
         uses: actions/upload-pages-artifact@v5
