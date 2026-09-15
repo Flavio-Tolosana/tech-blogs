@@ -2,7 +2,14 @@
 
 from __future__ import annotations
 
-from app.html_generator import generate_html, group_by_day, render_day_section, render_post_card
+from app.html_generator import (
+    generate_html,
+    get_unique_sources,
+    group_by_day,
+    render_day_section,
+    render_post_card,
+    render_sources_section,
+)
 
 POSTS = [
     {
@@ -88,3 +95,40 @@ def test_generate_html_handles_empty_posts(tmp_config):
 def test_template_has_no_remaining_placeholders(tmp_config):
     html = generate_html(POSTS, tmp_config.template_dir, updated_at="2025-09-16 20:05")
     assert "${" not in html
+
+
+def test_get_unique_sources_deduplicates():
+    sources = get_unique_sources(POSTS + [POSTS[0]])
+    assert [s["name"] for s in sources] == ["Blog A", "Blog B", "Blog C"]
+    assert sources[0]["url"] == "https://a.example"
+
+
+def test_get_unique_sources_skips_missing_name():
+    posts = [dict(POSTS[0], blog_name=None), {"blog_name": "", "blog_url": ""}]
+    assert get_unique_sources(posts) == []
+
+
+def test_render_sources_section_contains_chips():
+    html = render_sources_section(get_unique_sources(POSTS))
+    assert "Orígenes de recursos" in html
+    assert "source-chip" in html
+    assert "Blog A" in html
+    assert 'onclick="toggleFavorite(this)"' in html
+    assert 'data-name="Blog A"' in html
+
+
+def test_render_sources_section_empty():
+    assert render_sources_section([]) == ""
+
+
+def test_render_sources_section_escapes_names():
+    sources = [{"name": '<b>A</b>', "url": "https://x.example"}]
+    html = render_sources_section(sources)
+    assert "<b>A</b>" not in html
+    assert "&lt;b&gt;A&lt;/b&gt;" in html
+
+
+def test_generate_html_may_include_sources_section(tmp_config):
+    html = generate_html([POSTS[0], POSTS[1]], tmp_config.template_dir, updated_at="2025-09-16 20:05")
+    assert 'id="sources"' in html
+    assert 'data-blog="Blog A"' in html

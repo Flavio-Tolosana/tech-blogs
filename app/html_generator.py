@@ -34,13 +34,52 @@ def render_post_card(post: dict) -> str:
     time_str = published[11:16] if len(published) > 16 else ""
 
     return f'''
-            <div class="post-card">
+            <div class="post-card" data-blog="{html.escape(post["blog_name"], quote=True)}">
               <div class="post-time">{time_str}</div>
               <div class="post-info">
                 <a href="{link}" target="_blank" class="post-title">{title}</a>
                 <a href="{blog_url}" target="_blank" class="post-blog">{blog_name}</a>
               </div>
             </div>'''
+
+
+def get_unique_sources(posts: list[dict]) -> list[dict]:
+    """Return deduplicated blog sources (name, url) preserving first-seen order."""
+    seen: set[str] = set()
+    sources: list[dict[str, str]] = []
+    for p in posts:
+        name = p.get("blog_name") or ""
+        if not name or name in seen:
+            continue
+        seen.add(name)
+        sources.append({"name": name, "url": p.get("blog_url") or ""})
+    return sources
+
+
+def render_sources_section(sources: list[dict]) -> str:
+    """Render the interactive sources section with favorite stars."""
+    if not sources:
+        return ""
+
+    items = "".join(
+        f'''
+            <div class="source-chip">
+              <button type="button" class="source-star" data-name="{html.escape(s['name'], quote=True)}" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar {html.escape(s['name'])} como favorito">&#9734;</button>
+              <a href="{html.escape(s['url'])}" target="_blank" rel="noopener" class="source-name" title="{html.escape(s['name'])}">{html.escape(s['name'])}</a>
+            </div>'''
+        for s in sources
+    )
+
+    return f'''
+    <section class="sources-section" id="sources">
+      <div class="sources-header">
+        <h2>&#128203; Orígenes de recursos</h2>
+        <span class="sources-count">{len(sources)}</span>
+      </div>
+      <div class="sources-grid">
+        {items}
+      </div>
+    </section>'''
 
 
 def render_day_section(date_str: str, day_posts: list[dict]) -> str:
@@ -78,6 +117,7 @@ def generate_html(
     total_posts = len(posts)
     total_days = len(days)
     footer_count = f"{total_posts} posts en {total_days} días"
+    sources_section = render_sources_section(get_unique_sources(posts))
 
     template = load_template(template_dir)
     return string.Template(template).substitute(
@@ -86,5 +126,6 @@ def generate_html(
         total_posts=str(total_posts),
         total_days=str(total_days),
         day_sections=day_sections,
+        sources_section=sources_section,
         footer_count=footer_count,
     )

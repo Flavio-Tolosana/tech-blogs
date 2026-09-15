@@ -1,5 +1,33 @@
 [
  {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Your Coding Agent Should be in Jail. Here’s Why and How.",
+  "link": "https://spin.atomicobject.com/coding-agent-in-jail/",
+  "published": "2026-09-15T12:00:11"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "The most important skill for making money with AI",
+  "link": "https://www.hostinger.com/blog/most-important-skill-make-money-with-ai/",
+  "published": "2026-09-15T09:36:49"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "How three different businesses are getting ready for Black Friday",
+  "link": "https://www.hostinger.com/blog/black-friday-preparation/",
+  "published": "2026-09-15T09:25:36"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+  "link": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+  "published": "2026-09-15T09:00:42"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "AI, JD, and other letters of the law",
@@ -68,6 +96,13 @@
   "title": "Native Drag and Drop Meets Cross-Device Continuity",
   "link": "https://www.codenameone.com/blog/continuity-restoring-work/",
   "published": "2026-09-15T00:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Managed Postgres: What Lakebase Actually Takes Off Your Plate",
+  "link": "https://www.databricks.com/blog/managed-postgres",
+  "published": "2026-09-14T23:36:59"
  },
  {
   "blog_name": "Capgemini",
