@@ -1,5 +1,26 @@
 [
  {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Red Hat Developer Hub: Preventing compliance violations with AI coding agents",
+  "link": "https://developers.redhat.com/articles/2026/09/15/red-hat-developer-hub-preventing-compliance-violations-ai-coding-agents",
+  "published": "2026-09-15T13:17:13"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Have it both ways: stay discoverable in search while disallowing AI training",
+  "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+  "published": "2026-09-15T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Give every teammate and agent the right level of access to your Workers",
+  "link": "https://blog.cloudflare.com/workers-granular-authorization/",
+  "published": "2026-09-15T13:00:00"
+ },
+ {
   "blog_name": "Daniel Lemire",
   "blog_url": "https://lemire.me/blog/",
   "title": "Subnormal floating-point numbers are expensive… on Intel processors",
@@ -124,6 +145,20 @@
   "title": "ChatGPT-Using Lawyer Cited Its Fake Witnesses and Police Testimony in Court",
   "link": "https://slashdot.org/story/26/09/14/0611201/chatgpt-using-lawyer-cited-its-fake-witnesses-and-police-testimony-in-court?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-09-15T05:34:00"
+ },
+ {
+  "blog_name": "Snyk",
+  "blog_url": "https://snyk.io/blog",
+  "title": "The AI Hurricane Is Here",
+  "link": "https://snyk.io/blog/ai-hurricane-is-here/",
+  "published": "2026-09-15T04:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "What's New in PHP 8.6",
+  "link": "https://laravel-news.com/php-8-6?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-15T03:00:09"
  },
  {
   "blog_name": "Slashdot",
