@@ -1,5 +1,19 @@
 [
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "AI, JD, and other letters of the law",
+  "link": "https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/",
+  "published": "2026-09-15T07:40:00"
+ },
+ {
+  "blog_name": "Michael Crump",
+  "blog_url": "https://michaelcrump.net/",
+  "title": "DevRel Field Notes: Build Review Into the Work",
+  "link": "https://www.michaelcrump.net/posts/devrel-field-notes-build-review-into-the-work/",
+  "published": "2026-09-15T00:44:32"
+ },
+ {
   "blog_name": "Databricks",
   "blog_url": "https://databricks.com/blog",
   "title": "Announcing On-Demand State Repartitioning for Apache Spark™ Structured Streaming on Databricks",
@@ -1260,6 +1274,13 @@
   "published": "2026-09-08T06:30:00"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python’s __radd__: How reflected operators handle 5 + x",
+  "link": "https://lernerpython.com/2026/09/08/pythons-radd-how-reflected-operators-handle-5-x/",
+  "published": "2026-09-08T06:00:00"
+ },
+ {
   "blog_name": "Jessie Frazelle",
   "blog_url": "https://blog.jessfraz.com/",
   "title": "Home Hardware, Part 1: My Control4 Revenge Arc",
@@ -1468,6 +1489,13 @@
   "title": "Weekly Wacky Question: What Constitutes a Meal? What Constitutes an Active User?",
   "link": "https://spin.atomicobject.com/weekly-wacky-question/",
   "published": "2026-09-06T12:00:48"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python `__add__`: Return a new instance, not an int",
+  "link": "https://lernerpython.com/2026/09/06/python-add-return-a-new-instance-not-an-int/",
+  "published": "2026-09-06T06:00:00"
  },
  {
   "blog_name": "Josh Sherman",
