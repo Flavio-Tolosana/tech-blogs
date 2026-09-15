@@ -5,9 +5,7 @@ services:
     restart: "no"
     environment:
       TZ: ${TZ:-Europe/Madrid}
-      OPML_FILE: /opml/engineering_blogs.opml
       OUTPUT_DIR: /data
     volumes:
-      - ${ENGINEERING_BLOGS_DIR}:/opml:ro
       - ${TECH_BLOGS_DIR}:/data
     # Ejecuta el script una vez (entrypoint del Dockerfile) y el contenedor sale solo

@@ -6,3 +6,6 @@ __pycache__/
 
 # pathlib __pycache__
 app/__pycache__/
+
+# OPML intermedios (el mergeado se versiona)
+opml/download_*.opml

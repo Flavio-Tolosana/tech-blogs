@@ -2,12 +2,10 @@
 #
 # Ejecuta fetch_blogs.py en local:
 #   - Crea el .venv si no existe e instala las dependencias
-#   - Salida (index.html y posts_cache.json) en la raíz de tech-blogs
-#   - El OPML se pasa por línea de comandos
+#   - Salida (index.html, posts_cache.json y opml/) en la raíz de tech-blogs
 #
 # Uso:
-#   ./scripts/fetch_local.sh [ruta/a/engineering_blogs.opml]
-#   ./scripts/fetch_local.sh /home/usuario/engineering-blogs/engineering_blogs.opml
+#   ./scripts/fetch_local.sh
 #
 set -euo pipefail
 
@@ -29,13 +27,4 @@ fi
 
 PYTHON="$REPO_ROOT/.venv/bin/python"
 
-# Por defecto: repositorio hermano engineering-blogs
-OPML="${1:-$REPO_ROOT/../engineering-blogs/engineering_blogs.opml}"
-
-if [[ ! -f "$OPML" ]]; then
-  echo "ERROR: no existe el fichero OPML: $OPML" >&2
-  echo "Uso: $0 [ruta/a/engineering_blogs.opml]" >&2
-  exit 1
-fi
-
-exec "$PYTHON" "$REPO_ROOT/app/fetch_blogs.py" --local --opml "$OPML"
+exec "$PYTHON" "$REPO_ROOT/app/fetch_blogs.py" --local

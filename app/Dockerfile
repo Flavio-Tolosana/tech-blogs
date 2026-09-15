@@ -11,7 +11,6 @@ COPY fetch_blogs.py .
 RUN useradd --create-home --uid 1000 appuser
 USER appuser
 
-ENV OPML_FILE=/opml/engineering_blogs.opml
 ENV OUTPUT_DIR=/data
 
 ENTRYPOINT ["python", "fetch_blogs.py"]

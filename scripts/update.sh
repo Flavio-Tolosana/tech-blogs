@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 #
 # Actualiza los blogs de ingeniería:
-#   1. git pull de engineering-blogs (renueva engineering_blogs.opml)
+#   1. git pull de tech-blogs (sincronizar antes de generar)
 #   2. docker compose pull & up  (one-shot: ejecuta el script y el contenedor sale solo)
-#   3. commit + push del index.html y posts_cache.json generados
+#   3. commit + push del index.html, posts_cache.json y opml/ generados
 #
 # Requiere un fichero .env en la raíz del repo (ver .env.example).
 #
@@ -35,25 +35,21 @@ set -a
 source "$ENV_FILE"
 set +a
 
-: "${ENGINEERING_BLOGS_DIR:?Falta ENGINEERING_BLOGS_DIR en .env}"
 : "${TECH_BLOGS_DIR:?Falta TECH_BLOGS_DIR en .env}"
 : "${IMAGE_NAME:?Falta IMAGE_NAME en .env}"
 
 COMPOSE="docker compose --env-file $ENV_FILE -f $REPO_ROOT/compose.yml"
 
-log "==> [1/5] git pull de engineering-blogs"
-git -C "$ENGINEERING_BLOGS_DIR" pull --ff-only
-
-log "==> [2/5] git pull de tech-blogs (sincronizar antes de generar)"
+log "==> [1/4] git pull de tech-blogs (sincronizar antes de generar)"
 git -C "$TECH_BLOGS_DIR" pull --ff-only
 
-log "==> [3/5] docker compose pull + up (one-shot)"
+log "==> [2/4] docker compose pull + up (one-shot)"
 $COMPOSE pull
 $COMPOSE up
 
-log "==> [4/5] commit + push de los archivos generados"
+log "==> [3/4] commit + push de los archivos generados"
 cd "$TECH_BLOGS_DIR"
-git add index.html posts_cache.json
+git add index.html posts_cache.json opml/
 if git diff --cached --quiet; then
   log "    Sin cambios detectados. Nada que pushear."
 else

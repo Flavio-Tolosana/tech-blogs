@@ -2,9 +2,12 @@
 """
 Fetch engineering blog RSS feeds and generate a static HTML page.
 Uses a JSON cache to accumulate posts across runs (incremental).
+Downloads and merges multiple OPML sources.
 """
 
 import argparse
+import hashlib
+import io
 import json
 import os
 import xml.etree.ElementTree as ET
@@ -20,14 +23,27 @@ MAX_WORKERS = 25  # max concurrent RSS fetches
 
 REPO_ROOT = Path(__file__).parent.parent
 
+OPML_SOURCES = [
+    {
+        "url": "https://raw.githubusercontent.com/kilimchoi/engineering-blogs/master/engineering_blogs.opml",
+        "filename": "download_1.opml",
+    },
+    {
+        "url": "https://engineeringblogs.xyz/engblogs.opml",
+        "filename": "download_2.opml",
+    },
+]
+
+MERGED_FILENAME = "engineering_blogs.opml"
+
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="fetch_blogs",
-        description="Genera index.html a partir de engineering_blogs.opml.",
+        description="Genera index.html a partir de OPMLs descargados y mergeados.",
         epilog=(
-            "Modo contenedor (por defecto): usa las variables de entorno "
-            "OPML_FILE y OUTPUT_DIR.  Modo local: usa --local."
+            "Modo contenedor (por defecto): usa la variable de entorno OUTPUT_DIR. "
+            "Modo local: usa --local."
         ),
     )
     parser.add_argument(
@@ -35,43 +51,61 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="Ejecutar en local: la salida se escribe en la raíz de tech-blogs.",
     )
-    parser.add_argument(
-        "--opml",
-        help="Ruta al fichero engineering_blogs.opml. "
-        "En --local, por defecto usa ../engineering-blogs/engineering_blogs.opml.",
-    )
-    parser.add_argument(
-        "--output",
-        help="Directorio de salida para index.html y posts_cache.json "
-        "(en --local, por defecto la raíz de tech-blogs).",
-    )
     return parser
 
 
 def resolve_paths() -> tuple[Path, Path]:
     """Devuelve (opml_file, output_dir) según el modo de ejecución."""
     args = build_parser().parse_args()
-    default_opml = REPO_ROOT.parent / "engineering-blogs" / "engineering_blogs.opml"
 
     if args.local:
-        output_dir = Path(args.output) if args.output else REPO_ROOT
-        opml = Path(args.opml) if args.opml else default_opml
+        output_dir = REPO_ROOT
     else:
-        # Modo contenedor: rutas absolutas vía variables de entorno
-        opml = Path(os.environ.get("OPML_FILE", default_opml))
         output_dir = Path(os.environ.get("OUTPUT_DIR", REPO_ROOT))
+
+    opml = output_dir / "opml" / MERGED_FILENAME
+
     return opml, output_dir
 
 
 OPML_FILE, OUTPUT_DIR = resolve_paths()
 OUTPUT_FILE = OUTPUT_DIR / "index.html"
 CACHE_FILE = OUTPUT_DIR / "posts_cache.json"
+OPML_DIR = OUTPUT_DIR / "opml"
 
 
-def parse_opml(path: Path) -> list[dict]:
-    tree = ET.parse(path)
+def download_opml(url: str, dest: Path) -> None:
+    """Descarga un OPML desde una URL y lo guarda en dest."""
+    req = urllib.request.Request(
+        url,
+        headers={"User-Agent": "EngineeringBlogsAggregator/1.0"},
+    )
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        dest.write_bytes(resp.read())
+
+
+def download_all_opmls() -> dict[str, Path]:
+    """Descarga todas las fuentes OPML y devuelve {filename: path}."""
+    OPML_DIR.mkdir(parents=True, exist_ok=True)
+    downloaded = {}
+    for i, source in enumerate(OPML_SOURCES, 1):
+        dest = OPML_DIR / source["filename"]
+        print(f"Descargando OPML {i}/{len(OPML_SOURCES)}: {source['url']}", flush=True)
+        try:
+            download_opml(source["url"], dest)
+            downloaded[source["filename"]] = dest
+        except Exception as e:
+            print(f"  Error descargando {source['url']}: {e}", flush=True)
+    return downloaded
+
+
+def parse_opml(data: Path | bytes) -> list[dict]:
+    if isinstance(data, bytes):
+        root = ET.fromstring(data)
+    else:
+        root = ET.parse(data).getroot()
     blogs = []
-    for outline in tree.iter("outline"):
+    for outline in root.iter("outline"):
         xml_url = outline.get("xmlUrl")
         if xml_url:
             blogs.append({
@@ -80,6 +114,79 @@ def parse_opml(path: Path) -> list[dict]:
                 "xml_url": xml_url,
             })
     return blogs
+
+
+def merge_opmls_bytes(opml_paths: list[Path]) -> bytes:
+    """Mergea múltiples OPMLs deduplicando por xmlUrl.
+    Devuelve el XML resultante como bytes, sin escribir a disco."""
+    seen_xml_urls: set[str] = set()
+    merged_blogs: list[dict] = []
+
+    for path in opml_paths:
+        blogs = parse_opml(path)
+        for blog in blogs:
+            if blog["xml_url"] not in seen_xml_urls:
+                seen_xml_urls.add(blog["xml_url"])
+                merged_blogs.append(blog)
+
+    # Construir XML
+    opml = ET.Element("opml", version="2.0")
+    head = ET.SubElement(opml, "head")
+    ET.SubElement(head, "title").text = "Engineering Blogs"
+    body = ET.SubElement(opml, "body")
+    outline = ET.SubElement(body, "outline", text="Engineering Blogs")
+
+    for blog in merged_blogs:
+        ET.SubElement(
+            outline,
+            "outline",
+            type="rss",
+            text=blog["name"],
+            htmlUrl=blog["html_url"],
+            xmlUrl=blog["xml_url"],
+        )
+
+    ET.indent(opml, space="  ")
+    buf = io.BytesIO()
+    ET.ElementTree(opml).write(buf, encoding="utf-8", xml_declaration=True)
+    return buf.getvalue()
+
+
+def sha256_hex(data: bytes) -> str:
+    """Devuelve el hash SHA-256 de unos bytes."""
+    return hashlib.sha256(data).hexdigest()
+
+
+def ensure_opml() -> Path:
+    """Asegura que existe el OPML mergeado.
+    Descarga las fuentes, mergea en memoria y escribe solo si hay cambios."""
+    # Descargar fuentes
+    downloaded = download_all_opmls()
+    if not downloaded:
+        print("ERROR: no se pudo descargar ningún OPML.", flush=True)
+        exit(1)
+
+    # Mergear en memoria
+    print(f"Mergeando {len(downloaded)} OPMLs...", flush=True)
+    merged_bytes = merge_opmls_bytes(list(downloaded.values()))
+    merged_count = len(parse_opml(merged_bytes))
+    print(f"  {merged_count} feeds únicos en el OPML mergeado.", flush=True)
+
+    # Comparar hash y escribir solo si hay cambios
+    new_hash = sha256_hex(merged_bytes)
+
+    prev_hash = None
+    if OPML_FILE.exists():
+        prev_hash = sha256_hex(OPML_FILE.read_bytes())
+
+    if prev_hash != new_hash:
+        OPML_DIR.mkdir(parents=True, exist_ok=True)
+        OPML_FILE.write_bytes(merged_bytes)
+        print("  OPML mergeado actualizado.", flush=True)
+    else:
+        print("  Sin cambios en el OPML mergeado.", flush=True)
+
+    return OPML_FILE
 
 
 def load_cache() -> dict[str, dict]:
@@ -463,7 +570,8 @@ document.addEventListener("DOMContentLoaded", function() {{
 
 
 def main():
-    blogs = parse_opml(OPML_FILE)
+    opml_path = ensure_opml()
+    blogs = parse_opml(opml_path)
     cache = load_cache()
     prev_count = len(cache)
     print(f"Cache previo: {prev_count} posts. Obteniendo {len(blogs)} feeds...", flush=True)
