@@ -8,11 +8,19 @@ from datetime import datetime
 from pathlib import Path
 
 TEMPLATE_FILENAME = "page.html"
+SOURCES_TEMPLATE_FILENAME = "sources.html"
+CSS_FILENAME = "styles.css"
+FAVORITES_JS_FILENAME = "favorites.js"
 
 
-def load_template(template_dir: Path) -> str:
-    """Read the HTML template from *template_dir*."""
-    return (template_dir / TEMPLATE_FILENAME).read_text(encoding="utf-8")
+def load_template(template_dir: Path, filename: str = TEMPLATE_FILENAME) -> str:
+    """Read an HTML template from *template_dir*."""
+    return (template_dir / filename).read_text(encoding="utf-8")
+
+
+def load_asset(template_dir: Path, filename: str) -> str:
+    """Read a shared CSS/JS asset from *template_dir*."""
+    return (template_dir / filename).read_text(encoding="utf-8")
 
 
 def group_by_day(posts: list[dict]) -> dict[str, list[dict]]:
@@ -105,7 +113,7 @@ def generate_html(
     template_dir: Path,
     updated_at: str | None = None,
 ) -> str:
-    """Render the full HTML page from a sorted list of posts."""
+    """Render the main page (posts grouped by day) from a sorted list of posts."""
     days = group_by_day(posts)
 
     day_sections = "".join(
@@ -117,7 +125,8 @@ def generate_html(
     total_posts = len(posts)
     total_days = len(days)
     footer_count = f"{total_posts} posts en {total_days} días"
-    sources_section = render_sources_section(get_unique_sources(posts))
+    base_css = load_asset(template_dir, CSS_FILENAME)
+    favorites_js = load_asset(template_dir, FAVORITES_JS_FILENAME)
 
     template = load_template(template_dir)
     return string.Template(template).substitute(
@@ -126,6 +135,28 @@ def generate_html(
         total_posts=str(total_posts),
         total_days=str(total_days),
         day_sections=day_sections,
-        sources_section=sources_section,
+        base_css=base_css,
+        favorites_js=favorites_js,
         footer_count=footer_count,
+    )
+
+
+def generate_sources_html(
+    sources: list[dict],
+    template_dir: Path,
+    updated_at: str | None = None,
+) -> str:
+    """Render the dedicated sources page with favorite stars."""
+    now = updated_at or datetime.now().strftime("%Y-%m-%d %H:%M")
+    base_css = load_asset(template_dir, CSS_FILENAME)
+    favorites_js = load_asset(template_dir, FAVORITES_JS_FILENAME)
+
+    template = load_template(template_dir, SOURCES_TEMPLATE_FILENAME)
+    return string.Template(template).substitute(
+        page_title="Orígenes de recursos",
+        updated_at=now,
+        total_sources=str(len(sources)),
+        sources_section=render_sources_section(sources),
+        base_css=base_css,
+        favorites_js=favorites_js,
     )

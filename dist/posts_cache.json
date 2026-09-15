@@ -1,10 +1,59 @@
 [
  {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Subnormal floating-point numbers are expensive… on Intel processors",
+  "link": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
+  "published": "2026-09-15T12:54:32"
+ },
+ {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "Beyond the data: what a Business Analyst does at Nubank",
+  "link": "https://building.nubank.com/beyond-the-data-what-a-business-analyst-does-at-nubank/",
+  "published": "2026-09-15T12:14:41"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "Dear Duolingo: How do I practice my language as an introvert?",
+  "link": "https://blog.duolingo.com/introvert-language-learning-tips/",
+  "published": "2026-09-15T12:00:49"
+ },
+ {
   "blog_name": "Atomic Object",
   "blog_url": "https://spin.atomicobject.com/",
   "title": "Your Coding Agent Should be in Jail. Here’s Why and How.",
   "link": "https://spin.atomicobject.com/coding-agent-in-jail/",
   "published": "2026-09-15T12:00:11"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: How to Get Started With Ollama",
+  "link": "https://realpython.com/quizzes/get-started-with-ollama/",
+  "published": "2026-09-15T12:00:00"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Performance Improvements in .NET 11",
+  "link": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+  "published": "2026-09-15T12:00:00"
+ },
+ {
+  "blog_name": "Wix Engineering",
+  "blog_url": "https://www.wix.engineering/",
+  "title": "From Autocomplete to Intelligence: How Language Became the Operating System of AI",
+  "link": "https://www.wix.engineering/post/from-autocomplete-to-intelligence-how-language-became-the-operating-system-of-ai",
+  "published": "2026-09-15T10:17:07"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Math Professor Accuses OpenAI of Copying His Work, Says AI Compute Power Makes Racing to Publish 'Pointless'",
+  "link": "https://science.slashdot.org/story/26/09/14/2246218/math-professor-accuses-openai-of-copying-his-work-says-ai-compute-power-makes-racing-to-publish-pointless?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-15T10:04:00"
  },
  {
   "blog_name": "Hostinger",
@@ -54,6 +103,13 @@
   "title": "8 Keyword Research Tools Compared by API and Automation (2026)",
   "link": "https://www.sitepoint.com/keyword-research-tools-api-automation/?utm_source=rss",
   "published": "2026-09-15T06:55:38"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: An Odd Sort",
+  "link": "https://thedailywtf.com/articles/an-odd-sort",
+  "published": "2026-09-15T06:30:00"
  },
  {
   "blog_name": "APNIC",
@@ -1461,6 +1517,13 @@
   "title": "A Bit of DNS",
   "link": "https://thedailywtf.com/articles/a-bit-of-dns",
   "published": "2026-09-10T06:30:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python `__mod__`: Modulo for numbers, interpolation for str",
+  "link": "https://lernerpython.com/2026/09/10/python-mod-modulo-for-numbers-interpolation-for-str/",
+  "published": "2026-09-10T06:00:00"
  },
  {
   "blog_name": "SitePoint",

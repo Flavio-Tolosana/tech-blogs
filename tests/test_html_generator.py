@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from app.html_generator import (
     generate_html,
+    generate_sources_html,
     get_unique_sources,
     group_by_day,
     render_day_section,
@@ -128,7 +129,25 @@ def test_render_sources_section_escapes_names():
     assert "&lt;b&gt;A&lt;/b&gt;" in html
 
 
-def test_generate_html_may_include_sources_section(tmp_config):
+def test_generate_html_links_to_sources_page(tmp_config):
     html = generate_html([POSTS[0], POSTS[1]], tmp_config.template_dir, updated_at="2025-09-16 20:05")
-    assert 'id="sources"' in html
+    assert 'href="sources.html"' in html
+    assert 'id="sources"' not in html
     assert 'data-blog="Blog A"' in html
+
+
+def test_generate_sources_html_renders_chips(tmp_config):
+    sources = get_unique_sources(POSTS)
+    html = generate_sources_html(sources, tmp_config.template_dir, updated_at="2025-09-16 20:05")
+    assert "<title>Orígenes de recursos</title>" in html
+    assert 'href="index.html"' in html
+    assert "source-chip" in html
+    assert "stat-value\">3<" in html
+    assert 'onclick="toggleFavorite(this)"' in html
+    assert "${" not in html
+
+
+def test_generate_sources_html_empty(tmp_config):
+    html = generate_sources_html([], tmp_config.template_dir, updated_at="2025-09-16 20:05")
+    assert "stat-value\">0<" in html
+    assert 'class="source-chip"' not in html

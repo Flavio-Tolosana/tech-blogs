@@ -5,315 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>${page_title}</title>
 <style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
-    color: #c9d1d9;
-    min-height: 100vh;
-    padding: 2rem;
-  }
-  .container { max-width: 900px; margin: 0 auto; }
-
-  header {
-    text-align: center;
-    margin-bottom: 2rem;
-  }
-  h1 {
-    color: #58a6ff;
-    font-size: 2.2rem;
-    margin-bottom: 0.5rem;
-    text-shadow: 0 0 20px rgba(88, 166, 255, 0.3);
-  }
-  .meta {
-    color: #8b949e;
-    font-size: 0.9rem;
-  }
-  .stats {
-    display: flex;
-    justify-content: center;
-    gap: 2rem;
-    margin-top: 1rem;
-    flex-wrap: wrap;
-  }
-  .stat {
-    background: #21262d;
-    padding: 0.8rem 1.5rem;
-    border-radius: 8px;
-    border: 1px solid #30363d;
-  }
-  .stat-value {
-    font-size: 1.5rem;
-    font-weight: bold;
-    color: #58a6ff;
-  }
-  .stat-label {
-    font-size: 0.75rem;
-    color: #8b949e;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-  }
-
-  .filters-toolbar {
-    display: flex;
-    justify-content: center;
-    align-items: stretch;
-    gap: 0.75rem;
-    margin: 0 auto 2rem;
-    max-width: 520px;
-    flex-wrap: wrap;
-  }
-  .search-box {
-    flex: 1;
-    min-width: 220px;
-    padding: 0.8rem 1.2rem;
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    background: #21262d;
-    color: #c9d1d9;
-    font-size: 1rem;
-    transition: all 0.3s ease;
-  }
-  .search-box:focus {
-    outline: none;
-    border-color: #58a6ff;
-    box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.2);
-  }
-  .fav-filter-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.4rem;
-    padding: 0 1.1rem;
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    background: #21262d;
-    color: #8b949e;
-    font-size: 0.9rem;
-    cursor: pointer;
-    white-space: nowrap;
-    transition: all 0.2s ease;
-  }
-  .fav-filter-btn:hover {
-    border-color: #58a6ff;
-    color: #c9d1d9;
-  }
-  .fav-filter-btn .fav-star {
-    color: #8b949e;
-    transition: color 0.2s ease;
-  }
-  .fav-filter-btn.active {
-    background: rgba(227, 179, 65, 0.12);
-    border-color: #e3b341;
-    color: #e3b341;
-  }
-  .fav-filter-btn.active .fav-star {
-    color: #e3b341;
-  }
-
-  .sources-section {
-    margin-bottom: 2rem;
-    background: #161b22;
-    border: 1px solid #30363d;
-    border-radius: 10px;
-    padding: 1.1rem 1.5rem;
-  }
-  .sources-header {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    margin-bottom: 0.9rem;
-  }
-  .sources-header h2 {
-    font-size: 1.05rem;
-    color: #58a6ff;
-  }
-  .sources-count {
-    font-size: 0.75rem;
-    color: #8b949e;
-    background: #30363d;
-    padding: 0.15rem 0.6rem;
-    border-radius: 12px;
-  }
-  .sources-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    width: 100%;
-  }
-  .source-chip {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.35rem;
-    background: #21262d;
-    border: 1px solid #30363d;
-    border-radius: 999px;
-    padding: 0.25rem 0.3rem 0.25rem 0.75rem;
-    transition: border-color 0.2s ease, box-shadow 0.2s ease;
-  }
-  .source-chip:hover {
-    border-color: #58a6ff;
-    box-shadow: 0 0 12px rgba(88, 166, 255, 0.15);
-  }
-  .source-star {
-    background: transparent;
-    border: none;
-    color: #8b949e;
-    font-size: 1rem;
-    line-height: 1;
-    cursor: pointer;
-    padding: 0.15rem 0.35rem;
-    border-radius: 50%;
-    transition: color 0.2s ease, transform 0.2s ease;
-  }
-  .source-star:hover {
-    color: #e3b341;
-    transform: scale(1.2);
-  }
-  .source-star.active {
-    color: #e3b341;
-  }
-  .source-name {
-    color: #c9d1d9;
-    font-size: 0.85rem;
-    text-decoration: none;
-    max-width: 200px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
-  .source-name:hover {
-    color: #58a6ff;
-    text-decoration: underline;
-  }
-
-  .day-section {
-    margin-bottom: 1rem;
-    border-radius: 10px;
-    overflow: hidden;
-    background: #21262d;
-    border: 1px solid #30363d;
-    transition: all 0.3s ease;
-  }
-  .day-section:hover {
-    border-color: #58a6ff;
-    box-shadow: 0 4px 20px rgba(88, 166, 255, 0.1);
-  }
-  .day-section.hidden {
-    display: none;
-  }
-
-  .day-button {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-    padding: 1rem 1.5rem;
-    background: transparent;
-    border: none;
-    color: #c9d1d9;
-    cursor: pointer;
-    transition: background 0.2s ease;
-  }
-  .day-button:hover {
-    background: rgba(88, 166, 255, 0.1);
-  }
-
-  .day-date {
-    font-size: 1.1rem;
-    font-weight: 600;
-    color: #58a6ff;
-  }
-  .day-count {
-    font-size: 0.85rem;
-    color: #8b949e;
-    background: #30363d;
-    padding: 0.2rem 0.6rem;
-    border-radius: 12px;
-  }
-  .day-arrow {
-    margin-left: auto;
-    font-size: 0.8rem;
-    color: #8b949e;
-    transition: transform 0.3s ease;
-  }
-  .day-button.active .day-arrow {
-    transform: rotate(180deg);
-  }
-
-  .day-content {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.4s ease;
-    padding: 0 1.5rem;
-  }
-  .day-content.open {
-    max-height: 5000px;
-    padding: 0 1.5rem 1rem;
-  }
-
-  .post-card {
-    display: flex;
-    gap: 1rem;
-    padding: 0.8rem;
-    border-bottom: 1px solid #30363d;
-    transition: background 0.2s ease;
-  }
-  .post-card:last-child {
-    border-bottom: none;
-  }
-  .post-card:hover {
-    background: rgba(88, 166, 255, 0.05);
-    border-radius: 6px;
-  }
-
-  .post-time {
-    min-width: 50px;
-    color: #8b949e;
-    font-size: 0.85rem;
-    font-family: monospace;
-  }
-
-  .post-info {
-    flex: 1;
-    min-width: 0;
-  }
-  .post-title {
-    display: block;
-    color: #c9d1d9;
-    font-weight: 500;
-    text-decoration: none;
-    margin-bottom: 0.3rem;
-    line-height: 1.4;
-  }
-  .post-title:hover {
-    color: #58a6ff;
-    text-decoration: underline;
-  }
-  .post-blog {
-    font-size: 0.8rem;
-    color: #8b949e;
-    text-decoration: none;
-  }
-  .post-blog:hover {
-    color: #58a6ff;
-    text-decoration: underline;
-  }
-
-  .count {
-    text-align: center;
-    color: #8b949e;
-    margin-top: 2rem;
-    font-size: 0.85rem;
-  }
-
-  @media (max-width: 640px) {
-    body { padding: 1rem; }
-    h1 { font-size: 1.6rem; }
-    .day-button { padding: 0.8rem 1rem; }
-    .day-date { font-size: 1rem; }
-    .post-card { flex-direction: column; gap: 0.3rem; }
-    .post-time { min-width: auto; }
-  }
+${base_css}
 </style>
 </head>
 <body>
@@ -335,12 +27,13 @@
 
   <div class="filters-toolbar">
     <input type="text" class="search-box" id="search" placeholder="&#128269; Buscar posts..." oninput="filter()">
-    <button type="button" class="fav-filter-btn" id="fav-filter" onclick="toggleFavFilter()" title="Mostrar solo los origenes marcados como favoritos">
+    <button type="button" class="toolbar-btn fav-filter-btn" id="fav-filter" onclick="toggleFavFilter()" title="Mostrar solo los origenes marcados como favoritos">
       <span class="fav-star">&#9733;</span> Solo favoritos
     </button>
+    <a href="sources.html" class="toolbar-btn" title="Ver todos los origenes de recursos">
+      <span class="toolbar-icon">&#128203;</span> Orígenes
+    </a>
   </div>
-
-  ${sources_section}
 
   <div id="days-container">
     ${day_sections}
@@ -350,40 +43,10 @@
 </div>
 
 <script>
-const FAV_KEY = "favoriteBlogs";
-
-function getFavorites() {
-  try {
-    const raw = localStorage.getItem(FAV_KEY);
-    return raw ? JSON.parse(raw) : [];
-  } catch (e) {
-    return [];
-  }
-}
+${favorites_js}
 
 function isFavFilterActive() {
   return document.getElementById("fav-filter").classList.contains("active");
-}
-
-function toggleFavorite(btn) {
-  const name = btn.dataset.name;
-  let favs = getFavorites();
-
-  if (favs.includes(name)) {
-    favs = favs.filter(f => f !== name);
-    btn.classList.remove("active");
-    btn.innerHTML = "&#9734;";
-  } else {
-    favs.push(name);
-    btn.classList.add("active");
-    btn.innerHTML = "&#9733;";
-  }
-
-  localStorage.setItem(FAV_KEY, JSON.stringify(favs));
-
-  if (isFavFilterActive()) {
-    filter();
-  }
 }
 
 function toggleFavFilter() {
@@ -441,16 +104,8 @@ function filter() {
   document.getElementById("count").textContent = visiblePosts + " posts en " + visibleDays + " días";
 }
 
-// Inicializar estrellas y abrir el primer día
+// Abrir el primer día por defecto
 document.addEventListener("DOMContentLoaded", function() {
-  const favs = getFavorites();
-  document.querySelectorAll(".source-star").forEach(btn => {
-    if (favs.includes(btn.dataset.name)) {
-      btn.classList.add("active");
-      btn.innerHTML = "&#9733;";
-    }
-  });
-
   const firstButton = document.querySelector(".day-button");
   if (firstButton) {
     toggleDay(firstButton);

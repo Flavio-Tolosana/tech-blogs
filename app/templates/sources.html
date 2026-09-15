@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>${page_title}</title>
+<style>
+${base_css}
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>&#128203; ${page_title}</h1>
+    <p class="meta">Actualizado: ${updated_at}</p>
+    <div class="stats">
+      <div class="stat">
+        <div class="stat-value">${total_sources}</div>
+        <div class="stat-label">Orígenes</div>
+      </div>
+    </div>
+  </header>
+
+  <div class="back-nav">
+    <a href="index.html" class="back-link">&#8592; Volver a los posts</a>
+  </div>
+
+  ${sources_section}
+</div>
+
+<script>
+${favorites_js}
+</script>
+</body>
+</html>

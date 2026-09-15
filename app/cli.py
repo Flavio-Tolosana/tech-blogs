@@ -62,8 +62,15 @@ def _run_pipeline(config: Config) -> None:
 
     all_posts = cache.sort_posts(cache_data)
     config.output_dir.mkdir(parents=True, exist_ok=True)
+
     config.output_file.write_text(
         html_generator.generate_html(all_posts, config.template_dir),
+        encoding="utf-8",
+    )
+
+    sources = html_generator.get_unique_sources(all_posts)
+    config.sources_file.write_text(
+        html_generator.generate_sources_html(sources, config.template_dir),
         encoding="utf-8",
     )
 
@@ -73,6 +80,7 @@ def _run_pipeline(config: Config) -> None:
         flush=True,
     )
     print(f"HTML generado: {config.output_file}", flush=True)
+    print(f"Fuentes generadas: {config.sources_file}", flush=True)
 
 
 if __name__ == "__main__":

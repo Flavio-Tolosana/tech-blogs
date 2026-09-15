@@ -47,6 +47,10 @@ class Config:
         return self.output_dir / "index.html"
 
     @property
+    def sources_file(self) -> Path:
+        return self.output_dir / "sources.html"
+
+    @property
     def cache_file(self) -> Path:
         return self.output_dir / "posts_cache.json"
 
