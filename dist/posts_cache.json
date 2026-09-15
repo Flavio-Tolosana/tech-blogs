@@ -406,6 +406,13 @@
   "published": "2026-09-15T00:00:00"
  },
  {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Monitor TAS and gang scheduling for AI training in Kubernetes",
+  "link": "https://www.datadoghq.com/blog/monitor-tas-and-gang-scheduling-for-ai-training-in-kubernetes/",
+  "published": "2026-09-15T00:00:00"
+ },
+ {
   "blog_name": "Databricks",
   "blog_url": "https://databricks.com/blog",
   "title": "Managed Postgres: What Lakebase Actually Takes Off Your Plate",
@@ -719,6 +726,13 @@
   "title": "Serving AVIF, Working in JPG: A Developer's Guide to Living Between Image Formats",
   "link": "https://www.sitepoint.com/avif-jpg-image-format-workflow/?utm_source=rss",
   "published": "2026-09-14T06:22:57"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python in operator: How __contains__ speeds up membership tests",
+  "link": "https://lernerpython.com/2026/09/14/python-in-operator-how-contains-speeds-up-membership-tests/",
+  "published": "2026-09-14T06:00:00"
  },
  {
   "blog_name": "OCTO Technology",
