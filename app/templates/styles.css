@@ -320,6 +320,13 @@
     color: #58a6ff;
     text-decoration: underline;
   }
+  .post-card.fav-source {
+    border-left: 3px solid #e3b341;
+  }
+  .post-card.fav-source .post-blog::before {
+    content: "\2605\00a0";
+    color: #e3b341;
+  }
 
   .count {
     text-align: center;

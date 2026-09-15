@@ -62,6 +62,13 @@ function toggleDay(btn) {
   btn.classList.toggle('active');
 }
 
+function applyFavSources() {
+  const favs = getFavorites();
+  document.querySelectorAll(".post-card").forEach(card => {
+    card.classList.toggle("fav-source", favs.includes(card.dataset.blog));
+  });
+}
+
 function filter() {
   const q = document.getElementById("search").value.toLowerCase();
   const favOnly = isFavFilterActive();
@@ -106,6 +113,7 @@ function filter() {
 
 // Abrir el primer día por defecto
 document.addEventListener("DOMContentLoaded", function() {
+  applyFavSources();
   const firstButton = document.querySelector(".day-button");
   if (firstButton) {
     toggleDay(firstButton);
