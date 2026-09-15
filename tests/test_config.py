@@ -4,27 +4,26 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from app.config import Config, MERGED_FILENAME
+from app.config import DIST_DIR, MERGED_FILENAME, Config
 
 
-def test_local_config_points_to_repo_root(monkeypatch):
+def test_local_config_points_to_dist_dir():
     cfg = Config.from_local()
-    assert cfg.local is True
     assert isinstance(cfg.output_dir, Path)
-    assert (cfg.output_dir / ".git").exists()
+    assert cfg.output_dir == DIST_DIR
+    assert cfg.output_dir.name == "dist"
 
 
 def test_env_config_uses_output_dir(monkeypatch, tmp_path):
     monkeypatch.setenv("OUTPUT_DIR", str(tmp_path))
     cfg = Config.from_env()
-    assert cfg.local is False
     assert cfg.output_dir == tmp_path
 
 
-def test_env_config_falls_back_to_repo_root(monkeypatch):
+def test_env_config_falls_back_to_dist_dir(monkeypatch):
     monkeypatch.delenv("OUTPUT_DIR", raising=False)
     cfg = Config.from_env()
-    assert (cfg.output_dir / ".git").exists()
+    assert cfg.output_dir == DIST_DIR
 
 
 def test_config_properties(tmp_path):

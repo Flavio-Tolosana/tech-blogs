@@ -12,7 +12,7 @@ from app.config import Config
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        prog="fetch_blogs",
+        prog="tech-blogs",
         description="Genera index.html a partir de OPMLs descargados y mergeados.",
         epilog=(
             "Modo contenedor (por defecto): usa la variable de entorno OUTPUT_DIR. "
@@ -22,7 +22,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--local",
         action="store_true",
-        help="Ejecutar en local: la salida se escribe en la raíz de tech-blogs.",
+        help="Ejecutar en local: la salida se escribe en dist/.",
     )
     return parser
 
@@ -60,11 +60,7 @@ def _run_pipeline(config: Config) -> None:
     cache.save_cache(cache_data, config.cache_file)
     final_count = len(cache_data)
 
-    all_posts = sorted(
-        cache_data.values(),
-        key=lambda p: p.get("published") or "",
-        reverse=True,
-    )
+    all_posts = cache.sort_posts(cache_data)
     config.output_dir.mkdir(parents=True, exist_ok=True)
     config.output_file.write_text(
         html_generator.generate_html(all_posts, config.template_dir),

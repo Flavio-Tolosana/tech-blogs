@@ -18,7 +18,7 @@ cd tech-blogs
 
 1. Comprueba si existe `.venv`; si no, lo crea e instala las dependencias de `app/requirements.txt`.
 2. Ejecuta `python -m app --local`.
-3. Genera `index.html`, `posts_cache.json` y `opml/` en la raíz de `tech-blogs`.
+3. Genera `index.html`, `posts_cache.json` y `opml/` en `dist/`.
 
 Para usar el modo contenedor (variable de entorno `OUTPUT_DIR`):
 
@@ -29,7 +29,7 @@ OUTPUT_DIR=/ruta/salida .venv/bin/python -m app
 ## Tests
 
 ```bash
-.venv/bin/pip install -r app/requirements-dev.txt
+.venv/bin/pip install -r requirements-dev.txt
 .venv/bin/python -m pytest tests/
 ```
 
@@ -56,19 +56,19 @@ El repositorio está pensado para ejecutarse de forma periódica en un servidor 
 1. `git pull` de `tech-blogs` (sincroniza antes de generar).
 2. `docker compose pull && up`: arranca el contenedor `tech-blogs`, que ejecuta el script una vez
    (one-shot) y se detiene solo. El contenedor descarga y mergea los OPMLs, y escribe `index.html`,
-   `posts_cache.json` y `opml/engineering_blogs.opml` en `TECH_BLOGS_DIR` (volumen compartido
+   `posts_cache.json` y `opml/engineering_blogs.opml` en `TECH_BLOGS_DIR/dist` (volumen compartido
    entre el contenedor y el host).
-3. Si hay cambios en `index.html`/`posts_cache.json`/`opml/`, los commitea y hace `git push`.
+3. Si hay cambios en `dist/`, los commitea y hace `git push`.
 
 ### Flujo de automatización (GitHub Actions)
 
 | Workflow | Se activa con | Qué hace |
 |---|---|---|
-| `dockerhub.yml` | push en `app/**` | Construye la imagen y hace push a **DockerHub** |
-| `pages.yml` | push en `index.html` | Despliega la página en **GitHub Pages** |
+| `dockerhub.yml` | push en `app/**` (o tests/deps) | Construye la imagen y hace push a **DockerHub** |
+| `pages.yml` | push en `dist/index.html` | Despliega la página en **GitHub Pages** |
 
-Los triggers usan rutas disjuntas: el push de `update.sh` (solo `index.html` + cache + `opml/`)
-nunca dispara la pipeline de DockerHub, y los cambios de código en `app/` nunca disparan Pages.
+Los triggers usan rutas disjuntas: el push de `update.sh` (solo `dist/`) nunca dispara la pipeline
+de DockerHub, y los cambios de código en `app/` nunca disparan Pages.
 
 ### Requisitos de configuración (una vez)
 
@@ -90,23 +90,22 @@ tech-blogs/
 │   ├── html_generator.py   # generación del HTML desde template
 │   ├── templates/
 │   │   └── page.html       # template HTML/CSS/JS
-│   ├── fetch_blogs.py      # entry point compatible (Docker/scripts)
 │   ├── requirements.txt
-│   ├── requirements-dev.txt
 │   ├── Dockerfile
 │   └── .dockerignore
 ├── tests/                  # pytest (ops, feeds, caché, HTML, CLI)
-├── compose.yml             # servicio one-shot (monta directorio de salida)
-├── .env.example            # rutas e imagen configurables
+├── dist/                   # salida generada (se versiona para Pages)
+│   ├── index.html
+│   ├── posts_cache.json
+│   └── opml/
+│       └── engineering_blogs.opml  # mergeado (los intermedios se ignoran)
 ├── scripts/
 │   ├── fetch_local.sh      # ejecución en local (crea .venv si falta)
 │   └── update.sh           # actualización completa en el servidor
-├── opml/
-│   ├── download_1.opml     # fuente 1 (kilimchoi/engineering-blogs)
-│   ├── download_2.opml     # fuente 2 (engineeringblogs.xyz)
-│   └── engineering_blogs.opml  # mergeado (se versiona; el script lo regenera)
-├── index.html              # salida generada (se commitea para Pages)
-├── posts_cache.json        # caché de posts (incremental)
+├── compose.yml             # servicio one-shot (monta dist/)
+├── pyproject.toml          # configuración de pytest
+├── requirements-dev.txt    # dependencias de desarrollo (pytest)
+├── .env.example            # rutas e imagen configurables
 └── .github/workflows/
     ├── dockerhub.yml
     └── pages.yml

@@ -7,17 +7,18 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).parent.parent
+DIST_DIR = REPO_ROOT / "dist"
 
 MERGED_FILENAME = "engineering_blogs.opml"
 
 OPML_SOURCES: list[dict[str, str]] = [
     {
         "url": "https://raw.githubusercontent.com/kilimchoi/engineering-blogs/master/engineering_blogs.opml",
-        "filename": "download_1.opml",
+        "filename": "kilimchoi.opml",
     },
     {
         "url": "https://engineeringblogs.xyz/engblogs.opml",
-        "filename": "download_2.opml",
+        "filename": "engineeringblogs_xyz.opml",
     },
 ]
 
@@ -32,7 +33,6 @@ class Config:
     """Runtime configuration resolved from CLI args and environment."""
 
     output_dir: Path
-    local: bool = False
 
     @property
     def opml_dir(self) -> Path:
@@ -56,11 +56,11 @@ class Config:
 
     @classmethod
     def from_local(cls) -> Config:
-        """Config for local execution (output to repo root)."""
-        return cls(output_dir=REPO_ROOT, local=True)
+        """Config for local execution (output to the repo's dist/ dir)."""
+        return cls(output_dir=DIST_DIR)
 
     @classmethod
     def from_env(cls) -> Config:
         """Config for container execution (uses OUTPUT_DIR env var)."""
-        output_dir = Path(os.environ.get("OUTPUT_DIR", str(REPO_ROOT)))
-        return cls(output_dir=output_dir, local=False)
+        output_dir = Path(os.environ.get("OUTPUT_DIR", str(DIST_DIR)))
+        return cls(output_dir=output_dir)

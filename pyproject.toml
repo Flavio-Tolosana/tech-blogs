@@ -1,0 +1,9 @@
+[project]
+name = "tech-blogs"
+version = "0.1.0"
+description = "Agregador de blogs de ingeniería"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

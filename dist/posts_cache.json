@@ -9,6 +9,20 @@
  {
   "blog_name": "SitePoint",
   "blog_url": "https://sitepoint.com",
+  "title": "Juicebox vs Metaview: Sourcing engine or interview-intelligence suite?",
+  "link": "https://www.sitepoint.com/juicebox-vs-metaview-comparison/?utm_source=rss",
+  "published": "2026-09-15T07:18:30"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "Thinking Like A Naturalist: An Interview with Claire Barrett",
+  "link": "https://nordicapis.com/thinking-like-a-naturalist-an-interview-with-claire-barrett/",
+  "published": "2026-09-15T07:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
   "title": "8 Keyword Research Tools Compared by API and Automation (2026)",
   "link": "https://www.sitepoint.com/keyword-research-tools-api-automation/?utm_source=rss",
   "published": "2026-09-15T06:55:38"
@@ -441,6 +455,34 @@
   "published": "2026-09-14T00:00:00"
  },
  {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Orchestrate Multi-Call Conversations with an LLM and Twilio Conversation Memory in Python",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi-call-conversations-with-llm-twilio-conversation-memory-python",
+  "published": "2026-09-14T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Connect Your Twilio Agent to External APIs in Node.js",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-twilio-agent-to-external-apis-nodejs",
+  "published": "2026-09-14T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Orchestrate Multi-Call Conversations with an LLM and Twilio Conversation in Node.js Memory",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/orchestrate-multi-call-conversations-with-llm-twilio-conversation-memory-nodejs",
+  "published": "2026-09-14T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Italy's email open tracking pixels rules are changing",
+  "link": "https://www.twilio.com/en-us/blog/insights/italy-open-pixel-rules",
+  "published": "2026-09-14T00:00:00"
+ },
+ {
   "blog_name": "APNIC",
   "blog_url": "https://blog.apnic.net/",
   "title": "Asia Pacific research networks commit to stronger cyber resilience cooperation",
@@ -810,6 +852,13 @@
   "title": "AI Functions in ClickHouse: Upgrade your SQL to the AI age",
   "link": "https://clickhouse.com/blog/ai-functions-in-clickhouse",
   "published": "2026-09-11T12:49:32"
+ },
+ {
+  "blog_name": "GoCardless",
+  "blog_url": "https://gocardless.com/blog/tagged/engineering/",
+  "title": "New tools: how to get more out of your GoCardless partnership",
+  "link": "https://gocardless.com/blog/partner-portal-directory",
+  "published": "2026-09-11T12:33:54"
  },
  {
   "blog_name": "Freek Van der Herten",
@@ -7959,6 +8008,13 @@
   "published": "2026-03-12T00:00:00"
  },
  {
+  "blog_name": "Mercado Libre Tech",
+  "blog_url": "https://medium.com/mercadolibre-tech",
+  "title": "Continuous profiling at Mercado Libre: Turning flamegraphs into fixes",
+  "link": "https://medium.com/mercadolibre-tech/continuous-profiling-at-mercado-libre-turning-flamegraphs-into-fixes-2ee371c32bfd?source=rss----5011f85401f0---4",
+  "published": "2026-03-11T01:27:33"
+ },
+ {
   "blog_name": "Vinted",
   "blog_url": "http://engineering.vinted.com/",
   "title": "Test Smarter, Not Harder: Risk-Based Data Quality Without Pipeline Paralysis",
@@ -8533,6 +8589,13 @@
   "published": "2026-01-16T00:00:00"
  },
  {
+  "blog_name": "Mercado Libre Tech",
+  "blog_url": "https://medium.com/mercadolibre-tech",
+  "title": "Mutation testing at Mercado Libre: From pilot to everyday guardrail",
+  "link": "https://medium.com/mercadolibre-tech/mutation-testing-at-mercado-libre-from-pilot-to-everyday-guardrail-2ffe0a273f0e?source=rss----5011f85401f0---4",
+  "published": "2026-01-14T12:19:03"
+ },
+ {
   "blog_name": "Fly.io",
   "blog_url": "https://fly.io/blog/",
   "title": "The Design & Implementation of Sprites",
@@ -8603,11 +8666,25 @@
   "published": "2026-01-09T00:00:00"
  },
  {
+  "blog_name": "Mercado Libre Tech",
+  "blog_url": "https://medium.com/mercadolibre-tech",
+  "title": "The silver shotgun: A bunch of silver bullets",
+  "link": "https://medium.com/mercadolibre-tech/the-silver-shotgun-a-bunch-of-silver-bullets-4a51c57a0fd9?source=rss----5011f85401f0---4",
+  "published": "2026-01-08T20:44:23"
+ },
+ {
   "blog_name": "Romes' Musings",
   "blog_url": "https://alt-romes.github.io",
   "title": "Haskell Debugger for GHC 9.14",
   "link": "http://alt-romes.github.io/posts/2026-01-07-haskell-debugger-for-ghc914.html",
   "published": "2026-01-07T00:00:00"
+ },
+ {
+  "blog_name": "Mercado Libre Tech",
+  "blog_url": "https://medium.com/mercadolibre-tech",
+  "title": "Security at scale: Preventing thousands of vulnerabilities without developer friction",
+  "link": "https://medium.com/mercadolibre-tech/security-at-scale-preventing-thousands-of-vulnerabilities-without-developer-friction-b991d049c543?source=rss----5011f85401f0---4",
+  "published": "2026-01-06T13:28:53"
  },
  {
   "blog_name": "Una Kravets",
@@ -8650,6 +8727,13 @@
   "title": "Cat Pics",
   "link": "https://tenderlovemaking.com/shots/2025-12-30-cat-pics/",
   "published": "2025-12-31T02:00:58"
+ },
+ {
+  "blog_name": "Mercado Libre Tech",
+  "blog_url": "https://medium.com/mercadolibre-tech",
+  "title": "From a single point of failure to a cell-based architecture: How we scaled Mercado Envíos’ stock…",
+  "link": "https://medium.com/mercadolibre-tech/from-a-single-point-of-failure-to-a-cell-based-architecture-how-we-scaled-mercado-env%C3%ADos-stock-528f581fb71b?source=rss----5011f85401f0---4",
+  "published": "2025-12-29T21:09:09"
  },
  {
   "blog_name": "Marcelo Rinesi",

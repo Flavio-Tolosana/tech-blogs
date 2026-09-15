@@ -7,5 +7,5 @@ services:
       TZ: ${TZ:-Europe/Madrid}
       OUTPUT_DIR: /data
     volumes:
-      - ${TECH_BLOGS_DIR}:/data
+      - ${TECH_BLOGS_DIR}/dist:/data
     # Ejecuta el script una vez (entrypoint del Dockerfile) y el contenedor sale solo

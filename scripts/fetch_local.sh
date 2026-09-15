@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #
-# Ejecuta fetch_blogs.py en local:
+# Ejecuta la generación en local:
 #   - Crea el .venv si no existe e instala las dependencias
-#   - Salida (index.html, posts_cache.json y opml/) en la raíz de tech-blogs
+#   - Salida (index.html, posts_cache.json y opml/) en dist/
 #
 # Uso:
 #   ./scripts/fetch_local.sh

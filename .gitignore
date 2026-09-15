@@ -3,9 +3,11 @@
 .venv/
 __pycache__/
 *.pyc
+.pytest_cache/
 
 # pathlib __pycache__
 app/__pycache__/
 
 # OPML intermedios (el mergeado se versiona)
-opml/download_*.opml
+dist/opml/kilimchoi.opml
+dist/opml/engineeringblogs_xyz.opml

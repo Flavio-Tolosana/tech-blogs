@@ -2,8 +2,9 @@
 
 from __future__ import annotations
 
-from app import fetch_blogs, __main__ as entry
+from app import __main__ as entry
 from app.cli import build_parser, main, resolve_config
+from app.config import DIST_DIR
 
 
 def test_build_parser_defaults_to_container_mode():
@@ -19,15 +20,13 @@ def test_build_parser_local_flag():
 def test_resolve_config_local():
     args = build_parser().parse_args(["--local"])
     cfg = resolve_config(args)
-    assert cfg.local is True
-    assert (cfg.output_dir / ".git").exists()
+    assert cfg.output_dir == DIST_DIR
 
 
 def test_resolve_config_env(monkeypatch, tmp_path):
     monkeypatch.setenv("OUTPUT_DIR", str(tmp_path))
     args = build_parser().parse_args([])
     cfg = resolve_config(args)
-    assert cfg.local is False
     assert cfg.output_dir == tmp_path
 
 
@@ -71,4 +70,3 @@ def test_main_returns_error_code_on_failure(tmp_path, monkeypatch):
 
 def test_entry_modules_expose_same_main():
     assert entry.main is main
-    assert fetch_blogs.main is main
