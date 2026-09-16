@@ -1,5 +1,54 @@
 [
  {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+  "link": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
+  "published": "2026-09-16T05:00:42"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Ubuntu's 'Rust-ification' Hits New Milestone: Coreutils Migration is Complete",
+  "link": "https://news.slashdot.org/story/26/09/15/2115242/ubuntus-rust-ification-hits-new-milestone-coreutils-migration-is-complete?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-16T04:04:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Measure by measure, studying society accurately",
+  "link": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
+  "published": "2026-09-16T04:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Javadoc That Feels Like Your Website",
+  "link": "https://www.codenameone.com/blog/javadoc-hugo-markdown-doclet/",
+  "published": "2026-09-16T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Is Agentic now tailors its audit by site type",
+  "link": "https://vercel.com/changelog/is-agentic-report-categories",
+  "published": "2026-09-16T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "While Hollywood Fears an AI Future, China's Film Industry is Embracing It",
+  "link": "https://entertainment.slashdot.org/story/26/09/14/0115231/while-hollywood-fears-an-ai-future-chinas-film-industry-is-embracing-it?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-15T23:34:00"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+  "link": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
+  "published": "2026-09-15T22:24:34"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Scientists Discover Mysterious New X-Ray Objects 'Unlike Any They Have Seen Before'",
@@ -8608,6 +8657,13 @@
   "title": "RCCLX: Innovating GPU Communications on AMD Platforms",
   "link": "https://engineering.fb.com/2026/02/24/data-center-engineering/rrcclx-innovating-gpu-communications-amd-platforms-meta/",
   "published": "2026-02-24T21:30:54"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Replit Pro Is Here — and Core Now Offers Even Better Value",
+  "link": "https://replit.com/blog/pro-plan",
+  "published": "2026-02-24T20:00:00"
  },
  {
   "blog_name": "HTTP Toolkit",
