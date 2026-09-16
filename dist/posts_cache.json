@@ -1,5 +1,194 @@
 [
  {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Build Your Own AI Agent Harness in C#, the MafClaw Live Series",
+  "link": "https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/",
+  "published": "2026-09-16T21:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
+  "link": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/",
+  "published": "2026-09-16T20:37:07"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "How fast is C++23’s std::flat_map?",
+  "link": "https://lemire.me/blog/2026/09/16/how-fast-is-c23s-stdflat_map/",
+  "published": "2026-09-16T20:26:36"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
+  "link": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
+  "published": "2026-09-16T20:06:17"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Fragments: September 16",
+  "link": "https://martinfowler.com/fragments/2026-09-16.html",
+  "published": "2026-09-16T20:05:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "ClickHouse is now available on the dbt platform",
+  "link": "https://clickhouse.com/blog/clickhouse-is-now-available-on-the-dbt-platform",
+  "published": "2026-09-16T19:38:40"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Improving HCLS AI reasoning with open-source agent skills",
+  "link": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
+  "published": "2026-09-16T19:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
+  "link": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/",
+  "published": "2026-09-16T18:59:25"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 26.9.0 (Current)",
+  "link": "https://nodejs.org/en/blog/release/v26.9.0",
+  "published": "2026-09-16T18:17:42"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Hobby projects now retain fewer deployments to free up storage",
+  "link": "https://vercel.com/changelog/hobby-projects-now-retain-fewer-deployments-to-free-up-storage",
+  "published": "2026-09-16T18:00:00"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "AWS reimagines the getting started experience",
+  "link": "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/",
+  "published": "2026-09-16T17:50:14"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Anthropic Commits to Independent AI Evaluators, Wants Slower Development. Nvidia's CEO Wants It 'As Fast as You Can'",
+  "link": "https://slashdot.org/story/26/09/16/0619212/anthropic-commits-to-independent-ai-evaluators-wants-slower-development-nvidias-ceo-wants-it-as-fast-as-you-can?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-16T17:34:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Local S3 Storage Without MinIO: SeaweedFS and Garage in Docker Compose",
+  "link": "https://www.sitepoint.com/local-s3-storage-without-minio-seaweedfs-garage-docker-compose/?utm_source=rss",
+  "published": "2026-09-16T17:19:54"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "AI Agent Tool Manifests: Building a Unified TypeScript JSON Schema",
+  "link": "https://www.sitepoint.com/ai-agent-tool-manifests-building-unified-typescript-json-schema/?utm_source=rss",
+  "published": "2026-09-16T17:19:52"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "\"Regex for Rows\": Simplifying Pattern Detection in SQL with MATCH_RECOGNIZE",
+  "link": "https://www.databricks.com/blog/regex-rows-simplifying-pattern-detection-sql-matchrecognize",
+  "published": "2026-09-16T17:14:05"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Prioriser par la valeur, ou comment devenir un mini-entrepreneur",
+  "link": "https://blog.octo.com/prioriser-par-la-valeur-ou-comment-devenir-un-mini-entrepreneur",
+  "published": "2026-09-16T17:12:10"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Secure Compute and Static IP builds start 64% faster",
+  "link": "https://vercel.com/changelog/secure-compute-and-static-ip-builds-start-64-faster",
+  "published": "2026-09-16T17:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Mem0 joins the Vercel Marketplace",
+  "link": "https://vercel.com/changelog/mem0-joins-the-vercel-marketplace",
+  "published": "2026-09-16T17:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
+  "link": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/",
+  "published": "2026-09-16T16:28:59"
+ },
+ {
+  "blog_name": "PubNub:",
+  "blog_url": "https://www.pubnub.com/blog/",
+  "title": "Building AI Agents got easier; managing them didn’t: Managing agent sprawl with Blocks Enterprise",
+  "link": "https://www.pubnub.com/blog/managing-agent-sprawl-blocks-enterprise",
+  "published": "2026-09-16T16:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Helping older adults use AI in everyday life",
+  "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+  "published": "2026-09-16T16:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/",
+  "published": "2026-09-16T15:47:39"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
+  "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/",
+  "published": "2026-09-16T15:17:37"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+  "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+  "published": "2026-09-16T15:00:48"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "New AI technique could make minimally invasive surgeries safer and more precise",
+  "link": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+  "published": "2026-09-16T15:00:00"
+ },
+ {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "Designing Claude for ears, not eyes: An accessibility skill for blind and low-vision users",
+  "link": "https://building.nubank.com/designing-claude-for-ears-not-eyes-an-accessibility-skill-for-blind-and-low-vision-users/",
+  "published": "2026-09-16T14:09:16"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "How to Review AI-Generated Python Code Efficiently",
+  "link": "https://realpython.com/review-ai-generated-code/",
+  "published": "2026-09-16T14:00:00"
+ },
+ {
   "blog_name": "Red Hat",
   "blog_url": "https://developers.redhat.com/blog/",
   "title": "Why your Kafka topic ignores retention.ms (and how to fix it)",
@@ -49,6 +238,13 @@
   "published": "2026-09-16T12:44:25"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "10 Most Common Accessibility Issues (1,025-Site Study)",
+  "link": "https://www.sitepoint.com/10-most-common-accessibility-issues-1-025-site-study/?utm_source=rss",
+  "published": "2026-09-16T12:35:13"
+ },
+ {
   "blog_name": "Freek Van der Herten",
   "blog_url": "https://murze.be/",
   "title": "What's New in PHP 8.6",
@@ -82,6 +278,20 @@
   "title": "Quiz: Python's Mutable vs Immutable Types: What's the Difference?",
   "link": "https://realpython.com/quizzes/python-mutable-vs-immutable-types/",
   "published": "2026-09-16T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How to connect AI usage to business value",
+  "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+  "published": "2026-09-16T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How workers are unlocking new ways of working",
+  "link": "https://openai.com/index/unlocking-new-ways-of-working",
+  "published": "2026-09-16T09:00:00"
  },
  {
   "blog_name": "SeveralNines",
@@ -140,6 +350,13 @@
   "published": "2026-09-16T04:00:00"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Mercure Broadcasting in Laravel 13.32",
+  "link": "https://laravel-news.com/laravel-13-32-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-16T02:44:52"
+ },
+ {
   "blog_name": "CodeName One",
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Javadoc That Feels Like Your Website",
@@ -165,6 +382,76 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "Quantifying AI adoption: From initial challenges to doubling speed",
   "link": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/quantifying-ai-adoption-from-initial-challenges-to-doubling-speed",
+  "published": "2026-09-16T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Vibe Production-Ready Apps with Auth0 and v0",
+  "link": "https://auth0.com/blog/vibe-production-ready-apps-auth0-v0/",
+  "published": "2026-09-16T00:00:00"
+ },
+ {
+  "blog_name": "Discord",
+  "blog_url": "https://blog.discordapp.com/",
+  "title": "Adding the Discord Updates YOU Want to See",
+  "link": "https://discord.com/blog/adding-the-discord-updates-you-want-to-see",
+  "published": "2026-09-16T00:00:00"
+ },
+ {
+  "blog_name": "MapTiler",
+  "blog_url": "https://www.maptiler.com/blog/",
+  "title": "We’ve Improved Your Placename Searches",
+  "link": "https://www.maptiler.com/news/2026/09/weve-improved-your-placename-searches",
+  "published": "2026-09-16T00:00:00"
+ },
+ {
+  "blog_name": "Zach Holman",
+  "blog_url": "https://zachholman.com/",
+  "title": "As Someone Who Has Written This Blog Post,",
+  "link": "http://zachholman.com/posts/llm-writing",
+  "published": "2026-09-16T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "CISA's Logging Reference Architecture for OMB M-26-14: What federal agencies should do next",
+  "link": "https://www.elastic.co/blog/cisa-logging-omb-m-26-14",
+  "published": "2026-09-16T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic announces GA of cross-project search on Serverless, enabling teams to query across all linked projects without moving a byte",
+  "link": "https://www.elastic.co/blog/cross-project-search-elastic-serverless-ga",
+  "published": "2026-09-16T00:00:00"
+ },
+ {
+  "blog_name": "Yelp",
+  "blog_url": "https://engineeringblog.yelp.com/",
+  "title": "ML based ranking using Nrtsearch",
+  "link": "https://engineeringblog.yelp.com/2026/09/ml-ranking-with-nrtsearch.html",
+  "published": "2026-09-16T00:00:00"
+ },
+ {
+  "blog_name": "Go",
+  "blog_url": "https://blog.golang.org/",
+  "title": "Size-Specialized Memory Allocation",
+  "link": "https://go.dev/blog/size-specialized-allocations",
+  "published": "2026-09-16T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "From alert to resolution: Manage incidents with Bits Chat in Slack",
+  "link": "https://www.datadoghq.com/blog/bits-chat-slack-incident-response/",
+  "published": "2026-09-16T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Transform and route  security logs to Microsoft Sentinel tables using Observability Pipelines",
+  "link": "https://www.datadoghq.com/blog/observability-pipelines-microsoft-sentinel-packs/",
   "published": "2026-09-16T00:00:00"
  },
  {
@@ -354,6 +641,13 @@
   "blog_url": "https://clickhouse.com/blog",
   "title": "Introducing ClickHouse's new TimeSeries Engine: Your drop-In Prometheus replacement",
   "link": "https://clickhouse.com/blog/introducing-promql",
+  "published": "2026-09-15T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Why do Microsoft job levels start in the high 50’s instead of starting at a sane number like 1?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260915-00/?p=112700",
   "published": "2026-09-15T14:00:00"
  },
  {
@@ -669,6 +963,34 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Manage Cursor costs with Datadog Cloud Cost Management",
   "link": "https://www.datadoghq.com/blog/cursor-cloud-cost-management/",
+  "published": "2026-09-15T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Orchestrate Multi-Call Conversations with an LLM and Twilio Conversation Memory",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/orchestrate-multi-call-conversations-with-llm-twilio-conversation-memory",
+  "published": "2026-09-15T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "9 top conversational AI platforms in 2026",
+  "link": "https://www.twilio.com/en-us/blog/insights/conversational-ai-platforms",
+  "published": "2026-09-15T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "What is CIAM in 2026 and why does it matter?",
+  "link": "https://www.twilio.com/en-us/blog/insights/best-practices/what-is-ciam",
+  "published": "2026-09-15T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Connect Your Twilio Agent to External APIs",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-connect-twilio-agent-to-external-apis",
   "published": "2026-09-15T00:00:00"
  },
  {
