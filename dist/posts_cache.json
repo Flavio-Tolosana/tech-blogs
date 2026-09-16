@@ -1,5 +1,124 @@
 [
  {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Why your Kafka topic ignores retention.ms (and how to fix it)",
+  "link": "https://developers.redhat.com/articles/2026/09/16/why-your-kafka-topic-ignores-retentionms-and-how-fix-it",
+  "published": "2026-09-16T13:05:06"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Firefox Touts Lower CPU Use for Large JPEGs, Faster PDF Viewer Startup (and AI Controls)",
+  "link": "https://news.slashdot.org/story/26/09/16/0352217/firefox-touts-lower-cpu-use-for-large-jpegs-faster-pdf-viewer-startup-and-ai-controls?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-16T13:04:00"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Constraining AI agents with Red Hat AI: Containment, identity, and governance",
+  "link": "https://developers.redhat.com/articles/2026/09/16/constraining-ai-agents-with-red-hat-ai-containment-identity-and-governance",
+  "published": "2026-09-16T13:01:59"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+  "link": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+  "published": "2026-09-16T13:00:33"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "Beyond the Hyperscalers: What Actually Protects You",
+  "link": "https://www.pulumi.com/blog/beyond-the-hyperscalers-what-actually-protects-you/",
+  "published": "2026-09-16T13:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Reimagining advertising with AI",
+  "link": "https://openai.com/index/reimagining-advertising-with-ai",
+  "published": "2026-09-16T13:00:00"
+ },
+ {
+  "blog_name": "Timescale",
+  "blog_url": "https://blog.timescale.com/",
+  "title": "How Meshtastic Metrics Exporter Turned Eight Prometheus Queries Into One with Tiger Data",
+  "link": "https://www.tigerdata.com/blog/meshtastic-metrics-exporter-case-study-tiger-data",
+  "published": "2026-09-16T12:44:25"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "What's New in PHP 8.6",
+  "link": "https://freek.dev/3192-whats-new-in-php-86",
+  "published": "2026-09-16T12:30:30"
+ },
+ {
+  "blog_name": "Semaphore Engineering",
+  "blog_url": "http://semaphoreci.io/feed",
+  "title": "sem-ai 0.4.0: smaller responses, safer access, and pre-flight checks",
+  "link": "https://semaphore.io/blog/sem-ai-0.4.0-smaller-responses,-safer-access,-and-pre-flight-checks",
+  "published": "2026-09-16T12:01:04"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Test GitHub Actions Locally with Act",
+  "link": "https://spin.atomicobject.com/test-github-actions-locally-act/",
+  "published": "2026-09-16T12:00:44"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "5 things nobody told me about becoming an engineering leader",
+  "link": "https://blog.duolingo.com/engineering-leadership-lessons/",
+  "published": "2026-09-16T12:00:06"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python's Mutable vs Immutable Types: What's the Difference?",
+  "link": "https://realpython.com/quizzes/python-mutable-vs-immutable-types/",
+  "published": "2026-09-16T12:00:00"
+ },
+ {
+  "blog_name": "SeveralNines",
+  "blog_url": "https://severalnines.com/database-blog",
+  "title": "Implementing GitOps from Infrastructure to DB Operators to Unify Ops for Kubernetes Databases",
+  "link": "https://severalnines.com/blog/implementing-gitops-from-infrastructure-to-db-operators-to-unify-ops-for-kubernetes-databases/",
+  "published": "2026-09-16T08:57:10"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "America's Cryptocurrency 'Clarity Act' Fails Spectacularly, Despite Hundreds of Millions in Industry Lobbying",
+  "link": "https://news.slashdot.org/story/26/09/16/0454223/americas-cryptocurrency-clarity-act-fails-spectacularly-despite-hundreds-of-millions-in-industry-lobbying?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-16T08:34:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "MiniCPM5-2B Ranks First Among Open-Weight Models Under 4B",
+  "link": "https://www.sitepoint.com/minicpm5-2b-benchmark-analysis/?utm_source=rss",
+  "published": "2026-09-16T06:35:53"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: Extremely One Line",
+  "link": "https://thedailywtf.com/articles/extremely-one-line",
+  "published": "2026-09-16T06:30:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "The case for open-weight models and why we can’t trust frontier labs",
+  "link": "https://blog.apnic.net/2026/09/16/the-case-for-open-weight-models-and-why-we-cant-trust-frontier-labs/",
+  "published": "2026-09-16T05:42:22"
+ },
+ {
   "blog_name": "Nvidia",
   "blog_url": "https://blogs.nvidia.com/",
   "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
@@ -32,6 +151,20 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Is Agentic now tailors its audit by site type",
   "link": "https://vercel.com/changelog/is-agentic-report-categories",
+  "published": "2026-09-16T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Porting a Discord Bot to Microsoft Teams, Entirely With AI",
+  "link": "https://code.dblock.org/2026/09/16/porting-strata-to-microsoft-teams-entirely-with-ai.html",
+  "published": "2026-09-16T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Quantifying AI adoption: From initial challenges to doubling speed",
+  "link": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/quantifying-ai-adoption-from-initial-challenges-to-doubling-speed",
   "published": "2026-09-16T00:00:00"
  },
  {
@@ -82,6 +215,13 @@
   "title": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
   "link": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/",
   "published": "2026-09-15T17:00:11"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/",
+  "title": "From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents",
+  "link": "https://stackoverflow.blog/2026/09/15/here-s-what-s-new-on-stack-overflow-for-agents/",
+  "published": "2026-09-15T17:00:00"
  },
  {
   "blog_name": "Nvidia",
@@ -338,6 +478,13 @@
  {
   "blog_name": "SitePoint",
   "blog_url": "https://sitepoint.com",
+  "title": "Microservices vs Monolithic Architecture: What Nobody Tells You Until You've Lived Through Both",
+  "link": "https://www.sitepoint.com/microservices-vs-monolithic-architecture-what-nobody-tells-you-until-you-ve-lived-through-both/?utm_source=rss",
+  "published": "2026-09-15T07:25:35"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
   "title": "Juicebox vs Metaview: Sourcing engine or interview-intelligence suite?",
   "link": "https://www.sitepoint.com/juicebox-vs-metaview-comparison/?utm_source=rss",
   "published": "2026-09-15T07:18:30"
@@ -378,6 +525,13 @@
   "published": "2026-09-15T06:01:49"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python += calls __add__ and rebinds to a new object",
+  "link": "https://lernerpython.com/2026/09/15/python-calls-add-and-rebinds-to-a-new-object/",
+  "published": "2026-09-15T06:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "ChatGPT-Using Lawyer Cited Its Fake Witnesses and Police Testimony in Court",
@@ -404,6 +558,13 @@
   "title": "What's New in PHP 8.6",
   "link": "https://laravel-news.com/php-8-6?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
   "published": "2026-09-15T03:00:09"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Super Stack: Laravel Starter Kit With Filament and NativePHP",
+  "link": "https://laravel-news.com/nativephp-super-stack?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-15T02:50:55"
  },
  {
   "blog_name": "Slashdot",
