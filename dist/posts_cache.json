@@ -1,5 +1,82 @@
 [
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Juicebox vs Noon: How much of sourcing should AI own?",
+  "link": "https://www.sitepoint.com/juicebox-vs-noon-comparison/?utm_source=rss",
+  "published": "2026-09-17T05:15:51"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Retours vers la Transfo, saison 1 : 3 histoires qui n'ont pas suivi le plan",
+  "link": "https://blog.octo.com/retours-vers-la-transfo-saison-1--3-histoires-qui-n'ont-pas-suivi-le-plan",
+  "published": "2026-09-17T04:52:10"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Adafruit's New CircuitPython 'Turbo' Brings Native Code To Tiny Boards",
+  "link": "https://news.slashdot.org/story/26/09/15/0149250/adafruits-new-circuitpython-turbo-brings-native-code-to-tiny-boards?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-17T02:34:00"
+ },
+ {
+  "blog_name": "Chris Wellons",
+  "blog_url": "http://nullprogram.com/",
+  "title": "A custom virtual machine for the Stars! 4X game",
+  "link": "https://nullprogram.com/blog/2026/09/17/",
+  "published": "2026-09-17T02:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Australia's AI opportunity starts with data",
+  "link": "https://www.elastic.co/blog/australia-parliamentary-ai-showcase",
+  "published": "2026-09-17T01:00:00"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+  "link": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+  "published": "2026-09-17T00:26:43"
+ },
+ {
+  "blog_name": "Canva",
+  "blog_url": "https://engineering.canva.com",
+  "title": "Worker Backpressure (Part 1)",
+  "link": "https://www.canva.dev/blog/engineering/worker-backpressure-part-1-how-we-taught-our-queue-workers-to-slow-down/",
+  "published": "2026-09-17T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Android 17 Without the Last-Minute Scramble",
+  "link": "https://www.codenameone.com/blog/android-37-readiness-location-button/",
+  "published": "2026-09-17T00:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "[Podcast] ‘Just say no’ isn’t as simple as you think",
+  "link": "https://blog.apnic.net/2026/09/17/podcast-just-say-no-isnt-as-simple-as-you-think/",
+  "published": "2026-09-16T23:23:11"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
+  "link": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
+  "published": "2026-09-16T23:20:33"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "As Part of California's Coast Begins to Crumble, Is the Clock Ticking on Moving Radioactive Waste?",
+  "link": "https://hardware.slashdot.org/story/26/09/14/0536219/as-part-of-californias-coast-begins-to-crumble-is-the-clock-ticking-on-moving-radioactive-waste?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-16T22:04:00"
+ },
+ {
   "blog_name": ".NET",
   "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
   "title": "Build Your Own AI Agent Harness in C#, the MafClaw Live Series",
@@ -123,6 +200,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Mem0 joins the Vercel Marketplace",
   "link": "https://vercel.com/changelog/mem0-joins-the-vercel-marketplace",
+  "published": "2026-09-16T17:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Our framework for reporting model misalignment",
+  "link": "https://openai.com/index/model-misalignment-reporting-framework",
   "published": "2026-09-16T17:00:00"
  },
  {
@@ -452,6 +536,13 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Transform and route  security logs to Microsoft Sentinel tables using Observability Pipelines",
   "link": "https://www.datadoghq.com/blog/observability-pipelines-microsoft-sentinel-packs/",
+  "published": "2026-09-16T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "TypeSafe AI's Jev now available on AI Gateway",
+  "link": "https://vercel.com/changelog/typesafe-ai-jev-now-available-on-ai-gateway",
   "published": "2026-09-16T00:00:00"
  },
  {
