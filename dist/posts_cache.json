@@ -1,5 +1,103 @@
 [
  {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "I don't like LLMs",
+  "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+  "published": "2026-09-17T13:50:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "September 2026 newsletter",
+  "link": "https://clickhouse.com/blog/202609-newsletter",
+  "published": "2026-09-17T13:42:49"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "From hours to minutes: Optimizing Red Hat Developer Hub performance testing with immutable LDAP images",
+  "link": "https://developers.redhat.com/articles/2026/09/17/optimizing-red-hat-developer-hub-performance-testing-with-immutable-ldap-images",
+  "published": "2026-09-17T13:16:48"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Catching poor LLM performance and accuracy before deployment",
+  "link": "https://developers.redhat.com/articles/2026/09/17/catching-poor-llm-performance-and-accuracy-before-deployment",
+  "published": "2026-09-17T13:16:47"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Build a unified CI/CD control plane with Red Hat Developer Hub",
+  "link": "https://developers.redhat.com/articles/2026/09/17/build-unified-cicd-control-plane-red-hat-developer-hub",
+  "published": "2026-09-17T13:16:44"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
+  "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
+  "published": "2026-09-17T13:00:55"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Write End-to-End Tests in Your Backend’s Language",
+  "link": "https://spin.atomicobject.com/write-end-to-end-tests-in-your-backends-language/",
+  "published": "2026-09-17T12:00:42"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Use Curiosity, Craft, and Care to Decide What AI Should Write",
+  "link": "https://spin.atomicobject.com/ai-authorship/",
+  "published": "2026-09-17T12:00:32"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Build Trust on a Short Software Project",
+  "link": "https://spin.atomicobject.com/build-trust-short-project/",
+  "published": "2026-09-17T12:00:17"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: HTML and CSS Foundations for Python Developers",
+  "link": "https://realpython.com/quizzes/html-css-foundations/",
+  "published": "2026-09-17T12:00:00"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "How much do you know about Italian?",
+  "link": "https://blog.duolingo.com/italian-fun-facts/",
+  "published": "2026-09-17T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "'Zuckoff' App Detects Meta Smartglasses, as Meta Plans Camera-Free Version, Loses Money, and Offers Social Media Subscriptions",
+  "link": "https://tech.slashdot.org/story/26/09/17/045246/zuckoff-app-detects-meta-smartglasses-as-meta-plans-camera-free-version-loses-money-and-offers-social-media-subscriptions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-17T11:34:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "OpenAI Admits Six More Instances of AI Models Acting Deceptively",
+  "link": "https://slashdot.org/story/26/09/17/0641223/openai-admits-six-more-instances-of-ai-models-acting-deceptively?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-17T07:04:00"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "6 Ways Traditional API Design Has Changed Forever",
+  "link": "https://nordicapis.com/6-ways-traditional-api-design-has-changed-forever/",
+  "published": "2026-09-17T07:00:00"
+ },
+ {
   "blog_name": "SitePoint",
   "blog_url": "https://sitepoint.com",
   "title": "Juicebox vs Noon: How much of sourcing should AI own?",
@@ -21,11 +119,32 @@
   "published": "2026-09-17T02:34:00"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Inertia DevTools Now Available for Firefox",
+  "link": "https://laravel-news.com/inertia-devtools-firefox?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-17T02:28:55"
+ },
+ {
+  "blog_name": "Sam Saffron",
+  "blog_url": "https://samsaffron.com/",
+  "title": "About the Blog category",
+  "link": "https://discuss.samsaffron.com/t/about-the-blog-category/3060#post_1",
+  "published": "2026-09-17T02:03:20"
+ },
+ {
   "blog_name": "Chris Wellons",
   "blog_url": "http://nullprogram.com/",
   "title": "A custom virtual machine for the Stars! 4X game",
   "link": "https://nullprogram.com/blog/2026/09/17/",
   "published": "2026-09-17T02:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laravel Scalpel Scans for Filesystem Intrusion Evidence",
+  "link": "https://laravel-news.com/laravel-scalpel?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-17T01:38:29"
  },
  {
   "blog_name": "Elastic",
@@ -53,6 +172,13 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Android 17 Without the Last-Minute Scramble",
   "link": "https://www.codenameone.com/blog/android-37-readiness-location-button/",
+  "published": "2026-09-17T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "AI makes Agile more alive",
+  "link": "https://www.thoughtworks.com/insights/blog/agile-engineering-practices/ai-makes-agile-more-alive",
   "published": "2026-09-17T00:00:00"
  },
  {
@@ -117,6 +243,13 @@
   "title": "ClickHouse is now available on the dbt platform",
   "link": "https://clickhouse.com/blog/clickhouse-is-now-available-on-the-dbt-platform",
   "published": "2026-09-16T19:38:40"
+ },
+ {
+  "blog_name": "Spotify",
+  "blog_url": "https://labs.spotify.com/",
+  "title": "AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity",
+  "link": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity/",
+  "published": "2026-09-16T19:13:53"
  },
  {
   "blog_name": "AWS Machine Learning",
@@ -263,6 +396,13 @@
   "blog_url": "https://building.nubank.com/",
   "title": "Designing Claude for ears, not eyes: An accessibility skill for blind and low-vision users",
   "link": "https://building.nubank.com/designing-claude-for-ears-not-eyes-an-accessibility-skill-for-blind-and-low-vision-users/",
+  "published": "2026-09-16T14:09:16"
+ },
+ {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "Designing Claude for ears, not eyes: An accessibility skill for blind and low-vision users",
+  "link": "https://building.nu.com/designing-claude-for-ears-not-eyes-an-accessibility-skill-for-blind-and-low-vision-users/",
   "published": "2026-09-16T14:09:16"
  },
  {
@@ -791,6 +931,13 @@
   "published": "2026-09-15T12:14:41"
  },
  {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "Beyond the data: what a Business Analyst does at Nubank",
+  "link": "https://building.nu.com/beyond-the-data-what-a-business-analyst-does-at-nubank/",
+  "published": "2026-09-15T12:14:41"
+ },
+ {
   "blog_name": "Duolingo Engineering",
   "blog_url": "https://blog.duolingo.com/",
   "title": "Dear Duolingo: How do I practice my language as an introvert?",
@@ -1208,6 +1355,13 @@
   "blog_url": "https://building.nubank.com/",
   "title": "From AI demos to real work: How Engineering and Operations learn side by side",
   "link": "https://building.nubank.com/from-ai-demos-to-real-work-how-engineering-and-operations-learn-side-by-side/",
+  "published": "2026-09-14T16:28:23"
+ },
+ {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "From AI demos to real work: How Engineering and Operations learn side by side",
+  "link": "https://building.nu.com/from-ai-demos-to-real-work-how-engineering-and-operations-learn-side-by-side/",
   "published": "2026-09-14T16:28:23"
  },
  {
@@ -1768,6 +1922,13 @@
   "blog_url": "https://building.nubank.com/",
   "title": "Why this year’s Clojure/Conj matters beyond the conference",
   "link": "https://building.nubank.com/why-this-years-clojure-conj-matters-beyond-the-conference/",
+  "published": "2026-09-11T17:39:44"
+ },
+ {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "Why this year’s Clojure/Conj matters beyond the conference",
+  "link": "https://building.nu.com/why-this-years-clojure-conj-matters-beyond-the-conference/",
   "published": "2026-09-11T17:39:44"
  },
  {
@@ -3504,6 +3665,13 @@
   "blog_url": "https://building.nubank.com/",
   "title": "NFR Brain: challenging the status quo of risk management with data",
   "link": "https://building.nubank.com/nfr-brain-challenging-the-status-quo-of-risk-management-with-data/",
+  "published": "2026-09-04T14:18:41"
+ },
+ {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "NFR Brain: challenging the status quo of risk management with data",
+  "link": "https://building.nu.com/nfr-brain-challenging-the-status-quo-of-risk-management-with-data/",
   "published": "2026-09-04T14:18:41"
  },
  {
