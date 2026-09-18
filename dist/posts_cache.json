@@ -1,5 +1,103 @@
 [
  {
+  "blog_name": "Capital One Tech",
+  "blog_url": "https://medium.com/capital-one-tech",
+  "title": "Scaling Enterprise Testing on Kubernetes with Argo",
+  "link": "https://medium.com/capital-one-tech/scaling-enterprise-testing-on-kubernetes-with-argo-5e51f3df3ebc?source=rss----3db3a67cb648---4",
+  "published": "2026-09-18T14:01:33"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Introducing Amazon SageMaker HyperPod Inference Gateway",
+  "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/",
+  "published": "2026-09-18T13:08:34"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Red Hat OpenShift networking: Default OVN-Kubernetes vs. Cilium operator",
+  "link": "https://developers.redhat.com/articles/2026/09/18/openshift-networking-default-ovn-kubernetes-vs-cilium-operator",
+  "published": "2026-09-18T13:01:55"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Matching OpenShift edge topologies to your physical footprint",
+  "link": "https://developers.redhat.com/articles/2026/09/18/matching-openshift-edge-topologies-your-physical-footprint",
+  "published": "2026-09-18T13:01:54"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "What did AI cost you this quarter?",
+  "link": "https://developers.redhat.com/articles/2026/09/18/what-did-ai-cost-you-this-quarter",
+  "published": "2026-09-18T13:01:52"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "What four people at Hostinger actually do with AI all day (and what happens when you have an agentic beef)",
+  "link": "https://www.hostinger.com/blog/working-with-ai-at-hostinger/",
+  "published": "2026-09-18T12:56:40"
+ },
+ {
+  "blog_name": "Timescale",
+  "blog_url": "https://blog.timescale.com/",
+  "title": "Knowing When Your Composite Index Earns Its Write Cost",
+  "link": "https://www.tigerdata.com/blog/knowing-when-composite-index-earns-write-cost",
+  "published": "2026-09-18T12:49:15"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Juicebox vs Pin: Which AI sourcing tool fits your team?",
+  "link": "https://www.sitepoint.com/juicebox-vs-pin-comparison/?utm_source=rss",
+  "published": "2026-09-18T12:30:43"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Website monitoring in the AI era: What's changed, what's fixed, and what your team should still be watching",
+  "link": "https://www.sitepoint.com/website-monitoring/?utm_source=rss",
+  "published": "2026-09-18T12:12:42"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Introduction to pandas",
+  "link": "https://realpython.com/quizzes/introduction-pandas/",
+  "published": "2026-09-18T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Journalist Calls Out 'Collective Amnesia' of Schools' Romance With Big Tech Over AI",
+  "link": "https://news.slashdot.org/story/26/09/15/0346259/journalist-calls-out-collective-amnesia-of-schools-romance-with-big-tech-over-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-18T10:04:00"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Agentic Engineering : Au-delà du prototype",
+  "link": "https://blog.octo.com/agentic-engineering--au-dela-du-prototype-1",
+  "published": "2026-09-18T08:56:10"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "AI Agent Security in the Enterprise: Interview With Isabelle Mauny",
+  "link": "https://nordicapis.com/ai-agent-security-in-the-enterprise-interview-with-isabelle-mauny/",
+  "published": "2026-09-18T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Error'd: Ai Dios Mio",
+  "link": "https://thedailywtf.com/articles/ai-dios-mio",
+  "published": "2026-09-18T06:30:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "America Acknowledges for the First Time: It Has Deployed Weapons In Space",
@@ -14,6 +112,13 @@
   "published": "2026-09-18T03:34:15"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Fresh Package: Laravel Package Skeleton with Testbench, CI, and Boost Integration",
+  "link": "https://laravel-news.com/fresh-package-laravel-package-skeleton?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-18T03:20:58"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Ex-Google DeepMind Researcher Also Warns AI Could 'Kill All Humans'.  But Meta's Zuckerberg Believes Safety is Up to Each AI Company",
@@ -25,6 +130,27 @@
   "blog_url": "https://www.elastic.co/blog/category/engineering",
   "title": "SNAP payment error detection: how Elastic helps US states beat the FY2028 penalty",
   "link": "https://www.elastic.co/blog/snap-error-fy2028-penalty",
+  "published": "2026-09-18T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "We Didn't Want to Build Another Java Server",
+  "link": "https://www.codenameone.com/blog/why-another-java-server/",
+  "published": "2026-09-18T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "GLM 5.3 FlashX now available on AI Gateway",
+  "link": "https://vercel.com/changelog/glm-5-3-flashx-now-available-on-ai-gateway",
+  "published": "2026-09-18T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "SaaSpocalypse: Hollow out the core, rebuild what matters",
+  "link": "https://www.thoughtworks.com/insights/articles/saaspocalypse-hollow-core-rebuild-what-matters",
   "published": "2026-09-18T00:00:00"
  },
  {
@@ -383,6 +509,13 @@
   "title": "CodeSOD: Vintage 2013",
   "link": "https://thedailywtf.com/articles/vintage-2013",
   "published": "2026-09-17T06:30:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python callables: Any object that defines __call__",
+  "link": "https://lernerpython.com/2026/09/17/python-callables-any-object-that-defines-call/",
+  "published": "2026-09-17T06:00:00"
  },
  {
   "blog_name": "SitePoint",
