@@ -1,5 +1,187 @@
 [
  {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Faster JSON parsing with SVE2 on ARM processors",
+  "link": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
+  "published": "2026-09-18T21:38:09"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
+  "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
+  "published": "2026-09-18T20:52:14"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Spec-Driven Development: Enforcing Architectural Contracts for Coding Agents",
+  "link": "https://www.sitepoint.com/spec-driven-development-architectural-contracts-coding-agents/?utm_source=rss",
+  "published": "2026-09-18T20:00:57"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Spend Management expands to Enterprise Flexible Commitment plans",
+  "link": "https://vercel.com/changelog/spend-management-enterprise-flex",
+  "published": "2026-09-18T20:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "WebAuthn Passkey Recovery: Building Account Fallbacks and Backup Codes in Node.js",
+  "link": "https://www.sitepoint.com/webauthn-passkey-recovery-account-fallbacks-nodejs/?utm_source=rss",
+  "published": "2026-09-18T19:58:10"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "RAG Citation Verification: Building Deterministic Byte-Span Validators in TypeScript",
+  "link": "https://www.sitepoint.com/rag-citation-verification-byte-span-validators-typescript/?utm_source=rss",
+  "published": "2026-09-18T19:58:05"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Build a Safer AI Agent Harness with Jev and LangChain",
+  "link": "https://www.sitepoint.com/build-safer-ai-agent-harness-jev-langchain/?utm_source=rss",
+  "published": "2026-09-18T19:58:01"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Build a Typed Context Compaction Gate for AI Agents",
+  "link": "https://www.sitepoint.com/build-typed-context-compaction-gate-ai-agents/?utm_source=rss",
+  "published": "2026-09-18T19:57:57"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Benchmarking LLM Inference at Scale with AIPerf",
+  "link": "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/",
+  "published": "2026-09-18T19:04:41"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Will California Gut Its Net Neutrality Law to Comply with Trump Admin Demands?",
+  "link": "https://yro.slashdot.org/story/26/09/18/0023251/will-california-gut-its-net-neutrality-law-to-comply-with-trump-admin-demands?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-18T19:04:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "WebMCP support now available in mcp-handler",
+  "link": "https://vercel.com/changelog/webmcp-mcp-handler",
+  "published": "2026-09-18T18:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Enabling secure, productive work on personal devices",
+  "link": "https://www.databricks.com/blog/enabling-secure-productive-work-personal-devices",
+  "published": "2026-09-18T17:45:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "How did AMD Ryzen get 50% faster in two years?",
+  "link": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+  "published": "2026-09-18T17:26:04"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Saving another 100TB of RAM with math (and Rust)",
+  "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+  "published": "2026-09-18T17:23:58"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "v0 now reads npm credentials from shared environment variables",
+  "link": "https://vercel.com/changelog/v0-now-reads-npm-credentials-from-shared-environment-variables",
+  "published": "2026-09-18T17:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Introducing Kimi K3 on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/",
+  "published": "2026-09-18T16:52:01"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "A new chapter for MIT Reads",
+  "link": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
+  "published": "2026-09-18T16:30:00"
+ },
+ {
+  "blog_name": "Netflix",
+  "blog_url": "https://medium.com/netflix-techblog",
+  "title": "Leave the Class Path in the Rearview Mirror",
+  "link": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
+  "published": "2026-09-18T16:01:02"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "uv Python cheatsheet: what changed in 0.12 and what still trips you up",
+  "link": "https://www.zyte.com/blog/uv-python-cheatsheet-what-changed-in-0-12-and-what-still-trips-you-up/",
+  "published": "2026-09-18T16:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "★ Detecting spam and auto-replies with Jev and the Laravel AI SDK",
+  "link": "https://freek.dev/3194-detecting-spam-and-auto-replies-with-jev-and-the-laravel-ai-sdk",
+  "published": "2026-09-18T15:39:46"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
+  "link": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/",
+  "published": "2026-09-18T15:38:53"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
+  "link": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/",
+  "published": "2026-09-18T15:31:34"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Deploy Hugging Face models on Amazon SageMaker AI with coding agents",
+  "link": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/",
+  "published": "2026-09-18T15:25:23"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+  "link": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+  "published": "2026-09-18T15:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Two busy people turned team building for 42 teammates into a memorable adventure",
+  "link": "https://www.hostinger.com/blog/organic-marketing-team-building/",
+  "published": "2026-09-18T14:59:49"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Rust is Now a 'Tier One' Language at Microsoft",
+  "link": "https://developers.slashdot.org/story/26/09/13/2144215/rust-is-now-a-tier-one-language-at-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-18T14:34:00"
+ },
+ {
   "blog_name": "Capital One Tech",
   "blog_url": "https://medium.com/capital-one-tech",
   "title": "Scaling Enterprise Testing on Kubernetes with Argo",
@@ -91,6 +273,13 @@
   "published": "2026-09-18T07:00:00"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Jev is the fastest-adopted model in AI Gateway history",
+  "link": "https://vercel.com/blog/ai-gateway-jev-model-launch",
+  "published": "2026-09-18T07:00:00"
+ },
+ {
   "blog_name": "The Daily WTF",
   "blog_url": "http://thedailywtf.com/",
   "title": "Error'd: Ai Dios Mio",
@@ -103,6 +292,20 @@
   "title": "America Acknowledges for the First Time: It Has Deployed Weapons In Space",
   "link": "https://news.slashdot.org/story/26/09/16/2134242/america-acknowledges-for-the-first-time-it-has-deployed-weapons-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-09-18T05:34:00"
+ },
+ {
+  "blog_name": "Okta",
+  "blog_url": "https://developer.okta.com/blog/",
+  "title": "Classic Engine Feature EOL: SSR, Desktop SSO, Device Trust",
+  "link": "https://developer.okta.com/blog/2026/09/18/okta-classic-engine-deprecation",
+  "published": "2026-09-18T05:00:00"
+ },
+ {
+  "blog_name": "Latacora",
+  "blog_url": "https://latacora.singles/",
+  "title": "Fire the slop cannons (safely): on coding agents and sandboxing",
+  "link": "https://www.latacora.com/blog/2026/09/18/fire-the-slop-cannons-safely-on-coding-agents-and-sandboxing/",
+  "published": "2026-09-18T04:00:00"
  },
  {
   "blog_name": "APNIC",
@@ -152,6 +355,83 @@
   "title": "SaaSpocalypse: Hollow out the core, rebuild what matters",
   "link": "https://www.thoughtworks.com/insights/articles/saaspocalypse-hollow-core-rebuild-what-matters",
   "published": "2026-09-18T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Auth0 Agent Gateway: The Identity Control Plane for Customer-Facing AI",
+  "link": "https://auth0.com/blog/auth0-agent-gateway-beta/",
+  "published": "2026-09-18T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Optimize Your Identity Flows with Auth0 Identity Conversion Suite",
+  "link": "https://auth0.com/blog/auth0-identity-conversion-suite-early-access/",
+  "published": "2026-09-18T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Move and Scale Faster with FGA Permissions Index",
+  "link": "https://auth0.com/blog/auth0-fga-permissions-index-early-access/",
+  "published": "2026-09-18T00:00:00"
+ },
+ {
+  "blog_name": "MapTiler",
+  "blog_url": "https://www.maptiler.com/blog/",
+  "title": "GeoSplats: Immersive 3D Content for Real Estate",
+  "link": "https://www.maptiler.com/news/2026/09/geosplats-immersive-3d-content-for-real-estate",
+  "published": "2026-09-18T00:00:00"
+ },
+ {
+  "blog_name": "Stripe",
+  "blog_url": "https://stripe.com/blog",
+  "title": "Analyzing rising fraud attempts among travel and leisure businesses on Stripe",
+  "link": "https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe",
+  "published": "2026-09-18T00:00:00"
+ },
+ {
+  "blog_name": "Thoughtbot",
+  "blog_url": "https://robots.thoughtbot.com/",
+  "title": "From In-House PM to Consulting PM: What I Didn't Expect",
+  "link": "https://feed.thoughtbot.com/link/24077/17466181/from-in-house-pm-to-consulting-pm-what-i-didn-t-expect",
+  "published": "2026-09-18T00:00:00"
+ },
+ {
+  "blog_name": "Dan Abramov",
+  "blog_url": "https://overreacted.io/",
+  "title": "How I Vibed a Proof of Conway’s Conjecture",
+  "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+  "published": "2026-09-18T00:00:00"
+ },
+ {
+  "blog_name": "Teleport",
+  "blog_url": "https://goteleport.com/blog/",
+  "title": "What PCI DSS 4.0 Requires for Infrastructure Identity and Access Evidence",
+  "link": "https://goteleport.com/blog/pci-dss-infrastructure-evidence/",
+  "published": "2026-09-18T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Reproducing, disclosing, and fixing the libheif vulnerability with Hacktron and the maintainers",
+  "link": "https://vercel.com/blog/reproducing-disclosing-and-fixing-the-libheif-vulnerability-with-hacktron-and-the-maintainers",
+  "published": "2026-09-18T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Enforce custom rules in Datadog IaC Security scanning",
+  "link": "https://www.datadoghq.com/blog/custom-iac-security-rules/",
+  "published": "2026-09-18T00:00:00"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "The Next Step for Mission-Critical Workloads: Managed Databases Advanced Edition",
+  "link": "https://www.digitalocean.com/blog/introducing-mysql-postgresql-advanced",
+  "published": "2026-09-17T22:30:18"
  },
  {
   "blog_name": "Vercel",
@@ -298,6 +578,13 @@
   "blog_url": "https://www.hashicorp.com/blog/",
   "title": "HCP Vagrant deprecation: important dates and migration guidance",
   "link": "https://www.hashicorp.com/blog/hcp-vagrant-deprecation-important-dates-and-migration-guidance",
+  "published": "2026-09-17T16:00:00"
+ },
+ {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Simplify compliance with the native pre-written policy experience in HCP Terraform",
+  "link": "https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform",
   "published": "2026-09-17T16:00:00"
  },
  {
