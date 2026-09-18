@@ -1,5 +1,26 @@
 [
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "America Acknowledges for the First Time: It Has Deployed Weapons In Space",
+  "link": "https://news.slashdot.org/story/26/09/16/2134242/america-acknowledges-for-the-first-time-it-has-deployed-weapons-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-18T05:34:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Presto: A match-action TCP stack for the terabit era",
+  "link": "https://blog.apnic.net/2026/09/18/presto-a-match-action-tcp-stack-for-the-terabit-era/",
+  "published": "2026-09-18T03:34:15"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Ex-Google DeepMind Researcher Also Warns AI Could 'Kill All Humans'.  But Meta's Zuckerberg Believes Safety is Up to Each AI Company",
+  "link": "https://slashdot.org/story/26/09/16/2151240/ex-google-deepmind-researcher-also-warns-ai-could-kill-all-humans-but-metas-zuckerberg-believes-safety-is-up-to-each-ai-company?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-18T01:04:00"
+ },
+ {
   "blog_name": "Elastic",
   "blog_url": "https://www.elastic.co/blog/category/engineering",
   "title": "SNAP payment error detection: how Elastic helps US states beat the FY2028 penalty",
@@ -32,6 +53,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Turbo build machines can now be enabled per deployment",
   "link": "https://vercel.com/changelog/turbo-build-machines-can-now-be-enabled-per-deployment",
+  "published": "2026-09-17T20:00:00"
+ },
+ {
+  "blog_name": "SurveyMonkey",
+  "blog_url": "https://engineering.surveymonkey.com/",
+  "title": "CNBC and SurveyMonkey Social Skills Pulse Survey",
+  "link": "https://www.surveymonkey.com/curiosity/cnbc-social-skills-pulse-survey/?ut_source=rss",
   "published": "2026-09-17T20:00:00"
  },
  {
@@ -82,6 +110,13 @@
   "title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
   "link": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/",
   "published": "2026-09-17T17:55:20"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Database for AI Agents: 5 Evaluation Criteria",
+  "link": "https://www.databricks.com/blog/database-for-ai-agents",
+  "published": "2026-09-17T17:27:40"
  },
  {
   "blog_name": "Hostinger",
@@ -217,6 +252,13 @@
   "published": "2026-09-17T14:00:00"
  },
  {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Modernizing the Trade Lifecycle With Governed Data and AI",
+  "link": "https://www.databricks.com/blog/modernizing-trade-lifecycle-governed-data-and-ai",
+  "published": "2026-09-17T14:00:00"
+ },
+ {
   "blog_name": "Martin Fowler",
   "blog_url": "https://martinfowler.com/",
   "title": "I don't like LLMs",
@@ -294,11 +336,25 @@
   "published": "2026-09-17T12:00:00"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How Cooley is accelerating IPO work with ChatGPT",
+  "link": "https://openai.com/index/cooley-gopublic",
+  "published": "2026-09-17T12:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "'Zuckoff' App Detects Meta Smartglasses, as Meta Plans Camera-Free Version, Loses Money, and Offers Social Media Subscriptions",
   "link": "https://tech.slashdot.org/story/26/09/17/045246/zuckoff-app-detects-meta-smartglasses-as-meta-plans-camera-free-version-loses-money-and-offers-social-media-subscriptions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-09-17T11:34:00"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/",
+  "title": "The AI magic words",
+  "link": "https://stackoverflow.blog/2026/09/17/the-ai-magic-words/",
+  "published": "2026-09-17T07:40:00"
  },
  {
   "blog_name": "Slashdot",
@@ -313,6 +369,20 @@
   "title": "6 Ways Traditional API Design Has Changed Forever",
   "link": "https://nordicapis.com/6-ways-traditional-api-design-has-changed-forever/",
   "published": "2026-09-17T07:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend",
+  "link": "https://vercel.com/blog/ai-gateway-production-index-september-2026",
+  "published": "2026-09-17T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: Vintage 2013",
+  "link": "https://thedailywtf.com/articles/vintage-2013",
+  "published": "2026-09-17T06:30:00"
  },
  {
   "blog_name": "SitePoint",
@@ -431,6 +501,20 @@
   "blog_url": "https://openai.com/news/",
   "title": "Introducing Astra for Law",
   "link": "https://openai.com/index/astra-for-law",
+  "published": "2026-09-17T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How we AI-updated 1,138 Error-code Docs Pages",
+  "link": "https://www.twilio.com/en-us/blog/developers/automated-pipeline-revise-docs-error-codes",
+  "published": "2026-09-17T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Twilio’s 2026 Heightened Awareness Period: Ensuring Reliable Messaging for Peak Season",
+  "link": "https://www.twilio.com/en-us/blog/products/messaging-hap-2026",
   "published": "2026-09-17T00:00:00"
  },
  {
@@ -956,6 +1040,13 @@
   "blog_url": "https://clickhouse.com/blog",
   "title": "What's new in ClickStack - Aug ’26",
   "link": "https://clickhouse.com/blog/whats-new-in-clickstack-august-2026",
+  "published": "2026-09-16T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "On-Demand Masked Sessions with Twilio Proxy, Voice and Serverless",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/just-in-time-masked-calls-proxy",
   "published": "2026-09-16T00:00:00"
  },
  {
@@ -6608,6 +6699,13 @@
   "published": "2026-07-29T14:23:30"
  },
  {
+  "blog_name": "Berkeley AI Research (BAIR)",
+  "blog_url": "https://bair.berkeley.edu/blog/",
+  "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
+  "link": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+  "published": "2026-07-29T09:00:00"
+ },
+ {
   "blog_name": "Zach Holman",
   "blog_url": "https://zachholman.com/",
   "title": "The Cold Email",
@@ -6732,6 +6830,13 @@
   "title": "Production ML-DSA Verification in 350 Lines of Python",
   "link": "https://words.filippo.io/mldsa-py/",
   "published": "2026-07-26T11:45:08"
+ },
+ {
+  "blog_name": "Berkeley AI Research (BAIR)",
+  "blog_url": "https://bair.berkeley.edu/blog/",
+  "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
+  "link": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+  "published": "2026-07-26T09:00:00"
  },
  {
   "blog_name": "Federico Tomassetti",
@@ -7322,6 +7427,13 @@
   "published": "2026-07-07T13:26:00"
  },
  {
+  "blog_name": "Berkeley AI Research (BAIR)",
+  "blog_url": "https://bair.berkeley.edu/blog/",
+  "title": "Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents",
+  "link": "http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/",
+  "published": "2026-07-07T09:00:00"
+ },
+ {
   "blog_name": "Carlos Becker",
   "blog_url": "https://carlosbecker.com",
   "title": "Still doing less, for her",
@@ -7446,6 +7558,13 @@
   "title": "Building a Modern Analytics Stack Around ClickHouse",
   "link": "https://severalnines.com/blog/building-a-modern-analytics-stack-around-clickhouse/",
   "published": "2026-07-01T10:35:21"
+ },
+ {
+  "blog_name": "Berkeley AI Research (BAIR)",
+  "blog_url": "https://bair.berkeley.edu/blog/",
+  "title": "2026 BAIR Graduate Showcase",
+  "link": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
+  "published": "2026-07-01T09:00:00"
  },
  {
   "blog_name": "HubSpot",
@@ -8601,6 +8720,13 @@
   "title": "The Kyle Kingsbury Podcast Podcast - Episode 2 - Dave Rossi",
   "link": "https://aphyr.com/posts/423-the-kyle-kingsbury-podcast-podcast-episode-2-dave-rossi",
   "published": "2026-05-08T20:07:42"
+ },
+ {
+  "blog_name": "Berkeley AI Research (BAIR)",
+  "blog_url": "https://bair.berkeley.edu/blog/",
+  "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
+  "link": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
+  "published": "2026-05-08T09:00:00"
  },
  {
   "blog_name": "Kyle Kingsbury",
