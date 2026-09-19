@@ -2,6 +2,41 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "US Air Force F-16 Crashes in Michigan After Pentagon Orders More Flyovers",
+  "link": "https://news.slashdot.org/story/26/09/19/0420213/us-air-force-f-16-crashes-in-michigan-after-pentagon-orders-more-flyovers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-19T13:04:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Debugging in My First Language: A Bilingual Developer’s Accidental Discovery",
+  "link": "https://spin.atomicobject.com/debugging-bilingual-developer/",
+  "published": "2026-09-19T12:00:08"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Thinking Recursively in Python",
+  "link": "https://realpython.com/quizzes/python-thinking-recursively/",
+  "published": "2026-09-19T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Gemini Breached Three Outside Systems, and Claude-Using Researchers Breached OpenAI",
+  "link": "https://slashdot.org/story/26/09/19/0518206/gemini-breached-three-outside-systems-and-claude-using-researchers-breached-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-19T08:34:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "**Data-Driven vs Event-Driven Architecture: How to Pick the Right One**",
+  "link": "https://www.sitepoint.com/data-driven-vs-event-driven-architecture-how-to-pick-the-right-one/?utm_source=rss",
+  "published": "2026-09-19T05:38:46"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Has the James Web Space Telescope Discovered a New 'Black Hole Star'?",
   "link": "https://science.slashdot.org/story/26/09/19/040210/has-the-james-web-space-telescope-discovered-a-new-black-hole-star?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-09-19T04:04:00"
@@ -327,6 +362,13 @@
   "title": "Error'd: Ai Dios Mio",
   "link": "https://thedailywtf.com/articles/ai-dios-mio",
   "published": "2026-09-18T06:30:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "np.nan in Pandas: Why missing values break comparisons",
+  "link": "https://lernerpython.com/2026/09/18/np-nan-in-pandas-why-missing-values-break-comparisons/",
+  "published": "2026-09-18T06:00:00"
  },
  {
   "blog_name": "Slashdot",
