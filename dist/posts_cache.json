@@ -1,5 +1,33 @@
 [
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Has the James Web Space Telescope Discovered a New 'Black Hole Star'?",
+  "link": "https://science.slashdot.org/story/26/09/19/040210/has-the-james-web-space-telescope-discovered-a-new-black-hole-star?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-19T04:04:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "RADAR: Catch gray failures with anomaly detection",
+  "link": "https://www.databricks.com/blog/radar-catch-gray-failures-anomaly-detection",
+  "published": "2026-09-19T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "One Java Model from the App to PostgreSQL",
+  "link": "https://www.codenameone.com/blog/java-backend-shared-models/",
+  "published": "2026-09-19T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "AI Insiders Issue New Warnings - Including Former Anthropic Engineer Jacob Coxon",
+  "link": "https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-18T23:34:00"
+ },
+ {
   "blog_name": "Daniel Lemire",
   "blog_url": "https://lemire.me/blog/",
   "title": "Faster JSON parsing with SVE2 on ARM processors",
@@ -12,6 +40,13 @@
   "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
   "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
   "published": "2026-09-18T20:52:14"
+ },
+ {
+  "blog_name": "Arkency",
+  "blog_url": "http://blog.arkency.com/",
+  "title": "TERAZ - live collective ambient experience made with Rails & Tone.js",
+  "link": "https://blog.arkency.com/teraz-live-collective-ambient-experience-made-with-rails-and-tone-dot-js/",
+  "published": "2026-09-18T20:50:08"
  },
  {
   "blog_name": "SitePoint",
@@ -249,6 +284,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Quiz: Introduction to pandas",
   "link": "https://realpython.com/quizzes/introduction-pandas/",
+  "published": "2026-09-18T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Introducing the Australian Youth Safety Blueprint",
+  "link": "https://openai.com/index/australian-youth-safety-blueprint",
   "published": "2026-09-18T12:00:00"
  },
  {
@@ -935,6 +977,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "Twilio’s 2026 Heightened Awareness Period: Ensuring Reliable Messaging for Peak Season",
   "link": "https://www.twilio.com/en-us/blog/products/messaging-hap-2026",
+  "published": "2026-09-17T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "In Meetings, Raise Hands Before Reading",
+  "link": "https://code.dblock.org/2026/09/17/in-meetings-raise-hands-before-reading.html",
   "published": "2026-09-17T00:00:00"
  },
  {
@@ -14182,6 +14231,13 @@
   "published": "2022-09-06T00:00:00"
  },
  {
+  "blog_name": "Wilfred Hughes",
+  "blog_url": "http://www.wilfred.me.uk/",
+  "title": "Difftastic, the Fantastic Diff",
+  "link": "https://www.wilfred.me.uk/blog/2022/09/06/difftastic-the-fantastic-diff/",
+  "published": "2022-09-06T00:00:00"
+ },
+ {
   "blog_name": "Marek Majkowski",
   "blog_url": "https://idea.popcount.org/",
   "title": "eGPU stutter from hell",
@@ -16023,6 +16079,13 @@
   "published": "2019-03-24T00:00:00"
  },
  {
+  "blog_name": "Wilfred Hughes",
+  "blog_url": "http://www.wilfred.me.uk/",
+  "title": "The Siren Song of Little Languages",
+  "link": "https://www.wilfred.me.uk/blog/2019/03/24/the-siren-song-of-little-languages/",
+  "published": "2019-03-24T00:00:00"
+ },
+ {
   "blog_name": "Twitch",
   "blog_url": "https://blog.twitch.tv/tagged/engineering",
   "title": "How Twitch Addresses Scalability and Authentication",
@@ -16055,6 +16118,13 @@
   "blog_url": "http://www.wilfred.me.uk/",
   "title": "How High Are Your Tests?",
   "link": "http://www.wilfred.me.uk/blog/2019/03/04/how-high-are-your-tests/",
+  "published": "2019-03-04T00:00:00"
+ },
+ {
+  "blog_name": "Wilfred Hughes",
+  "blog_url": "http://www.wilfred.me.uk/",
+  "title": "How High Are Your Tests?",
+  "link": "https://www.wilfred.me.uk/blog/2019/03/04/how-high-are-your-tests/",
   "published": "2019-03-04T00:00:00"
  },
  {
@@ -16429,6 +16499,13 @@
   "published": "2018-06-22T00:00:00"
  },
  {
+  "blog_name": "Wilfred Hughes",
+  "blog_url": "http://www.wilfred.me.uk/",
+  "title": "Helpful: One Year On",
+  "link": "https://www.wilfred.me.uk/blog/2018/06/22/helpful-one-year-on/",
+  "published": "2018-06-22T00:00:00"
+ },
+ {
   "blog_name": "Federico Cargnelutti",
   "blog_url": "https://blog.fedecarg.com/",
   "title": "API Development Tips",
@@ -16734,6 +16811,13 @@
   "blog_url": "http://www.wilfred.me.uk/",
   "title": "The Emacs Guru Guide to Key Bindings",
   "link": "http://www.wilfred.me.uk/blog/2018/01/06/the-emacs-guru-guide-to-key-bindings/",
+  "published": "2018-01-06T00:00:00"
+ },
+ {
+  "blog_name": "Wilfred Hughes",
+  "blog_url": "http://www.wilfred.me.uk/",
+  "title": "The Emacs Guru Guide to Key Bindings",
+  "link": "https://www.wilfred.me.uk/blog/2018/01/06/the-emacs-guru-guide-to-key-bindings/",
   "published": "2018-01-06T00:00:00"
  },
  {
