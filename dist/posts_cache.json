@@ -1,5 +1,61 @@
 [
  {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "AI is breaking the academic sorting machine",
+  "link": "https://lemire.me/blog/2026/09/20/ai-is-breaking-the-academic-sorting-machine/",
+  "published": "2026-09-20T21:47:46"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Democracy vs Digital Infrastructure: Pulitzer-Winning Journalist Charts 'The Rise and Fall of the Artificial State'",
+  "link": "https://news.slashdot.org/story/26/09/20/2023252/democracy-vs-digital-infrastructure-pulitzer-winning-journalist-charts-the-rise-and-fall-of-the-artificial-state?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-20T20:34:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "The Brain Is Actually Two Completely Separate Organs",
+  "link": "https://science.slashdot.org/story/26/09/20/0451204/the-brain-is-actually-two-completely-separate-organs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-20T16:04:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Eliminating AI Code Hallucinations with TypeScript Compiler Diagnostics and TDD Loops",
+  "link": "https://www.sitepoint.com/ai-code-hallucinations-typescript-compiler-diagnostics-tdd/?utm_source=rss",
+  "published": "2026-09-20T14:39:28"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building Multi-Tier CI/CD Verification Gates for AI Pull Requests",
+  "link": "https://www.sitepoint.com/ci-cd-verification-gates-ai-pull-requests/?utm_source=rss",
+  "published": "2026-09-20T14:39:11"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building Distributed Sliding-Window Rate Limiters in TypeScript and Redis",
+  "link": "https://www.sitepoint.com/distributed-sliding-window-rate-limiter-typescript-redis/?utm_source=rss",
+  "published": "2026-09-20T14:38:55"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Diagnosing PostgreSQL Index Bloat, Write Amplification, and Buffer Cache Hit Ratios",
+  "link": "https://www.sitepoint.com/postgresql-index-bloat-write-amplification-buffer-cache/?utm_source=rss",
+  "published": "2026-09-20T14:38:13"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Architecting Generative UI with Streaming JSON Schemas and React Server Components",
+  "link": "https://www.sitepoint.com/streaming-generative-ui-react-server-components/?utm_source=rss",
+  "published": "2026-09-20T14:37:41"
+ },
+ {
   "blog_name": "Atomic Object",
   "blog_url": "https://spin.atomicobject.com/",
   "title": "Don’t Stick a Laser In Your Face (A Parable): Power Tools & Ignorance",
@@ -53,6 +109,20 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "One Vault, from Your Phone to the Browser",
   "link": "https://www.codenameone.com/blog/vault-encryption-browser-phone/",
+  "published": "2026-09-20T00:00:00"
+ },
+ {
+  "blog_name": "Josh Sherman",
+  "blog_url": "https://joshtronic.com/",
+  "title": "I stopped drinking the AI Kool-Aid",
+  "link": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
+  "published": "2026-09-20T00:00:00"
+ },
+ {
+  "blog_name": "Nicolas Fränkel",
+  "blog_url": "https://blog.frankel.ch/",
+  "title": "AI-assisted genealogy, a follow-up",
+  "link": "https://blog.frankel.ch/ai-assisted-genealogy-follow-up/",
   "published": "2026-09-20T00:00:00"
  },
  {
@@ -2706,6 +2776,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "Italy's email open tracking pixels rules are changing",
   "link": "https://www.twilio.com/en-us/blog/insights/italy-open-pixel-rules",
+  "published": "2026-09-14T00:00:00"
+ },
+ {
+  "blog_name": "Addy Osmani",
+  "blog_url": "https://addyosmani.com/blog/",
+  "title": "Brownfield Agentic Engineering",
+  "link": "https://addyosmani.com/blog/brownfield-agentic-engineering/",
   "published": "2026-09-14T00:00:00"
  },
  {
@@ -5404,6 +5481,13 @@
   "published": "2026-08-31T00:00:00"
  },
  {
+  "blog_name": "Addy Osmani",
+  "blog_url": "https://addyosmani.com/blog/",
+  "title": "Agentic Skill Decay",
+  "link": "https://addyosmani.com/blog/agentic-skill-decay/",
+  "published": "2026-08-31T00:00:00"
+ },
+ {
   "blog_name": "Josh Sherman",
   "blog_url": "https://joshtronic.com/",
   "title": "Security Caveat: Locked out of my server while traveling",
@@ -5604,6 +5688,13 @@
   "blog_url": "https://www.ruby-lang.org/en/news/",
   "title": "Security advisories: CVE-2026-80212 and CVE-2026-80213",
   "link": "https://www.ruby-lang.org/en/news/2026/08/27/multiple-vulnerabilities-in-resolv/",
+  "published": "2026-08-27T00:00:00"
+ },
+ {
+  "blog_name": "Addy Osmani",
+  "blog_url": "https://addyosmani.com/blog/",
+  "title": "Audit your Agent files",
+  "link": "https://addyosmani.com/blog/audit-your-agent-files/",
   "published": "2026-08-27T00:00:00"
  },
  {
@@ -11002,6 +11093,13 @@
   "title": "2025 in Review",
   "link": "https://una.im/2025-in-review/",
   "published": "2026-01-06T00:00:00"
+ },
+ {
+  "blog_name": "Marcelo Rinesi",
+  "blog_url": "https://blog.rinesi.com/",
+  "title": "The ECHELON Lacuna",
+  "link": "https://blog.rinesi.com/2026/01/echelon",
+  "published": "2026-01-03T03:00:00"
  },
  {
   "blog_name": "Aaron Patterson",
