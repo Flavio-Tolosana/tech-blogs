@@ -1,5 +1,40 @@
 [
  {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Don’t Stick a Laser In Your Face (A Parable): Power Tools & Ignorance",
+  "link": "https://spin.atomicobject.com/ai-power-tools-ignorance/",
+  "published": "2026-09-20T12:00:23"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Null in Python: Understanding Python's NoneType Object",
+  "link": "https://realpython.com/quizzes/null-in-python/",
+  "published": "2026-09-20T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "To Enforce Its Proposed Social Media Ban for 450 Million Pre-Teens, EU Builds an Open Source App",
+  "link": "https://yro.slashdot.org/story/26/09/20/0712211/to-enforce-its-proposed-social-media-ban-for-450-million-pre-teens-eu-builds-an-open-source-app?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-20T11:34:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Get Python help, one on one: my coaching sessions",
+  "link": "https://lernerpython.com/2026/09/20/python-coaching-one-on-one/",
+  "published": "2026-09-20T10:37:56"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Tech Industry Scratches Its Head Over Trump's 'AI Force' Proposal",
+  "link": "https://politics.slashdot.org/story/26/09/19/2250231/tech-industry-scratches-its-head-over-trumps-ai-force-proposal?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-20T07:04:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Customer-Losing Flock Now Offers Buyouts to Avoid Laying Off Employees",
@@ -26,6 +61,13 @@
   "title": "Developer Abandons 'PS5 Linux' Project After Sony Patches AI-Discovered Exploit",
   "link": "https://games.slashdot.org/story/26/09/19/222229/developer-abandons-ps5-linux-project-after-sony-patches-ai-discovered-exploit?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-09-19T22:05:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Build a Scalable SVG Icon System for Your Web App",
+  "link": "https://www.sitepoint.com/how-to-build-a-scalable-svg-icon-system-for-your-web-app/?utm_source=rss",
+  "published": "2026-09-19T19:32:22"
  },
  {
   "blog_name": "Slashdot",
