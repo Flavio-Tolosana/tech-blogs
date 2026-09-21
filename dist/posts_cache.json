@@ -1,5 +1,40 @@
 [
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "North Korean Hackers Posed as Recruiters. They Infected 30,000 Devices Worldwide",
+  "link": "https://yro.slashdot.org/story/26/09/20/2349221/north-korean-hackers-posed-as-recruiters-they-infected-30000-devices-worldwide?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-21T05:34:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Lawsuit Says Anthropic, OpenAI, SpaceXAI And Google Made Illegal Agreement On AI Slowdown",
+  "link": "https://yro.slashdot.org/story/26/09/20/2152215/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-21T01:04:00"
+ },
+ {
+  "blog_name": "Thoughtbot",
+  "blog_url": "https://robots.thoughtbot.com/",
+  "title": "thoughtbot's agent skills",
+  "link": "https://feed.thoughtbot.com/link/24077/17468027/thoughtbot-s-agent-skills",
+  "published": "2026-09-21T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "The Hard Part of Invite a Friend Is the Install",
+  "link": "https://www.codenameone.com/blog/invite-link-through-app-store/",
+  "published": "2026-09-21T00:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "APNIC 62: Updates in DNS, DHCP, certificate security, and BGP routing resilience",
+  "link": "https://blog.apnic.net/2026/09/21/apnic-62-updates-in-dns-dhcp-certificate-security-and-bgp-routing-resilience/",
+  "published": "2026-09-20T22:52:43"
+ },
+ {
   "blog_name": "Daniel Lemire",
   "blog_url": "https://lemire.me/blog/",
   "title": "AI is breaking the academic sorting machine",
@@ -123,6 +158,13 @@
   "blog_url": "https://blog.frankel.ch/",
   "title": "AI-assisted genealogy, a follow-up",
   "link": "https://blog.frankel.ch/ai-assisted-genealogy-follow-up/",
+  "published": "2026-09-20T00:00:00"
+ },
+ {
+  "blog_name": "Alex Russell",
+  "blog_url": "https://infrequently.org/",
+  "title": "From PrismJS to Better PrismJS to MicroLighter in Three Painless* Steps",
+  "link": "https://infrequently.org/2026/09/microlighter/",
   "published": "2026-09-20T00:00:00"
  },
  {
