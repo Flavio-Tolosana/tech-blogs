@@ -1,5 +1,117 @@
 [
  {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+  "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+  "published": "2026-09-21T13:44:34"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Comparison of Cluster Autoscaler and KEDA MachineSet Autoscaling on Red Hat OpenShift",
+  "link": "https://developers.redhat.com/articles/2026/09/21/comparison-of-cluster-autoscaler-and-keda-machineset-autoscaling-on-red-hat-openshift",
+  "published": "2026-09-21T13:17:24"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Scaling localnet user-defined networks (CUDNs) in Red Hat OpenShift to 3,500 networks",
+  "link": "https://developers.redhat.com/articles/2026/09/21/scaling-localnet-cudn-user-defined-networks-in-red-hat-openshift-to-3500-networks",
+  "published": "2026-09-21T13:17:22"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "AI threat modeling shouldn't be a bottleneck, so we open sourced ours",
+  "link": "https://developers.redhat.com/articles/2026/09/21/ai-threat-modeling-shouldnt-be-a-bottleneck-so-we-open-sourced-ours",
+  "published": "2026-09-21T13:17:20"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Python Workers are now generally available",
+  "link": "https://blog.cloudflare.com/python-workers-ga/",
+  "published": "2026-09-21T13:00:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Concurrency Control: Your Aggregate Is Single-Threaded. Your Cluster Isn’t.",
+  "link": "https://spin.atomicobject.com/concurrency-control-serialization/",
+  "published": "2026-09-21T12:00:49"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "Inside Petal: Building the World’s First Petabit-Class Transoceanic Subsea Cable",
+  "link": "https://engineering.fb.com/2026/09/21/connectivity/petal-petabit-transoceanic-subsea-cable/",
+  "published": "2026-09-21T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python 3.15 Preview: frozendict",
+  "link": "https://realpython.com/quizzes/python315-frozendict/",
+  "published": "2026-09-21T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python Constants: Improve Your Code's Maintainability",
+  "link": "https://realpython.com/quizzes/python-constants/",
+  "published": "2026-09-21T12:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Hostinger weekly product updates: Week 38, 2026",
+  "link": "https://www.hostinger.com/blog/product-updates-week-38-2026/",
+  "published": "2026-09-21T10:42:20"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Introducing: Dark mode for Flare",
+  "link": "https://freek.dev/3193-introducing-dark-mode-for-flare",
+  "published": "2026-09-21T10:30:31"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Australia Considers Smart Glasses Ban in Government Workplaces, While 70 People Sue Meta Over Unknowing Data Collection",
+  "link": "https://yro.slashdot.org/story/26/09/21/0243250/australia-considers-smart-glasses-ban-in-government-workplaces-while-70-people-sue-meta-over-unknowing-data-collection?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-21T10:04:00"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "5 Companies Using NVIDIA AI for Clean Energy",
+  "link": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+  "published": "2026-09-21T10:00:35"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Your REST APIs are not the problem, but your monitoring strategy might be",
+  "link": "https://www.sitepoint.com/rest-api-monitoring/?utm_source=rss",
+  "published": "2026-09-21T08:08:57"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Inside antibot, the arms race you can't see",
+  "link": "https://www.zyte.com/blog/sowa-barrier-antibot/",
+  "published": "2026-09-21T08:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "The Weakest Leg",
+  "link": "https://thedailywtf.com/articles/the-weakest-leg",
+  "published": "2026-09-21T06:30:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "North Korean Hackers Posed as Recruiters. They Infected 30,000 Devices Worldwide",
@@ -28,6 +140,20 @@
   "published": "2026-09-21T00:00:00"
  },
  {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "tokenizers v1: encode, decode and scaling, measured",
+  "link": "https://huggingface.co/blog/tokenizers-v1",
+  "published": "2026-09-21T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How V7 gives AI agents institutional memory",
+  "link": "https://openai.com/index/v7",
+  "published": "2026-09-21T00:00:00"
+ },
+ {
   "blog_name": "APNIC",
   "blog_url": "https://blog.apnic.net/",
   "title": "APNIC 62: Updates in DNS, DHCP, certificate security, and BGP routing resilience",
@@ -35,11 +161,25 @@
   "published": "2026-09-20T22:52:43"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "What We Know About Laravel 14",
+  "link": "https://laravel-news.com/laravel-14?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-20T22:48:52"
+ },
+ {
   "blog_name": "Daniel Lemire",
   "blog_url": "https://lemire.me/blog/",
   "title": "AI is breaking the academic sorting machine",
   "link": "https://lemire.me/blog/2026/09/20/ai-is-breaking-the-academic-sorting-machine/",
   "published": "2026-09-20T21:47:46"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Difflock: Lint Laravel Migrations and Diff Your Schema",
+  "link": "https://laravel-news.com/difflock-migration-linter?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-20T20:52:18"
  },
  {
   "blog_name": "Slashdot",
@@ -124,6 +264,13 @@
   "title": "Tech Industry Scratches Its Head Over Trump's 'AI Force' Proposal",
   "link": "https://politics.slashdot.org/story/26/09/19/2250231/tech-industry-scratches-its-head-over-trumps-ai-force-proposal?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-09-20T07:04:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "NaN in Pandas: Why you need np.nan, not pd.NaN",
+  "link": "https://lernerpython.com/2026/09/20/nan-in-pandas-why-you-need-np-nan-not-pd-nan/",
+  "published": "2026-09-20T06:00:00"
  },
  {
   "blog_name": "Slashdot",
@@ -1614,6 +1761,13 @@
   "blog_url": "http://semaphoreci.io/feed",
   "title": "sem-ai 0.4.0: smaller responses, safer access, and pre-flight checks",
   "link": "https://semaphore.io/blog/sem-ai-0.4.0-smaller-responses,-safer-access,-and-pre-flight-checks",
+  "published": "2026-09-16T12:01:04"
+ },
+ {
+  "blog_name": "Semaphore Engineering",
+  "blog_url": "http://semaphoreci.io/feed",
+  "title": "sem-ai 0.4.0: smaller responses, safer access, and pre-flight checks",
+  "link": "https://semaphore.io/blog/sem-ai-smaller-responses-safer-access-and-pre-flight-checks",
   "published": "2026-09-16T12:01:04"
  },
  {
