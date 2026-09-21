@@ -1,5 +1,250 @@
 [
  {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton",
+  "link": "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/",
+  "published": "2026-09-21T21:51:06"
+ },
+ {
+  "blog_name": "Shopify",
+  "blog_url": "https://shopify.engineering/",
+  "title": "Helix: The internal tool powering our Shopify app's native migration",
+  "link": "https://shopify.engineering/helix",
+  "published": "2026-09-21T21:12:33"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "How to Evaluate AI Agents From Tool Calls to Task Completion",
+  "link": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
+  "published": "2026-09-21T21:05:28"
+ },
+ {
+  "blog_name": "Amazon Science",
+  "blog_url": "https://www.amazon.science/",
+  "title": "Amazon launches research initiative with Stanford University to advance AI and science",
+  "link": "https://www.amazon.science/news/amazon-launches-research-initiative-with-stanford-university-to-advance-ai-and-science",
+  "published": "2026-09-21T19:31:59"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "As KDE Turns 30, Contributors and Commits are Going Strong",
+  "link": "https://tech.slashdot.org/story/26/09/21/0647232/as-kde-turns-30-contributors-and-commits-are-going-strong?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-21T19:04:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "More than a taken branch per cycle?",
+  "link": "https://lemire.me/blog/2026/09/21/more-than-a-taken-branch-per-cycle/",
+  "published": "2026-09-21T18:36:05"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/",
+  "published": "2026-09-21T18:30:34"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "Kodebits Day 96: Vararg Parameters [FREE]",
+  "link": "https://www.kodeco.com/52032944-kodebits-day-96-vararg-parameters",
+  "published": "2026-09-21T18:00:12"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+  "link": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+  "published": "2026-09-21T18:00:07"
+ },
+ {
+  "blog_name": "Amazon Science",
+  "blog_url": "https://www.amazon.science/",
+  "title": "Advancing AI for biology: Teaching models to design and characterize antibodies",
+  "link": "https://www.amazon.science/blog/advancing-ai-for-biology-teaching-models-to-design-and-characterize-antibodies",
+  "published": "2026-09-21T17:51:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Connect now supports Microsoft Teams",
+  "link": "https://vercel.com/changelog/vercel-connect-microsoft-teams",
+  "published": "2026-09-21T17:10:00"
+ },
+ {
+  "blog_name": "Microsoft Edge",
+  "blog_url": "https://blogs.windows.com/msedgedev/",
+  "title": "New in Edge for developers – Create better components and make your site agent-ready",
+  "link": "https://blogs.windows.com/msedgedev/2026/09/21/new-in-edge-for-developers-create-better-components-and-make-your-site-agent-ready/",
+  "published": "2026-09-21T16:58:01"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/",
+  "published": "2026-09-21T16:36:10"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Run Positron on Amazon SageMaker AI for data science workflows",
+  "link": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/",
+  "published": "2026-09-21T16:34:21"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/",
+  "published": "2026-09-21T16:27:34"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
+  "link": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/",
+  "published": "2026-09-21T16:24:40"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
+  "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
+  "published": "2026-09-21T16:11:24"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Bring your Android game to the car screen today",
+  "link": "https://android-developers.googleblog.com/2026/09/bring-android-game-to-car-screen.html",
+  "published": "2026-09-21T16:00:48"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+  "link": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+  "published": "2026-09-21T16:00:46"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "Open-Sourcing Rebalancer: A Generic, High-Performance Library for Solving Assignment Problems",
+  "link": "https://engineering.fb.com/2026/09/21/open-source/rebalancer-generic-high-performance-library-assignment-problems/",
+  "published": "2026-09-21T16:00:37"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+  "link": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+  "published": "2026-09-21T16:00:10"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Postgres on NVMe: performance and the convergence of transactions and analytics",
+  "link": "https://clickhouse.com/blog/postgres-on-nvme",
+  "published": "2026-09-21T15:47:52"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Jev, the model that cannot write a word, and where it fits in web scraping(does it?)",
+  "link": "https://www.zyte.com/blog/jev-the-model-that-cannot-write-a-word-and-where-it-fits-in-web-scraping-does-it/",
+  "published": "2026-09-21T15:35:27"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "The data does not show mass unemployment",
+  "link": "https://lemire.me/blog/2026/09/21/nomassunemployment/",
+  "published": "2026-09-21T15:04:08"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Turn Your Latest Observations Into Timely Weather Decisions With NVIDIA Earth-2",
+  "link": "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2/",
+  "published": "2026-09-21T15:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Deployments now show billable duration and CPU minutes",
+  "link": "https://vercel.com/changelog/deployments-now-show-billable-duration-and-cpu-minutes",
+  "published": "2026-09-21T15:00:00"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+  "link": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
+  "published": "2026-09-21T14:51:34"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Securing AI Agent Tool Execution with TypeScript AST Sandboxes",
+  "link": "https://www.sitepoint.com/securing-ai-agent-tool-execution-with-typescript-ast-sandboxes/?utm_source=rss",
+  "published": "2026-09-21T14:39:23"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building Deterministic Multi-Agent State Machines in TypeScript",
+  "link": "https://www.sitepoint.com/building-deterministic-multi-agent-state-machines-in-typescript/?utm_source=rss",
+  "published": "2026-09-21T14:39:03"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building Composite Model Context Protocol (MCP) Gateways in TypeScript",
+  "link": "https://www.sitepoint.com/building-composite-model-context-protocol-mcp-gateways-in-typescript/?utm_source=rss",
+  "published": "2026-09-21T14:38:42"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Fixing Server Component Bundle Leaks in Next.js with AST Linting",
+  "link": "https://www.sitepoint.com/fix-server-component-bundle-leaks-nextjs-ast-linting/?utm_source=rss",
+  "published": "2026-09-21T14:38:24"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Are Book Publishers Warming Up to the AI Industry?",
+  "link": "https://news.slashdot.org/story/26/09/21/0551218/are-book-publishers-warming-up-to-the-ai-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-21T14:34:00"
+ },
+ {
+  "blog_name": "Dropbox",
+  "blog_url": "https://blogs.dropbox.com/tech/",
+  "title": "Introducing Our New Dropbox API Documentation",
+  "link": "https://dropbox.tech/developers/new-dropbox-api-documentation",
+  "published": "2026-09-21T14:30:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "What’s the highest legal FILETIME? Is it safe to use?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711",
+  "published": "2026-09-21T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python 3.15 Preview: frozendict",
+  "link": "https://realpython.com/python315-frozendict/",
+  "published": "2026-09-21T14:00:00"
+ },
+ {
   "blog_name": "Hugging Face",
   "blog_url": "https://huggingface.co/blog",
   "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
@@ -63,6 +308,20 @@
   "published": "2026-09-21T12:00:00"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Advisory Group on Mathematics and Artificial Intelligence",
+  "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+  "published": "2026-09-21T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+  "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+  "published": "2026-09-21T12:00:00"
+ },
+ {
   "blog_name": "Hostinger",
   "blog_url": "https://www.hostinger.com/blog/engineering/",
   "title": "Hostinger weekly product updates: Week 38, 2026",
@@ -91,6 +350,13 @@
   "published": "2026-09-21T10:00:35"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Building standards for the next phase of AI",
+  "link": "https://openai.com/index/building-standards-next-phase-ai",
+  "published": "2026-09-21T10:00:00"
+ },
+ {
   "blog_name": "SitePoint",
   "blog_url": "https://sitepoint.com",
   "title": "Your REST APIs are not the problem, but your monitoring strategy might be",
@@ -103,6 +369,13 @@
   "title": "Inside antibot, the arms race you can't see",
   "link": "https://www.zyte.com/blog/sowa-barrier-antibot/",
   "published": "2026-09-21T08:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Expanding OpenAI Academy with new learning paths",
+  "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+  "published": "2026-09-21T07:00:00"
  },
  {
   "blog_name": "The Daily WTF",
@@ -151,6 +424,62 @@
   "blog_url": "https://openai.com/news/",
   "title": "How V7 gives AI agents institutional memory",
   "link": "https://openai.com/index/v7",
+  "published": "2026-09-21T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Building Secure AI Agents with Microsoft Agent Framework and Auth0: Human-in-the-Loop Approval",
+  "link": "https://auth0.com/blog/building-secure-ai-agents-microsoft-agent-framework-auth0-part-4-human-in-the-loop-approval/",
+  "published": "2026-09-21T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "More data won't make your AI smarter (here's what will)",
+  "link": "https://www.twilio.com/en-us/blog/insights/more-data-wont-make-ai-smarter",
+  "published": "2026-09-21T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Sending SMS with an Agentic AI using Twilio and Hermes Agent",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-agentic-ai-using-twilio-hermes-agent",
+  "published": "2026-09-21T00:00:00"
+ },
+ {
+  "blog_name": "Rust",
+  "blog_url": "https://blog.rust-lang.org/",
+  "title": "GitHub Actions leaking secrets when Miri output is cached",
+  "link": "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
+  "published": "2026-09-21T00:00:00"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "10 tips to improve your coding agent game",
+  "link": "https://www.pulumi.com/blog/10-tips-to-improve-your-coding-agent-game/",
+  "published": "2026-09-21T00:00:00"
+ },
+ {
+  "blog_name": "eieio.games",
+  "blog_url": "https://eieio.games/blog/",
+  "title": "Solitaire Alone Together",
+  "link": "https://eieio.games/blog/solitaire-alone-together",
+  "published": "2026-09-21T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Grok 4.7 now available and 40% off on AI Gateway, fx, and eve",
+  "link": "https://vercel.com/changelog/grok-4-7-now-available-and-40-off-on-ai-gateway-fx-eve",
+  "published": "2026-09-21T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Understand the top paths users take to convert or drop off with Journey Paths",
+  "link": "https://www.datadoghq.com/blog/product-analytics-journey-paths/",
   "published": "2026-09-21T00:00:00"
  },
  {
@@ -677,6 +1006,13 @@
   "title": "Scaling Enterprise Testing on Kubernetes with Argo",
   "link": "https://medium.com/capital-one-tech/scaling-enterprise-testing-on-kubernetes-with-argo-5e51f3df3ebc?source=rss----3db3a67cb648---4",
   "published": "2026-09-18T14:01:33"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Comparing exception behavior of magic statics, std::call_once, and std::async",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260918-00/?p=112709",
+  "published": "2026-09-18T14:00:00"
  },
  {
   "blog_name": "AWS Machine Learning",
