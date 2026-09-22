@@ -1,5 +1,61 @@
 [
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Haters think AI agents can't write GPU code? This'll ROCm",
+  "link": "https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/",
+  "published": "2026-09-22T07:40:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Juicebox vs SeekOut: A tool your team runs, or a service that runs for you?",
+  "link": "https://www.sitepoint.com/juicebox-vs-seekout-comparison/?utm_source=rss",
+  "published": "2026-09-22T05:21:42"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Latest BGP hijack targets hosting software vendor",
+  "link": "https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor/",
+  "published": "2026-09-22T04:04:24"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Meta's New 'Personal AI Agent' Muse Beats ChatGPT in Downloads - and Get Blocked by Amazon",
+  "link": "https://tech.slashdot.org/story/26/09/22/0116233/metas-new-personal-ai-agent-muse-beats-chatgpt-in-downloads---and-get-blocked-by-amazon?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-22T04:04:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "A summer of AI optimization",
+  "link": "https://lemire.me/blog/2026/09/22/a-summer-of-ai-optimization/",
+  "published": "2026-09-22T02:27:44"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Xcode 27: The Build Settings That Can Stop a Release",
+  "link": "https://www.codenameone.com/blog/xcode-27-build-settings/",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Paramount Skydance 'Emerges Victorious', Finally Wins Settlement for Warner Bros Takeover",
+  "link": "https://entertainment.slashdot.org/story/26/09/21/226252/paramount-skydance-emerges-victorious-finally-wins-settlement-for-warner-bros-takeover?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-21T23:34:00"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+  "link": "https://simonwillison.net/2026/Sep/21/jev/",
+  "published": "2026-09-21T23:09:20"
+ },
+ {
   "blog_name": "NVIDIA Developer",
   "blog_url": "https://developer.nvidia.com/blog/",
   "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton",
@@ -480,6 +536,20 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Understand the top paths users take to convert or drop off with Journey Paths",
   "link": "https://www.datadoghq.com/blog/product-analytics-journey-paths/",
+  "published": "2026-09-21T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "MiMo V2.6 models now available on AI Gateway",
+  "link": "https://vercel.com/changelog/mimo-v2-6-models-now-available-on-ai-gateway",
+  "published": "2026-09-21T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "AI Gateway now supports TypeSafe clients and an HTTP API for Jev",
+  "link": "https://vercel.com/changelog/ai-gateway-now-supports-typesafe-clients-and-http-api-for-jev",
   "published": "2026-09-21T00:00:00"
  },
  {
@@ -1943,6 +2013,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "Our framework for reporting model misalignment",
   "link": "https://openai.com/index/model-misalignment-reporting-framework",
+  "published": "2026-09-16T17:00:00"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents",
+  "link": "https://stackoverflow.blog/2026/09/16/here-s-what-s-new-on-stack-overflow-for-agents/",
   "published": "2026-09-16T17:00:00"
  },
  {
