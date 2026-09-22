@@ -1,9 +1,198 @@
 [
  {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Secure AI agents with HashiCorp Boundary",
+  "link": "https://www.hashicorp.com/blog/secure-ai-agents-with-hashicorp-boundary",
+  "published": "2026-09-29T07:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Better prompt caching for GPT-6",
+  "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+  "published": "2026-09-22T21:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Optimizing Gemini 3.8 Flash for Autonomous Coding Agents: Thinking Levels and Tool Fallbacks",
+  "link": "https://www.sitepoint.com/optimize-gemini-3-8-flash-coding-agents-thinking-levels/?utm_source=rss",
+  "published": "2026-09-22T19:29:37"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building ASGI Microservices with Cloudflare Python Workers in Production",
+  "link": "https://www.sitepoint.com/asgi-microservices-on-cloudflare-python-workers/?utm_source=rss",
+  "published": "2026-09-22T19:08:57"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Live Stream: Building a Social Network in PHP in 48 Hours",
+  "link": "https://laravel-news.com/social-network-php-48-hours?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-22T19:04:35"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
+  "link": "https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922",
+  "published": "2026-09-22T19:00:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "One Scrapy Spider, Three Browser Setups: Playwright, Patchright, and Zyte",
+  "link": "https://www.zyte.com/blog/scrapy-playwright-stealth-and-zyte-cdp/",
+  "published": "2026-09-22T18:15:47"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/",
+  "published": "2026-09-22T18:10:22"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Introducing GPT-6 Sol and Luna",
+  "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+  "published": "2026-09-22T18:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "'Coyote vs. Acme' Outgrosses All But 3 WB Movies This Year, Heads To Profit",
+  "link": "https://entertainment.slashdot.org/story/26/09/22/0529223/coyote-vs-acme-outgrosses-all-but-3-wb-movies-this-year-heads-to-profit?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-22T17:34:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Claude Opus 5.5 is now available on AWS",
+  "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/",
+  "published": "2026-09-22T17:28:01"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
+  "link": "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing/",
+  "published": "2026-09-22T17:27:41"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/",
+  "published": "2026-09-22T17:18:13"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Topology-Aware Workload Scheduling with NVIDIA Topograph",
+  "link": "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph/",
+  "published": "2026-09-22T17:16:28"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Land your apps on Googlebook with adaptive development",
+  "link": "https://android-developers.googleblog.com/2026/09/adaptive-development-scale-app-googlebook.html",
+  "published": "2026-09-22T17:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "The Genie One MCP is now Generally Available",
+  "link": "https://www.databricks.com/blog/genie-one-mcp-now-generally-available",
+  "published": "2026-09-22T16:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Genie One MCP: Give any AI Agent the Right Business Context",
+  "link": "https://www.databricks.com/blog/genie-one-mcp-give-any-ai-agent-right-business-context",
+  "published": "2026-09-22T16:00:00"
+ },
+ {
+  "blog_name": "SurveyMonkey",
+  "blog_url": "https://engineering.surveymonkey.com/",
+  "title": "On the ground at HubSpot UNBOUND: The new rules of market research in an AI world",
+  "link": "https://www.surveymonkey.com/curiosity/hubspot-unbound-market-research-engine/?ut_source=rss",
+  "published": "2026-09-22T15:59:08"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/",
+  "published": "2026-09-22T15:46:07"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI",
+  "link": "https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/",
+  "published": "2026-09-22T15:35:53"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "Meet the Ecosystem: Partners and Customers at WeAreDevelopers with Docker",
+  "link": "https://www.docker.com/blog/wearedevelopers-partner-customer-sessions-2026/",
+  "published": "2026-09-22T15:06:15"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "Introducing DigitalOcean Managed Agents: One AI-native stack to power your intelligence",
+  "link": "https://www.digitalocean.com/blog/managed-agents-public-preview",
+  "published": "2026-09-22T15:01:34"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Optimizing GitHub Actions for Agent PRs: Speculative Test Slicing and AST Impact Analysis",
+  "link": "https://www.sitepoint.com/optimize-github-actions-agent-prs-test-slicing/?utm_source=rss",
+  "published": "2026-09-22T14:53:49"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Migrating Repositories to Git 3.0: Moving to SHA-256 and Reftables",
+  "link": "https://www.sitepoint.com/migrate-to-git-3-0-sha-256-and-reftables/?utm_source=rss",
+  "published": "2026-09-22T14:52:36"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "How Fountain rebuilt its data plane on ClickHouse Cloud to power Cue, the Frontline Superintelligence",
+  "link": "https://clickhouse.com/blog/fountain-agentic-ai-for-high-volume-hiring",
+  "published": "2026-09-22T14:52:36"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "We just shipped support for the ugliest part of HTTP: Vary",
+  "link": "https://blog.cloudflare.com/vary-support/",
+  "published": "2026-09-22T14:04:31"
+ },
+ {
   "blog_name": "Tailscale",
   "blog_url": "https://tailscale.com/blog",
   "title": "We're making Tailscale faster",
   "link": "https://tailscale.com/blog/making-tailscale-faster",
+  "published": "2026-09-22T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Using the Claude API in Python",
+  "link": "https://realpython.com/courses/using-claude-api-python/",
   "published": "2026-09-22T14:00:00"
  },
  {
@@ -119,6 +308,13 @@
   "published": "2026-09-22T08:34:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Prevent Stale API Responses with AbortController",
+  "link": "https://www.sitepoint.com/how-to-prevent-stale-api-responses-with-abortcontroller/?utm_source=rss",
+  "published": "2026-09-22T08:12:45"
+ },
+ {
   "blog_name": "OCTO Technology",
   "blog_url": "https://blog.octo.com/en/",
   "title": "Utiliser Claude sans coder",
@@ -189,6 +385,13 @@
   "published": "2026-09-22T04:00:00"
  },
  {
+  "blog_name": "Gleb Bahmutov",
+  "blog_url": "https://glebbahmutov.com/blog/",
+  "title": "Cypress Cloud Test Triage Using AI",
+  "link": "https://glebbahmutov.com/blog/cypress-cloud-test-triage-using-ai/",
+  "published": "2026-09-22T04:00:00"
+ },
+ {
   "blog_name": "Daniel Lemire",
   "blog_url": "https://lemire.me/blog/",
   "title": "A summer of AI optimization",
@@ -221,6 +424,104 @@
   "blog_url": "https://huggingface.co/blog",
   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
   "link": "https://huggingface.co/blog/omlx",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Confused Deputy: The Old Bug That AI Agents Keep Reintroducing",
+  "link": "https://auth0.com/blog/confused-deputy-the-old-bug-that-ai-agents-keep-reintroducing/",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "Deliveroo",
+  "blog_url": "https://deliveroo.engineering/",
+  "title": "Roonomics: How Economics Helped Us to Build a Churn Prediction Model",
+  "link": "https://deliveroo.engineering/2026/09/22/roonomics-how-economics-helped-us-to-build-a-churn-prediction-model.html",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "Discord",
+  "blog_url": "https://blog.discordapp.com/",
+  "title": "Safer for Teens, Same Discord for Adults",
+  "link": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "MapTiler",
+  "blog_url": "https://www.maptiler.com/blog/",
+  "title": "Understanding X &amp; Y Coordinates in GIS &amp; Web Mapping",
+  "link": "https://www.maptiler.com/news/2026/09/understanding-x-and-y-coordinates-in-gis-web-mapping",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "Stripe",
+  "blog_url": "https://stripe.com/blog",
+  "title": "New trends in global card fraud: How 3D Secure and regional mandates are affecting risk",
+  "link": "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "Rust",
+  "blog_url": "https://blog.rust-lang.org/",
+  "title": "Announcing a Maintainer in Residence: Scott Schafer for the Cargo team",
+  "link": "https://blog.rust-lang.org/2026/09/22/announcing-a-maintainer-in-residence-scott-schafer-for-the-cargo-team/",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "GPT-6 Sol and Luna now available on AI Gateway",
+  "link": "https://vercel.com/changelog/gpt-6-sol-and-luna-now-available-on-ai-gateway",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Drives for Vercel Sandbox are now in public beta",
+  "link": "https://vercel.com/changelog/drives-for-vercel-sandbox-are-now-in-public-beta",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Claude Opus 5.5 now available on AI Gateway",
+  "link": "https://vercel.com/changelog/claude-opus-5-5-now-available-on-ai-gateway",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+  "link": "https://huggingface.co/blog/evaleval-aisi",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Priorities and principles for effective third party assessments",
+  "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Cut AI agent cost and improve accuracy with Code Execution in the Datadog MCP Server",
+  "link": "https://www.datadoghq.com/blog/datadog-code-execution/",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "When users don’t click thumbs up: Inferring agent feedback from Datadog telemetry",
+  "link": "https://www.datadoghq.com/blog/agent-feedback-classification-skill/",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "The quantum countdown: Why post-quantum cryptography is a strategic imperative",
+  "link": "https://www.thoughtworks.com/insights/articles/the-quantum-countdown",
   "published": "2026-09-22T00:00:00"
  },
  {
@@ -765,6 +1066,13 @@
  {
   "blog_name": "Laravel",
   "blog_url": "https://laravel-news.com/blog/",
+  "title": "Health for Laravel: Kubernetes Probes and Prometheus Metrics",
+  "link": "https://laravel-news.com/laravel-health-kubernetes-prometheus?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-20T22:49:39"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
   "title": "What We Know About Laravel 14",
   "link": "https://laravel-news.com/laravel-14?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
   "published": "2026-09-20T22:48:52"
@@ -782,6 +1090,13 @@
   "title": "Difflock: Lint Laravel Migrations and Diff Your Schema",
   "link": "https://laravel-news.com/difflock-migration-linter?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
   "published": "2026-09-20T20:52:18"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Fast Excel 5.x Adds Streaming Imports and Safer Exports",
+  "link": "https://laravel-news.com/fast-excel-5-x?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-20T20:51:10"
  },
  {
   "blog_name": "Slashdot",
@@ -1370,6 +1685,13 @@
   "title": "Journalist Calls Out 'Collective Amnesia' of Schools' Romance With Big Tech Over AI",
   "link": "https://news.slashdot.org/story/26/09/15/0346259/journalist-calls-out-collective-amnesia-of-schools-romance-with-big-tech-over-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-09-18T10:04:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Database Branching: A Developer's Guide to Git-Style Workflows",
+  "link": "https://www.databricks.com/blog/database-branching",
+  "published": "2026-09-18T09:31:51"
  },
  {
   "blog_name": "OCTO Technology",
@@ -5404,6 +5726,13 @@
   "published": "2026-09-07T06:30:00"
  },
  {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Terraform provider for Google Cloud 8.0 now generally available",
+  "link": "https://www.hashicorp.com/blog/terraform-provider-for-google-cloud-80-now-generally-available",
+  "published": "2026-09-07T04:00:00"
+ },
+ {
   "blog_name": "Laravel",
   "blog_url": "https://laravel-news.com/blog/",
   "title": "Find Unexpected Test Inputs with Fuzz for Pest",
@@ -8075,6 +8404,13 @@
   "blog_url": "https://engineeringblog.yelp.com/",
   "title": "Migrating a Large Flow Monorepo to TypeScript",
   "link": "https://engineeringblog.yelp.com/2026/08/migrating-a-large-flow-monorepo-to-typescript.html",
+  "published": "2026-08-04T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic 9.5: Columnar, VectorDB index mode & auto-calibration, and AI-driven alert triage",
+  "link": "https://www.elastic.co/blog/whats-new-elastic-9-5-0",
   "published": "2026-08-04T00:00:00"
  },
  {
@@ -13487,6 +13823,13 @@
   "title": "Data Inventory",
   "link": "https://medium.com/wise-engineering/data-inventory-4eff3f015553?source=rss----f2565bbe9c46---4",
   "published": "2025-02-19T14:24:14"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "7 lessons from IT leaders on their AI adoption journeys",
+  "link": "https://www.elastic.co/blog/ai-adoption-lessons-from-it-leaders",
+  "published": "2025-02-18T08:00:00"
  },
  {
   "blog_name": "Pat Shaughnessy",
