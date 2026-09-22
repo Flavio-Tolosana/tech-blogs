@@ -1,10 +1,164 @@
 [
  {
+  "blog_name": "Tailscale",
+  "blog_url": "https://tailscale.com/blog",
+  "title": "We're making Tailscale faster",
+  "link": "https://tailscale.com/blog/making-tailscale-faster",
+  "published": "2026-09-22T14:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "How La’Oda turned Black Friday into its biggest growth story yet",
+  "link": "https://www.hostinger.com/blog/laoda/",
+  "published": "2026-09-22T13:40:16"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "What is stalemate in chess?",
+  "link": "https://blog.duolingo.com/stalemate-in-chess/",
+  "published": "2026-09-22T13:24:22"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "ClickHouse appoints Mike Scarpelli, former Snowflake and ServiceNow CFO, to Board of Directors",
+  "link": "https://clickhouse.com/blog/clickhouse-appoints-mike-scarpelli-to-board-of-directors",
+  "published": "2026-09-22T13:11:41"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Data liberation: Apache Kafka's native cluster mirroring",
+  "link": "https://developers.redhat.com/articles/2026/09/22/data-liberation-apache-kafka-native-cluster-mirroring",
+  "published": "2026-09-22T13:10:22"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Pentagon Investigators Say Overreliance on Palantir AI Contributed to US Strike That Killed 123 Iranian Children",
+  "link": "https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-22T13:04:00"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Extend OpenShift Lightspeed with Red Hat Satellite, MCP, and BYOK",
+  "link": "https://developers.redhat.com/articles/2026/09/22/integrate-red-hat-satellite-mcp-openshift-lightspeed",
+  "published": "2026-09-22T13:01:42"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Introducing Worker Previews: isolated preview environments for every change your agent makes",
+  "link": "https://blog.cloudflare.com/worker-previews/",
+  "published": "2026-09-22T13:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities",
+  "link": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
+  "published": "2026-09-22T13:00:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "What a Write-Only Architecture Bought Our Health App",
+  "link": "https://spin.atomicobject.com/write-only-architecture-health-app/",
+  "published": "2026-09-22T12:00:50"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+  "link": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+  "published": "2026-09-22T12:00:41"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Setting Up Python for Machine Learning on Windows",
+  "link": "https://realpython.com/quizzes/python-windows-machine-learning-setup/",
+  "published": "2026-09-22T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Using the Claude API in Python",
+  "link": "https://realpython.com/quizzes/using-claude-api-python/",
+  "published": "2026-09-22T12:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS",
+  "link": "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros/",
+  "published": "2026-09-22T12:00:00"
+ },
+ {
+  "blog_name": "Expedia",
+  "blog_url": "https://medium.com/expedia-group-tech",
+  "title": "Building the Operating Model for Agentic AI at Expedia Group",
+  "link": "https://medium.com/expedia-group-tech/building-the-operating-model-for-agentic-ai-at-expedia-group-f7555fcce506?source=rss----38998a53046f---4",
+  "published": "2026-09-22T11:01:01"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 26.10.0 (Current)",
+  "link": "https://nodejs.org/en/blog/release/v26.10.0",
+  "published": "2026-09-22T09:03:49"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Opens Preorders for Its $899 Gemini-Enhanced 'Googlebook' Laptops",
+  "link": "https://tech.slashdot.org/story/26/09/22/031256/google-opens-preorders-for-its-899-gemini-enhanced-googlebook-laptops?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-22T08:34:00"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Utiliser Claude sans coder",
+  "link": "https://blog.octo.com/octo-utiliser-claude-sans-coder",
+  "published": "2026-09-22T08:08:10"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "Haters think AI agents can't write GPU code? This'll ROCm",
   "link": "https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/",
   "published": "2026-09-22T07:40:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Stopping a crawl when the data stops looking real with Jev",
+  "link": "https://www.zyte.com/blog/stopping-a-crawl-when-fields-stop-looking-real/",
+  "published": "2026-09-22T07:00:04"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "Why Developer Portals Must Evolve in the AI Agent Age",
+  "link": "https://nordicapis.com/why-developer-portals-must-evolve-in-the-ai-agent-age/",
+  "published": "2026-09-22T07:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Get Your Website Protected in 10 Minutes with SafeLine WAF",
+  "link": "https://www.sitepoint.com/safeline-waf-deployment-tutorial/?utm_source=rss",
+  "published": "2026-09-22T06:42:13"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: The John Cage Variable",
+  "link": "https://thedailywtf.com/articles/the-john-cage-variable",
+  "published": "2026-09-22T06:30:00"
  },
  {
   "blog_name": "SitePoint",
@@ -28,6 +182,13 @@
   "published": "2026-09-22T04:04:00"
  },
  {
+  "blog_name": "Snyk",
+  "blog_url": "https://snyk.io/blog",
+  "title": "So I asked my agent instead…",
+  "link": "https://snyk.io/blog/so-i-asked-my-agent-instead/",
+  "published": "2026-09-22T04:00:00"
+ },
+ {
   "blog_name": "Daniel Lemire",
   "blog_url": "https://lemire.me/blog/",
   "title": "A summer of AI optimization",
@@ -35,10 +196,31 @@
   "published": "2026-09-22T02:27:44"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building an Accessible Ecommerce Product Page with WCAG 2.2",
+  "link": "https://www.sitepoint.com/building-an-accessible-ecommerce-product-page-with-wcag-2-2/?utm_source=rss",
+  "published": "2026-09-22T01:39:49"
+ },
+ {
   "blog_name": "CodeName One",
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Xcode 27: The Build Settings That Can Stop a Release",
   "link": "https://www.codenameone.com/blog/xcode-27-build-settings/",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Transformers now runs llama.cpp quants",
+  "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+  "link": "https://huggingface.co/blog/omlx",
   "published": "2026-09-22T00:00:00"
  },
  {
@@ -287,6 +469,13 @@
   "published": "2026-09-21T14:30:00"
  },
  {
+  "blog_name": "GoCardless",
+  "blog_url": "https://gocardless.com/blog/tagged/engineering/",
+  "title": "GoCardless processes the first agentic account-to-account payment in the UK",
+  "link": "https://gocardless.com/blog/gocardless-first-agentic-payment-uk",
+  "published": "2026-09-21T14:15:16"
+ },
+ {
   "blog_name": "Raymond Chen",
   "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
   "title": "What’s the highest legal FILETIME? Is it safe to use?",
@@ -298,6 +487,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Python 3.15 Preview: frozendict",
   "link": "https://realpython.com/python315-frozendict/",
+  "published": "2026-09-21T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "What’s the highest legal FILETIME? Is it safe to use?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711/",
   "published": "2026-09-21T14:00:00"
  },
  {
@@ -446,6 +642,13 @@
   "title": "North Korean Hackers Posed as Recruiters. They Infected 30,000 Devices Worldwide",
   "link": "https://yro.slashdot.org/story/26/09/20/2349221/north-korean-hackers-posed-as-recruiters-they-infected-30000-devices-worldwide?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-09-21T05:34:00"
+ },
+ {
+  "blog_name": "Toptal",
+  "blog_url": "https://www.toptal.com/blog/",
+  "title": "How to Create a WordPress Plugin: A Step-by-Step Development Guide",
+  "link": "https://www.toptal.com/developers/wordpress/create-wordpress-plugin",
+  "published": "2026-09-21T04:00:00"
  },
  {
   "blog_name": "Slashdot",
@@ -1085,6 +1288,13 @@
   "published": "2026-09-18T14:00:00"
  },
  {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Comparing exception behavior of magic statics, std::call_once, and std::async",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260918-00/?p=112709/",
+  "published": "2026-09-18T14:00:00"
+ },
+ {
   "blog_name": "AWS Machine Learning",
   "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
   "title": "Introducing Amazon SageMaker HyperPod Inference Gateway",
@@ -1579,6 +1789,13 @@
   "blog_url": "https://databricks.com/blog",
   "title": "Modernizing the Trade Lifecycle With Governed Data and AI",
   "link": "https://www.databricks.com/blog/modernizing-trade-lifecycle-governed-data-and-ai",
+  "published": "2026-09-17T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "std::call_once vs. std::async",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260917-00/?p=112706/",
   "published": "2026-09-17T14:00:00"
  },
  {
@@ -2107,6 +2324,13 @@
   "published": "2026-09-16T14:00:00"
  },
  {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Magic statics vs. std::call_once",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260916-00/?p=112703/",
+  "published": "2026-09-16T14:00:00"
+ },
+ {
   "blog_name": "Red Hat",
   "blog_url": "https://developers.redhat.com/blog/",
   "title": "Why your Kafka topic ignores retention.ms (and how to fix it)",
@@ -2594,6 +2818,13 @@
   "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
   "title": "Why do Microsoft job levels start in the high 50’s instead of starting at a sane number like 1?",
   "link": "https://devblogs.microsoft.com/oldnewthing/20260915-00/?p=112700",
+  "published": "2026-09-15T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Why do Microsoft job levels start in the high 50’s instead of starting at a sane number like 1?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260915-00/?p=112700/",
   "published": "2026-09-15T14:00:00"
  },
  {
