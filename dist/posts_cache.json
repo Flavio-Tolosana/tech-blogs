@@ -7,6 +7,118 @@
   "published": "2026-09-29T07:00:00"
  },
  {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "How I massively improved my AI inference performance without buying new hardware",
+  "link": "https://developers.redhat.com/articles/2026/09/23/i-improved-my-ai-inference-performance-without-buying-new-hardware",
+  "published": "2026-09-23T13:31:51"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Build OpenJDK container images locally using the standalone S2I tool",
+  "link": "https://developers.redhat.com/articles/2026/09/23/build-openjdk-container-images-locally-using-standalone-s2i-tool",
+  "published": "2026-09-23T13:31:48"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+  "link": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+  "published": "2026-09-23T13:17:01"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+  "link": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
+  "published": "2026-09-23T13:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+  "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+  "published": "2026-09-23T13:00:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "My First Agentic Project: The Blank Page Was the Hardest Part",
+  "link": "https://spin.atomicobject.com/my-first-agentic-project/",
+  "published": "2026-09-23T12:00:03"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Cursor vs Copilot: Which AI Editor Is Better for Python?",
+  "link": "https://realpython.com/quizzes/cursor-vs-copilot/",
+  "published": "2026-09-23T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Sorting Algorithms in Python",
+  "link": "https://realpython.com/quizzes/sorting-algorithms-python/",
+  "published": "2026-09-23T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Bitcoin Surges to $86,455, an 8-Month High, After America's SEC Announces Tokenized Stock Experiment",
+  "link": "https://slashdot.org/story/26/09/23/0744202/bitcoin-surges-to-86455-an-8-month-high-after-americas-sec-announces-tokenized-stock-experiment?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-23T11:34:00"
+ },
+ {
+  "blog_name": "Criteo",
+  "blog_url": "https://medium.com/criteo-labs",
+  "title": "How Criteo Measures Bare-Metal Infrastructure Carbon",
+  "link": "https://medium.com/criteo-engineering/how-criteo-measures-bare-metal-infrastructure-carbon-6d0302218eab?source=rss----fc3ea5a64a12---4",
+  "published": "2026-09-23T09:54:59"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Where America wants to work for itself, and where it actually does",
+  "link": "https://www.hostinger.com/blog/work-for-yourself-by-state/",
+  "published": "2026-09-23T08:53:18"
+ },
+ {
+  "blog_name": "HTTP Toolkit",
+  "blog_url": "https://httptoolkit.tech/blog",
+  "title": "Android 17 enables certificate transparency, and breaks custom CAs",
+  "link": "https://httptoolkit.com/blog/android-17-certificate-transparency/",
+  "published": "2026-09-23T08:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Microsoft Helps Take Down Massive Automated, AI-Powered Phishing-as-a-Service Platform",
+  "link": "https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-23T07:04:00"
+ },
+ {
+  "blog_name": "Dropbox",
+  "blog_url": "https://blogs.dropbox.com/tech/",
+  "title": "What Dropbox has learned from deploying AI at company scale",
+  "link": "https://dropbox.tech/culture/learnings-from-deploying-ai-at-company-scale",
+  "published": "2026-09-23T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "It's all Part 1 of the Process",
+  "link": "https://thedailywtf.com/articles/it-s-all-part-1-of-the-process",
+  "published": "2026-09-23T06:30:00"
+ },
+ {
+  "blog_name": "Ruby-lang",
+  "blog_url": "https://www.ruby-lang.org/en/news/",
+  "title": "Ruby 3.4.11 Released",
+  "link": "https://www.ruby-lang.org/en/news/2026/09/23/ruby-3-4-11-released/",
+  "published": "2026-09-23T06:10:50"
+ },
+ {
   "blog_name": "APNIC",
   "blog_url": "https://blog.apnic.net/",
   "title": "Understanding ASPA: The next step in routing security",
@@ -42,6 +154,13 @@
   "published": "2026-09-23T00:00:00"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+  "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+  "published": "2026-09-23T00:00:00"
+ },
+ {
   "blog_name": "Simon Willison",
   "blog_url": "http://simonwillison.net/",
   "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
@@ -68,6 +187,13 @@
   "title": "Are Students Suddenly Losing Interest in Computer Science as AI Coding Takes Off?",
   "link": "https://news.slashdot.org/story/26/09/22/0010234/are-students-suddenly-losing-interest-in-computer-science-as-ai-coding-takes-off?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-09-22T22:04:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laravel Live Denmark 2026 Talks Are Now on YouTube",
+  "link": "https://laravel-news.com/laravel-live-denmark-2026-talks?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-22T21:33:31"
  },
  {
   "blog_name": "OpenAI",
@@ -439,6 +565,13 @@
   "title": "CodeSOD: The John Cage Variable",
   "link": "https://thedailywtf.com/articles/the-john-cage-variable",
   "published": "2026-09-22T06:30:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas nullable integers: Keeping ints with Int64 and pd.NA",
+  "link": "https://lernerpython.com/2026/09/22/pandas-nullable-integers-keeping-ints-with-int64-and-pd-na/",
+  "published": "2026-09-22T06:00:00"
  },
  {
   "blog_name": "SitePoint",
@@ -2611,6 +2744,13 @@
   "published": "2026-09-16T17:34:00"
  },
  {
+  "blog_name": "RoseHosting",
+  "blog_url": "https://www.rosehosting.com/blog/",
+  "title": "How to Set Up n8n Workflow Automation with Docker and PostgreSQL on Ubuntu 26.04",
+  "link": "https://www.rosehosting.com/blog/n8n-workflow-automation-on-ubuntu-26-04/",
+  "published": "2026-09-16T17:30:00"
+ },
+ {
   "blog_name": "SitePoint",
   "blog_url": "https://sitepoint.com",
   "title": "Local S3 Storage Without MinIO: SeaweedFS and Garage in Docker Compose",
@@ -3708,6 +3848,13 @@
   "title": "Kodebits Day 92: Collection For Loop [FREE]",
   "link": "https://www.kodeco.com/52032933-kodebits-day-92-collection-for-loop",
   "published": "2026-09-14T18:00:05"
+ },
+ {
+  "blog_name": "RoseHosting",
+  "blog_url": "https://www.rosehosting.com/blog/",
+  "title": "How to Install Node.js, PM2, and Deploy a Next.js App on AlmaLinux 10",
+  "link": "https://www.rosehosting.com/blog/install-node-js-pm2-and-deploy-a-next-js-app-on-almalinux-10/",
+  "published": "2026-09-14T17:30:00"
  },
  {
   "blog_name": ".NET",
@@ -5236,6 +5383,13 @@
   "published": "2026-09-09T17:52:58"
  },
  {
+  "blog_name": "RoseHosting",
+  "blog_url": "https://www.rosehosting.com/blog/",
+  "title": "How to Install Forgejo, a Self-Hosted Git Server on Ubuntu 26.04",
+  "link": "https://www.rosehosting.com/blog/how-to-install-forgejo-a-self-hosted-git-server-on-ubuntu-26-04/",
+  "published": "2026-09-09T17:30:00"
+ },
+ {
   "blog_name": "Martin Fowler",
   "blog_url": "https://martinfowler.com/",
   "title": "Social Media Engagement: summer 2026",
@@ -5738,6 +5892,13 @@
   "title": "Introducing DataSync: The real-time data store for application state",
   "link": "https://www.pubnub.com/blog/datasync-release/",
   "published": "2026-09-07T22:00:00"
+ },
+ {
+  "blog_name": "RoseHosting",
+  "blog_url": "https://www.rosehosting.com/blog/",
+  "title": "How to Install Ghost on AlmaLinux 10",
+  "link": "https://www.rosehosting.com/blog/how-to-install-ghost-on-almalinux-10/",
+  "published": "2026-09-07T17:30:00"
  },
  {
   "blog_name": "Ray Wenderlich",
@@ -6368,6 +6529,13 @@
   "title": "How we make AI coding more cost efficient without sacrificing task quality",
   "link": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
   "published": "2026-09-02T18:00:00"
+ },
+ {
+  "blog_name": "RoseHosting",
+  "blog_url": "https://www.rosehosting.com/blog/",
+  "title": "How to Install Paperless-ngx Document Management System on Debian 13",
+  "link": "https://www.rosehosting.com/blog/how-to-install-paperless-ngx-document-management-system-on-debian-13/",
+  "published": "2026-09-02T17:30:00"
  },
  {
   "blog_name": "Nubank",
