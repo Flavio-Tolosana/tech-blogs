@@ -7,6 +7,188 @@
   "published": "2026-09-29T07:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Whatever Happened to the 150,000 Tons of Radioactive Waste Stored Under the Atlantic Ocean?",
+  "link": "https://hardware.slashdot.org/story/26/09/22/2032255/whatever-happened-to-the-150000-tons-of-radioactive-waste-stored-under-the-atlantic-ocean?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-23T20:34:00"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Microsoft is updating its author-signing certificate starting September 23, 2026",
+  "link": "https://devblogs.microsoft.com/dotnet/microsoft-author-signing-certificate-update-2026/",
+  "published": "2026-09-23T20:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Validate GPU Cluster Readiness Before AI Workloads Land",
+  "link": "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land/",
+  "published": "2026-09-23T19:45:19"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+  "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+  "published": "2026-09-23T18:41:40"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/",
+  "published": "2026-09-23T18:41:09"
+ },
+ {
+  "blog_name": "GitHub",
+  "blog_url": "https://githubengineering.com/",
+  "title": "Rendering huge pull requests in the GitHub Copilot app",
+  "link": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+  "published": "2026-09-23T18:29:49"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Manage Kubernetes Node Fleets with NodeWright",
+  "link": "https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright/",
+  "published": "2026-09-23T18:25:49"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 22.23.3 (LTS)",
+  "link": "https://nodejs.org/en/blog/release/v22.23.3",
+  "published": "2026-09-23T18:22:40"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Agentic conversational video intelligence built on AWS",
+  "link": "https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/",
+  "published": "2026-09-23T18:21:54"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Use open weight models as your AI coding agent with Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/",
+  "published": "2026-09-23T18:17:44"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Embedded Graphs in Node.js: Comparing Kùzu and SQLite Recursive CTEs",
+  "link": "https://www.sitepoint.com/embedded-graphs-nodejs-kuzu-sqlite-recursive-ctes/?utm_source=rss",
+  "published": "2026-09-23T18:17:27"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Build Deterministic LLM Eval Suites in CI with Vitest and Zod",
+  "link": "https://www.sitepoint.com/build-deterministic-llm-eval-suites-vitest-zod/?utm_source=rss",
+  "published": "2026-09-23T18:16:40"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Isolate Untrusted Code Execution with Rootless Docker and gVisor",
+  "link": "https://www.sitepoint.com/isolate-untrusted-code-rootless-docker-gvisor/?utm_source=rss",
+  "published": "2026-09-23T18:15:43"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Build a Cost-Aware LLM Router in Node.js with Claude Opus 5.5 and GPT-6 Sol",
+  "link": "https://www.sitepoint.com/cost-aware-llm-router-nodejs-claude-opus-5-5-gpt-6-sol/?utm_source=rss",
+  "published": "2026-09-23T18:14:25"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "Kodebits Day 97: Enumerated Loop [FREE]",
+  "link": "https://www.kodeco.com/52032946-kodebits-day-97-enumerated-loop",
+  "published": "2026-09-23T18:00:13"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Unlimited Vercel Blob stores on every plan",
+  "link": "https://vercel.com/changelog/unlimited-vercel-blob-stores-on-every-plan",
+  "published": "2026-09-23T18:00:00"
+ },
+ {
+  "blog_name": "Jeremy Kun",
+  "blog_url": "https://jeremykun.com/",
+  "title": "CKKS — Encryption and Decryption",
+  "link": "https://www.jeremykun.com/2026/09/23/ckks-encryption-and-decryption/",
+  "published": "2026-09-23T17:09:48"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Andreessen Horowitz Launches AI/Company-Building School As a College Alternative",
+  "link": "https://news.slashdot.org/story/26/09/23/0625203/andreessen-horowitz-launches-aicompany-building-school-as-a-college-alternative?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-23T16:04:00"
+ },
+ {
+  "blog_name": "Strava",
+  "blog_url": "https://medium.com/strava-engineering/",
+  "title": "My Summer at Strava",
+  "link": "https://medium.com/strava-engineering/my-summer-at-strava-375656e322b6?source=rss----89d4108ce2a3---4",
+  "published": "2026-09-23T16:01:03"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
+  "link": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/",
+  "published": "2026-09-23T16:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Two years of OpenAI Academy",
+  "link": "https://openai.com/index/two-years-of-openai-academy",
+  "published": "2026-09-23T16:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
+  "link": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923",
+  "published": "2026-09-23T15:30:00"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+  "link": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
+  "published": "2026-09-23T15:00:32"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laravel AI SDK 1.0 Adds Classification and Tool Approvals",
+  "link": "https://laravel-news.com/laravel-ai-sdk-1-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-23T14:46:41"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Scrapy MCP: debug your crawl while it runs",
+  "link": "https://www.zyte.com/blog/announcing-scrapy-mcp/",
+  "published": "2026-09-23T14:39:40"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Cursor vs Copilot: Which AI Editor Is Better for Python?",
+  "link": "https://realpython.com/cursor-vs-copilot/",
+  "published": "2026-09-23T14:00:00"
+ },
+ {
   "blog_name": "Red Hat",
   "blog_url": "https://developers.redhat.com/blog/",
   "title": "How I massively improved my AI inference performance without buying new hardware",
@@ -42,6 +224,13 @@
   "published": "2026-09-23T13:00:00"
  },
  {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How Concurrence governs clinical AI at a trillion-token scale with Unity Gateway",
+  "link": "https://www.databricks.com/blog/how-concurrence-governs-clinical-ai-trillion-token-scale-unity-gateway",
+  "published": "2026-09-23T12:19:55"
+ },
+ {
   "blog_name": "Atomic Object",
   "blog_url": "https://spin.atomicobject.com/",
   "title": "My First Agentic Project: The Blank Page Was the Hardest Part",
@@ -61,6 +250,34 @@
   "title": "Quiz: Sorting Algorithms in Python",
   "link": "https://realpython.com/quizzes/sorting-algorithms-python/",
   "published": "2026-09-23T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Sam Altman’s remarks at the United Nations Security Council",
+  "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+  "published": "2026-09-23T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+  "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+  "published": "2026-09-23T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+  "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+  "published": "2026-09-23T12:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How Developers Can Protect Remote Workflows From Email Scams and Network Threats",
+  "link": "https://www.sitepoint.com/how-developers-can-protect-remote-workflows-from-email-scams-and-network-threats/?utm_source=rss",
+  "published": "2026-09-23T11:54:59"
  },
  {
   "blog_name": "Slashdot",
@@ -161,6 +378,55 @@
   "published": "2026-09-23T00:00:00"
  },
  {
+  "blog_name": "Evil Martians",
+  "blog_url": "https://evilmartians.com/chronicles/",
+  "title": "AI makes design system guardrails mandatory; this framework delivers them",
+  "link": "https://evilmartians.com/chronicles/ai-makes-design-system-guardrails-mandatory-this-framework-delivers-them",
+  "published": "2026-09-23T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Conversations in the AI Era: Manchester Meetup Recap",
+  "link": "https://www.twilio.com/en-us/blog/events/twilio-ciptex-colony-manchester-september-2026",
+  "published": "2026-09-23T00:00:00"
+ },
+ {
+  "blog_name": "Drew DeVault",
+  "blog_url": "https://drewdevault.com/",
+  "title": "Why is Hacker News like that?",
+  "link": "https://drewdevault.com/blog/Why-is-HN-like-that/",
+  "published": "2026-09-23T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Stack 8.19.22 released",
+  "link": "https://www.elastic.co/blog/elastic-stack-8-19-22-released",
+  "published": "2026-09-23T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Teaching a 9B model to investigate production alerts",
+  "link": "https://www.datadoghq.com/blog/ai/investigate-production-alerts/",
+  "published": "2026-09-23T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Find answers in your logs faster with Datadog’s Tap to Parse",
+  "link": "https://www.datadoghq.com/blog/tap-to-parse-logs/",
+  "published": "2026-09-23T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Configure RUM SDKs remotely from Datadog",
+  "link": "https://www.datadoghq.com/blog/rum-remote-configuration/",
+  "published": "2026-09-23T00:00:00"
+ },
+ {
   "blog_name": "Simon Willison",
   "blog_url": "http://simonwillison.net/",
   "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
@@ -180,6 +446,13 @@
   "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
   "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
   "published": "2026-09-22T22:21:13"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Tagged Memoized Cache and Model Refreshes in Laravel 13.33",
+  "link": "https://laravel-news.com/laravel-13-33-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-22T22:05:53"
  },
  {
   "blog_name": "Slashdot",
@@ -397,6 +670,20 @@
   "title": "Using the Claude API in Python",
   "link": "https://realpython.com/courses/using-claude-api-python/",
   "published": "2026-09-22T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "A brief history of Windows scroll bar shortcuts",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+  "published": "2026-09-22T14:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Unity Catalog Pages: a governed home for your business knowledge in Genie Ontology",
+  "link": "https://www.databricks.com/blog/unity-catalog-pages-governed-home-your-business-knowledge-genie-ontology",
+  "published": "2026-09-22T13:57:06"
  },
  {
   "blog_name": "Hostinger",
