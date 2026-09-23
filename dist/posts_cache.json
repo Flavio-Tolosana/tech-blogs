@@ -7,6 +7,69 @@
   "published": "2026-09-29T07:00:00"
  },
  {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Understanding ASPA: The next step in routing security",
+  "link": "https://blog.apnic.net/2026/09/23/understanding-aspa-the-next-step-in-routing-security/",
+  "published": "2026-09-23T04:55:18"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Multiplayer AI: Why your team (and its agents) need a group chat",
+  "link": "https://stackoverflow.blog/2026/09/23/multiplayer-ai-why-your-team-and-its-agents-need-a-group-chat/",
+  "published": "2026-09-23T04:40:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Trump Denounces Attempts to Control AI, Wants It Renamed 'Super Intelligence' in US Documents",
+  "link": "https://politics.slashdot.org/story/26/09/22/2258253/trump-denounces-attempts-to-control-ai-wants-it-renamed-super-intelligence-in-us-documents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-23T02:34:00"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+  "link": "https://blogs.nvidia.com/blog/ai-day-singapore/",
+  "published": "2026-09-23T02:30:22"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "A Desktop Theme Has to Know About the Mouse",
+  "link": "https://www.codenameone.com/blog/native-desktop-themes-experiment/",
+  "published": "2026-09-23T00:00:00"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+  "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+  "published": "2026-09-22T23:46:41"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
+  "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
+  "published": "2026-09-22T22:23:14"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
+  "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
+  "published": "2026-09-22T22:21:13"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Are Students Suddenly Losing Interest in Computer Science as AI Coding Takes Off?",
+  "link": "https://news.slashdot.org/story/26/09/22/0010234/are-students-suddenly-losing-interest-in-computer-science-as-ai-coding-takes-off?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-22T22:04:00"
+ },
+ {
   "blog_name": "OpenAI",
   "blog_url": "https://openai.com/news/",
   "title": "Better prompt caching for GPT-6",
@@ -98,6 +161,13 @@
   "published": "2026-09-22T17:16:28"
  },
  {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Creating a memory dump in C#",
+  "link": "https://devblogs.microsoft.com/dotnet/creating-a-memory-dump-in-csharp/",
+  "published": "2026-09-22T17:05:00"
+ },
+ {
   "blog_name": "Android",
   "blog_url": "https://android-developers.blogspot.com/",
   "title": "Land your apps on Googlebook with adaptive development",
@@ -138,6 +208,13 @@
   "title": "Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI",
   "link": "https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/",
   "published": "2026-09-22T15:35:53"
+ },
+ {
+  "blog_name": "Doximity",
+  "blog_url": "https://engineering.doximity.com",
+  "title": "Bedside Bench: Expanding Our Commitment to Transparency & Safety",
+  "link": "https://technology.doximity.com/articles/bedside-bench-expanding-our-commitment-to-transparency-safety",
+  "published": "2026-09-22T15:20:00"
  },
  {
   "blog_name": "Docker",
@@ -284,6 +361,13 @@
   "blog_url": "https://developer.nvidia.com/blog/",
   "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS",
   "link": "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros/",
+  "published": "2026-09-22T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+  "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
   "published": "2026-09-22T12:00:00"
  },
  {
@@ -522,6 +606,20 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "The quantum countdown: Why post-quantum cryptography is a strategic imperative",
   "link": "https://www.thoughtworks.com/insights/articles/the-quantum-countdown",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "The 2026 CDP Shift: Why AI Agents Are Only as Smart as Your Data Infrastructure",
+  "link": "https://www.twilio.com/en-us/blog/insights/why-AI-agents-are-only-as-smart-as-your-data-infrastructure",
+  "published": "2026-09-22T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to design an AI-to-human handoff that preserves context",
+  "link": "https://www.twilio.com/en-us/blog/insights/ai-to-human-handoff-context",
   "published": "2026-09-22T00:00:00"
  },
  {
@@ -1054,6 +1152,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "AI Gateway now supports TypeSafe clients and an HTTP API for Jev",
   "link": "https://vercel.com/changelog/ai-gateway-now-supports-typesafe-clients-and-http-api-for-jev",
+  "published": "2026-09-21T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Automating Twilio Auth Token Detection and Rotation with TruffleHog, Tines, and Slack",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/automate-auth-token-detection-rotation-trufflehog-tines-slack",
   "published": "2026-09-21T00:00:00"
  },
  {
