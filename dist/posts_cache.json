@@ -7,6 +7,209 @@
   "published": "2026-09-29T07:00:00"
  },
  {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Estimating suicide risk from text",
+  "link": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
+  "published": "2026-09-24T21:00:00"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
+  "link": "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/",
+  "published": "2026-09-24T20:58:46"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "When chat is the wrong UI",
+  "link": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+  "published": "2026-09-24T20:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Five Police Officers Criminally Charged for Misusing Flock Cameras in Indianapolis",
+  "link": "https://yro.slashdot.org/story/26/09/24/0433242/five-police-officers-criminally-charged-for-misusing-flock-cameras-in-indianapolis?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-24T19:04:00"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+  "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+  "published": "2026-09-24T18:26:12"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "Manufacturing Trust for AI Agents | Docker’s WeAreDevelopers Keynote",
+  "link": "https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/",
+  "published": "2026-09-24T17:15:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Running open-Jev in SQL on Databricks",
+  "link": "https://www.databricks.com/blog/running-open-jev-sql-databricks",
+  "published": "2026-09-24T16:55:01"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Deploy and manage coding agents at scale with the Unity Gateway CLI",
+  "link": "https://www.databricks.com/blog/deploy-and-manage-coding-agents-scale-unity-gateway-cli",
+  "published": "2026-09-24T16:46:05"
+ },
+ {
+  "blog_name": "Capital One Tech",
+  "blog_url": "https://medium.com/capital-one-tech",
+  "title": "Strengthening open source security with Socket",
+  "link": "https://medium.com/capital-one-tech/strengthening-open-source-security-with-socket-7ee8fe88bfec?source=rss----3db3a67cb648---4",
+  "published": "2026-09-24T16:36:07"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Introducing Gemini 3.8 Live with Live Avatar",
+  "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+  "published": "2026-09-24T16:20:39"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Speaker-labeled transcription with WhisperX on SageMaker AI",
+  "link": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/",
+  "published": "2026-09-24T16:20:12"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Build a multi-account AI agent with AgentCore Gateway and MCP",
+  "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/",
+  "published": "2026-09-24T16:12:47"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Aderant builds intelligent ticket triage with Amazon Nova",
+  "link": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/",
+  "published": "2026-09-24T16:06:46"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "From Dockerfile to Kit: the Docker Sandboxes Kit Specification",
+  "link": "https://www.docker.com/blog/docker-sandbox-kit-spec/",
+  "published": "2026-09-24T16:00:00"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "Docker and CNCF partner on an open spec for agent permissions",
+  "link": "https://www.docker.com/blog/docker-sandbox-kit-spec-cncf/",
+  "published": "2026-09-24T16:00:00"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "Introducing Cloud Sandboxes: Start on Your Laptop, Finish in the Cloud",
+  "link": "https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/",
+  "published": "2026-09-24T16:00:00"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Build your way: Use any AI agent of your choice in Android Studio",
+  "link": "https://android-developers.googleblog.com/2026/09/build-your-way-use-any-ai-agent-in-android-studio.html",
+  "published": "2026-09-24T15:59:00"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Fragments: September 24",
+  "link": "https://martinfowler.com/fragments/2026-09-24.html",
+  "published": "2026-09-24T15:35:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+  "link": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
+  "published": "2026-09-24T15:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Efficient MoE Training for Biological Foundation Models",
+  "link": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/",
+  "published": "2026-09-24T15:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "OpenAI, Anthropic CEOs Urge UN Countries to Cooperate on AI Safety Standards",
+  "link": "https://slashdot.org/story/26/09/24/0338213/openai-anthropic-ceos-urge-un-countries-to-cooperate-on-ai-safety-standards?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-24T14:34:00"
+ },
+ {
+  "blog_name": "GoCardless",
+  "blog_url": "https://gocardless.com/blog/tagged/engineering/",
+  "title": "How we collected the UK’s first agentic account-to-account payment with Trussell",
+  "link": "https://gocardless.com/blog/uk-first-agentic-payment-trussell",
+  "published": "2026-09-24T14:24:08"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Healthy Feedback",
+  "link": "https://martinfowler.com/articles/healthy-peer-feedback.html",
+  "published": "2026-09-24T14:10:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "If you don’t have the factories, you lose the expertise",
+  "link": "https://lemire.me/blog/2026/09/24/if-you-dont-have-the-factories-you-lose-the-expertise/",
+  "published": "2026-09-24T14:09:39"
+ },
+ {
+  "blog_name": "Dereuromark",
+  "blog_url": "http://www.dereuromark.de/",
+  "title": "From Markdown to Carve",
+  "link": "https://www.dereuromark.de/2026/09/24/from-markdown-to-carve/",
+  "published": "2026-09-24T14:08:57"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+  "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+  "published": "2026-09-24T14:08:57"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+  "link": "https://blogs.nvidia.com/blog/open-protein-dataset/",
+  "published": "2026-09-24T14:00:50"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "No, really, you need to pass all unhandled messages to DefWindowProc, part 2",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260924-00/?p=112728/",
+  "published": "2026-09-24T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "How to Get Started With Jev in Python",
+  "link": "https://realpython.com/jev-python/",
+  "published": "2026-09-24T14:00:00"
+ },
+ {
   "blog_name": "Red Hat",
   "blog_url": "https://developers.redhat.com/blog/",
   "title": "Self-encrypting VM images for confidential environments hands on",
@@ -56,6 +259,13 @@
   "published": "2026-09-24T12:00:00"
  },
  {
+  "blog_name": "Brandwatch",
+  "blog_url": "http://engineering.brandwatch.com/",
+  "title": "From Wrong Assumptions to Success: 6 Consumer Intelligence Wins",
+  "link": "https://www.brandwatch.com/blog/consumer-intelligence-wins/",
+  "published": "2026-09-24T11:02:45"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Qualcomm Announces Snapdragon X2 Series Processors Will Support Linux",
@@ -81,6 +291,13 @@
   "blog_url": "https://nordicapis.com/blog/",
   "title": "Understanding Determinism and Non-Determinism",
   "link": "https://nordicapis.com/understanding-determinism-and-non-determinism/",
+  "published": "2026-09-24T07:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "The Vercel Bug Bounty Program is now publicly available",
+  "link": "https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available",
   "published": "2026-09-24T07:00:00"
  },
  {
@@ -187,6 +404,27 @@
   "title": "Trust, but verify: Atomic claim checking against LLM hallucinations",
   "link": "https://www.elastic.co/blog/atomic-claim-checking-against-llm-hallucinations",
   "published": "2026-09-24T00:00:00"
+ },
+ {
+  "blog_name": "Go",
+  "blog_url": "https://blog.golang.org/",
+  "title": "Platform-independent SIMD in Go",
+  "link": "https://go.dev/blog/simd-experiment",
+  "published": "2026-09-24T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Using TypeSafe’s Jev for evals in Datadog Agent Observability",
+  "link": "https://www.datadoghq.com/blog/jev-evals-agent-observability/",
+  "published": "2026-09-24T00:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Eloquent Refreshes: Load Generated Columns After Save",
+  "link": "https://laravel-news.com/eloquent-refreshes-attribute?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-23T23:29:37"
  },
  {
   "blog_name": "NVIDIA Developer",
@@ -13088,6 +13326,13 @@
   "title": "2025 in Review",
   "link": "https://una.im/2025-in-review/",
   "published": "2026-01-06T00:00:00"
+ },
+ {
+  "blog_name": "Marcelo Rinesi",
+  "blog_url": "https://blog.rinesi.com/",
+  "title": "The Post-AI Organization",
+  "link": "https://blog.rinesi.com/2026/01/post-ai",
+  "published": "2026-01-04T03:00:00"
  },
  {
   "blog_name": "Marcelo Rinesi",
