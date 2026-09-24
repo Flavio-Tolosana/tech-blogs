@@ -9,6 +9,83 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "Rogue OpenAI Agent Tried to Breach Government Site in May When Prompted for Simple Data-Retrieving Tasks",
+  "link": "https://slashdot.org/story/26/09/24/0528251/rogue-openai-agent-tried-to-breach-government-site-in-may-when-prompted-for-simple-data-retrieving-tasks?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-24T05:34:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "IP geolocation at APNIC 62: Challenges, geofeeds, and data quality perspectives",
+  "link": "https://blog.apnic.net/2026/09/24/ip-geolocation-at-apnic-62-challenges-geofeeds-and-data-quality-perspectives/",
+  "published": "2026-09-24T05:06:05"
+ },
+ {
+  "blog_name": "Snyk",
+  "blog_url": "https://snyk.io/blog",
+  "title": "Your Vulnerability Backlog Is No Longer Technical Debt, It’s an Attack Surface",
+  "link": "https://snyk.io/blog/vulnerability-backlog-attack-surface/",
+  "published": "2026-09-24T04:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "The promise and peril of using visual AI to study cities",
+  "link": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
+  "published": "2026-09-24T04:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How I built agent-based security reviews on Databricks",
+  "link": "https://www.databricks.com/blog/how-i-built-agent-based-security-reviews-databricks",
+  "published": "2026-09-24T02:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Cities Across US Oppose Trump FCC Plan to Preempt Local Broadband Rules",
+  "link": "https://news.slashdot.org/story/26/09/23/0144238/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-24T01:04:00"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "Bringing Private Processing to Meta AI Glasses",
+  "link": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/",
+  "published": "2026-09-24T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "The Java Compiler That Became Its Own Test Case",
+  "link": "https://www.codenameone.com/blog/parparvm-compiles-itself/",
+  "published": "2026-09-24T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Connect now supports TanStack AI",
+  "link": "https://vercel.com/changelog/vercel-connect-tanstack-ai",
+  "published": "2026-09-24T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Data modernization: A practical guide for getting it right",
+  "link": "https://www.thoughtworks.com/insights/blog/legacy-modernization/what-is-data-modernization",
+  "published": "2026-09-24T00:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning",
+  "link": "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning/",
+  "published": "2026-09-23T22:54:56"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Whatever Happened to the 150,000 Tons of Radioactive Waste Stored Under the Atlantic Ocean?",
   "link": "https://hardware.slashdot.org/story/26/09/22/2032255/whatever-happened-to-the-150000-tons-of-radioactive-waste-stored-under-the-atlantic-ocean?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-09-23T20:34:00"
@@ -140,6 +217,13 @@
   "published": "2026-09-23T16:01:03"
  },
  {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Advancing Private AI Compute with secure, server-side memory",
+  "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+  "published": "2026-09-23T16:00:57"
+ },
+ {
   "blog_name": "NVIDIA Developer",
   "blog_url": "https://developer.nvidia.com/blog/",
   "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
@@ -159,6 +243,13 @@
   "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
   "link": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923",
   "published": "2026-09-23T15:30:00"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Gemini 3.8 text-to-speech says hello",
+  "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+  "published": "2026-09-23T15:25:14"
  },
  {
   "blog_name": "Nvidia",
@@ -186,6 +277,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Cursor vs Copilot: Which AI Editor Is Better for Python?",
   "link": "https://realpython.com/cursor-vs-copilot/",
+  "published": "2026-09-23T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "When working with Win32 FILETIME, don’t forget that you have std::chrono now",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260923-00/?p=112726/",
   "published": "2026-09-23T14:00:00"
  },
  {
@@ -424,6 +522,20 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Configure RUM SDKs remotely from Datadog",
   "link": "https://www.datadoghq.com/blog/rum-remote-configuration/",
+  "published": "2026-09-23T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Using AI Effectively in Technical Writing",
+  "link": "https://code.dblock.org/2026/09/23/using-ai-effectively-in-technical-writing.html",
+  "published": "2026-09-23T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Gemini 3.8 text-to-speech models now available on AI Gateway",
+  "link": "https://vercel.com/changelog/gemini-3-8-text-to-speech-models-now-available-on-ai-gateway",
   "published": "2026-09-23T00:00:00"
  },
  {
@@ -2391,6 +2503,13 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Enforce custom rules in Datadog IaC Security scanning",
   "link": "https://www.datadoghq.com/blog/custom-iac-security-rules/",
+  "published": "2026-09-18T00:00:00"
+ },
+ {
+  "blog_name": "Dan Luu",
+  "blog_url": "https://danluu.com/",
+  "title": "There's no point at which turning your brain off will work",
+  "link": "https://danluu.com/brain-off/",
   "published": "2026-09-18T00:00:00"
  },
  {
