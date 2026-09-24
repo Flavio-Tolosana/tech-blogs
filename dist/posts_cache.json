@@ -7,6 +7,90 @@
   "published": "2026-09-29T07:00:00"
  },
  {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Self-encrypting VM images for confidential environments hands on",
+  "link": "https://developers.redhat.com/articles/2026/09/24/self-encrypting-vm-images-for-confidential-environments-hands-on",
+  "published": "2026-09-24T13:32:01"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Scaling GitOps: The \"pull\" architecture for global fleets",
+  "link": "https://developers.redhat.com/articles/2026/09/24/scaling-gitops-pull-architecture-global-fleets",
+  "published": "2026-09-24T13:02:07"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
+  "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/",
+  "published": "2026-09-24T13:00:36"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Old Capacitors, New Problems: Booting an Apple IIe for the First Time in 30+ Years",
+  "link": "https://spin.atomicobject.com/booted-apple-iie/",
+  "published": "2026-09-24T12:00:06"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: The Terminal: First Steps and Useful Commands for Python Developers",
+  "link": "https://realpython.com/quizzes/terminal-commands/",
+  "published": "2026-09-24T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: How to Get Started With Jev in Python",
+  "link": "https://realpython.com/quizzes/jev-python/",
+  "published": "2026-09-24T12:00:00"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "Why is English spelling so tricky?",
+  "link": "https://blog.duolingo.com/why-is-english-spelling-so-tricky/",
+  "published": "2026-09-24T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Qualcomm Announces Snapdragon X2 Series Processors Will Support Linux",
+  "link": "https://linux.slashdot.org/story/26/09/24/0155213/qualcomm-announces-snapdragon-x2-series-processors-will-support-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-24T10:04:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "New on the LernerPython practice system: A visual debugger",
+  "link": "https://lernerpython.com/2026/09/24/new-on-the-lernerpython-practice-system-a-visual-debugger/",
+  "published": "2026-09-24T08:42:54"
+ },
+ {
+  "blog_name": "Criteo",
+  "blog_url": "https://medium.com/criteo-labs",
+  "title": "Introducing Criteo Tech",
+  "link": "https://medium.com/criteo-engineering/introducing-criteo-tech-d477d39a286f?source=rss----fc3ea5a64a12---4",
+  "published": "2026-09-24T07:31:01"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "Understanding Determinism and Non-Determinism",
+  "link": "https://nordicapis.com/understanding-determinism-and-non-determinism/",
+  "published": "2026-09-24T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: Historical Pads",
+  "link": "https://thedailywtf.com/articles/historical-pads",
+  "published": "2026-09-24T06:30:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Rogue OpenAI Agent Tried to Breach Government Site in May When Prompted for Simple Data-Retrieving Tasks",
@@ -19,6 +103,13 @@
   "title": "IP geolocation at APNIC 62: Challenges, geofeeds, and data quality perspectives",
   "link": "https://blog.apnic.net/2026/09/24/ip-geolocation-at-apnic-62-challenges-geofeeds-and-data-quality-perspectives/",
   "published": "2026-09-24T05:06:05"
+ },
+ {
+  "blog_name": "Toptal",
+  "blog_url": "https://www.toptal.com/blog/",
+  "title": "The Future of AI in Marketing: Strategic Considerations for Enterprise Leaders",
+  "link": "https://www.toptal.com/executive-guidance/growth-and-digital-marketing/ai-in-marketing",
+  "published": "2026-09-24T05:00:00"
  },
  {
   "blog_name": "Snyk",
@@ -74,6 +165,27 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "Data modernization: A practical guide for getting it right",
   "link": "https://www.thoughtworks.com/insights/blog/legacy-modernization/what-is-data-modernization",
+  "published": "2026-09-24T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Porting My 1996 Pascal/Delphi Calculator to Rust (CLI + MCP)",
+  "link": "https://code.dblock.org/2026/09/24/porting-my-1996-pascal-calculator-to-rust.html",
+  "published": "2026-09-24T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Cloud on Azure gets a speed boost: Compute-optimized instances on Azure Cobalt ARM",
+  "link": "https://www.elastic.co/blog/elastic-cloud-azure-cobalt-arm",
+  "published": "2026-09-24T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Trust, but verify: Atomic claim checking against LLM hallucinations",
+  "link": "https://www.elastic.co/blog/atomic-claim-checking-against-llm-hallucinations",
   "published": "2026-09-24T00:00:00"
  },
  {
@@ -434,6 +546,13 @@
   "published": "2026-09-23T06:10:50"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "PyArrow dtypes in pandas: Nullable integers with pd.NA",
+  "link": "https://lernerpython.com/2026/09/23/pyarrow-dtypes-in-pandas-nullable-integers-with-pd-na/",
+  "published": "2026-09-23T06:00:00"
+ },
+ {
   "blog_name": "APNIC",
   "blog_url": "https://blog.apnic.net/",
   "title": "Understanding ASPA: The next step in routing security",
@@ -536,6 +655,20 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Gemini 3.8 text-to-speech models now available on AI Gateway",
   "link": "https://vercel.com/changelog/gemini-3-8-text-to-speech-models-now-available-on-ai-gateway",
+  "published": "2026-09-23T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Collected, stored, and useless: The lifecycle of most customer data",
+  "link": "https://www.twilio.com/en-us/blog/insights/customer-data-activation-problem",
+  "published": "2026-09-23T00:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "ClickHouse release 26.9",
+  "link": "https://clickhouse.com/blog/clickhouse-release-26-09",
   "published": "2026-09-23T00:00:00"
  },
  {
@@ -2671,6 +2804,13 @@
   "blog_url": "https://www.hashicorp.com/blog/",
   "title": "Simplify compliance with the native pre-written policy experience in HCP Terraform",
   "link": "https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform",
+  "published": "2026-09-17T16:00:00"
+ },
+ {
+  "blog_name": "PubNub:",
+  "blog_url": "https://www.pubnub.com/blog/",
+  "title": "End the agent loneliness epidemic: How to connect your agent to the Dating Block",
+  "link": "https://www.pubnub.com/blog/end-agent-loneliness-how-to-connect-agent-on-dating-block",
   "published": "2026-09-17T16:00:00"
  },
  {
