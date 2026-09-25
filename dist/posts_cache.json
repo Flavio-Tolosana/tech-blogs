@@ -7,6 +7,41 @@
   "published": "2026-09-29T07:00:00"
  },
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Professional skepticism is a dev’s best skill",
+  "link": "https://stackoverflow.blog/2026/09/25/professional-skepticism-is-a-dev-s-best-skill/",
+  "published": "2026-09-25T07:40:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "How Believable is Google's New 'Live Avatar' Capability?",
+  "link": "https://tech.slashdot.org/story/26/09/25/0035208/how-believable-is-googles-new-live-avatar-capability?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-25T04:04:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "APNIC 62 Policy SIG reviews seven policy proposals, with two reaching consensus",
+  "link": "https://blog.apnic.net/2026/09/25/apnic-62-policy-sig-reviews-seven-policy-proposals-with-two-reaching-consensus/",
+  "published": "2026-09-25T01:48:01"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "How many strings can you create per second?",
+  "link": "https://lemire.me/blog/2026/09/25/how-many-strings-can-you-create-per-second/",
+  "published": "2026-09-25T01:30:49"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "People Training OpenAI's AI Fired For Using AI To Train the AI",
+  "link": "https://slashdot.org/story/26/09/24/0618245/people-training-openais-ai-fired-for-using-ai-to-train-the-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-24T23:34:00"
+ },
+ {
   "blog_name": "MIT AI News",
   "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
   "title": "Estimating suicide risk from text",
@@ -340,6 +375,13 @@
   "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
   "title": "The promise and peril of using visual AI to study cities",
   "link": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
+  "published": "2026-09-24T04:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "How Klaviyo shipped 356 internal apps in two weeks on Vercel",
+  "link": "https://vercel.com/blog/how-klaviyo-shipped-356-internal-apps-in-two-weeks-on-vercel",
   "published": "2026-09-24T04:00:00"
  },
  {
@@ -13228,6 +13270,13 @@
   "title": "Mutation testing at Mercado Libre: From pilot to everyday guardrail",
   "link": "https://medium.com/mercadolibre-tech/mutation-testing-at-mercado-libre-from-pilot-to-everyday-guardrail-2ffe0a273f0e?source=rss----5011f85401f0---4",
   "published": "2026-01-14T12:19:03"
+ },
+ {
+  "blog_name": "Marcelo Rinesi",
+  "blog_url": "https://blog.rinesi.com/",
+  "title": "Affinity",
+  "link": "https://blog.rinesi.com/2026/01/affinity",
+  "published": "2026-01-14T03:00:00"
  },
  {
   "blog_name": "Fly.io",
