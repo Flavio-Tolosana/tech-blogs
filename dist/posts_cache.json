@@ -7,11 +7,158 @@
   "published": "2026-09-29T07:00:00"
  },
  {
+  "blog_name": "Angular",
+  "blog_url": "https://blog.angular.io/",
+  "title": "Architecting the Modern Web: Debounce APIs, Rendering Strategies, and Automated AI Setup! ⚡",
+  "link": "https://blog.angular.dev/architecting-the-modern-web-debounce-apis-rendering-strategies-and-automated-ai-setup-826bc54ae3a9?source=rss----447683c3d9a3---4",
+  "published": "2026-09-25T13:59:49"
+ },
+ {
+  "blog_name": "Angular",
+  "blog_url": "https://blog.angular.io/",
+  "title": "An update on Angular’s TypeScript 7-powered Compiler",
+  "link": "https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4",
+  "published": "2026-09-25T13:59:11"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Best time to send Black Friday emails in 2026",
+  "link": "https://www.hostinger.com/blog/best-time-to-send-black-friday-emails/",
+  "published": "2026-09-25T13:15:24"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Raspberry Pi Stock Jumps 30% as Demand Surges. (And Boards Now Locked to Their Original RAM Size)",
+  "link": "https://hardware.slashdot.org/story/26/09/25/0554208/raspberry-pi-stock-jumps-30-as-demand-surges-and-boards-now-locked-to-their-original-ram-size?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-25T13:04:00"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Managing edge solutions with Red Hat: A layered approach",
+  "link": "https://developers.redhat.com/articles/2026/09/25/managing-edge-solutions-red-hat-layered-approach",
+  "published": "2026-09-25T13:01:57"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Agents can now set up your website’s security with Turnstile Spin",
+  "link": "https://blog.cloudflare.com/turnstile-spin/",
+  "published": "2026-09-25T13:00:00"
+ },
+ {
+  "blog_name": "Tinybird",
+  "blog_url": "https://tinybird.com/blog",
+  "title": "On-demand compute for scheduled Copy Pipes",
+  "link": "https://www.tinybird.co/blog/on-demand-compute-for-copy-jobs",
+  "published": "2026-09-25T13:00:00"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Build golden path CI/CD workflows in Red Hat Developer Hub",
+  "link": "https://developers.redhat.com/articles/2026/09/25/build-golden-path-cicd-workflows-red-hat-developer-hub",
+  "published": "2026-09-25T12:58:55"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Agent Experience Engineering: Designing Software Agents Can Work With",
+  "link": "https://freek.dev/3195-agent-experience-engineering-designing-software-agents-can-work-with",
+  "published": "2026-09-25T12:58:26"
+ },
+ {
+  "blog_name": "Jeffrey Zeldman",
+  "blog_url": "https://zeldman.com/",
+  "title": "Undersung Hero: M. Frog",
+  "link": "https://zeldman.com/2026/09/25/undersung-hero-m-frog/",
+  "published": "2026-09-25T12:12:48"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "How AI Let a Non-Technical Delivery Lead Work in the Data Layer",
+  "link": "https://spin.atomicobject.com/ai-delivery-lead-data-layer/",
+  "published": "2026-09-25T12:00:59"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "The Real Python Podcast – Episode #312: Navigating AI in Open Source: Insights From Wagtail",
+  "link": "https://realpython.com/podcasts/rpp/312/",
+  "published": "2026-09-25T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Jupyter Notebook: An Introduction",
+  "link": "https://realpython.com/quizzes/jupyter-notebook-introduction/",
+  "published": "2026-09-25T12:00:00"
+ },
+ {
+  "blog_name": "Timescale",
+  "blog_url": "https://blog.timescale.com/",
+  "title": "Sizing Your IIoT Table Before You Deploy",
+  "link": "https://www.tigerdata.com/blog/sizing-your-iiot-table-before-you-deploy",
+  "published": "2026-09-25T11:57:49"
+ },
+ {
+  "blog_name": "SurveyMonkey",
+  "blog_url": "https://engineering.surveymonkey.com/",
+  "title": "Ask the Market: Where does AI fit into the future of mental health support?",
+  "link": "https://www.surveymonkey.com/curiosity/ask-the-market-mental-health-ai/?ut_source=rss",
+  "published": "2026-09-25T09:17:54"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "F-Droid 2.0: FOSS Android Appstore Continues Updating Despite Google's Pending 'Developer Verification' Plan",
+  "link": "https://news.slashdot.org/story/26/09/25/0344225/f-droid-20-foss-android-appstore-continues-updating-despite-googles-pending-developer-verification-plan?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-25T08:34:00"
+ },
+ {
+  "blog_name": "Daniel Stenberg",
+  "blog_url": "https://daniel.haxx.se/blog/",
+  "title": "25 years on Apple computers",
+  "link": "https://daniel.haxx.se/blog/2026/09/25/25-years-on-apple-computers/",
+  "published": "2026-09-25T07:57:21"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "Professional skepticism is a dev’s best skill",
   "link": "https://stackoverflow.blog/2026/09/25/professional-skepticism-is-a-dev-s-best-skill/",
   "published": "2026-09-25T07:40:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Zyte Developer Community Meetup #2: the recap, slides, and recordings",
+  "link": "https://www.zyte.com/blog/zyte-developer-community-meetup-2-the-recap-slides-and-recordings/",
+  "published": "2026-09-25T07:17:22"
+ },
+ {
+  "blog_name": "SeveralNines",
+  "blog_url": "https://severalnines.com/database-blog",
+  "title": "How to Build a PostgreSQL CI/CD Pipeline with GitOps and Kubernetes",
+  "link": "https://severalnines.com/blog/how-to-build-a-postgresql-ci-cd-pipeline-with-gitops-and-kubernetes/",
+  "published": "2026-09-25T07:00:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Inside Scrapy's RemoteControl extension",
+  "link": "https://www.zyte.com/blog/scrapy-mcp-live-crawl-inspection/",
+  "published": "2026-09-25T06:37:52"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Error'd: Said Different",
+  "link": "https://thedailywtf.com/articles/said-different",
+  "published": "2026-09-25T06:30:00"
  },
  {
   "blog_name": "Slashdot",
@@ -33,6 +180,13 @@
   "title": "How many strings can you create per second?",
   "link": "https://lemire.me/blog/2026/09/25/how-many-strings-can-you-create-per-second/",
   "published": "2026-09-25T01:30:49"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Apple Shouldn't Dictate Your App's Redesign Schedule",
+  "link": "https://www.codenameone.com/blog/who-decides-your-app-redesign/",
+  "published": "2026-09-25T00:00:00"
  },
  {
   "blog_name": "Slashdot",
@@ -245,11 +399,32 @@
   "published": "2026-09-24T14:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Build and Deploy a Production-Ready Node.js API on Cloud Run",
+  "link": "https://www.sitepoint.com/how-to-build-and-deploy-a-production-ready-node-js-api-on-cloud-run/?utm_source=rss",
+  "published": "2026-09-24T13:53:34"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Build a PostgreSQL-to-LLM Analytics Pipeline with Node.js",
+  "link": "https://www.sitepoint.com/how-to-build-a-postgresql-to-llm-analytics-pipeline-with-node-js/?utm_source=rss",
+  "published": "2026-09-24T13:44:09"
+ },
+ {
   "blog_name": "Red Hat",
   "blog_url": "https://developers.redhat.com/blog/",
   "title": "Self-encrypting VM images for confidential environments hands on",
   "link": "https://developers.redhat.com/articles/2026/09/24/self-encrypting-vm-images-for-confidential-environments-hands-on",
   "published": "2026-09-24T13:32:01"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building Monetized Live Streaming Experiences: A Developer’s Guide to Interactive Web Video",
+  "link": "https://www.sitepoint.com/building-monetized-live-streaming-experiences-a-developer-s-guide-to-interactive-web-video/?utm_source=rss",
+  "published": "2026-09-24T13:13:13"
  },
  {
   "blog_name": "Red Hat",
@@ -949,6 +1124,13 @@
   "blog_url": "https://clickhouse.com/blog",
   "title": "ClickHouse release 26.9",
   "link": "https://clickhouse.com/blog/clickhouse-release-26-09",
+  "published": "2026-09-23T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Path to AI-first organization",
+  "link": "https://www.thoughtworks.com/insights/articles/path-to-ai-first-organization",
   "published": "2026-09-23T00:00:00"
  },
  {
