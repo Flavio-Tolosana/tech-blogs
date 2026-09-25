@@ -7,6 +7,174 @@
   "published": "2026-09-29T07:00:00"
  },
  {
+  "blog_name": "Jeff Atwood",
+  "blog_url": "https://blog.codinghorror.com/",
+  "title": "If we do not stop to help each other, what do we become?",
+  "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+  "published": "2026-09-25T20:54:04"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
+  "link": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925",
+  "published": "2026-09-25T20:15:00"
+ },
+ {
+  "blog_name": "Vlad Mihalcea",
+  "blog_url": "https://vladmihalcea.com/",
+  "title": "What I learned at DevTalks Cluj-Napoca 2026",
+  "link": "https://vladmihalcea.com/devtalks-cluj-napoca-2026/",
+  "published": "2026-09-25T19:10:03"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "AI agents need continuity, not just context",
+  "link": "https://www.pulumi.com/blog/neo-kopia-workspace-snapshots/",
+  "published": "2026-09-25T19:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+  "link": "https://openai.com/index/proaction",
+  "published": "2026-09-25T19:00:00"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+  "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+  "published": "2026-09-25T18:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Asteroids Named After Tom Lehrer and 'Weird Al' Yankovic",
+  "link": "https://science.slashdot.org/story/26/09/24/009238/asteroids-named-after-tom-lehrer-and-weird-al-yankovic?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-25T17:34:00"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "The agent-first cloud: why we built Managed Agents",
+  "link": "https://www.digitalocean.com/blog/why-we-built-managed-agents",
+  "published": "2026-09-25T17:12:40"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "AG-UI Protocol now has a first-class .NET SDK",
+  "link": "https://devblogs.microsoft.com/dotnet/ag-ui-dotnet-sdk/",
+  "published": "2026-09-25T17:05:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+  "link": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/",
+  "published": "2026-09-25T16:29:50"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+  "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/",
+  "published": "2026-09-25T16:18:07"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/",
+  "published": "2026-09-25T16:15:22"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
+  "link": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/",
+  "published": "2026-09-25T16:09:46"
+ },
+ {
+  "blog_name": "Netflix",
+  "blog_url": "https://medium.com/netflix-techblog",
+  "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
+  "link": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
+  "published": "2026-09-25T16:01:03"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "From Data to Dialogue: How S&P Global Energy Made Its Structured Data Estate Conversational with Databricks Genie Agents and MCP",
+  "link": "https://www.databricks.com/blog/data-dialogue-how-sp-global-energy-made-its-structured-data-estate-conversational-databricks",
+  "published": "2026-09-25T16:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How Datacor built self-service rental analytics with Amazon Quick Sight",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/",
+  "published": "2026-09-25T15:54:42"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Putting business analysis in everyone’s hands",
+  "link": "https://replit.com/blog/replit-acquires-atta",
+  "published": "2026-09-25T15:12:00"
+ },
+ {
+  "blog_name": "Pinterest",
+  "blog_url": "https://medium.com/@Pinterest_Engineering",
+  "title": "Partition Finalization in Pinterest’s Next-Generation DB Ingestion Framework",
+  "link": "https://medium.com/pinterest-engineering/partition-finalization-in-pinterests-next-generation-db-ingestion-framework-4c7da6e4cc8f?source=rss-ef81ef829bcb------2",
+  "published": "2026-09-25T15:01:03"
+ },
+ {
+  "blog_name": "Pinterest Engineering",
+  "blog_url": "https://medium.com/pinterest-engineering",
+  "title": "Partition Finalization in Pinterest’s Next-Generation DB Ingestion Framework",
+  "link": "https://medium.com/pinterest-engineering/partition-finalization-in-pinterests-next-generation-db-ingestion-framework-4c7da6e4cc8f?source=rss----4c5a5f6279b6---4",
+  "published": "2026-09-25T15:01:03"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "Improving site performance by shipping more CSS",
+  "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+  "published": "2026-09-25T15:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "What we learned running seven AI coding models on real production work",
+  "link": "https://www.hostinger.com/blog/ai-models-for-coding-experiment/",
+  "published": "2026-09-25T14:58:33"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Node.js Multi-Agent Task Supervision: Process Isolation and Heartbeats",
+  "link": "https://www.sitepoint.com/node-js-multi-agent-task-supervision-heartbeats/?utm_source=rss",
+  "published": "2026-09-25T14:52:32"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building Multi-Tier AI Agent Memory with TypeScript and SQLite-vec",
+  "link": "https://www.sitepoint.com/multi-tier-ai-agent-memory-typescript-sqlite-vec/?utm_source=rss",
+  "published": "2026-09-25T14:51:34"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Gemini 3.8 Flash Reasoning Effort: Balancing Latency and Costs in TypeScript",
+  "link": "https://www.sitepoint.com/gemini-3-8-flash-reasoning-effort-balancing-latency-and-costs-in-typescript/?utm_source=rss",
+  "published": "2026-09-25T14:49:42"
+ },
+ {
   "blog_name": "Angular",
   "blog_url": "https://blog.angular.io/",
   "title": "Architecting the Modern Web: Debounce APIs, Rendering Strategies, and Automated AI Setup! ⚡",
@@ -105,11 +273,25 @@
   "published": "2026-09-25T11:57:49"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Decide with Jev: Laravel AI That Answers with a Probability",
+  "link": "https://laravel-news.com/decide-with-jev-laravel-ai-that-answers-with-a-probability?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-25T09:41:18"
+ },
+ {
   "blog_name": "SurveyMonkey",
   "blog_url": "https://engineering.surveymonkey.com/",
   "title": "Ask the Market: Where does AI fit into the future of mental health support?",
   "link": "https://www.surveymonkey.com/curiosity/ask-the-market-mental-health-ai/?ut_source=rss",
   "published": "2026-09-25T09:17:54"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Push images to Vercel Container Registry from GitHub Actions",
+  "link": "https://vercel.com/changelog/vcr-login-github-action",
+  "published": "2026-09-25T09:15:00"
  },
  {
   "blog_name": "Slashdot",
@@ -161,11 +343,32 @@
   "published": "2026-09-25T06:30:00"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "State of agent skills",
+  "link": "https://vercel.com/blog/state-of-agent-skills",
+  "published": "2026-09-25T06:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "How Believable is Google's New 'Live Avatar' Capability?",
   "link": "https://tech.slashdot.org/story/26/09/25/0035208/how-believable-is-googles-new-live-avatar-capability?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-09-25T04:04:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Memoize Tagged Cache Reads in Laravel",
+  "link": "https://laravel-news.com/laravel-tagged-memoized-cache?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-25T02:21:03"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "JetBrains Air: Run AI Coding Agents in JetBrains IDEs",
+  "link": "https://laravel-news.com/jetbrains-air?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-25T02:20:50"
  },
  {
   "blog_name": "APNIC",
@@ -186,6 +389,48 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Apple Shouldn't Dictate Your App's Redesign Schedule",
   "link": "https://www.codenameone.com/blog/who-decides-your-app-redesign/",
+  "published": "2026-09-25T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Stop Building MFA from Scratch (And What to Do Instead)",
+  "link": "https://auth0.com/blog/stop-building-mfa-from-scratch/",
+  "published": "2026-09-25T00:00:00"
+ },
+ {
+  "blog_name": "Discord",
+  "blog_url": "https://blog.discordapp.com/",
+  "title": "Discord Update: September 25, 2026",
+  "link": "https://discord.com/blog/discord-update-september-25-2026",
+  "published": "2026-09-25T00:00:00"
+ },
+ {
+  "blog_name": "Teleport",
+  "blog_url": "https://goteleport.com/blog/",
+  "title": "How to Eliminate Shared Production Kubeconfigs",
+  "link": "https://goteleport.com/blog/how-to-eliminate-shared-production-kubeconfigs/",
+  "published": "2026-09-25T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "DevRel newsletter — September 2026",
+  "link": "https://www.elastic.co/blog/devrel-newsletter-september-2026",
+  "published": "2026-09-25T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Sandbox now supports memory observability",
+  "link": "https://vercel.com/changelog/vercel-sandbox-now-supports-memory-observability",
+  "published": "2026-09-25T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Extend Datadog RUM and Product Analytics to Shopify and Salesforce",
+  "link": "https://www.datadoghq.com/blog/rum-product-analytics-shopify-salesforce/",
   "published": "2026-09-25T00:00:00"
  },
  {
@@ -229,6 +474,13 @@
   "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
   "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
   "published": "2026-09-24T18:26:12"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Designing a Production-Ready Agent Harness With Persistence and Checkpointing",
+  "link": "https://www.sitepoint.com/designing-a-production-ready-agent-harness-with-persistence-and-checkpointing/?utm_source=rss",
+  "published": "2026-09-24T18:20:16"
  },
  {
   "blog_name": "Docker",
@@ -634,6 +886,13 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Using TypeSafe’s Jev for evals in Datadog Agent Observability",
   "link": "https://www.datadoghq.com/blog/jev-evals-agent-observability/",
+  "published": "2026-09-24T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Test and Fix Voice AI Agent Prompts with Twilio Conversation Relay and Cekura",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-agent-cekura-conversation-relay",
   "published": "2026-09-24T00:00:00"
  },
  {
