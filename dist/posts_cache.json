@@ -7,6 +7,41 @@
   "published": "2026-09-29T07:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Automating DevSecOps Static Analysis with GitHub Actions and Agent Skills",
+  "link": "https://www.sitepoint.com/automating-devsecops-static-analysis-with-github-actions-and-agent-skills/?utm_source=rss",
+  "published": "2026-09-26T05:28:32"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "A thesis isn’t enough for a PhD",
+  "link": "https://lemire.me/blog/2026/09/26/a-thesis-isnt-enough-for-a-phd/",
+  "published": "2026-09-26T02:48:13"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Meta Made 43M Misleading Statements, New Mexico Jury Finds, Including on Its Cambridge Analytica Response",
+  "link": "https://tech.slashdot.org/story/26/09/26/0042239/meta-made-43m-misleading-statements-new-mexico-jury-finds-including-on-its-cambridge-analytica-response?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-26T02:34:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "iOS 27 Glass You Can Choose, Measure, and Test",
+  "link": "https://www.codenameone.com/blog/ios-27-glass-you-can-test/",
+  "published": "2026-09-26T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "There's a New Way to Break RSA Encryption",
+  "link": "https://it.slashdot.org/story/26/09/24/1652228/theres-a-new-way-to-break-rsa-encryption?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-25T22:04:00"
+ },
+ {
   "blog_name": "Jeff Atwood",
   "blog_url": "https://blog.codinghorror.com/",
   "title": "If we do not stop to help each other, what do we become?",
@@ -154,6 +189,13 @@
   "published": "2026-09-25T14:58:33"
  },
  {
+  "blog_name": "Amazon Science",
+  "blog_url": "https://www.amazon.science/",
+  "title": "A kernel-centric path to real-time video generation on Trainium",
+  "link": "https://www.amazon.science/blog/a-kernel-centric-path-to-real-time-video-generation-on-trainium",
+  "published": "2026-09-25T14:55:00"
+ },
+ {
   "blog_name": "SitePoint",
   "blog_url": "https://sitepoint.com",
   "title": "Node.js Multi-Agent Task Supervision: Process Isolation and Heartbeats",
@@ -173,6 +215,13 @@
   "title": "Gemini 3.8 Flash Reasoning Effort: Balancing Latency and Costs in TypeScript",
   "link": "https://www.sitepoint.com/gemini-3-8-flash-reasoning-effort-balancing-latency-and-costs-in-typescript/?utm_source=rss",
   "published": "2026-09-25T14:49:42"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Debugging walkthrough: Access violation on nonsense instruction, episode 3",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260925-00/?p=112731/",
+  "published": "2026-09-25T14:00:00"
  },
  {
   "blog_name": "Angular",
@@ -431,6 +480,13 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Extend Datadog RUM and Product Analytics to Shopify and Salesforce",
   "link": "https://www.datadoghq.com/blog/rum-product-analytics-shopify-salesforce/",
+  "published": "2026-09-25T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Pixel Canary is now available in stealth for free on AI Gateway",
+  "link": "https://vercel.com/changelog/pixel-canary-is-now-available-in-stealth-for-free-on-ai-gateway",
   "published": "2026-09-25T00:00:00"
  },
  {
