@@ -7,6 +7,34 @@
   "published": "2026-09-29T07:00:00"
  },
  {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "There Has Never Been a Better Time to Learn the Software Development Lifecycle",
+  "link": "https://spin.atomicobject.com/software-development-lifecycle/",
+  "published": "2026-09-26T12:00:24"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: When Do You Use an Ellipsis in Python?",
+  "link": "https://realpython.com/quizzes/python-ellipsis/",
+  "published": "2026-09-26T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Is Microsoft Quietly Killing Off Its 'Copilot+ PC' Brand?",
+  "link": "https://tech.slashdot.org/story/26/09/25/0420247/is-microsoft-quietly-killing-off-its-copilot-pc-brand?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-26T11:34:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Rogue OpenAI Agents Posted 53 User-Uploaded Images Onto the Internet, Accessed US Government Websites",
+  "link": "https://slashdot.org/story/26/09/26/0328247/rogue-openai-agents-posted-53-user-uploaded-images-onto-the-internet-accessed-us-government-websites?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-26T07:04:00"
+ },
+ {
   "blog_name": "SitePoint",
   "blog_url": "https://sitepoint.com",
   "title": "Automating DevSecOps Static Analysis with GitHub Actions and Agent Skills",
@@ -396,6 +424,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "State of agent skills",
   "link": "https://vercel.com/blog/state-of-agent-skills",
+  "published": "2026-09-25T06:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas dropna: The best way to remove NaN values from a series",
+  "link": "https://lernerpython.com/2026/09/25/pandas-dropna-the-best-way-to-remove-nan-values-from-a-series/",
   "published": "2026-09-25T06:00:00"
  },
  {

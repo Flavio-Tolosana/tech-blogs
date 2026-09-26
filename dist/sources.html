@@ -363,7 +363,7 @@
 <div class="container">
   <header>
     <h1>&#128203; Orígenes de recursos</h1>
-    <p class="meta">Actualizado: 2026-09-26 08:04</p>
+    <p class="meta">Actualizado: 2026-09-26 16:04</p>
     <div class="stats">
       <div class="stat">
         <div class="stat-value">447</div>
@@ -389,16 +389,24 @@
               <a href="https://www.hashicorp.com/blog/" target="_blank" rel="noopener" class="source-name" title="HashiCorp">HashiCorp</a>
             </div>
             <div class="source-chip">
+              <button type="button" class="source-star" data-name="Atomic Object" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Atomic Object como favorito">&#9734;</button>
+              <a href="https://spin.atomicobject.com/" target="_blank" rel="noopener" class="source-name" title="Atomic Object">Atomic Object</a>
+            </div>
+            <div class="source-chip">
+              <button type="button" class="source-star" data-name="Real Python" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Real Python como favorito">&#9734;</button>
+              <a href="https://realpython.com/blog/" target="_blank" rel="noopener" class="source-name" title="Real Python">Real Python</a>
+            </div>
+            <div class="source-chip">
+              <button type="button" class="source-star" data-name="Slashdot" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Slashdot como favorito">&#9734;</button>
+              <a href="https://slashdot.org/" target="_blank" rel="noopener" class="source-name" title="Slashdot">Slashdot</a>
+            </div>
+            <div class="source-chip">
               <button type="button" class="source-star" data-name="SitePoint" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar SitePoint como favorito">&#9734;</button>
               <a href="https://sitepoint.com" target="_blank" rel="noopener" class="source-name" title="SitePoint">SitePoint</a>
             </div>
             <div class="source-chip">
               <button type="button" class="source-star" data-name="Daniel Lemire" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Daniel Lemire como favorito">&#9734;</button>
               <a href="https://lemire.me/blog/" target="_blank" rel="noopener" class="source-name" title="Daniel Lemire">Daniel Lemire</a>
-            </div>
-            <div class="source-chip">
-              <button type="button" class="source-star" data-name="Slashdot" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Slashdot como favorito">&#9734;</button>
-              <a href="https://slashdot.org/" target="_blank" rel="noopener" class="source-name" title="Slashdot">Slashdot</a>
             </div>
             <div class="source-chip">
               <button type="button" class="source-star" data-name="CodeName One" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar CodeName One como favorito">&#9734;</button>
@@ -497,14 +505,6 @@
               <a href="https://zeldman.com/" target="_blank" rel="noopener" class="source-name" title="Jeffrey Zeldman">Jeffrey Zeldman</a>
             </div>
             <div class="source-chip">
-              <button type="button" class="source-star" data-name="Atomic Object" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Atomic Object como favorito">&#9734;</button>
-              <a href="https://spin.atomicobject.com/" target="_blank" rel="noopener" class="source-name" title="Atomic Object">Atomic Object</a>
-            </div>
-            <div class="source-chip">
-              <button type="button" class="source-star" data-name="Real Python" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Real Python como favorito">&#9734;</button>
-              <a href="https://realpython.com/blog/" target="_blank" rel="noopener" class="source-name" title="Real Python">Real Python</a>
-            </div>
-            <div class="source-chip">
               <button type="button" class="source-star" data-name="Timescale" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Timescale como favorito">&#9734;</button>
               <a href="https://blog.timescale.com/" target="_blank" rel="noopener" class="source-name" title="Timescale">Timescale</a>
             </div>
@@ -539,6 +539,10 @@
             <div class="source-chip">
               <button type="button" class="source-star" data-name="The Daily WTF" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar The Daily WTF como favorito">&#9734;</button>
               <a href="http://thedailywtf.com/" target="_blank" rel="noopener" class="source-name" title="The Daily WTF">The Daily WTF</a>
+            </div>
+            <div class="source-chip">
+              <button type="button" class="source-star" data-name="Lerner Consulting Blog" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Lerner Consulting Blog como favorito">&#9734;</button>
+              <a href="http://blog.lerner.co.il/" target="_blank" rel="noopener" class="source-name" title="Lerner Consulting Blog">Lerner Consulting Blog</a>
             </div>
             <div class="source-chip">
               <button type="button" class="source-star" data-name="APNIC" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar APNIC como favorito">&#9734;</button>
@@ -615,10 +619,6 @@
             <div class="source-chip">
               <button type="button" class="source-star" data-name="Brandwatch" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Brandwatch como favorito">&#9734;</button>
               <a href="http://engineering.brandwatch.com/" target="_blank" rel="noopener" class="source-name" title="Brandwatch">Brandwatch</a>
-            </div>
-            <div class="source-chip">
-              <button type="button" class="source-star" data-name="Lerner Consulting Blog" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Lerner Consulting Blog como favorito">&#9734;</button>
-              <a href="http://blog.lerner.co.il/" target="_blank" rel="noopener" class="source-name" title="Lerner Consulting Blog">Lerner Consulting Blog</a>
             </div>
             <div class="source-chip">
               <button type="button" class="source-star" data-name="Criteo" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Criteo como favorito">&#9734;</button>
