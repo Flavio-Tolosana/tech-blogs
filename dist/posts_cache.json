@@ -7,6 +7,55 @@
   "published": "2026-09-29T07:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "After 40 Years, Microsoft Excel Will Add Single-Cell Lists and Arrays",
+  "link": "https://slashdot.org/story/26/09/26/0227226/after-40-years-microsoft-excel-will-add-single-cell-lists-and-arrays?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-26T20:34:00"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "Kodebits Day 98: Filter Evens [FREE]",
+  "link": "https://www.kodeco.com/52032948-kodebits-day-98-filter-evens",
+  "published": "2026-09-26T18:00:15"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "How fast can you fix a UTF-16 string in C#?",
+  "link": "https://lemire.me/blog/2026/09/26/how-fast-can-you-fix-a-utf-16-string-in-c/",
+  "published": "2026-09-26T16:53:53"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "AI Finds So Many Linux Bugs, Canonical Changes to a Two-Week Stable Release Update Cycle",
+  "link": "https://news.slashdot.org/story/26/09/26/0559227/ai-finds-so-many-linux-bugs-canonical-changes-to-a-two-week-stable-release-update-cycle?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-26T16:04:00"
+ },
+ {
+  "blog_name": "Eli Bendersky",
+  "blog_url": "http://eli.thegreenplace.net/",
+  "title": "Rusty thoughts on \"Parse, don't validate\"",
+  "link": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+  "published": "2026-09-26T15:25:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Object-Oriented Programming (OOP) in Python",
+  "link": "https://realpython.com/python3-object-oriented-programming/",
+  "published": "2026-09-26T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python Inner Functions: What Are They Good For?",
+  "link": "https://realpython.com/inner-functions-what-are-they-good-for/",
+  "published": "2026-09-26T14:00:00"
+ },
+ {
   "blog_name": "Atomic Object",
   "blog_url": "https://spin.atomicobject.com/",
   "title": "There Has Never Been a Better Time to Learn the Software Development Lifecycle",
@@ -60,6 +109,13 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "iOS 27 Glass You Can Choose, Measure, and Test",
   "link": "https://www.codenameone.com/blog/ios-27-glass-you-can-test/",
+  "published": "2026-09-26T00:00:00"
+ },
+ {
+  "blog_name": "Crystal",
+  "blog_url": "https://crystal-lang.org/",
+  "title": "Crystal 1.21.1 is released!",
+  "link": "https://crystal-lang.org/2026/09/26/1.21.1-released/",
   "published": "2026-09-26T00:00:00"
  },
  {
@@ -522,6 +578,34 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Pixel Canary is now available in stealth for free on AI Gateway",
   "link": "https://vercel.com/changelog/pixel-canary-is-now-available-in-stealth-for-free-on-ai-gateway",
+  "published": "2026-09-25T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "The #1 AI behavior hurting your customers’ experiences",
+  "link": "https://www.twilio.com/en-us/blog/insights/lost-context-between-channels",
+  "published": "2026-09-25T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "What is AI agent orchestration? How it works in 2026",
+  "link": "https://www.twilio.com/en-us/blog/insights/ai-agent-orchestration",
+  "published": "2026-09-25T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to handle real-time interruptions in your AI voice agent",
+  "link": "https://www.twilio.com/en-us/blog/insights/ai-voice-agent-interruption-handling",
+  "published": "2026-09-25T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Build an RCS Business Messaging Campaign with Twilio in C#",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-csharp",
   "published": "2026-09-25T00:00:00"
  },
  {
