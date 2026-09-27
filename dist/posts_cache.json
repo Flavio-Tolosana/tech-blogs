@@ -7,6 +7,41 @@
   "published": "2026-09-29T07:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Waymo Says Its Self-Driving Cars Reduced Injury-Causing Accidents by 82%",
+  "link": "https://tech.slashdot.org/story/26/09/27/0134224/waymo-says-its-self-driving-cars-reduced-injury-causing-accidents-by-82?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-27T19:04:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Cloudflare’s 2026 Annual Founders’ Letter",
+  "link": "https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
+  "published": "2026-09-27T17:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "After Dozens of Incidents at OpenAI and Anthropic, OpenAI Pauses Model Training to Build More Safeguards",
+  "link": "https://slashdot.org/story/26/09/27/078251/after-dozens-of-incidents-at-openai-and-anthropic-openai-pauses-model-training-to-build-more-safeguards?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-27T14:34:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "How to Copy Objects in Python: Shallow vs Deep Copy Explained",
+  "link": "https://realpython.com/python-copy/",
+  "published": "2026-09-27T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Pipenv: A Guide to the Python Packaging Tool",
+  "link": "https://realpython.com/pipenv-guide/",
+  "published": "2026-09-27T14:00:00"
+ },
+ {
   "blog_name": "Atomic Object",
   "blog_url": "https://spin.atomicobject.com/",
   "title": "3 Perks of Working at a Flat Org",
@@ -60,6 +95,27 @@
   "blog_url": "https://jvns.ca/",
   "title": "Replacing the old battery on rechargeable bike lights",
   "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+  "published": "2026-09-27T00:00:00"
+ },
+ {
+  "blog_name": "Josh Sherman",
+  "blog_url": "https://joshtronic.com/",
+  "title": "Rediscovering Long-Form Email",
+  "link": "https://joshtronic.com/2026/09/27/rediscovering-long-form-email/",
+  "published": "2026-09-27T00:00:00"
+ },
+ {
+  "blog_name": "Zach Holman",
+  "blog_url": "https://zachholman.com/",
+  "title": "You Should Have an LLC",
+  "link": "http://zachholman.com/posts/you-should-have-an-llc",
+  "published": "2026-09-27T00:00:00"
+ },
+ {
+  "blog_name": "Nicolas Fränkel",
+  "blog_url": "https://blog.frankel.ch/",
+  "title": "From documenting decisions to questioning them",
+  "link": "https://blog.frankel.ch/from-madrs-to-questioning-them/",
   "published": "2026-09-27T00:00:00"
  },
  {
