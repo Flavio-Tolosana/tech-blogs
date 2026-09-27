@@ -7,6 +7,34 @@
   "published": "2026-09-29T07:00:00"
  },
  {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "3 Perks of Working at a Flat Org",
+  "link": "https://spin.atomicobject.com/perks-flat-org/",
+  "published": "2026-09-27T12:00:36"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Enhance Your Flask Web Project With a Database",
+  "link": "https://realpython.com/quizzes/flask-database/",
+  "published": "2026-09-27T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "New Tin-based Solar Cells Trap Heat 1,000 Times Longer, Could Beat 33% Limit",
+  "link": "https://hardware.slashdot.org/story/26/09/26/0716210/new-tin-based-solar-cells-trap-heat-1000-times-longer-could-beat-33-limit?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-27T10:04:00"
+ },
+ {
+  "blog_name": "Arkency",
+  "blog_url": "http://blog.arkency.com/",
+  "title": "6 levels of knowledge management maturity in organizations",
+  "link": "https://blog.arkency.com/6-levels-of-knowledge-management-maturity-in-organizations/",
+  "published": "2026-09-27T10:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "China and the US Say They've Agreed to Start Talks About AI",
@@ -25,6 +53,13 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "JPA Inspired ORM from SQLite to PostgreSQL",
   "link": "https://www.codenameone.com/blog/orm-session-from-phone-to-server/",
+  "published": "2026-09-27T00:00:00"
+ },
+ {
+  "blog_name": "Julia Evans",
+  "blog_url": "https://jvns.ca/",
+  "title": "Replacing the old battery on rechargeable bike lights",
+  "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
   "published": "2026-09-27T00:00:00"
  },
  {
