@@ -9,6 +9,48 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "Apple Faces $5.7 Billion Patent Infringement Verdict Over iPhone And Apple Watch Haptics",
+  "link": "https://apple.slashdot.org/story/26/09/27/0751219/apple-faces-57-billion-patent-infringement-verdict-over-iphone-and-apple-watch-haptics?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-28T04:04:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Apply now for an APRICOT 2027 Fellowship",
+  "link": "https://blog.apnic.net/2026/09/28/apply-now-for-an-apricot-2027-fellowship/",
+  "published": "2026-09-28T03:47:08"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency",
+  "link": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency/",
+  "published": "2026-09-28T01:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "OpenTelemetry Support from App to Database",
+  "link": "https://www.codenameone.com/blog/follow-a-tap-with-opentelemetry/",
+  "published": "2026-09-28T00:00:00"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "2026 in LLMs (so far)",
+  "link": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+  "published": "2026-09-27T23:54:15"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Just How Big is the AI Buildout - and How Risky?",
+  "link": "https://slashdot.org/story/26/09/25/230252/just-how-big-is-the-ai-buildout---and-how-risky?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-27T23:34:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Waymo Says Its Self-Driving Cars Reduced Injury-Causing Accidents by 82%",
   "link": "https://tech.slashdot.org/story/26/09/27/0134224/waymo-says-its-self-driving-cars-reduced-injury-causing-accidents-by-82?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-09-27T19:04:00"
@@ -116,6 +158,13 @@
   "blog_url": "https://blog.frankel.ch/",
   "title": "From documenting decisions to questioning them",
   "link": "https://blog.frankel.ch/from-madrs-to-questioning-them/",
+  "published": "2026-09-27T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Ember-1 from Fireworks now available on AI Gateway",
+  "link": "https://vercel.com/changelog/ember-1-from-fireworks-now-available-on-ai-gateway",
   "published": "2026-09-27T00:00:00"
  },
  {
