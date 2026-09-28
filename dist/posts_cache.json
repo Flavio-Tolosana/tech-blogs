@@ -7,6 +7,251 @@
   "published": "2026-09-29T07:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "AMD Acquires Fei-Fei Li's World Labs For $8.2 Billion",
+  "link": "https://slashdot.org/story/26/09/28/2042235/amd-acquires-fei-fei-lis-world-labs-for-82-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-28T22:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "TikTok to Pay Alabama $100 Million, Limit Teen Use In First State Settlement",
+  "link": "https://tech.slashdot.org/story/26/09/28/184256/tiktok-to-pay-alabama-100-million-limit-teen-use-in-first-state-settlement?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-28T21:00:00"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "PMania 6/6 - Du prompt au produit : votre premier workflow IA de bout en bout",
+  "link": "https://blog.octo.com/pmania-66-du-prompt-au-produit--votre-premier-workflow-ia-de-bout-en-bout",
+  "published": "2026-09-28T20:13:10"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "PMania 5/6 - Apprendre à l'IA les règles de la maison : les skills",
+  "link": "https://blog.octo.com/pmania-56-apprendre-a-l'ia-les-regles-de-la-maison--les-skills",
+  "published": "2026-09-28T20:12:10"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How Databricks rolls out frontier models to 14,000 employees on Day 1",
+  "link": "https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1",
+  "published": "2026-09-28T20:11:23"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "PMania 3/6 - Ces nouveaux collègues qui n'attendent plus vos ordres : comprendre les agents IA",
+  "link": "https://blog.octo.com/pmania-36-ces-nouveaux-collegues-qui-n'attendent-plus-vos-ordres--comprendre-les-agents-ia",
+  "published": "2026-09-28T20:10:10"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "PMania 4/6 - Piloter un agent au quotidien : specs, evals, sécurité",
+  "link": "https://blog.octo.com/pmania-46-piloter-un-agent-au-quotidien--specs-evals-securite",
+  "published": "2026-09-28T20:10:10"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "PMania 2/6 - Votre backlog a gagné un coéquipier : quand l'IA sort du chat et entre dans vos dossiers",
+  "link": "https://blog.octo.com/pmania-26-votre-backlog-a-gagne-un-coequipier--quand-l'ia-sort-du-chat-et-entre-dans-vos-dossiers",
+  "published": "2026-09-28T20:07:10"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Lakebase Search: State-of-the-art full text and vector search for Postgres",
+  "link": "https://www.databricks.com/blog/lakebase-search-state-art-full-text-and-vector-search-postgres",
+  "published": "2026-09-28T20:04:33"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Data Center Developer Offers $10,000 Checks To Nearby Households",
+  "link": "https://news.slashdot.org/story/26/09/28/180249/data-center-developer-offers-10000-checks-to-nearby-households?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-28T20:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Manufacturing data and AI: Connecting the product value chain",
+  "link": "https://www.databricks.com/blog/manufacturing-data-and-ai-connecting-product-value-chain",
+  "published": "2026-09-28T19:47:19"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+  "link": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+  "published": "2026-09-28T19:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Meta Taps MongoDB CEO Desai to Drive Enterprise AI Push",
+  "link": "https://developers.slashdot.org/story/26/09/28/1743253/meta-taps-mongodb-ceo-desai-to-drive-enterprise-ai-push?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-28T19:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Introducing Claude Sonnet 5.5 on AWS",
+  "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/",
+  "published": "2026-09-28T18:57:13"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "Kodebits Day 99: Tail Recursion [FREE]",
+  "link": "https://www.kodeco.com/52032950-kodebits-day-99-tail-recursion",
+  "published": "2026-09-28T18:00:16"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog",
+  "link": "https://it.slashdot.org/story/26/09/28/150209/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-28T18:00:00"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "Highlights from Git 2.56",
+  "link": "https://github.blog/open-source/git/highlights-from-git-2-56/",
+  "published": "2026-09-28T17:23:33"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Build Agentic UI with the new Blazor AI components",
+  "link": "https://devblogs.microsoft.com/dotnet/build-agentic-ui-blazor/",
+  "published": "2026-09-28T17:05:00"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Is Your “Human-in-the-Loop” Actually Slowing You Down? Here’s What We Learned",
+  "link": "https://stackoverflow.blog/2026/09/28/is-your-human-in-the-loop-actually-slowing-you-down-here-s-what-we-learned/",
+  "published": "2026-09-28T16:41:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How to roll out Genie One: A step-by-step enterprise playbook",
+  "link": "https://www.databricks.com/blog/how-roll-out-genie-one-step-step-enterprise-playbook",
+  "published": "2026-09-28T16:30:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
+  "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/",
+  "published": "2026-09-28T16:15:46"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2",
+  "link": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/",
+  "published": "2026-09-28T16:15:17"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
+  "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
+  "published": "2026-09-28T16:14:54"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Build intelligent Android apps: In-app agentic workflows",
+  "link": "https://android-developers.googleblog.com/2026/09/android-agentic-workflows.html",
+  "published": "2026-09-28T16:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Implementing synthetic monitoring using Amazon Nova Act",
+  "link": "https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/",
+  "published": "2026-09-28T15:56:32"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Automating Amazon Textract adapter lifecycle management across accounts",
+  "link": "https://aws.amazon.com/blogs/machine-learning/automating-amazon-textract-adapter-lifecycle-management-across-accounts/",
+  "published": "2026-09-28T15:49:04"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Can your Postgres survive a bad query?",
+  "link": "https://clickhouse.com/blog/can-your-postgres-survive-a-bad-query",
+  "published": "2026-09-28T15:37:06"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Unlearn.dev goes free for a weekend, October 10 and 11",
+  "link": "https://laravel-news.com/unlearndev-goes-free-for-a-weekend-october-10-and-11?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-28T15:32:22"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Next.js applications, powered by Vite: introducing Vinext 1.0",
+  "link": "https://blog.cloudflare.com/vinext-nextjs-on-vite/",
+  "published": "2026-09-28T14:51:57"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
+  "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+  "published": "2026-09-28T14:50:37"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "How fast is the web? Explore billions of real-user measurements with BEACON",
+  "link": "https://blog.cloudflare.com/how-fast-is-the-web/",
+  "published": "2026-09-28T14:43:05"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building LLM Primitives from Scratch in TypeScript: Tokenizers, Vectors, and Attention",
+  "link": "https://www.sitepoint.com/building-llm-primitives-from-scratch-typescript/?utm_source=rss",
+  "published": "2026-09-28T14:42:29"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Build a Custom Go Vanity Import Proxy with Caddy and Nginx",
+  "link": "https://www.sitepoint.com/custom-go-vanity-import-proxy-caddy-nginx/?utm_source=rss",
+  "published": "2026-09-28T14:42:18"
+ },
+ {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "Beyond A/B Testing: Designing Experiments When the Space Is Too Large to Explore",
+  "link": "https://building.nu.com/beyond-a-b-testing-designing-experiments-when-the-space-is-too-large-to-explore/",
+  "published": "2026-09-28T14:21:31"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python 3.15 Preview: Sentinel Values",
+  "link": "https://realpython.com/python315-sentinel-values/",
+  "published": "2026-09-28T14:00:00"
+ },
+ {
   "blog_name": "Red Hat",
   "blog_url": "https://developers.redhat.com/blog/",
   "title": "Upgrading to Red Hat JBoss Web Server 7: Key changes & impacts",
@@ -133,6 +378,13 @@
   "published": "2026-09-28T09:38:26"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "MCP vs Skills: What Java Developers Actually Need to Know",
+  "link": "https://www.sitepoint.com/mcp-vs-skills-what-java-developers-actually-need-to-know/?utm_source=rss",
+  "published": "2026-09-28T09:15:32"
+ },
+ {
   "blog_name": "MIT AI News",
   "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
   "title": "New formulation helps RNA vaccines withstand high temperatures",
@@ -173,6 +425,27 @@
   "title": "CAPTCHA is more than just a puzzle piece",
   "link": "https://www.zyte.com/blog/sowa-barrier-captcha/",
   "published": "2026-09-28T08:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "7 Security Checks Every JavaScript File Upload Needs",
+  "link": "https://www.sitepoint.com/7-security-checks-every-javascript-file-upload-needs/?utm_source=rss",
+  "published": "2026-09-28T07:07:19"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "The 24 most commonly misunderstood marketing data terms",
+  "link": "https://www.databricks.com/blog/helping-marketing-data-engineering-same-word-different-meaning",
+  "published": "2026-09-28T07:01:10"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+  "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+  "published": "2026-09-28T07:00:00"
  },
  {
   "blog_name": "The Daily WTF",
@@ -221,6 +494,69 @@
   "blog_url": "https://www.pulumi.com/blog/",
   "title": "Route every Claude Code message to the right model with Jev",
   "link": "https://www.pulumi.com/blog/route-every-claude-code-message-to-the-right-model-with-jev/",
+  "published": "2026-09-28T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Securing Agentic Commerce Using Auth0 and the Universal Commerce Protocol (UCP)",
+  "link": "https://auth0.com/blog/securing-agentic-commerce-using-auth0-universal-commerce-protocol-ucp/",
+  "published": "2026-09-28T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Auth0 for ChatGPT - Build and Manage Identity by Just Asking",
+  "link": "https://auth0.com/blog/auth0-for-chatgpt-build-manage-identity/",
+  "published": "2026-09-28T00:00:00"
+ },
+ {
+  "blog_name": "MapTiler",
+  "blog_url": "https://www.maptiler.com/blog/",
+  "title": "How to Read Contour Lines",
+  "link": "https://www.maptiler.com/news/2026/09/how-to-read-contour-lines",
+  "published": "2026-09-28T00:00:00"
+ },
+ {
+  "blog_name": "Stripe",
+  "blog_url": "https://stripe.com/blog",
+  "title": "Travel’s AI dilemma at Skift Global Forum",
+  "link": "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum",
+  "published": "2026-09-28T00:00:00"
+ },
+ {
+  "blog_name": "Bartlomiej Filipek",
+  "blog_url": "http://www.bfilipek.com/",
+  "title": "Using C++17 std::optional",
+  "link": "https://www.cppstories.com/2018/05/using-optional/",
+  "published": "2026-09-28T00:00:00"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "Self-driving infrastructure with Pulumi and Jev",
+  "link": "https://www.pulumi.com/blog/self-driving-infrastructure-pulumi-jev/",
+  "published": "2026-09-28T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Claude Sonnet 5.5 now available on AI Gateway",
+  "link": "https://vercel.com/changelog/claude-sonnet-5-5-now-available-on-ai-gateway",
+  "published": "2026-09-28T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Are you a Codex Original?",
+  "link": "https://openai.com/form/codex-originals",
+  "published": "2026-09-28T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+  "link": "https://openai.com/index/basis-tax-workbook-with-astra",
   "published": "2026-09-28T00:00:00"
  },
  {
