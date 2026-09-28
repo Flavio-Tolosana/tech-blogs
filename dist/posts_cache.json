@@ -7,6 +7,181 @@
   "published": "2026-09-29T07:00:00"
  },
  {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Upgrading to Red Hat JBoss Web Server 7: Key changes & impacts",
+  "link": "https://developers.redhat.com/articles/2026/09/28/upgrading-red-hat-jboss-web-server-7-key-changes-impacts",
+  "published": "2026-09-28T13:01:50"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "How to rank fraud detection models using custom cost metrics",
+  "link": "https://developers.redhat.com/articles/2026/09/28/how-rank-fraud-detection-models-using-custom-cost-metrics",
+  "published": "2026-09-28T13:01:48"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Run decision models on vLLM and Red Hat AI using DiffusionGemma",
+  "link": "https://developers.redhat.com/articles/2026/09/28/run-decision-model-vllm-and-red-hat-ai",
+  "published": "2026-09-28T13:00:42"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents",
+  "link": "https://blog.cloudflare.com/voidzero-update/",
+  "published": "2026-09-28T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
+  "link": "https://blog.cloudflare.com/forge-open-source-generation-pipeline/",
+  "published": "2026-09-28T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "The road to the agentic browser: A Kitesurf update",
+  "link": "https://blog.cloudflare.com/kitesurf-update/",
+  "published": "2026-09-28T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Introducing The Cold Start: pitch your startup live at Cloudflare Connect",
+  "link": "https://blog.cloudflare.com/introducing-the-cold-start/",
+  "published": "2026-09-28T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "EmDash 1.0: the stable CMS with a secure plugin registry",
+  "link": "https://blog.cloudflare.com/emdash-cms-plugin-registry/",
+  "published": "2026-09-28T13:00:00"
+ },
+ {
+  "blog_name": "Timescale",
+  "blog_url": "https://blog.timescale.com/",
+  "title": "41 Experiments in 6 Days: What the Human Was Actually For",
+  "link": "https://www.tigerdata.com/blog/41-experiments-6-days-what-human-was-for",
+  "published": "2026-09-28T12:47:44"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "simdjson 5.0 is out",
+  "link": "https://lemire.me/blog/2026/09/28/simdjson-5-0-is-out/",
+  "published": "2026-09-28T12:38:25"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Hostinger weekly product updates: Week 39, 2026",
+  "link": "https://www.hostinger.com/blog/product-updates-week-39-2026/",
+  "published": "2026-09-28T12:08:54"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Web Workers: A Second Thread for Your JavaScript",
+  "link": "https://freek.dev/3196-web-workers-a-second-thread-for-your-javascript",
+  "published": "2026-09-28T12:06:24"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Even with LLMs, Let’s Pair Together",
+  "link": "https://spin.atomicobject.com/llms-lets-pair-together/",
+  "published": "2026-09-28T12:00:34"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Build a Python Turtle Game: Space Invaders Clone",
+  "link": "https://realpython.com/quizzes/build-python-turtle-game-space-invaders-clone/",
+  "published": "2026-09-28T12:00:00"
+ },
+ {
+  "blog_name": "Hayden James",
+  "blog_url": "https://haydenjames.io/",
+  "title": "Linux Bash Scripting: Writing Your First Script",
+  "link": "https://linuxblog.io/linux-bash-scripting-writing-your-first-script/",
+  "published": "2026-09-28T11:23:06"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Holo4: powering generalist computer-use agents",
+  "link": "https://huggingface.co/blog/Hcompany/holo4",
+  "published": "2026-09-28T09:44:05"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "chDB Durable Layer for agent memory",
+  "link": "https://clickhouse.com/blog/chdb-durable-layer-for-agent-memory",
+  "published": "2026-09-28T09:42:20"
+ },
+ {
+  "blog_name": "Kotlin",
+  "blog_url": "https://blog.jetbrains.com/kotlin/",
+  "title": "A More Reliable Compilation Scheme for Kotlin Multiplatform Modules",
+  "link": "https://blog.jetbrains.com/kotlin/2026/09/a-more-reliable-compilation-scheme-for-kotlin-multiplatform-modules/",
+  "published": "2026-09-28T09:38:26"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "New formulation helps RNA vaccines withstand high temperatures",
+  "link": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+  "published": "2026-09-28T09:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+  "link": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
+  "published": "2026-09-28T08:56:55"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+  "link": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/",
+  "published": "2026-09-28T08:55:00"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "How DigitalOcean Manages Credentials for Autonomous Agents",
+  "link": "https://www.digitalocean.com/blog/how-digitalocean-manages-credentials-for-autonomous-agents",
+  "published": "2026-09-28T08:53:19"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Are AI Chatbots Spreading Misinformation to US Voters?",
+  "link": "https://politics.slashdot.org/story/26/09/26/2358224/are-ai-chatbots-spreading-misinformation-to-us-voters?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-28T08:34:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "CAPTCHA is more than just a puzzle piece",
+  "link": "https://www.zyte.com/blog/sowa-barrier-captcha/",
+  "published": "2026-09-28T08:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "It's All Part 2 of the Process",
+  "link": "https://thedailywtf.com/articles/it-s-all-part-2-of-the-process",
+  "published": "2026-09-28T06:30:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Apple Faces $5.7 Billion Patent Infringement Verdict Over iPhone And Apple Watch Haptics",
@@ -28,10 +203,24 @@
   "published": "2026-09-28T01:00:00"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Tashil: Laravel Subscription Plans and Feature Usage Limits",
+  "link": "https://laravel-news.com/tashil-laravel-subscriptions?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-28T00:20:10"
+ },
+ {
   "blog_name": "CodeName One",
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "OpenTelemetry Support from App to Database",
   "link": "https://www.codenameone.com/blog/follow-a-tap-with-opentelemetry/",
+  "published": "2026-09-28T00:00:00"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "Route every Claude Code message to the right model with Jev",
+  "link": "https://www.pulumi.com/blog/route-every-claude-code-message-to-the-right-model-with-jev/",
   "published": "2026-09-28T00:00:00"
  },
  {
@@ -47,6 +236,13 @@
   "title": "Just How Big is the AI Buildout - and How Risky?",
   "link": "https://slashdot.org/story/26/09/25/230252/just-how-big-is-the-ai-buildout---and-how-risky?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-09-27T23:34:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Technical Blogging for Developers: How to Build an Audience That Actually Compounds",
+  "link": "https://www.sitepoint.com/technical-blogging-for-developers-how-to-build-an-audience-that-actually-compounds/?utm_source=rss",
+  "published": "2026-09-27T19:20:33"
  },
  {
   "blog_name": "Slashdot",
@@ -112,6 +308,13 @@
   "published": "2026-09-27T10:00:00"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas dropna with thresh: Drop only rows with too many NaN values",
+  "link": "https://lernerpython.com/2026/09/27/pandas-dropna-with-thresh-drop-only-rows-with-too-many-nan-values/",
+  "published": "2026-09-27T06:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "China and the US Say They've Agreed to Start Talks About AI",
@@ -166,6 +369,20 @@
   "title": "Ember-1 from Fireworks now available on AI Gateway",
   "link": "https://vercel.com/changelog/ember-1-from-fireworks-now-available-on-ai-gateway",
   "published": "2026-09-27T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "The Second Life of Autoconf for MS-DOS",
+  "link": "https://code.dblock.org/2026/09/27/the-second-life-of-autoconf-for-ms-dos.html",
+  "published": "2026-09-27T00:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "From Solo Developer to Global App Ecosystem: The Story Behind MultiTOOL Pro and Beyond",
+  "link": "https://www.sitepoint.com/from-solo-developer-to-global-app-ecosystem-the-story-behind-multitool-pro-and-beyond/?utm_source=rss",
+  "published": "2026-09-26T23:20:48"
  },
  {
   "blog_name": "Slashdot",
@@ -767,6 +984,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "How to Build an RCS Business Messaging Campaign with Twilio in C#",
   "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-csharp",
+  "published": "2026-09-25T00:00:00"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "Change your components, keep your infrastructure",
+  "link": "https://www.pulumi.com/blog/component-state-migrations/",
   "published": "2026-09-25T00:00:00"
  },
  {
@@ -1397,6 +1621,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "Two years of OpenAI Academy",
   "link": "https://openai.com/index/two-years-of-openai-academy",
+  "published": "2026-09-23T16:00:00"
+ },
+ {
+  "blog_name": "PubNub:",
+  "blog_url": "https://www.pubnub.com/blog/",
+  "title": "End the agent loneliness epidemic: How to connect your agent to the Dating Block",
+  "link": "https://www.pubnub.com/blog/end-agent-loneliness-how-to-connect-agent-on-dating-block/",
   "published": "2026-09-23T16:00:00"
  },
  {
@@ -4428,6 +4659,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "Helping older adults use AI in everyday life",
   "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+  "published": "2026-09-16T16:00:00"
+ },
+ {
+  "blog_name": "PubNub:",
+  "blog_url": "https://www.pubnub.com/blog/",
+  "title": "Building AI Agents got easier; managing them didn’t: Managing agent sprawl with Blocks Enterprise",
+  "link": "https://www.pubnub.com/blog/managing-agent-sprawl-blocks-enterprise/",
   "published": "2026-09-16T16:00:00"
  },
  {
@@ -21865,6 +22103,13 @@
   "blog_url": "http://www.stackabuse.com/",
   "title": "Building a Developer-Friendly App Stack for 2026",
   "link": "https://stackabuse.com/building-a-developer-friendly-app-stack-for-2026/",
+  "published": null
+ },
+ {
+  "blog_name": "Stack Abuse",
+  "blog_url": "http://www.stackabuse.com/",
+  "title": "Building a Secure Client-Server Protocol in Python: Sockets, Framing & Key Exchange",
+  "link": "https://stackabuse.com/building-a-secure-client-server-protocol-in-python-sockets-framing-key-exchange/",
   "published": null
  }
 ]
