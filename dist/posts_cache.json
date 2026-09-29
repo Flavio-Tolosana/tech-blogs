@@ -1,5 +1,194 @@
 [
  {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Bliki: Sensible Default",
+  "link": "https://martinfowler.com/bliki/SensibleDefault.html",
+  "published": "2026-09-29T13:43:00"
+ },
+ {
+  "blog_name": "Etsy",
+  "blog_url": "https://codeascraft.com/",
+  "title": "That Which We CAN Do: Sustainability in a World of AI",
+  "link": "https://www.etsy.com/codeascraft/that-which-we-can-do-sustainability-in-a-world-of-ai?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share",
+  "published": "2026-09-29T13:25:10"
+ },
+ {
+  "blog_name": "Erlang Solutions",
+  "blog_url": "https://www.erlang-solutions.com/blog.html",
+  "title": "A Live Chiptune Synthesizer in Erlang",
+  "link": "https://www.erlang-solutions.com/blog/a-live-chiptune-synthesizer-in-erlang/",
+  "published": "2026-09-29T13:11:30"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+  "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+  "published": "2026-09-29T13:07:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "ClickHouse now writes Apache Iceberg tables to Microsoft OneLake",
+  "link": "https://clickhouse.com/blog/clickhouse-now-writes-to-microsoft-onelake",
+  "published": "2026-09-29T13:03:07"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Distributed training on OpenShift AI 3.4 with Kubeflow Trainer v2",
+  "link": "https://developers.redhat.com/articles/2026/09/29/distributed-training-openshift-ai-34-kubeflow-trainer-v2",
+  "published": "2026-09-29T13:01:47"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Red team your AI model with garak",
+  "link": "https://developers.redhat.com/articles/2026/09/29/red-team-your-ai-model-garak",
+  "published": "2026-09-29T13:01:46"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "How we cut CI failure triage from hours to minutes using AI",
+  "link": "https://developers.redhat.com/articles/2026/09/29/how-we-cut-ci-failure-triage-from-hours-to-minutes-using-ai",
+  "published": "2026-09-29T13:01:43"
+ },
+ {
+  "blog_name": "Timescale",
+  "blog_url": "https://blog.timescale.com/",
+  "title": "Agent Memory Is a Search Problem, Not a Storage Problem",
+  "link": "https://www.tigerdata.com/blog/agent-memory-search-problem-not-storage-problem",
+  "published": "2026-09-29T13:00:52"
+ },
+ {
+  "blog_name": "Dropbox",
+  "blog_url": "https://blogs.dropbox.com/tech/",
+  "title": "Evolving our calendar assistant Reclaim to be AI-native without starting over",
+  "link": "https://dropbox.tech/machine-learning/evolving-calendar-assistant-reclaim-to-be-ai-native",
+  "published": "2026-09-29T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Using AI to chart a course for our post-quantum migration",
+  "link": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
+  "published": "2026-09-29T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Building a certificate authority for the whole Internet",
+  "link": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
+  "published": "2026-09-29T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
+  "link": "https://blog.cloudflare.com/ai-era-framework/",
+  "published": "2026-09-29T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Building a post-quantum certificate authority with Merkle Tree Certificates",
+  "link": "https://blog.cloudflare.com/pq-ca-with-mtcs/",
+  "published": "2026-09-29T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "We tested our own WAF with frontier AI models. Here’s what we found",
+  "link": "https://blog.cloudflare.com/adaptive-ai-waf-testing/",
+  "published": "2026-09-29T13:00:00"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Fragments: September 29",
+  "link": "https://martinfowler.com/fragments/2026-09-29.html",
+  "published": "2026-09-29T12:41:00"
+ },
+ {
+  "blog_name": "Kotlin",
+  "blog_url": "https://blog.jetbrains.com/kotlin/",
+  "title": "The State of Kotlin in 2026 Report",
+  "link": "https://blog.jetbrains.com/kotlin/2026/09/state-of-kotlin-2026-report/",
+  "published": "2026-09-29T12:38:29"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Ruthless prioritization while the dog pees on the floor",
+  "link": "https://freek.dev/3197-ruthless-prioritization-while-the-dog-pees-on-the-floor",
+  "published": "2026-09-29T12:30:26"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "A Linux Toolkit for Disk Image Recovery",
+  "link": "https://spin.atomicobject.com/linux-disk-image-recovery/",
+  "published": "2026-09-29T12:00:03"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: How to Use Python: Taking Your First Steps",
+  "link": "https://realpython.com/quizzes/first-steps-python/",
+  "published": "2026-09-29T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: LLM Application Development With Python",
+  "link": "https://realpython.com/quizzes/llm-application-development-python/",
+  "published": "2026-09-29T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: What's New in Python 3.15",
+  "link": "https://realpython.com/quizzes/whats-new-in-python-315/",
+  "published": "2026-09-29T12:00:00"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "120+ countries and nationalities in English",
+  "link": "https://blog.duolingo.com/where-are-you-from-in-english/",
+  "published": "2026-09-29T12:00:00"
+ },
+ {
+  "blog_name": "GoCardless",
+  "blog_url": "https://gocardless.com/blog/tagged/engineering/",
+  "title": "Rising tides: Late payments in UK consumer lending",
+  "link": "https://gocardless.com/guides/posts/rising-tides-lending",
+  "published": "2026-09-29T11:03:59"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "El Nino Bursts Through Temperature Record Months Before Peak",
+  "link": "https://news.slashdot.org/story/26/09/29/054253/el-nino-bursts-through-temperature-record-months-before-peak?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-29T11:00:00"
+ },
+ {
+  "blog_name": "Bazaarvoice",
+  "blog_url": "https://blog.developer.bazaarvoice.com/",
+  "title": "From 4 Months to 2 Years: Scaling Systems and Stepping into Seniority at Bazaarvoice",
+  "link": "https://blog.developer.bazaarvoice.com/2026/09/29/from-4-months-to-2-years-scaling-systems-and-stepping-into-seniority-at-bazaarvoice/",
+  "published": "2026-09-29T10:23:00"
+ },
+ {
+  "blog_name": "Booking.com Data Science",
+  "blog_url": "https://booking.ai/",
+  "title": "A problem well-defined is half solved: Measuring Hypothesis Quality at Booking.com",
+  "link": "https://booking.ai/a-problem-well-defined-is-half-solved-measuring-hypothesis-quality-at-booking-com-a85e845178a3?source=rss----4d265f07defc---4",
+  "published": "2026-09-29T09:42:29"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "Your phone is AI’s newest hardware",
@@ -7,11 +196,53 @@
   "published": "2026-09-29T07:40:00"
  },
  {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "ClickHouse expands collaboration with Microsoft, bringing Fabric integration, deeper OneLake interoperability, and enterprise deployment flexibility",
+  "link": "https://clickhouse.com/blog/clickhouse-expands-collaboration-with-microsoft",
+  "published": "2026-09-29T07:24:08"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "ClickHouse Workload for Microsoft Fabric: sub-second analytics on OneLake, now in public preview",
+  "link": "https://clickhouse.com/blog/clickhouse-for-microsoft-fabric",
+  "published": "2026-09-29T07:18:14"
+ },
+ {
   "blog_name": "HashiCorp",
   "blog_url": "https://www.hashicorp.com/blog/",
   "title": "Secure AI agents with HashiCorp Boundary",
   "link": "https://www.hashicorp.com/blog/secure-ai-agents-with-hashicorp-boundary",
   "published": "2026-09-29T07:00:00"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "Are Standards Still for Humans or Agents? In Conversation With Lorna Mitchell",
+  "link": "https://nordicapis.com/are-standards-still-for-humans-or-agents-in-conversation-with-lorna-mitchell/",
+  "published": "2026-09-29T07:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Microbes Could Survive On Saturn's Moon Enceladus",
+  "link": "https://science.slashdot.org/story/26/09/28/2140251/microbes-could-survive-on-saturns-moon-enceladus?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-29T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Representative Line: Unique Testing",
+  "link": "https://thedailywtf.com/articles/unique-testing",
+  "published": "2026-09-29T06:30:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Elastic Bridge: Eloquent-Style Queries for Elasticsearch and OpenSearch",
+  "link": "https://laravel-news.com/elastic-bridge?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-29T04:03:08"
  },
  {
   "blog_name": "MIT AI News",
@@ -53,6 +284,34 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "WebSocket Support for Your Java Backend",
   "link": "https://www.codenameone.com/blog/websocket-server-tests-our-apps/",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "MapTiler",
+  "blog_url": "https://www.maptiler.com/blog/",
+  "title": "MapTiler SDK for Mobile: Native Maps for iOS and Android",
+  "link": "https://www.maptiler.com/news/2026/09/maptiler-sdk-for-mobile-native-maps-for-ios-and-android",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Good Morning, Dave: the 1998 INET Conference Kiosk Launcher",
+  "link": "https://code.dblock.org/2026/09/29/good-morning-dave-the-1998-inet-conference-kiosk-launcher.html",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Cloud Serverless: Another Azure region",
+  "link": "https://www.elastic.co/blog/elastic-cloud-serverless-now-available-azure-iowa",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Engineering the harness: A practical pattern for reliable coding agents",
+  "link": "https://www.thoughtworks.com/insights/blog/architecture/engineering-the-harness-a-practical-pattern-for-reliable-coding-agents",
   "published": "2026-09-29T00:00:00"
  },
  {
@@ -165,6 +424,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "How we will do better for Australia",
   "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+  "published": "2026-09-28T19:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Towards safety cases for frontier AI training",
+  "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
   "published": "2026-09-28T19:00:00"
  },
  {
@@ -434,11 +700,32 @@
   "published": "2026-09-28T12:00:00"
  },
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python 3.15 Preview: Sentinel Values",
+  "link": "https://realpython.com/quizzes/python315-sentinel-values/",
+  "published": "2026-09-28T12:00:00"
+ },
+ {
   "blog_name": "Hayden James",
   "blog_url": "https://haydenjames.io/",
   "title": "Linux Bash Scripting: Writing Your First Script",
   "link": "https://linuxblog.io/linux-bash-scripting-writing-your-first-script/",
   "published": "2026-09-28T11:23:06"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building Smarter Email Workflows with AI, APIs, and Automation",
+  "link": "https://www.sitepoint.com/building-smarter-email-workflows-with-ai-apis-and-automation/?utm_source=rss",
+  "published": "2026-09-28T10:34:16"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "From Live Event to Evergreen Content: Building a Web Workflow That Keeps Working After the Stream Ends",
+  "link": "https://www.sitepoint.com/from-live-event-to-evergreen-content-building-a-web-workflow-that-keeps-working-after-the-stream-ends/?utm_source=rss",
+  "published": "2026-09-28T10:22:53"
  },
  {
   "blog_name": "Hugging Face",
@@ -529,6 +816,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
   "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+  "published": "2026-09-28T07:00:00"
+ },
+ {
+  "blog_name": "PubNub:",
+  "blog_url": "https://www.pubnub.com/blog/",
+  "title": "Building real-time features fast with the PubNub MCP: Eric Lake",
+  "link": "https://www.pubnub.com/blog/building-real-time-features-fast-with-the-pub-nub-mcp-eric-lake/",
   "published": "2026-09-28T07:00:00"
  },
  {
@@ -648,6 +942,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Search domains without authentication",
   "link": "https://vercel.com/changelog/search-domains-without-authentication",
+  "published": "2026-09-28T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Build an RCS Business Messaging Campaign with Twilio in PHP",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-php",
   "published": "2026-09-28T00:00:00"
  },
  {
@@ -2007,6 +2308,13 @@
   "title": "Unlimited Vercel Blob stores on every plan",
   "link": "https://vercel.com/changelog/unlimited-vercel-blob-stores-on-every-plan",
   "published": "2026-09-23T18:00:00"
+ },
+ {
+  "blog_name": "Dean Hume",
+  "blog_url": "http://deanhume.com/",
+  "title": "Prompt-Driven Development: Building with GitHub Copilot Coding Agents",
+  "link": "https://deanhume.com/prompt-driven-development-building-with-github-copilot-coding-agents/",
+  "published": "2026-09-23T17:52:00"
  },
  {
   "blog_name": "Jeremy Kun",
