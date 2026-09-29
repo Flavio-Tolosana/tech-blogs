@@ -1,10 +1,73 @@
 [
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Your phone is AI’s newest hardware",
+  "link": "https://stackoverflow.blog/2026/09/29/your-phone-is-ai-s-newest-hardware/",
+  "published": "2026-09-29T07:40:00"
+ },
+ {
   "blog_name": "HashiCorp",
   "blog_url": "https://www.hashicorp.com/blog/",
   "title": "Secure AI agents with HashiCorp Boundary",
   "link": "https://www.hashicorp.com/blog/secure-ai-agents-with-hashicorp-boundary",
   "published": "2026-09-29T07:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "The effects of an “algorithmic monoculture” depend on the details",
+  "link": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
+  "published": "2026-09-29T04:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Who we become when we talk to machines",
+  "link": "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929",
+  "published": "2026-09-29T04:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Bananas That Don't Go Brown To Hit Supermarkets Thanks to DNA Editing",
+  "link": "https://science.slashdot.org/story/26/09/28/210256/bananas-that-dont-go-brown-to-hit-supermarkets-thanks-to-dna-editing?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-29T03:30:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Gemini Interactions API in TypeScript: Task-Aware Thinking Routing",
+  "link": "https://www.sitepoint.com/gemini-interactions-api-typescript-thinking-router/?utm_source=rss",
+  "published": "2026-09-29T03:10:54"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Thou shall not pass: Gatekeeping outbound TLS connections",
+  "link": "https://blog.apnic.net/2026/09/29/thou-shall-not-pass-gatekeeping-outbound-tls-connections/",
+  "published": "2026-09-29T00:04:51"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "WebSocket Support for Your Java Backend",
+  "link": "https://www.codenameone.com/blog/websocket-server-tests-our-apps/",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "China Broadens Travel Curbs To Encompass Family of Top AI Talent",
+  "link": "https://slashdot.org/story/26/09/28/2052208/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-28T23:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Grok 4.7 is now available on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
+  "published": "2026-09-28T22:13:16"
  },
  {
   "blog_name": "Slashdot",
@@ -98,11 +161,25 @@
   "published": "2026-09-28T19:00:00"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How we will do better for Australia",
+  "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+  "published": "2026-09-28T19:00:00"
+ },
+ {
   "blog_name": "AWS Machine Learning",
   "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
   "title": "Introducing Claude Sonnet 5.5 on AWS",
   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/",
   "published": "2026-09-28T18:57:13"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Why model versioning is not enough for production AI",
+  "link": "https://stackoverflow.blog/2026/09/28/why-model-versioning-is-not-enough-for-production-ai/",
+  "published": "2026-09-28T18:24:12"
  },
  {
   "blog_name": "Ray Wenderlich",
@@ -249,6 +326,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Python 3.15 Preview: Sentinel Values",
   "link": "https://realpython.com/python315-sentinel-values/",
+  "published": "2026-09-28T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "C++ reminder: Function-local static variables are initialized only once, even if it looks like they get initialized multiple times",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260928-00/?p=112738/",
   "published": "2026-09-28T14:00:00"
  },
  {
@@ -557,6 +641,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
   "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+  "published": "2026-09-28T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Search domains without authentication",
+  "link": "https://vercel.com/changelog/search-domains-without-authentication",
   "published": "2026-09-28T00:00:00"
  },
  {
