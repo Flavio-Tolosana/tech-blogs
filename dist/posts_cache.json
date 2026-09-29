@@ -1,5 +1,173 @@
 [
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Mistral CEO Says US AI Safety Debate Masks Competitors' 'Negligence'",
+  "link": "https://slashdot.org/story/26/09/29/1855248/mistral-ceo-says-us-ai-safety-debate-masks-competitors-negligence?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-29T21:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "McDonald's Reportedly Using AI to 'Dynamically' Price Its Burgers",
+  "link": "https://tech.slashdot.org/story/26/09/29/1815221/mcdonalds-reportedly-using-ai-to-dynamically-price-its-burgers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-29T20:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
+  "published": "2026-09-29T19:34:14"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect",
+  "link": "https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect/",
+  "published": "2026-09-29T19:10:51"
+ },
+ {
+  "blog_name": "Jeffrey Zeldman",
+  "blog_url": "https://zeldman.com/",
+  "title": "My Glamorous Life: in Which I am a Target",
+  "link": "https://zeldman.com/2026/09/29/my-glamorous-life-in-which-i-am-a-target/",
+  "published": "2026-09-29T19:09:43"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "500K Facial Recognition Scans at UK Stations Yield Zero Arrests, One False Positive",
+  "link": "https://news.slashdot.org/story/26/09/29/1736207/500k-facial-recognition-scans-at-uk-stations-yield-zero-arrests-one-false-positive?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-29T19:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3",
+  "link": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/",
+  "published": "2026-09-29T18:35:09"
+ },
+ {
+  "blog_name": "Medium",
+  "blog_url": "https://medium.com/medium-eng",
+  "title": "What We Built for Medium Editors This Year (and What I Broke)",
+  "link": "https://medium.engineering/what-we-built-for-medium-editors-this-year-and-what-i-broke-1213c2746703?source=rss----2817475205d3---4",
+  "published": "2026-09-29T18:09:45"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "OpenAI Unveils Always-On AI Agent 'Dots'",
+  "link": "https://slashdot.org/story/26/09/29/1723239/openai-unveils-always-on-ai-agent-dots?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-29T18:00:00"
+ },
+ {
+  "blog_name": "Airbnb",
+  "blog_url": "https://medium.com/airbnb-engineering",
+  "title": "Personalization without user identity",
+  "link": "https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486?source=rss----53c7c27702d5---4",
+  "published": "2026-09-29T17:01:01"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Says Chromebook Updates End In 2034, 'Many' Models Move to Googlebook OS",
+  "link": "https://tech.slashdot.org/story/26/09/29/0538225/google-says-chromebook-updates-end-in-2034-many-models-move-to-googlebook-os?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-29T17:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Your data, your storage, your rules: a 2026 guide to storing Unity Catalog managed tables",
+  "link": "https://www.databricks.com/blog/your-data-your-storage-your-rules-2026-guide-storing-unity-catalog-managed-tables",
+  "published": "2026-09-29T16:40:16"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Prompt engineering fundamentals for Amazon Quick",
+  "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick/",
+  "published": "2026-09-29T16:27:57"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Prompt engineering by Quick component: Patterns and pitfalls",
+  "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls/",
+  "published": "2026-09-29T16:27:33"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Building an AI-powered contract intelligence platform with Amazon Quick and Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore/",
+  "published": "2026-09-29T16:14:24"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Driving growth on Google Play: The next era of subscriptions",
+  "link": "https://android-developers.googleblog.com/2026/09/unlocking-Google-play-subscription-growth.html",
+  "published": "2026-09-29T16:00:00"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Free the models: Harness design at the frontier",
+  "link": "https://replit.com/blog/free-the-models",
+  "published": "2026-09-29T16:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How Condé Nast built multimodal video discovery with Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/",
+  "published": "2026-09-29T15:55:17"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "OpenAI DevDay 2026 live blog",
+  "link": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+  "published": "2026-09-29T15:55:13"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+  "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
+  "published": "2026-09-29T15:30:38"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laravel Release Cycle: Versions, Support Policy, and Dates",
+  "link": "https://laravel-news.com/laravel-releases?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-29T15:13:20"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+  "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+  "published": "2026-09-29T15:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building a Local Voice-Controlled Hardware System with Python and Termux",
+  "link": "https://www.sitepoint.com/building-a-local-voice-controlled-hardware-system-with-python-and-termux/?utm_source=rss",
+  "published": "2026-09-29T14:04:46"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "What's New in Python 3.15",
+  "link": "https://realpython.com/courses/whats-new-in-python-315/",
+  "published": "2026-09-29T14:00:00"
+ },
+ {
   "blog_name": "Martin Fowler",
   "blog_url": "https://martinfowler.com/",
   "title": "Bliki: Sensible Default",
@@ -105,6 +273,13 @@
   "published": "2026-09-29T13:00:00"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Search trace spans from the Vercel CLI",
+  "link": "https://vercel.com/changelog/search-trace-spans-from-the-vercel-cli",
+  "published": "2026-09-29T13:00:00"
+ },
+ {
   "blog_name": "Martin Fowler",
   "blog_url": "https://martinfowler.com/",
   "title": "Fragments: September 29",
@@ -161,6 +336,13 @@
   "published": "2026-09-29T12:00:00"
  },
  {
+  "blog_name": "Nic Raboy",
+  "blog_url": "https://www.thepolyglotdeveloper.com/blog/",
+  "title": "Multiplayer Game Development with TypeScript, Phaser, Socket.io, and MongoDB",
+  "link": "https://www.thepolyglotdeveloper.com/blog/2026/10/multiplayer-game-development-with-typescript-phaser-socketio-and-mongodb/",
+  "published": "2026-09-29T12:00:00"
+ },
+ {
   "blog_name": "GoCardless",
   "blog_url": "https://gocardless.com/blog/tagged/engineering/",
   "title": "Rising tides: Late payments in UK consumer lending",
@@ -180,6 +362,20 @@
   "title": "From 4 Months to 2 Years: Scaling Systems and Stepping into Seniority at Bazaarvoice",
   "link": "https://blog.developer.bazaarvoice.com/2026/09/29/from-4-months-to-2-years-scaling-systems-and-stepping-into-seniority-at-bazaarvoice/",
   "published": "2026-09-29T10:23:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Introducing GPT-6.1 Sol",
+  "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+  "published": "2026-09-29T10:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "DevDay 2026 Recap",
+  "link": "https://openai.com/index/devday-2026-recap",
+  "published": "2026-09-29T10:00:00"
  },
  {
   "blog_name": "Booking.com Data Science",
@@ -315,6 +511,69 @@
   "published": "2026-09-29T00:00:00"
  },
  {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Introducing IdentiFlows.dev: A Visual Reference for Identity Flows",
+  "link": "https://auth0.com/blog/introducing-identiflows-a-visual-reference-for-identity-flows/",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Integrating Claude Code with Auth0 APIs",
+  "link": "https://auth0.com/blog/integrating-claude-code-with-auth0-apis/",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "Stripe",
+  "blog_url": "https://stripe.com/blog",
+  "title": "Helping personal agents shop more intelligently and reliably with Link",
+  "link": "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "Armin Ronacher",
+  "blog_url": "http://lucumr.pocoo.org/",
+  "title": "Deser: Rethinking Rust Serialization",
+  "link": "https://lucumr.pocoo.org/2026/9/29/deser/",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "zBalls: a 1998 Java Applet",
+  "link": "https://code.dblock.org/2026/09/29/zballs-a-1998-java-applet.html",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "Swizec Teller",
+  "blog_url": "https://swizec.com/blog/",
+  "title": "Why I'm excited about Jev-like classifiers",
+  "link": "https://swizec.com/blog/why-im-excited-about-jev-like-classifiers",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "Yelp",
+  "blog_url": "https://engineeringblog.yelp.com/",
+  "title": "The making of the Yelp Assistant UI",
+  "link": "https://engineeringblog.yelp.com/2026/09/the-making-of-the-yelp-assistant-ui.html",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "GPT-6.1 Sol now available on AI Gateway",
+  "link": "https://vercel.com/changelog/gpt-6-1-sol-now-available-on-ai-gateway",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Introducing dots",
+  "link": "https://openai.com/index/introducing-dots",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "China Broadens Travel Curbs To Encompass Family of Top AI Talent",
@@ -361,6 +620,13 @@
   "blog_url": "https://databricks.com/blog",
   "title": "How Databricks rolls out frontier models to 14,000 employees on Day 1",
   "link": "https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1",
+  "published": "2026-09-28T20:11:23"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How Databricks rolls out frontier models to 12,000 employees on Day 1",
+  "link": "https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-12000-employees-day-1",
   "published": "2026-09-28T20:11:23"
  },
  {
