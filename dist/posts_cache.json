@@ -1,5 +1,180 @@
 [
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/",
+  "title": "Getting ready for 2026 results: A look back on Developer Survey findings",
+  "link": "https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/",
+  "published": "2026-09-30T14:00:00"
+ },
+ {
+  "blog_name": "Timescale",
+  "blog_url": "https://blog.timescale.com/",
+  "title": "Normalizing a Wide Well and Pipeline Telemetry Table Without Re-Ingesting History",
+  "link": "https://www.tigerdata.com/blog/normalizing-wide-well-pipeline-telemetry-table-without-re-ingesting-history",
+  "published": "2026-09-30T13:58:45"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Memory safety for Postgres extensions in C/C++",
+  "link": "https://clickhouse.com/blog/memory-safety-postgres-extensions-c-cpp",
+  "published": "2026-09-30T13:56:27"
+ },
+ {
+  "blog_name": "Capital One Tech",
+  "blog_url": "https://medium.com/capital-one-tech",
+  "title": "CAIRFI and Capital One announce 2026–2027 AI Research Awards",
+  "link": "https://medium.com/capital-one-tech/cairfi-and-capital-one-announce-2026-2027-ai-research-awards-46178d80e007?source=rss----3db3a67cb648---4",
+  "published": "2026-09-30T13:14:41"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Cloudflare Impact reaches $100 million in donations",
+  "link": "https://blog.cloudflare.com/100-million-donations/",
+  "published": "2026-09-30T13:01:55"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Beyond pass or fail: The new era of chaos engineering",
+  "link": "https://developers.redhat.com/articles/2026/09/30/beyond-pass-or-fail-the-new-era-of-chaos-engineering",
+  "published": "2026-09-30T13:01:45"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Backdoors in LLMs: Why model scanning isn't enough",
+  "link": "https://developers.redhat.com/articles/2026/09/30/backdoors-in-llms-why-model-scanning-isn-t-enough",
+  "published": "2026-09-30T13:01:37"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Cut your AI spend with AI Gateway's Auto Router",
+  "link": "https://blog.cloudflare.com/auto-router/",
+  "published": "2026-09-30T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Detect and send production issues straight to your agent",
+  "link": "https://blog.cloudflare.com/real-time-issue-detection/",
+  "published": "2026-09-30T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Simplifying domains for people and agents",
+  "link": "https://blog.cloudflare.com/simplifying-domains/",
+  "published": "2026-09-30T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
+  "link": "https://blog.cloudflare.com/monetization-gateway-beta/",
+  "published": "2026-09-30T13:00:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Transcoding UTF-8 to UTF-16 with replacement at gigabytes per second",
+  "link": "https://lemire.me/blog/2026/09/30/transcoding-utf-8-to-utf-16-with-replacement-at-gigabytes-per-second/",
+  "published": "2026-09-30T12:33:27"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Stop Using Java When Kotlin Exists",
+  "link": "https://spin.atomicobject.com/stop-using-java-kotlin/",
+  "published": "2026-09-30T12:00:22"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python 3.15: Cool New Features for You to Try",
+  "link": "https://realpython.com/quizzes/python315-new-features/",
+  "published": "2026-09-30T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python Web Applications: Deploy Your Script as a Flask App",
+  "link": "https://realpython.com/quizzes/python-web-applications/",
+  "published": "2026-09-30T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Wearable Nanotech Could Combat Nerve Agents",
+  "link": "https://science.slashdot.org/story/26/09/30/0457204/wearable-nanotech-could-combat-nerve-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-30T11:00:00"
+ },
+ {
+  "blog_name": "Kotlin",
+  "blog_url": "https://blog.jetbrains.com/kotlin/",
+  "title": "The Companions to Come",
+  "link": "https://blog.jetbrains.com/kotlin/2026/09/the-companions-to-come/",
+  "published": "2026-09-30T10:33:03"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Ce que le numérique responsable doit à l'autonomie stratégique (et réciproquement)",
+  "link": "https://blog.octo.com/ce-que-le-numerique-responsable-doit-a-l'autonomie-strategique-(et-reciproquement)",
+  "published": "2026-09-30T09:01:32"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Introducing Zyte MCP: Powerful web data gathering for your agent",
+  "link": "https://www.zyte.com/blog/introducing-zyte-mcp/",
+  "published": "2026-09-30T07:58:12"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "The Night Sky Is Getting 10% Brighter Every Year",
+  "link": "https://science.slashdot.org/story/26/09/30/0452204/the-night-sky-is-getting-10-brighter-every-year?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-30T07:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "​​Introducing Hostinger Restore: Making technology accessible to environmental innovators",
+  "link": "https://www.hostinger.com/blog/hostinger-restore/",
+  "published": "2026-09-30T06:30:56"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: Quite a Distance from the Right Solution",
+  "link": "https://thedailywtf.com/articles/quite-a-distance-from-the-right-solution",
+  "published": "2026-09-30T06:30:00"
+ },
+ {
+  "blog_name": "Evan Hahn",
+  "blog_url": "http://evanhahn.com/",
+  "title": "Notes from September 2026",
+  "link": "https://evanhahn.com/notes-from-september-2026/",
+  "published": "2026-09-30T06:00:00"
+ },
+ {
+  "blog_name": "Snyk",
+  "blog_url": "https://snyk.io/blog",
+  "title": "What Is Agentic AppSec?",
+  "link": "https://snyk.io/blog/what-is-agentic-appsec/",
+  "published": "2026-09-30T04:00:00"
+ },
+ {
+  "blog_name": "Snyk",
+  "blog_url": "https://snyk.io/blog",
+  "title": "Evo ADS Govern Agent Behavior Goes GA: Bringing MCP Usage Under Control",
+  "link": "https://snyk.io/blog/evo-ads-govern-agent-behavior-ga/",
+  "published": "2026-09-30T04:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Tech Workers Made ChatGPT Drive a Toyota Corolla",
@@ -19,6 +194,20 @@
   "title": "AI-driven networking and infrastructure design at APNIC 62",
   "link": "https://blog.apnic.net/2026/09/30/ai-driven-networking-and-infrastructure-design-at-apnic-62/",
   "published": "2026-09-30T03:02:50"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Count Worker Crashes as Job Exceptions in Laravel 13.34",
+  "link": "https://laravel-news.com/laravel-13-34-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-30T02:44:06"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Mailbox for Laravel: Preview and Test Rendered Email",
+  "link": "https://laravel-news.com/mailbox-for-laravel?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-30T02:43:35"
  },
  {
   "blog_name": "Daniel Lemire",
@@ -70,6 +259,20 @@
   "published": "2026-09-30T00:00:00"
  },
  {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Building production-ready AI in India",
+  "link": "https://www.elastic.co/blog/mumbai-forge-the-future-hackathon-2026",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "How we built an async-aware Python profiler",
+  "link": "https://www.datadoghq.com/blog/engineering/async-python-profiler/",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Firefox Redesign Brings Round Tabs, New Themes, and Compact Mode",
@@ -96,6 +299,13 @@
   "title": "Mistral CEO Says US AI Safety Debate Masks Competitors' 'Negligence'",
   "link": "https://slashdot.org/story/26/09/29/1855248/mistral-ceo-says-us-ai-safety-debate-masks-competitors-negligence?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-09-29T21:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Build a Campaign Attribution Tracking System",
+  "link": "https://www.sitepoint.com/how-to-build-a-campaign-attribution-tracking-system/?utm_source=rss",
+  "published": "2026-09-29T20:10:38"
  },
  {
   "blog_name": "Slashdot",
@@ -131,6 +341,13 @@
   "title": "500K Facial Recognition Scans at UK Stations Yield Zero Arrests, One False Positive",
   "link": "https://news.slashdot.org/story/26/09/29/1736207/500k-facial-recognition-scans-at-uk-stations-yield-zero-arrests-one-false-positive?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-09-29T19:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Build an OpenRTB Bid Request Handler: A Developer's Guide to Programmatic Advertising",
+  "link": "https://www.sitepoint.com/how-to-build-an-openrtb-bid-request-handler-a-developer-s-guide-to-programmatic-advertising/?utm_source=rss",
+  "published": "2026-09-29T18:52:33"
  },
  {
   "blog_name": "NVIDIA Developer",
@@ -553,6 +770,13 @@
   "published": "2026-09-29T04:00:00"
  },
  {
+  "blog_name": "Toptal",
+  "blog_url": "https://www.toptal.com/blog/",
+  "title": "Building Faster Prefix Search With the Trie Data Structure",
+  "link": "https://www.toptal.com/developers/java/trie-data-structure",
+  "published": "2026-09-29T04:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Bananas That Don't Go Brown To Hit Supermarkets Thanks to DNA Editing",
@@ -676,6 +900,27 @@
   "blog_url": "http://code.dblock.org/",
   "title": "File & Folder 98: a 1998 Word Document Manager",
   "link": "https://code.dblock.org/2026/09/29/file-and-folder-98-a-1998-word-document-manager.html",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "86% of brands think their AI works. Only 51% of customers agree.",
+  "link": "https://www.twilio.com/en-us/blog/insights/improve-ai-satisfaction",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Augment Voice Calls with Twilio Intelligence in C#",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-intelligence-csharp",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Augment Voice Calls with Twilio Intelligence",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-intelligence-php",
   "published": "2026-09-29T00:00:00"
  },
  {
@@ -1197,6 +1442,13 @@
   "published": "2026-09-28T07:00:00"
  },
  {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Terraform 1.16 completes Actions lifecycles and brings imports into child modules",
+  "link": "https://www.hashicorp.com/blog/terraform-116-completes-actions-lifecycles-and-brings-imports-into-child-modules",
+  "published": "2026-09-28T07:00:00"
+ },
+ {
   "blog_name": "The Daily WTF",
   "blog_url": "http://thedailywtf.com/",
   "title": "It's All Part 2 of the Process",
@@ -1320,6 +1572,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "How to Build an RCS Business Messaging Campaign with Twilio in PHP",
   "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-php",
+  "published": "2026-09-28T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Building Localised, Enterprise-Grade AI Voice Agents",
+  "link": "https://www.twilio.com/en-us/blog/insights/building-localised-enterprise-grade-AI-voice-agents",
   "published": "2026-09-28T00:00:00"
  },
  {
