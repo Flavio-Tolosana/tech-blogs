@@ -1,9 +1,289 @@
 [
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Hackers Stole Millions of US Military Personnel Records During Months-Long Data Breach",
+  "link": "https://yro.slashdot.org/story/26/09/30/1947216/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-30T21:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton",
+  "link": "https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/",
+  "published": "2026-09-30T20:54:59"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
+  "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/",
+  "published": "2026-09-30T20:03:34"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Gemini 4 Argon: our next era of frontier intelligence",
+  "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+  "published": "2026-09-30T20:01:45"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Reportedly Tests Paying Publishers For AI Search Results",
+  "link": "https://tech.slashdot.org/story/26/09/30/1851246/google-reportedly-tests-paying-publishers-for-ai-search-results?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-30T20:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Edge Requests are now called CDN Requests",
+  "link": "https://vercel.com/changelog/edge-requests-are-now-called-cdn-requests",
+  "published": "2026-09-30T20:00:00"
+ },
+ {
+  "blog_name": "Heroku",
+  "blog_url": "https://www.heroku.com/blog/",
+  "title": "Introducing Team Authorizations",
+  "link": "https://www.heroku.com/blog/introducing-team-authorizations/",
+  "published": "2026-09-30T19:21:51"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK",
+  "link": "https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk/",
+  "published": "2026-09-30T19:13:02"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "How Instagram Direct engineers built AI-native UI architecture with Jetpack Compose and reduced token cost per agent session by 33%",
+  "link": "https://android-developers.googleblog.com/2026/09/jetpack-compose-ai-native-ui-instagram-direct.html",
+  "published": "2026-09-30T19:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Reddit Is Killing RSS Feeds, Ending Public API Access",
+  "link": "https://tech.slashdot.org/story/26/09/30/1841213/reddit-is-killing-rss-feeds-ending-public-api-access?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-30T19:00:00"
+ },
+ {
+  "blog_name": "Matthew Green",
+  "blog_url": "https://blog.cryptographyengineering.com/",
+  "title": "Is sandboxing sufficient to contain rogue agents?",
+  "link": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+  "published": "2026-09-30T18:30:13"
+ },
+ {
+  "blog_name": "Walmart Global Tech",
+  "blog_url": "https://medium.com/walmartglobaltech",
+  "title": "Building Scalable Real-Time Live Streaming Systems",
+  "link": "https://medium.com/walmartglobaltech/building-scalable-real-time-live-streaming-systems-9be510b75566?source=rss----905ea2b3d4d1---4",
+  "published": "2026-09-30T18:09:28"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "WebRTC Data Channels vs WebSockets for Real-Time Browser Games",
+  "link": "https://www.sitepoint.com/webrtc-data-channels-vs-websockets-for-browser-games/?utm_source=rss",
+  "published": "2026-09-30T18:05:37"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Singapore Pilots a Government-Built Dating Service",
+  "link": "https://yro.slashdot.org/story/26/09/30/1620208/singapore-pilots-a-government-built-dating-service?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-30T18:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Introducing SCIM Provisioning in ClickHouse Cloud",
+  "link": "https://clickhouse.com/blog/introducing-scim-provisioning-in-clickhouse-cloud",
+  "published": "2026-09-30T17:23:47"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
+  "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/",
+  "published": "2026-09-30T17:22:31"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laravel AI SDK and Laravel MCP Security Fixes: Update Now",
+  "link": "https://laravel-news.com/laravel-ai-mcp-security-advisories?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-30T17:11:12"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "Celebrating Our Newest AWS Heroes – September 2026",
+  "link": "https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/",
+  "published": "2026-09-30T17:04:05"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
+  "link": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+  "published": "2026-09-30T17:00:21"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "Kodebits Day 100: Enum Cases [FREE]",
+  "link": "https://www.kodeco.com/52032952-kodebits-day-100-enum-cases",
+  "published": "2026-09-30T17:00:19"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Organizations need decision-grade knowledge. AI makes it urgent.",
+  "link": "https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent/",
+  "published": "2026-09-30T17:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Trump Administration Launches New AI-Powered 'America.gov' Website",
+  "link": "https://tech.slashdot.org/story/26/09/30/1612221/trump-administration-launches-new-ai-powered-americagov-website?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-30T17:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Introducing ai_decide: make fast decisions on your governed data",
+  "link": "https://www.databricks.com/blog/introducing-aidecide-make-fast-decisions-your-governed-data",
+  "published": "2026-09-30T16:59:34"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "A practical guide to cost optimization with Lakebase Postgres",
+  "link": "https://www.databricks.com/blog/practical-guide-cost-optimization-lakebase-postgres",
+  "published": "2026-09-30T16:53:12"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How to scale agentic applications without creating AI sprawl",
+  "link": "https://www.databricks.com/blog/how-scale-agentic-applications-without-creating-ai-sprawl",
+  "published": "2026-09-30T16:46:25"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "pg_clickhouse & chdb updates: Encoding, nesting, and types",
+  "link": "https://clickhouse.com/blog/pg_clickhouse-chdb",
+  "published": "2026-09-30T16:29:40"
+ },
+ {
+  "blog_name": "Strava",
+  "blog_url": "https://medium.com/strava-engineering/",
+  "title": "A Summer on the Achieve Team",
+  "link": "https://medium.com/strava-engineering/a-summer-on-the-achieve-team-dabed37298f7?source=rss----89d4108ce2a3---4",
+  "published": "2026-09-30T16:01:02"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Anyone can start building verified knowledge with Stack Internal",
+  "link": "https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/",
+  "published": "2026-09-30T16:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay",
+  "link": "https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay/",
+  "published": "2026-09-30T16:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Query claims in natural language with Amazon Bedrock Knowledge Bases",
+  "link": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/",
+  "published": "2026-09-30T15:37:15"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
+  "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
+  "published": "2026-09-30T15:21:57"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
+  "link": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
+  "published": "2026-09-30T15:15:00"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Introducing SynthID Bio",
+  "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+  "published": "2026-09-30T15:03:07"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+  "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+  "published": "2026-09-30T15:00:00"
+ },
+ {
+  "blog_name": "Tailscale",
+  "blog_url": "https://tailscale.com/blog",
+  "title": "Your agent, your network: How Meta’s Muse agent works with Tailscale",
+  "link": "https://tailscale.com/blog/meta-muse-ai-agent-tailscale",
+  "published": "2026-09-30T15:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "This game-playing AI is the new champ at Stratego",
+  "link": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+  "published": "2026-09-30T15:00:00"
+ },
+ {
+  "blog_name": "Vlad Mihalcea",
+  "blog_url": "https://vladmihalcea.com/",
+  "title": "Thirteen years of blogging",
+  "link": "https://vladmihalcea.com/thirteen-years-of-blogging/",
+  "published": "2026-09-30T14:28:12"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Principles for effective slides",
+  "link": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
+  "published": "2026-09-30T14:14:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "★ More Jev in There There: smart conditions and AI assignment",
+  "link": "https://freek.dev/3198-more-jev-in-there-there-smart-conditions-and-ai-assignment",
+  "published": "2026-09-30T14:09:48"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/",
   "title": "Getting ready for 2026 results: A look back on Developer Survey findings",
   "link": "https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/",
+  "published": "2026-09-30T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python 3.15: Cool New Features for You to Try",
+  "link": "https://realpython.com/python315-new-features/",
   "published": "2026-09-30T14:00:00"
  },
  {
@@ -119,6 +399,27 @@
   "published": "2026-09-30T10:33:03"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Disrupting a coordinated model-distillation campaign",
+  "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+  "published": "2026-09-30T10:30:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Helping small businesses put AI to work",
+  "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+  "published": "2026-09-30T10:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building Better Video Experiences on the Web: A Developer’s Guide to Modern Video Workflows",
+  "link": "https://www.sitepoint.com/building-better-video-experiences-on-the-web-a-developer-s-guide-to-modern-video-workflows/?utm_source=rss",
+  "published": "2026-09-30T09:19:04"
+ },
+ {
   "blog_name": "OCTO Technology",
   "blog_url": "https://blog.octo.com/en/",
   "title": "Ce que le numérique responsable doit à l'autonomie stratégique (et réciproquement)",
@@ -137,6 +438,27 @@
   "blog_url": "https://slashdot.org/",
   "title": "The Night Sky Is Getting 10% Brighter Every Year",
   "link": "https://science.slashdot.org/story/26/09/30/0452204/the-night-sky-is-getting-10-brighter-every-year?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-30T07:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "AG-UI 1.0: A Stable Spec for Connecting AI Agents to Apps",
+  "link": "https://www.sitepoint.com/ag-ui-1-0-stable-spec-agent-user-interaction/?utm_source=rss",
+  "published": "2026-09-30T07:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Cloudflare Sandbox SDK 1.0: Run Sandboxes from Durable Objects",
+  "link": "https://www.sitepoint.com/cloudflare-sandbox-sdk-1-0-durable-objects/?utm_source=rss",
+  "published": "2026-09-30T07:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "GPT-6.1 Sol for Developers: Specs, Pricing, and Quick Start",
+  "link": "https://www.sitepoint.com/gpt-6-1-sol-developers-pricing-quickstart/?utm_source=rss",
   "published": "2026-09-30T07:00:00"
  },
  {
@@ -273,6 +595,62 @@
   "published": "2026-09-30T00:00:00"
  },
  {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Seven Architectural Readiness Checks Before Production Launch",
+  "link": "https://auth0.com/blog/seven-architectural-readiness-checks-before-production-launch/",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Evil Martians",
+  "blog_url": "https://evilmartians.com/chronicles/",
+  "title": "SF Ruby Conference: regular ticket prices end September 30",
+  "link": "https://evilmartians.com/chronicles/sf-ruby-conference-regular-ticket-deadline",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Stripe",
+  "blog_url": "https://stripe.com/blog",
+  "title": "OUSD is now the default stablecoin on Stripe",
+  "link": "https://stripe.com/blog/ousd-now-live-on-stripe",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "When AI agents swarm, can banks keep up?",
+  "link": "https://www.elastic.co/blog/banks-ai-agents-visibility",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Sandbox now supports Secure Compute",
+  "link": "https://vercel.com/changelog/vercel-sandbox-now-supports-secure-compute",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Ling 3.1 Flash is now available on AI Gateway",
+  "link": "https://vercel.com/changelog/ling-3-1-flash-is-now-available-on-ai-gateway",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel CDN no longer caches responses with Vary: Cookie",
+  "link": "https://vercel.com/changelog/vary-cookie-responses-no-longer-cached",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+  "link": "https://huggingface.co/blog/open-tts-leaderboard",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Firefox Redesign Brings Round Tabs, New Themes, and Compact Mode",
@@ -355,6 +733,13 @@
   "title": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3",
   "link": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3/",
   "published": "2026-09-29T18:35:09"
+ },
+ {
+  "blog_name": "Brandwatch",
+  "blog_url": "http://engineering.brandwatch.com/",
+  "title": "AI Updates: 7 New Ways Brandwatch Is Making Our Customers’ Lives Easier",
+  "link": "https://www.brandwatch.com/blog/ai-updates-7-new-ways-brandwatch-is-making-our-customers-lives-easier/",
+  "published": "2026-09-29T18:32:09"
  },
  {
   "blog_name": "Medium",
@@ -1579,6 +1964,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "Building Localised, Enterprise-Grade AI Voice Agents",
   "link": "https://www.twilio.com/en-us/blog/insights/building-localised-enterprise-grade-AI-voice-agents",
+  "published": "2026-09-28T00:00:00"
+ },
+ {
+  "blog_name": "Serverless",
+  "blog_url": "https://serverless.com/blog/",
+  "title": "Serverless Framework Is Now Built for AI Coding Agents",
+  "link": "https://www.serverless.com/blog/serverless-framework-built-for-ai-coding-agents",
   "published": "2026-09-28T00:00:00"
  },
  {
