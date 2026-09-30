@@ -2,6 +2,97 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "Tech Workers Made ChatGPT Drive a Toyota Corolla",
+  "link": "https://tech.slashdot.org/story/26/09/29/1921233/tech-workers-made-chatgpt-drive-a-toyota-corolla?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-30T03:30:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Opinion: The economics of AI",
+  "link": "https://blog.apnic.net/2026/09/30/opinion-the-economics-of-ai/",
+  "published": "2026-09-30T03:18:35"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "AI-driven networking and infrastructure design at APNIC 62",
+  "link": "https://blog.apnic.net/2026/09/30/ai-driven-networking-and-infrastructure-design-at-apnic-62/",
+  "published": "2026-09-30T03:02:50"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "How do you deal with people who strongly disagree with your views?",
+  "link": "https://lemire.me/blog/2026/09/30/how-do-you-deal-with-people-who-strongly-disagree-with-your-views/",
+  "published": "2026-09-30T01:19:54"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
+  "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
+  "published": "2026-09-30T01:13:14"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/",
+  "published": "2026-09-30T01:13:12"
+ },
+ {
+  "blog_name": "Walmart Global Tech",
+  "blog_url": "https://medium.com/walmartglobaltech",
+  "title": "Kafka Inconsistencies and the Silent Failures Behind Real-Time Decision Platforms",
+  "link": "https://medium.com/walmartglobaltech/kafka-inconsistencies-and-the-silent-failures-behind-real-time-decision-platforms-f6db55156286?source=rss----905ea2b3d4d1---4",
+  "published": "2026-09-30T00:21:42"
+ },
+ {
+  "blog_name": "Thoughtbot",
+  "blog_url": "https://robots.thoughtbot.com/",
+  "title": "Respecting your users' dread of the clankers",
+  "link": "https://feed.thoughtbot.com/link/24077/17478066/respecting-your-users-dread-of-the-clankers",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Better together: Celebrating the 2026–2027 Elastic Partner Awards",
+  "link": "https://www.elastic.co/blog/elastic-partner-awards-2026",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Your Push Request Succeeded. The Device Key Is Dead.",
+  "link": "https://www.codenameone.com/blog/push-feedback-retire-dead-tokens/",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Firefox Redesign Brings Round Tabs, New Themes, and Compact Mode",
+  "link": "https://mobile.slashdot.org/story/26/09/29/194251/firefox-redesign-brings-round-tabs-new-themes-and-compact-mode?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-29T23:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Microsoft Makes Linux Containers Native On Windows 11",
+  "link": "https://linux.slashdot.org/story/26/09/29/1858218/microsoft-makes-linux-containers-native-on-windows-11?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-29T22:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Connect now accepts service submissions",
+  "link": "https://vercel.com/changelog/vercel-connect-service-submissions",
+  "published": "2026-09-29T22:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Mistral CEO Says US AI Safety Debate Masks Competitors' 'Negligence'",
   "link": "https://slashdot.org/story/26/09/29/1855248/mistral-ceo-says-us-ai-safety-debate-masks-competitors-negligence?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-09-29T21:00:00"
@@ -165,6 +256,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "What's New in Python 3.15",
   "link": "https://realpython.com/courses/whats-new-in-python-315/",
+  "published": "2026-09-29T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "As a general rule, calling product support while drunk is not recommended",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260929-00/?p=112740/",
   "published": "2026-09-29T14:00:00"
  },
  {
@@ -571,6 +669,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "Introducing dots",
   "link": "https://openai.com/index/introducing-dots",
+  "published": "2026-09-29T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "File & Folder 98: a 1998 Word Document Manager",
+  "link": "https://code.dblock.org/2026/09/29/file-and-folder-98-a-1998-word-document-manager.html",
   "published": "2026-09-29T00:00:00"
  },
  {

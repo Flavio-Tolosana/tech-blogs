@@ -363,7 +363,7 @@
 <div class="container">
   <header>
     <h1>&#128203; Orígenes de recursos</h1>
-    <p class="meta">Actualizado: 2026-09-30 00:04</p>
+    <p class="meta">Actualizado: 2026-09-30 08:04</p>
     <div class="stats">
       <div class="stat">
         <div class="stat-value">447</div>
@@ -389,8 +389,36 @@
               <a href="https://slashdot.org/" target="_blank" rel="noopener" class="source-name" title="Slashdot">Slashdot</a>
             </div>
             <div class="source-chip">
+              <button type="button" class="source-star" data-name="APNIC" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar APNIC como favorito">&#9734;</button>
+              <a href="https://blog.apnic.net/" target="_blank" rel="noopener" class="source-name" title="APNIC">APNIC</a>
+            </div>
+            <div class="source-chip">
+              <button type="button" class="source-star" data-name="Daniel Lemire" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Daniel Lemire como favorito">&#9734;</button>
+              <a href="https://lemire.me/blog/" target="_blank" rel="noopener" class="source-name" title="Daniel Lemire">Daniel Lemire</a>
+            </div>
+            <div class="source-chip">
               <button type="button" class="source-star" data-name="AWS Machine Learning" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar AWS Machine Learning como favorito">&#9734;</button>
               <a href="https://aws.amazon.com/blogs/machine-learning/" target="_blank" rel="noopener" class="source-name" title="AWS Machine Learning">AWS Machine Learning</a>
+            </div>
+            <div class="source-chip">
+              <button type="button" class="source-star" data-name="Walmart Global Tech" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Walmart Global Tech como favorito">&#9734;</button>
+              <a href="https://medium.com/walmartglobaltech" target="_blank" rel="noopener" class="source-name" title="Walmart Global Tech">Walmart Global Tech</a>
+            </div>
+            <div class="source-chip">
+              <button type="button" class="source-star" data-name="Thoughtbot" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Thoughtbot como favorito">&#9734;</button>
+              <a href="https://robots.thoughtbot.com/" target="_blank" rel="noopener" class="source-name" title="Thoughtbot">Thoughtbot</a>
+            </div>
+            <div class="source-chip">
+              <button type="button" class="source-star" data-name="Elastic" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Elastic como favorito">&#9734;</button>
+              <a href="https://www.elastic.co/blog/category/engineering" target="_blank" rel="noopener" class="source-name" title="Elastic">Elastic</a>
+            </div>
+            <div class="source-chip">
+              <button type="button" class="source-star" data-name="CodeName One" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar CodeName One como favorito">&#9734;</button>
+              <a href="http://www.codenameone.com/blog.html" target="_blank" rel="noopener" class="source-name" title="CodeName One">CodeName One</a>
+            </div>
+            <div class="source-chip">
+              <button type="button" class="source-star" data-name="Vercel" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Vercel como favorito">&#9734;</button>
+              <a href="https://vercel.com/blog" target="_blank" rel="noopener" class="source-name" title="Vercel">Vercel</a>
             </div>
             <div class="source-chip">
               <button type="button" class="source-star" data-name="NVIDIA Developer" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar NVIDIA Developer como favorito">&#9734;</button>
@@ -445,6 +473,10 @@
               <a href="https://realpython.com/blog/" target="_blank" rel="noopener" class="source-name" title="Real Python">Real Python</a>
             </div>
             <div class="source-chip">
+              <button type="button" class="source-star" data-name="Raymond Chen" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Raymond Chen como favorito">&#9734;</button>
+              <a href="https://blogs.msdn.microsoft.com/oldnewthing/" target="_blank" rel="noopener" class="source-name" title="Raymond Chen">Raymond Chen</a>
+            </div>
+            <div class="source-chip">
               <button type="button" class="source-star" data-name="Martin Fowler" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Martin Fowler como favorito">&#9734;</button>
               <a href="https://martinfowler.com/" target="_blank" rel="noopener" class="source-name" title="Martin Fowler">Martin Fowler</a>
             </div>
@@ -475,10 +507,6 @@
             <div class="source-chip">
               <button type="button" class="source-star" data-name="Cloudflare" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Cloudflare como favorito">&#9734;</button>
               <a href="https://blog.cloudflare.com/" target="_blank" rel="noopener" class="source-name" title="Cloudflare">Cloudflare</a>
-            </div>
-            <div class="source-chip">
-              <button type="button" class="source-star" data-name="Vercel" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Vercel como favorito">&#9734;</button>
-              <a href="https://vercel.com/blog" target="_blank" rel="noopener" class="source-name" title="Vercel">Vercel</a>
             </div>
             <div class="source-chip">
               <button type="button" class="source-star" data-name="Kotlin" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Kotlin como favorito">&#9734;</button>
@@ -537,24 +565,12 @@
               <a href="https://news.mit.edu/topic/artificial-intelligence2" target="_blank" rel="noopener" class="source-name" title="MIT AI News">MIT AI News</a>
             </div>
             <div class="source-chip">
-              <button type="button" class="source-star" data-name="APNIC" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar APNIC como favorito">&#9734;</button>
-              <a href="https://blog.apnic.net/" target="_blank" rel="noopener" class="source-name" title="APNIC">APNIC</a>
-            </div>
-            <div class="source-chip">
-              <button type="button" class="source-star" data-name="CodeName One" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar CodeName One como favorito">&#9734;</button>
-              <a href="http://www.codenameone.com/blog.html" target="_blank" rel="noopener" class="source-name" title="CodeName One">CodeName One</a>
-            </div>
-            <div class="source-chip">
               <button type="button" class="source-star" data-name="MapTiler" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar MapTiler como favorito">&#9734;</button>
               <a href="https://www.maptiler.com/blog/" target="_blank" rel="noopener" class="source-name" title="MapTiler">MapTiler</a>
             </div>
             <div class="source-chip">
               <button type="button" class="source-star" data-name="Daniel Doubrovkine (dB.)" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Daniel Doubrovkine (dB.) como favorito">&#9734;</button>
               <a href="http://code.dblock.org/" target="_blank" rel="noopener" class="source-name" title="Daniel Doubrovkine (dB.)">Daniel Doubrovkine (dB.)</a>
-            </div>
-            <div class="source-chip">
-              <button type="button" class="source-star" data-name="Elastic" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Elastic como favorito">&#9734;</button>
-              <a href="https://www.elastic.co/blog/category/engineering" target="_blank" rel="noopener" class="source-name" title="Elastic">Elastic</a>
             </div>
             <div class="source-chip">
               <button type="button" class="source-star" data-name="ThoughtWorks" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar ThoughtWorks como favorito">&#9734;</button>
@@ -599,14 +615,6 @@
             <div class="source-chip">
               <button type="button" class="source-star" data-name="Nubank" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Nubank como favorito">&#9734;</button>
               <a href="https://building.nubank.com/" target="_blank" rel="noopener" class="source-name" title="Nubank">Nubank</a>
-            </div>
-            <div class="source-chip">
-              <button type="button" class="source-star" data-name="Raymond Chen" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Raymond Chen como favorito">&#9734;</button>
-              <a href="https://blogs.msdn.microsoft.com/oldnewthing/" target="_blank" rel="noopener" class="source-name" title="Raymond Chen">Raymond Chen</a>
-            </div>
-            <div class="source-chip">
-              <button type="button" class="source-star" data-name="Daniel Lemire" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Daniel Lemire como favorito">&#9734;</button>
-              <a href="https://lemire.me/blog/" target="_blank" rel="noopener" class="source-name" title="Daniel Lemire">Daniel Lemire</a>
             </div>
             <div class="source-chip">
               <button type="button" class="source-star" data-name="Hostinger" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Hostinger como favorito">&#9734;</button>
@@ -839,10 +847,6 @@
             <div class="source-chip">
               <button type="button" class="source-star" data-name="Microsoft Edge" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Microsoft Edge como favorito">&#9734;</button>
               <a href="https://blogs.windows.com/msedgedev/" target="_blank" rel="noopener" class="source-name" title="Microsoft Edge">Microsoft Edge</a>
-            </div>
-            <div class="source-chip">
-              <button type="button" class="source-star" data-name="Thoughtbot" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Thoughtbot como favorito">&#9734;</button>
-              <a href="https://robots.thoughtbot.com/" target="_blank" rel="noopener" class="source-name" title="Thoughtbot">Thoughtbot</a>
             </div>
             <div class="source-chip">
               <button type="button" class="source-star" data-name="eieio.games" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar eieio.games como favorito">&#9734;</button>
@@ -1083,10 +1087,6 @@
             <div class="source-chip">
               <button type="button" class="source-star" data-name="Jake Wharton" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Jake Wharton como favorito">&#9734;</button>
               <a href="http://jakewharton.com/blog" target="_blank" rel="noopener" class="source-name" title="Jake Wharton">Jake Wharton</a>
-            </div>
-            <div class="source-chip">
-              <button type="button" class="source-star" data-name="Walmart Global Tech" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Walmart Global Tech como favorito">&#9734;</button>
-              <a href="https://medium.com/walmartglobaltech" target="_blank" rel="noopener" class="source-name" title="Walmart Global Tech">Walmart Global Tech</a>
             </div>
             <div class="source-chip">
               <button type="button" class="source-star" data-name="Heroku" onclick="toggleFavorite(this)" title="Marcar como favorito" aria-label="Marcar Heroku como favorito">&#9734;</button>
