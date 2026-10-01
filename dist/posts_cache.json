@@ -1,5 +1,201 @@
 [
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Cloudflare Tries to Outplay Jev With Open-Weight Clef Models",
+  "link": "https://tech.slashdot.org/story/26/10/01/2110250/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-01T22:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Ryan Roslansky Is Leaving After Nearly 18 Years At LinkedIn and Microsoft",
+  "link": "https://slashdot.org/story/26/10/01/1832232/ryan-roslansky-is-leaving-after-nearly-18-years-at-linkedin-and-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-01T21:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Read Restrictions and Catalog Labels: Unifying governance across engines and catalogs",
+  "link": "https://www.databricks.com/blog/read-restrictions-and-catalog-labels-unifying-governance-across-engines-and-catalogs",
+  "published": "2026-10-01T20:37:30"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
+  "link": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/",
+  "published": "2026-10-01T20:04:04"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Micron Projects Tightening RAM Shortages Through 2028 As It Generates Record Profit",
+  "link": "https://hardware.slashdot.org/story/26/10/01/1822222/micron-projects-tightening-ram-shortages-through-2028-as-it-generates-record-profit?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-01T20:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Serve live, governed data in AI-built apps with Amazon Quick",
+  "link": "https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/",
+  "published": "2026-10-01T19:49:06"
+ },
+ {
+  "blog_name": "Capital One Tech",
+  "blog_url": "https://medium.com/capital-one-tech",
+  "title": "Beyond the hallucination: Why AI needs deterministic math",
+  "link": "https://medium.com/capital-one-tech/beyond-the-hallucination-why-ai-needs-deterministic-math-aa9c448479ab?source=rss----3db3a67cb648---4",
+  "published": "2026-10-01T19:31:24"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Cops Can Bypass iPhone's Automatic Reboot To Get Into Locked Phones",
+  "link": "https://yro.slashdot.org/story/26/10/01/1813207/cops-can-bypass-iphones-automatic-reboot-to-get-into-locked-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-01T19:00:00"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "Trust Docker for the agents you don’t",
+  "link": "https://www.docker.com/blog/docker-cloud-sandboxes-wearedevelopers-recap/",
+  "published": "2026-10-01T18:26:12"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills",
+  "link": "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills/",
+  "published": "2026-10-01T18:13:29"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Pentagon Creates 'Autowarcom' to Expand AI and Drone Capabilities",
+  "link": "https://news.slashdot.org/story/26/10/01/1728203/pentagon-creates-autowarcom-to-expand-ai-and-drone-capabilities?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-01T18:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples",
+  "link": "https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples/",
+  "published": "2026-10-01T17:59:27"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "JavaScript Fetch Error Handling: Build a Reusable TypeScript Wrapper",
+  "link": "https://www.sitepoint.com/javascript-fetch-error-handling-typescript-wrapper/?utm_source=rss",
+  "published": "2026-10-01T17:58:33"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Node 20 GitHub Actions Deprecated: How to Migrate Workflows",
+  "link": "https://www.sitepoint.com/node-20-github-actions-deprecation-migration-guide/?utm_source=rss",
+  "published": "2026-10-01T17:58:31"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Lakebase Postgres branch-based restores for fast recovery at scale",
+  "link": "https://www.databricks.com/blog/lakebase-postgres-branch-based-restores-fast-recovery-scale",
+  "published": "2026-10-01T17:53:52"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Modernizing Enterprise Operations With Oracle Cloud Application Services",
+  "link": "https://www.sitepoint.com/oracle-cloud-application-services-for-developers/?utm_source=rss",
+  "published": "2026-10-01T17:46:27"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors",
+  "link": "https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/",
+  "published": "2026-10-01T17:34:56"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "The eternal complement",
+  "link": "https://openai.com/index/the-eternal-complement",
+  "published": "2026-10-01T17:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS",
+  "link": "https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws/",
+  "published": "2026-10-01T16:51:04"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows",
+  "link": "https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows/",
+  "published": "2026-10-01T16:40:24"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Implementing Multi-Environment Access for Claude Platform on AWS",
+  "link": "https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws/",
+  "published": "2026-10-01T16:32:23"
+ },
+ {
+  "blog_name": "Shopify",
+  "blog_url": "https://shopify.engineering/",
+  "title": "ShopGym: Realistic, reproducible sandboxes for shopping agents",
+  "link": "https://shopify.engineering/shopgym",
+  "published": "2026-10-01T16:23:24"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "SQLite Change Column Type Without Losing Data: The Safe Rebuild Guide",
+  "link": "https://www.sitepoint.com/sqlite-change-column-type-without-losing-data/?utm_source=rss",
+  "published": "2026-10-01T16:16:53"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How Albertsons Companies is reimagining retail from the inside out",
+  "link": "https://openai.com/index/albertsons-reimagining-retail",
+  "published": "2026-10-01T16:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
+  "link": "https://blog.cloudflare.com/clef-decision-models/",
+  "published": "2026-10-01T15:34:02"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+  "link": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
+  "published": "2026-10-01T15:07:16"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+  "link": "https://huggingface.co/blog/allenai/olmocore3",
+  "published": "2026-10-01T15:01:43"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "A look back before we look forward: A Developer Survey retrospective",
+  "link": "https://stackoverflow.blog/2026/10/01/a-look-back-before-we-look-forward-a-developer-survey-retrospective/",
+  "published": "2026-10-01T14:47:33"
+ },
+ {
   "blog_name": "Confluent",
   "blog_url": "https://www.confluent.io/blog",
   "title": "Confluent Strengthens Trust for Singapore's Markets with OSPAR Attestation",
@@ -70,6 +266,13 @@
   "published": "2026-10-01T13:00:00"
  },
  {
+  "blog_name": "Amazon Science",
+  "blog_url": "https://www.amazon.science/",
+  "title": "Graph-centric agentic intelligence",
+  "link": "https://www.amazon.science/blog/graph-centric-agentic-intelligence",
+  "published": "2026-10-01T12:54:31"
+ },
+ {
   "blog_name": "Databricks",
   "blog_url": "https://databricks.com/blog",
   "title": "Connecting customer context to measurable ROI with agentic marketing",
@@ -137,6 +340,13 @@
   "blog_url": "https://nordicapis.com/blog/",
   "title": "How AI Agents Are Changing API Architecture",
   "link": "https://nordicapis.com/how-ai-agents-are-changing-api-architecture/",
+  "published": "2026-10-01T07:00:00"
+ },
+ {
+  "blog_name": "PubNub:",
+  "blog_url": "https://www.pubnub.com/blog/",
+  "title": "The ultimate guide to fandom engagement in 2026",
+  "link": "https://www.pubnub.com/blog/the-ultimate-guide-to-fandom-engagement-in-2026/",
   "published": "2026-10-01T07:00:00"
  },
  {
@@ -228,6 +438,69 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Monitor warehouse data quality beyond pipeline health",
   "link": "https://www.datadoghq.com/blog/monitor-warehouse-data-quality-beyond-pipeline-health/",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "Discord",
+  "blog_url": "https://blog.discordapp.com/",
+  "title": "Cauldron Bubble w/o the Trouble? It’s Discord Halloween, Witches",
+  "link": "https://discord.com/blog/halloween-2026",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "Jane Street",
+  "blog_url": "https://blogs.janestreet.com/category/ocaml/",
+  "title": "A resilient kernel log reporter",
+  "link": "https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "Jane Street",
+  "blog_url": "https://blogs.janestreet.com/category/ocaml/",
+  "title": "A FUSE server for our in-house storage backend",
+  "link": "https://blog.janestreet.com/linux-engineering-depot-fuse-index/",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "Stripe",
+  "blog_url": "https://stripe.com/blog",
+  "title": "Why I tried to kill token billing (and why we kept it)",
+  "link": "https://stripe.com/blog/where-pricing-is-headed",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Bring your own key to existing Elastic Cloud deployments",
+  "link": "https://www.elastic.co/blog/byok-existing-deployments-elastic-cloud-hosted",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Laya decision model now available on AI Gateway, free through October 31",
+  "link": "https://vercel.com/changelog/laya-decision-model-now-available-on-ai-gateway-free-through-october-31",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Microsoft AI models are now available on AI Gateway",
+  "link": "https://vercel.com/changelog/microsoft-ai-models-are-now-available-on-ai-gateway",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Block malicious packages across your organization with Supply Chain Firewall and Datadog Code Security",
+  "link": "https://www.datadoghq.com/blog/supply-chain-firewall-code-security/",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+  "link": "https://openai.com/index/the-den-family-social",
   "published": "2026-10-01T00:00:00"
  },
  {
