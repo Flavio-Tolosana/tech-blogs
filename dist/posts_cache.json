@@ -1,9 +1,86 @@
 [
  {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
+  "link": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages/",
+  "published": "2026-10-01T05:00:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Parsing compressed JSON at 40 GB/s",
+  "link": "https://lemire.me/blog/2026/10/01/parsing-compressed-json-at-40-gb-s/",
+  "published": "2026-10-01T03:10:29"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Writing Native GPU Kernels in Rust with the CUDA-Rust Toolchain",
+  "link": "https://www.sitepoint.com/writing-native-gpu-kernels-in-rust-with-the-cuda-rust-toolchain/?utm_source=rss",
+  "published": "2026-10-01T03:03:25"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "IP Functions are Generally Available, bringing high-performance network analytics to the Lakehouse",
+  "link": "https://www.databricks.com/blog/ip-functions-are-generally-available-bringing-high-performance-network-analytics-lakehouse",
+  "published": "2026-10-01T01:46:05"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "DigitalOcean MicroVMs: the compute foundation for building your AI agent infrastructure (private preview)",
+  "link": "https://www.digitalocean.com/blog/microvms-for-agents",
+  "published": "2026-10-01T01:41:27"
+ },
+ {
+  "blog_name": "Thoughtbot",
+  "blog_url": "https://robots.thoughtbot.com/",
+  "title": "We’re bringing two roundtables to the London CPO Conference",
+  "link": "https://feed.thoughtbot.com/link/24077/17482747/we-re-bringing-two-roundtables-to-the-london-cpo-conference",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Native Desktop Themes for Production Apps",
+  "link": "https://www.codenameone.com/blog/desktop-theme-real-settings-app/",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Agent now installs private packages from npm and custom registries",
+  "link": "https://vercel.com/changelog/vercel-agent-now-installs-private-packages-from-npm-and-custom-registries",
+  "published": "2026-09-30T23:22:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "[Podcast] The October 2026 root KSK roll",
+  "link": "https://blog.apnic.net/2026/10/01/podcast-the-october-2026-root-ksk-roll/",
+  "published": "2026-09-30T22:44:12"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
+  "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/",
+  "published": "2026-09-30T22:10:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Hackers Stole Millions of US Military Personnel Records During Months-Long Data Breach",
   "link": "https://yro.slashdot.org/story/26/09/30/1947216/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-30T21:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "AI Gateway adds Browserbase Search and Fetch tools",
+  "link": "https://vercel.com/changelog/ai-gateway-adds-browserbase-search-and-fetch-tools",
   "published": "2026-09-30T21:00:00"
  },
  {
@@ -284,6 +361,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Python 3.15: Cool New Features for You to Try",
   "link": "https://realpython.com/python315-new-features/",
+  "published": "2026-09-30T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Windows on AArch64 also provides for hot-patching, but it’s much simpler than on x86",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20260930-00/?p=112744/",
   "published": "2026-09-30T14:00:00"
  },
  {
@@ -648,6 +732,41 @@
   "blog_url": "https://huggingface.co/blog",
   "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
   "link": "https://huggingface.co/blog/open-tts-leaderboard",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Jane Street",
+  "blog_url": "https://blogs.janestreet.com/category/ocaml/",
+  "title": "What the interns have wrought, special jumbo 2026 edition",
+  "link": "https://blog.janestreet.com/wrought-2026/",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Jane Street",
+  "blog_url": "https://blogs.janestreet.com/category/ocaml/",
+  "title": "What the SP interns have wrought, 2026 edition",
+  "link": "https://blog.janestreet.com/wrought-2026-sp/",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Jane Street",
+  "blog_url": "https://blogs.janestreet.com/category/ocaml/",
+  "title": "Trading off compute for memory with activation checkpointing",
+  "link": "https://blog.janestreet.com/trading-off-compute-for-memory-with-activation-checkpointing/",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Jane Street",
+  "blog_url": "https://blogs.janestreet.com/category/ocaml/",
+  "title": "What the TDOE interns have wrought, 2026 edition",
+  "link": "https://blog.janestreet.com/tdoe-intern-projects-2026/",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Jane Street",
+  "blog_url": "https://blogs.janestreet.com/category/ocaml/",
+  "title": "Mitigating memorization in LLMs",
+  "link": "https://blog.janestreet.com/mitigating-memorization-in-llms/",
   "published": "2026-09-30T00:00:00"
  },
  {
