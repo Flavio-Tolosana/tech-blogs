@@ -1,10 +1,164 @@
 [
  {
+  "blog_name": "Confluent",
+  "blog_url": "https://www.confluent.io/blog",
+  "title": "Confluent Strengthens Trust for Singapore's Markets with OSPAR Attestation",
+  "link": "https://www.confluent.io/blog/confluent-strengthens-trust-for-singapores-markets-with-ospar-attestation/",
+  "published": "2026-10-01T13:31:07"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "One year later: Sovereign AI and the fight for choice",
+  "link": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
+  "published": "2026-10-01T13:04:19"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Master your skills: Building skills you can trust",
+  "link": "https://developers.redhat.com/articles/2026/10/01/master-your-skills-building-skills-you-can-trust",
+  "published": "2026-10-01T13:01:32"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "GPU virtualization at scale: AMD MI300X SR-IOV on Red Hat OpenStack Services on OpenShift",
+  "link": "https://developers.redhat.com/articles/2026/10/01/gpu-virtualization-amd-mi300x-sr-iov-red-hat-openstack-services-on-openshift",
+  "published": "2026-10-01T13:01:29"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Fall Into 25 New Games on GeForce NOW This October",
+  "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
+  "published": "2026-10-01T13:00:54"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+  "link": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+  "published": "2026-10-01T13:00:49"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Introducing Workers KV Instant — powered by Quicksilver",
+  "link": "https://blog.cloudflare.com/workers-kv-instant/",
+  "published": "2026-10-01T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Cloudflare OS: your company’s agent workspace, managed for you",
+  "link": "https://blog.cloudflare.com/managed-cloudflare-os/",
+  "published": "2026-10-01T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Announcing Cloudflare K2: serverless event streams",
+  "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+  "published": "2026-10-01T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "We want you to build the next Git platform on Cloudflare",
+  "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+  "published": "2026-10-01T13:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Connecting customer context to measurable ROI with agentic marketing",
+  "link": "https://www.databricks.com/blog/connecting-customer-context-measurable-roi-agentic-marketing",
+  "published": "2026-10-01T12:11:31"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "Introducing Agent Droplets: everything an agent needs, one price, one bill",
+  "link": "https://www.digitalocean.com/blog/introducing-agent-droplets",
+  "published": "2026-10-01T12:05:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Get Into Agentic Development From the Shallow End",
+  "link": "https://spin.atomicobject.com/agentic-development-shallow/",
+  "published": "2026-10-01T12:00:20"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Pygame: A Primer on Game Programming in Python",
+  "link": "https://realpython.com/quizzes/pygame-a-primer/",
+  "published": "2026-10-01T12:00:00"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "Practice hack: how to review previous lessons on Duolingo",
+  "link": "https://blog.duolingo.com/how-to-review-lessons-on-duolingo/",
+  "published": "2026-10-01T12:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "How LinkedIn extended ClickHouse from distributed tracing to metric discovery and analytics",
+  "link": "https://clickhouse.com/blog/linkedin-observability-at-scale",
+  "published": "2026-10-01T11:47:10"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "15 years of Packagist: Over 200 billion package installs",
+  "link": "https://freek.dev/3199-15-years-of-packagist-over-200-billion-package-installs",
+  "published": "2026-10-01T10:30:28"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Welcoming faster, easier shipping: Shiprocket integrates with Hostinger Ecommerce stores in India",
+  "link": "https://www.hostinger.com/blog/hostinger-ecommerce-shiprocket-integration/",
+  "published": "2026-10-01T09:32:10"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "REX : des agents IA et des skills sur huit projets, nous gardons le volant et le fossé attendra",
+  "link": "https://blog.octo.com/rex--des-agents-ia-et-des-skills-sur-huit-projets-nous-gardons-le-volant-et-le-fosse-attendra",
+  "published": "2026-10-01T08:06:10"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "How AI Agents Are Changing API Architecture",
+  "link": "https://nordicapis.com/how-ai-agents-are-changing-api-architecture/",
+  "published": "2026-10-01T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: Very Valid Tokens",
+  "link": "https://thedailywtf.com/articles/very-valid-tokens",
+  "published": "2026-10-01T06:30:00"
+ },
+ {
   "blog_name": "NVIDIA Developer",
   "blog_url": "https://developer.nvidia.com/blog/",
   "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
   "link": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages/",
   "published": "2026-10-01T05:00:00"
+ },
+ {
+  "blog_name": "Snyk",
+  "blog_url": "https://snyk.io/blog",
+  "title": "Why AI Coding Agents Keep Writing Broken Access Control",
+  "link": "https://snyk.io/blog/ai-coding-agents-broken-access-control/",
+  "published": "2026-10-01T04:00:00"
  },
  {
   "blog_name": "Daniel Lemire",
@@ -35,6 +189,13 @@
   "published": "2026-10-01T01:41:27"
  },
  {
+  "blog_name": "Eli Bendersky",
+  "blog_url": "http://eli.thegreenplace.net/",
+  "title": "Summary of reading: July - September 2026",
+  "link": "https://eli.thegreenplace.net/2026/summary-of-reading-july-september-2026/",
+  "published": "2026-10-01T00:05:00"
+ },
+ {
   "blog_name": "Thoughtbot",
   "blog_url": "https://robots.thoughtbot.com/",
   "title": "We’re bringing two roundtables to the London CPO Conference",
@@ -49,11 +210,39 @@
   "published": "2026-10-01T00:00:00"
  },
  {
+  "blog_name": "Rust",
+  "blog_url": "https://blog.rust-lang.org/",
+  "title": "Announcing Rust 1.99.0",
+  "link": "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "How we extended Apache DataFusion to execute one query across many machines",
+  "link": "https://www.datadoghq.com/blog/engineering/distributed-datafusion/",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Monitor warehouse data quality beyond pipeline health",
+  "link": "https://www.datadoghq.com/blog/monitor-warehouse-data-quality-beyond-pipeline-health/",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
   "blog_name": "Vercel",
   "blog_url": "https://vercel.com/blog",
   "title": "Vercel Agent now installs private packages from npm and custom registries",
   "link": "https://vercel.com/changelog/vercel-agent-now-installs-private-packages-from-npm-and-custom-registries",
   "published": "2026-09-30T23:22:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Unveils Gemini 4 Argon, Retaking Benchmark Lead Over OpenAI and Anthropic",
+  "link": "https://tech.slashdot.org/story/26/09/30/2244216/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-30T23:00:00"
  },
  {
   "blog_name": "APNIC",
@@ -63,11 +252,25 @@
   "published": "2026-09-30T22:44:12"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laravel 14 Adds a defaults() Method to Eloquent Models",
+  "link": "https://laravel-news.com/laravel-model-defaults?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-09-30T22:23:38"
+ },
+ {
   "blog_name": "AWS",
   "blog_url": "https://aws.amazon.com/blogs/aws/",
   "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
   "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/",
   "published": "2026-09-30T22:10:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "'Xbox Is Not For Sale,' Says Microsoft's Gaming Chief",
+  "link": "https://games.slashdot.org/story/26/09/30/1954253/xbox-is-not-for-sale-says-microsofts-gaming-chief?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-30T22:00:00"
  },
  {
   "blog_name": "Slashdot",
@@ -126,6 +329,13 @@
   "published": "2026-09-30T19:21:51"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Implement Scoped Patient Consent in a FHIR API",
+  "link": "https://www.sitepoint.com/how-to-implement-scoped-patient-consent-in-a-fhir-api/?utm_source=rss",
+  "published": "2026-09-30T19:14:19"
+ },
+ {
   "blog_name": "NVIDIA Developer",
   "blog_url": "https://developer.nvidia.com/blog/",
   "title": "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK",
@@ -152,6 +362,13 @@
   "title": "Is sandboxing sufficient to contain rogue agents?",
   "link": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
   "published": "2026-09-30T18:30:13"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "7 Tools for Maintaining SaaS Infrastructure With a Small IT Team",
+  "link": "https://www.sitepoint.com/7-tools-for-maintaining-saas-infrastructure-with-a-small-it-team/?utm_source=rss",
+  "published": "2026-09-30T18:12:17"
  },
  {
   "blog_name": "Walmart Global Tech",
@@ -228,6 +445,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "Trump Administration Launches New AI-Powered 'America.gov' Website",
   "link": "https://tech.slashdot.org/story/26/09/30/1612221/trump-administration-launches-new-ai-powered-americagov-website?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-09-30T17:00:00"
+ },
+ {
+  "blog_name": "PubNub:",
+  "blog_url": "https://www.pubnub.com/blog/",
+  "title": "AI Coding One Year Later: A Product Manager's Lessons",
+  "link": "https://www.pubnub.com/blog/ai-coding-one-year-later-product-manager/",
   "published": "2026-09-30T17:00:00"
  },
  {
