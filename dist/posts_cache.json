@@ -1,5 +1,152 @@
 [
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Apple Tightens macOS 'Full Disk Access' Controls As AI Agents 'Substantially' Increase Risk",
+  "link": "https://hardware.slashdot.org/story/26/10/02/2056223/apple-tightens-macos-full-disk-access-controls-as-ai-agents-substantially-increase-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-02T21:00:00"
+ },
+ {
+  "blog_name": "Palantir",
+  "blog_url": "https://blog.palantir.com/",
+  "title": "Early Talent Hiring at Palantir",
+  "link": "https://blog.palantir.com/early-talent-hiring-at-palantir-c7388f1fdab7?source=rss----3c87dc14372f---4",
+  "published": "2026-10-02T20:28:41"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Paramount and Warner Bros. Discovery to Become Skydance",
+  "link": "https://entertainment.slashdot.org/story/26/10/02/1836216/paramount-and-warner-bros-discovery-to-become-skydance?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-02T20:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Computational tools for society’s most complex challenges",
+  "link": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
+  "published": "2026-10-02T19:30:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Used Processor Leads To Game Ban",
+  "link": "https://hardware.slashdot.org/story/26/10/02/1750242/used-processor-leads-to-game-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-02T19:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "EU's Microsoft Teams Alternative Draws Bad Reviews From Officials",
+  "link": "https://slashdot.org/story/26/10/02/1743247/eus-microsoft-teams-alternative-draws-bad-reviews-from-officials?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-02T18:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "In Capital Markets, the Buy Side Runs on NAV. Finance Protects the Fee.",
+  "link": "https://www.databricks.com/blog/capital-markets-buy-side-runs-nav-finance-protects-fee",
+  "published": "2026-10-02T17:40:26"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Judge Dismisses Chegg and Penske Antitrust Lawsuits Targeting Google AI Search",
+  "link": "https://tech.slashdot.org/story/26/10/02/0639218/judge-dismisses-chegg-and-penske-antitrust-lawsuits-targeting-google-ai-search?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-02T17:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Documenting the tech worker movement",
+  "link": "https://news.mit.edu/2026/documenting-tech-worker-movement-0918",
+  "published": "2026-10-02T17:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How to choose your first Genie Agents for maximum impact",
+  "link": "https://www.databricks.com/blog/how-choose-your-first-genie-agents-maximum-impact",
+  "published": "2026-10-02T16:15:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "A model guide for the GPT-6 family",
+  "link": "https://openai.com/index/practical-guide-building-gpt-6",
+  "published": "2026-10-02T16:15:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
+  "link": "https://blog.cloudflare.com/streamline/",
+  "published": "2026-10-02T16:13:45"
+ },
+ {
+  "blog_name": "Booking.com Data Science",
+  "blog_url": "https://booking.ai/",
+  "title": "Introducing AgentHub: Booking.com Platform for Modular Travel AI Agents",
+  "link": "https://booking.ai/introducing-agenthub-booking-com-platform-for-modular-travel-ai-agents-68bc521a0f50?source=rss----4d265f07defc---4",
+  "published": "2026-10-02T16:12:51"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "L'agentic sur le divan du coach : 24 questions, huit projets",
+  "link": "https://blog.octo.com/l'agentic-sur-le-divan-du-coach--24-questions-huit-projets",
+  "published": "2026-10-02T16:03:10"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Device Streaming and Android skills - available in Android CLI",
+  "link": "https://android-developers.googleblog.com/2026/10/android-cli-device-streaming-and-skills.html",
+  "published": "2026-10-02T16:00:00"
+ },
+ {
+  "blog_name": "Capital One Tech",
+  "blog_url": "https://medium.com/capital-one-tech",
+  "title": "Announcing Capital One Fellows for academic year 2026–2027",
+  "link": "https://medium.com/capital-one-tech/announcing-capital-one-fellows-for-academic-year-2026-2027-b1fc18e45b6f?source=rss----3db3a67cb648---4",
+  "published": "2026-10-02T15:55:59"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
+  "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
+  "published": "2026-10-02T15:48:26"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
+  "published": "2026-10-02T15:46:05"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
+  "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
+  "published": "2026-10-02T15:44:20"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+  "link": "https://huggingface.co/blog/allenai/astabrief",
+  "published": "2026-10-02T15:19:50"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "AI is changing developer work. Here are three skills to strengthen.",
+  "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+  "published": "2026-10-02T15:00:00"
+ },
+ {
   "blog_name": "Cloudflare",
   "blog_url": "https://blog.cloudflare.com/",
   "title": "Introducing Web Search API via AI Gateway",
@@ -147,6 +294,13 @@
   "published": "2026-10-02T07:00:00"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Jev for Python engineers",
+  "link": "https://vercel.com/blog/jev-for-python-engineers",
+  "published": "2026-10-02T07:00:00"
+ },
+ {
   "blog_name": "The Daily WTF",
   "blog_url": "http://thedailywtf.com/",
   "title": "Error'd: 12345",
@@ -175,11 +329,25 @@
   "published": "2026-10-02T04:00:00"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "How Rogo ships agent-written code to production in 5 minutes on Vercel",
+  "link": "https://vercel.com/blog/how-rogo-ships-agent-written-code-to-production-in-5-minutes-on-vercel",
+  "published": "2026-10-02T04:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "California Rushes To Prepare For Massive 'Kelvin' Wave, Predicted Sea Level Rise",
   "link": "https://news.slashdot.org/story/26/10/01/2159252/california-rushes-to-prepare-for-massive-kelvin-wave-predicted-sea-level-rise?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-02T03:30:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "WhenMounted and BigInt Props in Inertia.js v3.8",
+  "link": "https://laravel-news.com/inertia-3-8-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-02T02:38:16"
  },
  {
   "blog_name": "Slashdot",
@@ -228,6 +396,69 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "A Smaller, Faster Java Server with a Spring-Style API",
   "link": "https://www.codenameone.com/blog/java-server-work-before-startup/",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Architecting Secure Identity: Extending Auth0 PrivateLink with Intelligent Gateways",
+  "link": "https://auth0.com/blog/extending-auth0-privatelink-with-intelligent-gateways/",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "Jane Street",
+  "blog_url": "https://blogs.janestreet.com/category/ocaml/",
+  "title": "How recurring network maintenance exposed 6 bugs",
+  "link": "https://blog.janestreet.com/how-recurring-network-maintenance-exposed-6-bugs/",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "Thoughtbot",
+  "blog_url": "https://robots.thoughtbot.com/",
+  "title": "We built an AI product consultant and the free beta is now open",
+  "link": "https://feed.thoughtbot.com/link/24077/17484205/we-built-an-ai-product-consultant-and-the-free-beta-is-now-open",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "Go",
+  "blog_url": "https://blog.golang.org/",
+  "title": "Arch-specific SIMD in Go",
+  "link": "https://go.dev/blog/archsimd",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Chatham scales its capital markets expertise with OpenAI",
+  "link": "https://openai.com/index/chatham-financial",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Key metrics for monitoring Databricks",
+  "link": "https://www.datadoghq.com/blog/key-metrics-for-databricks-monitoring/",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Databricks’ native monitoring resources",
+  "link": "https://www.datadoghq.com/blog/databricks-native-monitoring-resources/",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Monitor Databricks with Datadog",
+  "link": "https://www.datadoghq.com/blog/how-to-monitor-databricks-with-datadog/",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "The first 72 hours of a ransomware attack: Why restored isn’t recovered",
+  "link": "https://www.datadoghq.com/blog/the-first-72-hours-of-a-ransomware-attack-why-restored-isnt-recovered/",
   "published": "2026-10-02T00:00:00"
  },
  {
@@ -306,6 +537,13 @@
   "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
   "link": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/",
   "published": "2026-10-01T20:04:04"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Postcodes for Laravel: GB Postcode Lookup and Geography Data",
+  "link": "https://laravel-news.com/postcodes-for-laravel?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-01T20:02:24"
  },
  {
   "blog_name": "Slashdot",
