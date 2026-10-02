@@ -1,10 +1,164 @@
 [
  {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Introducing Web Search API via AI Gateway",
+  "link": "https://blog.cloudflare.com/introducing-web-search-api/",
+  "published": "2026-10-02T13:28:10"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "What is direct I/O, and why does ClickHouse Managed Postgres use it for backups?",
+  "link": "https://clickhouse.com/blog/direct-io-managed-postgres-backups",
+  "published": "2026-10-02T13:27:05"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Benchmarking AI decision models against traditional guardrails",
+  "link": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+  "published": "2026-10-02T13:01:51"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Kube AuthKit: Unified Kubernetes and OpenShift auth in Python",
+  "link": "https://developers.redhat.com/articles/2026/10/02/kube-authkit-unified-kubernetes-and-openshift-auth-python",
+  "published": "2026-10-02T13:01:50"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Smarter GPU sharing: How Red Hat build of Kueue works with dynamic resource allocation",
+  "link": "https://developers.redhat.com/articles/2026/10/02/smarter-gpu-sharing-how-red-hat-build-of-kueue-works-with-dynamic-resource-allocation",
+  "published": "2026-10-02T13:01:47"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+  "link": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+  "published": "2026-10-02T13:00:39"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "8 major updates to Cloudflare Observability",
+  "link": "https://blog.cloudflare.com/one-observability-platform/",
+  "published": "2026-10-02T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
+  "link": "https://blog.cloudflare.com/cloudflare-tracing/",
+  "published": "2026-10-02T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Updates on our pledge to make Cloudflare features accessible to everyone",
+  "link": "https://blog.cloudflare.com/enterprise-for-all-update/",
+  "published": "2026-10-02T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
+  "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+  "published": "2026-10-02T13:00:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "My Coding Agents Moved Off My Laptop and Onto a Remote Server",
+  "link": "https://spin.atomicobject.com/coding-agents-remote-server/",
+  "published": "2026-10-02T12:00:14"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "The Real Python Podcast – Episode #313: Python 3.15: Exploring the New Features",
+  "link": "https://realpython.com/podcasts/rpp/313/",
+  "published": "2026-10-02T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: The Beginner's Guide to Python Turtle",
+  "link": "https://realpython.com/quizzes/beginners-guide-python-turtle/",
+  "published": "2026-10-02T12:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Real-Time Retail Intelligence: Building E-Commerce Recommendations with Lakebase and AI Search on Databricks",
+  "link": "https://www.databricks.com/blog/real-time-retail-intelligence-building-e-commerce-recommendations-lakebase-and-ai-search",
+  "published": "2026-10-02T11:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "20% of Swiss Glaciers Lost In Five Years",
+  "link": "https://news.slashdot.org/story/26/10/02/0220226/20-of-swiss-glaciers-lost-in-five-years?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-02T11:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Do I want it the most?",
+  "link": "https://freek.dev/3201-do-i-want-it-the-most",
+  "published": "2026-10-02T10:30:57"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "The Design Workflow Is Broken. Here Is How Vitalii Khomenko Thinks It Should Be Fixed",
+  "link": "https://www.sitepoint.com/vitalii-khomenko-design-workflow-ai-era/?utm_source=rss",
+  "published": "2026-10-02T10:06:51"
+ },
+ {
+  "blog_name": "SeveralNines",
+  "blog_url": "https://severalnines.com/database-blog",
+  "title": "Automated Database Failover: Why Homegrown High Availability Struggles At Scale",
+  "link": "https://severalnines.com/blog/automated-database-failover-why-homegrown-high-availability-struggles-at-scale/",
+  "published": "2026-10-02T07:49:19"
+ },
+ {
+  "blog_name": "Federico Tomassetti",
+  "blog_url": "https://tomassetti.me/",
+  "title": "Codebase Blueprint: it all started with Legacy Codebases",
+  "link": "https://tomassetti.me/codebase-blueprint/",
+  "published": "2026-10-02T07:40:32"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "Constraints that make developers faster",
   "link": "https://stackoverflow.blog/2026/10/02/constraints-that-make-developers-faster/",
   "published": "2026-10-02T07:40:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "OpenAI Alerts More Than 100 Groups About Rogue AI Agent Activity",
+  "link": "https://it.slashdot.org/story/26/10/02/0226205/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-02T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Error'd: 12345",
+  "link": "https://thedailywtf.com/articles/12345",
+  "published": "2026-10-02T06:30:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Build a Backlink Monitoring Dashboard with Node.js",
+  "link": "https://www.sitepoint.com/how-to-build-a-backlink-monitoring-dashboard-with-node-js/?utm_source=rss",
+  "published": "2026-10-02T06:04:53"
  },
  {
   "blog_name": "Hugging Face",
@@ -39,6 +193,41 @@
   "blog_url": "https://robots.thoughtbot.com/",
   "title": "NWRUG's (Manchester, UK) October 2026 meeting — It's time to bin your VCR",
   "link": "https://feed.thoughtbot.com/link/24077/17483479/nwrug-s-manchester-uk-october-2026-meeting-it-s-time-to-bin-your-vcr",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "Jane Street",
+  "blog_url": "https://blogs.janestreet.com/category/ocaml/",
+  "title": "Results from the ASIC puzzle",
+  "link": "https://blog.janestreet.com/asic-puzzle-results/",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "Trivago",
+  "blog_url": "http://tech.trivago.com/",
+  "title": "From Tools to Teammates: How AI Empowered Our UX Team to Level Up",
+  "link": "https://tech.trivago.com/post/2026-10-02-from-tools-to-teammates-how-ai-empowered-our-ux-team-to-level-up/",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "Rust",
+  "blog_url": "https://blog.rust-lang.org/",
+  "title": "Demoting i686 Windows targets to std-only",
+  "link": "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "From reactive to resilient: Findings from the Total Economic Impact of Elastic Observability 2026",
+  "link": "https://www.elastic.co/blog/total-economic-impact-of-elastic-observability-2026",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "A Smaller, Faster Java Server with a Spring-Style API",
+  "link": "https://www.codenameone.com/blog/java-server-work-before-startup/",
   "published": "2026-10-02T00:00:00"
  },
  {
@@ -84,11 +273,25 @@
   "published": "2026-10-01T22:00:00"
  },
  {
+  "blog_name": "Dennis Yurichev",
+  "blog_url": "https://yurichev.com/blog/",
+  "title": "[Crypto] Communicating with TPM 2.0: the first step",
+  "link": "https://yurichev.com/blog/TPM1/",
+  "published": "2026-10-01T22:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Ryan Roslansky Is Leaving After Nearly 18 Years At LinkedIn and Microsoft",
   "link": "https://slashdot.org/story/26/10/01/1832232/ryan-roslansky-is-leaving-after-nearly-18-years-at-linkedin-and-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-01T21:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "A Practical Guide to Secure Authentication for Developers",
+  "link": "https://www.sitepoint.com/a-practical-guide-to-secure-authentication-for-developers/?utm_source=rss",
+  "published": "2026-10-01T20:54:03"
  },
  {
   "blog_name": "Databricks",
@@ -110,6 +313,13 @@
   "title": "Micron Projects Tightening RAM Shortages Through 2028 As It Generates Record Profit",
   "link": "https://hardware.slashdot.org/story/26/10/01/1822222/micron-projects-tightening-ram-shortages-through-2028-as-it-generates-record-profit?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-01T20:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Cryptography Essentials for Node.js Developers: Hashing, Encryption, and Signing Done Right",
+  "link": "https://www.sitepoint.com/cryptography-essentials-for-node-js-developers-hashing-encryption-and-signing-done-right/?utm_source=rss",
+  "published": "2026-10-01T19:49:14"
  },
  {
   "blog_name": "AWS Machine Learning",
@@ -355,6 +565,13 @@
   "title": "Graph-centric agentic intelligence",
   "link": "https://www.amazon.science/blog/graph-centric-agentic-intelligence",
   "published": "2026-10-01T12:54:31"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Speed Insights deprecates First Input Delay on November 1st",
+  "link": "https://vercel.com/changelog/speed-insights-deprecates-first-input-delay-on-november-first",
+  "published": "2026-10-01T12:39:14"
  },
  {
   "blog_name": "Databricks",
@@ -606,6 +823,20 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "Prioritize your messages at scale with the Twilio Traffic Optimization Engine",
   "link": "https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-traffic-optimization-engine",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "Teleport",
+  "blog_url": "https://goteleport.com/blog/",
+  "title": "SSO-Backed kubectl Access Across Many Clusters",
+  "link": "https://goteleport.com/blog/sso-backed-kubectl-access-multiple-clusters/",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "Building Kubernetes PR Previews with Shared Pulumi Components",
+  "link": "https://www.pulumi.com/blog/building-kubernetes-pr-previews-with-shared-pulumi-components/",
   "published": "2026-10-01T00:00:00"
  },
  {
@@ -970,6 +1201,13 @@
   "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
   "title": "Windows on AArch64 also provides for hot-patching, but it’s much simpler than on x86",
   "link": "https://devblogs.microsoft.com/oldnewthing/20260930-00/?p=112744/",
+  "published": "2026-09-30T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Community Videos",
+  "link": "https://realpython.com/courses/community-videos/",
   "published": "2026-09-30T14:00:00"
  },
  {
