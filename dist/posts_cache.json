@@ -1,9 +1,86 @@
 [
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Constraints that make developers faster",
+  "link": "https://stackoverflow.blog/2026/10/02/constraints-that-make-developers-faster/",
+  "published": "2026-10-02T07:40:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+  "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+  "published": "2026-10-02T04:01:31"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "3 Questions: A new resource to empower young entrepreneurs",
+  "link": "https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002",
+  "published": "2026-10-02T04:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "California Rushes To Prepare For Massive 'Kelvin' Wave, Predicted Sea Level Rise",
+  "link": "https://news.slashdot.org/story/26/10/01/2159252/california-rushes-to-prepare-for-massive-kelvin-wave-predicted-sea-level-rise?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-02T03:30:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Amazon's New Kindle Accessories Bring Back Physical Controls",
+  "link": "https://news.slashdot.org/story/26/10/01/2149250/amazons-new-kindle-accessories-bring-back-physical-controls?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-02T01:00:00"
+ },
+ {
+  "blog_name": "Thoughtbot",
+  "blog_url": "https://robots.thoughtbot.com/",
+  "title": "NWRUG's (Manchester, UK) October 2026 meeting — It's time to bin your VCR",
+  "link": "https://feed.thoughtbot.com/link/24077/17483479/nwrug-s-manchester-uk-october-2026-meeting-it-s-time-to-bin-your-vcr",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+  "link": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+  "published": "2026-10-01T23:44:13"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Is RPKI becoming harmful to BGP stability?",
+  "link": "https://blog.apnic.net/2026/10/02/is-rpki-becoming-harmful-to-bgp-stability/",
+  "published": "2026-10-01T23:18:58"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Russian-Owned Snooping Software Used By US Secret Service",
+  "link": "https://yro.slashdot.org/story/26/10/01/2124230/russian-owned-snooping-software-used-by-us-secret-service?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-01T23:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
+  "published": "2026-10-01T22:06:14"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Cloudflare Tries to Outplay Jev With Open-Weight Clef Models",
   "link": "https://tech.slashdot.org/story/26/10/01/2110250/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-01T22:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
+  "link": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
   "published": "2026-10-01T22:00:00"
  },
  {
@@ -196,6 +273,13 @@
   "published": "2026-10-01T14:47:33"
  },
  {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Windows on Itanium also provided for hot-patching, in an even simpler way",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261001-57/?p=112747/",
+  "published": "2026-10-01T14:00:57"
+ },
+ {
   "blog_name": "Confluent",
   "blog_url": "https://www.confluent.io/blog",
   "title": "Confluent Strengthens Trust for Singapore's Markets with OSPAR Attestation",
@@ -350,6 +434,13 @@
   "published": "2026-10-01T07:00:00"
  },
  {
+  "blog_name": "Honeybadger",
+  "blog_url": "http://blog.honeybadger.io/",
+  "title": "Datadog alternatives: which observability platform fits your needs?",
+  "link": "https://www.honeybadger.io/blog/datadog-alternatives/",
+  "published": "2026-10-01T07:00:00"
+ },
+ {
   "blog_name": "The Daily WTF",
   "blog_url": "http://thedailywtf.com/",
   "title": "CodeSOD: Very Valid Tokens",
@@ -501,6 +592,20 @@
   "blog_url": "https://openai.com/news/",
   "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
   "link": "https://openai.com/index/the-den-family-social",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Your customers don't want an AI friend. They want an answer.",
+  "link": "https://www.twilio.com/en-us/blog/insights/customers-want-an-answer-not-an-ai-friend",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Prioritize your messages at scale with the Twilio Traffic Optimization Engine",
+  "link": "https://www.twilio.com/en-us/blog/products/launches/prioritized-messaging-with-traffic-optimization-engine",
   "published": "2026-10-01T00:00:00"
  },
  {
@@ -1264,6 +1369,13 @@
   "blog_url": "https://blogs.janestreet.com/category/ocaml/",
   "title": "Mitigating memorization in LLMs",
   "link": "https://blog.janestreet.com/mitigating-memorization-in-llms/",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Augment Voice Calls with Twilio Conversation Intelligence Using Node.js",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-conversation-intelligence-nodejs",
   "published": "2026-09-30T00:00:00"
  },
  {
