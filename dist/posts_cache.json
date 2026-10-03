@@ -2,6 +2,34 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "New Mexico Wants Meta To Pay $40 Billion In Penalties For Cambridge Analytica Scandal",
+  "link": "https://yro.slashdot.org/story/26/10/02/2152218/new-mexico-wants-meta-to-pay-40-billion-in-penalties-for-cambridge-analytica-scandal?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-03T03:30:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Honey, I Shrunk Java",
+  "link": "https://www.codenameone.com/blog/parparvm-four-byte-header/",
+  "published": "2026-10-03T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "AI Has Finally Learned To Play Stratego",
+  "link": "https://games.slashdot.org/story/26/10/02/2129251/ai-has-finally-learned-to-play-stratego?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-02T23:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "The University of Washington Is Moving a Graduate Program to Microsoft's Campus",
+  "link": "https://news.slashdot.org/story/26/10/02/215238/the-university-of-washington-is-moving-a-graduate-program-to-microsofts-campus?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-02T22:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Apple Tightens macOS 'Full Disk Access' Controls As AI Agents 'Substantially' Increase Risk",
   "link": "https://hardware.slashdot.org/story/26/10/02/2056223/apple-tightens-macos-full-disk-access-controls-as-ai-agents-substantially-increase-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-02T21:00:00"
@@ -462,6 +490,20 @@
   "published": "2026-10-02T00:00:00"
  },
  {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Create and Send vCards with Go",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/create-send-vcards-with-go",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Track Opt-Outs in PHP",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/track-opt-outs-in-php",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
   "blog_name": "Nvidia",
   "blog_url": "https://blogs.nvidia.com/",
   "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
@@ -481,6 +523,13 @@
   "title": "Russian-Owned Snooping Software Used By US Secret Service",
   "link": "https://yro.slashdot.org/story/26/10/01/2124230/russian-owned-snooping-software-used-by-us-secret-service?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-01T23:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How Genie One reshapes work for finance teams",
+  "link": "https://www.databricks.com/blog/how-genie-one-reshapes-work-finance-teams",
+  "published": "2026-10-01T22:46:51"
  },
  {
   "blog_name": "AWS Machine Learning",
