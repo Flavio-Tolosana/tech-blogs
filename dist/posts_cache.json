@@ -1,5 +1,75 @@
 [
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Steam On Linux - Down To 3.05% For September?",
+  "link": "https://linux.slashdot.org/story/26/10/03/2056206/steam-on-linux---down-to-305-for-september?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-03T20:51:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Researcher, Dartmouth Professor and Provost Face Accusations of Secretly Using AI",
+  "link": "https://science.slashdot.org/story/26/10/03/1948230/researcher-dartmouth-professor-and-provost-face-accusations-of-secretly-using-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-03T19:51:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Pi 1.0 Coding Agent Setup: Install, Configure MCP, and Run Codemode",
+  "link": "https://www.sitepoint.com/pi-1-0-coding-agent-setup-mcp/?utm_source=rss",
+  "published": "2026-10-03T19:11:45"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Detect Breaking API Changes with TypeScript and OpenAPI",
+  "link": "https://www.sitepoint.com/detect-breaking-api-changes-typescript-openapi/?utm_source=rss",
+  "published": "2026-10-03T19:11:29"
+ },
+ {
+  "blog_name": "Jeffrey Zeldman",
+  "blog_url": "https://zeldman.com/",
+  "title": "Another Saturday, Another Song.",
+  "link": "https://zeldman.com/2026/10/03/another-saturday-another-song/",
+  "published": "2026-10-03T17:17:45"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "California's Governor Wants Worker Protections from AI. But FSF Thinks Kill Switches are 'Dangerous Precedent'",
+  "link": "https://news.slashdot.org/story/26/10/03/077236/californias-governor-wants-worker-protections-from-ai-but-fsf-thinks-kill-switches-are-dangerous-precedent?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-03T17:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Someone Got Doom In an SQL Database",
+  "link": "https://developers.slashdot.org/story/26/10/03/0125235/someone-got-doom-in-an-sql-database?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-03T16:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "US Judge Rules Flock Search Was Mass Surveillance.  Bernie Sanders Proposes 'Ban Flock Act'",
+  "link": "https://yro.slashdot.org/story/26/10/03/0532218/us-judge-rules-flock-search-was-mass-surveillance-bernie-sanders-proposes-ban-flock-act?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-03T15:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Basic Data Types in Python: A Quick Exploration",
+  "link": "https://realpython.com/python-data-types/",
+  "published": "2026-10-03T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "11 Beginner Tips for Learning Python Programming",
+  "link": "https://realpython.com/python-beginner-tips/",
+  "published": "2026-10-03T14:00:00"
+ },
+ {
   "blog_name": "Atomic Object",
   "blog_url": "https://spin.atomicobject.com/",
   "title": "Walk the Halls: Understand a Business to Build a Better Product",
@@ -11,6 +81,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Quiz: Operator and Function Overloading in Custom Python Classes",
   "link": "https://realpython.com/quizzes/operator-function-overloading/",
+  "published": "2026-10-03T12:00:00"
+ },
+ {
+  "blog_name": "Jake Yesbeck",
+  "blog_url": "http://jakeyesbeck.com/",
+  "title": "The Way and Remainder",
+  "link": "https://jakeyesbeck.com/2026/10/03/the-way-and-remainder/",
   "published": "2026-10-03T12:00:00"
  },
  {
@@ -46,6 +123,13 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Honey, I Shrunk Java",
   "link": "https://www.codenameone.com/blog/parparvm-four-byte-header/",
+  "published": "2026-10-03T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Universal Copy System Link for 97 Windows PCs",
+  "link": "https://code.dblock.org/2026/10/03/ucslink-fusion-configuring-university-workstations-in-1997.html",
   "published": "2026-10-03T00:00:00"
  },
  {
