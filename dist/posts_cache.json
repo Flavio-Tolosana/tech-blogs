@@ -1,5 +1,40 @@
 [
  {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Walk the Halls: Understand a Business to Build a Better Product",
+  "link": "https://spin.atomicobject.com/walk-the-halls-better-product/",
+  "published": "2026-10-03T12:00:06"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Operator and Function Overloading in Custom Python Classes",
+  "link": "https://realpython.com/quizzes/operator-function-overloading/",
+  "published": "2026-10-03T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "1 In 8 Cancer Cases Worldwide Are Due to Infections",
+  "link": "https://science.slashdot.org/story/26/10/03/0120218/1-in-8-cancer-cases-worldwide-are-due-to-infections?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-03T11:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "I’m Using GPUI For Everything",
+  "link": "https://freek.dev/3200-im-using-gpui-for-everything",
+  "published": "2026-10-03T10:31:04"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Tests AI Data Center In Space",
+  "link": "https://science.slashdot.org/story/26/10/03/0113206/google-tests-ai-data-center-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-03T07:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "New Mexico Wants Meta To Pay $40 Billion In Penalties For Cambridge Analytica Scandal",
@@ -33,6 +68,13 @@
   "title": "Apple Tightens macOS 'Full Disk Access' Controls As AI Agents 'Substantially' Increase Risk",
   "link": "https://hardware.slashdot.org/story/26/10/02/2056223/apple-tightens-macos-full-disk-access-controls-as-ai-agents-substantially-increase-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-02T21:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building Lead Capture Forms That Convert: A Developer's Guide",
+  "link": "https://www.sitepoint.com/building-lead-capture-forms-that-convert-a-developer-s-guide/?utm_source=rss",
+  "published": "2026-10-02T20:43:55"
  },
  {
   "blog_name": "Palantir",
@@ -75,6 +117,13 @@
   "title": "In Capital Markets, the Buy Side Runs on NAV. Finance Protects the Fee.",
   "link": "https://www.databricks.com/blog/capital-markets-buy-side-runs-nav-finance-protects-fee",
   "published": "2026-10-02T17:40:26"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "WordPress Accessibility Issues That Are Getting Sites Sued in 2026",
+  "link": "https://www.sitepoint.com/wordpress-accessibility-issues-that-are-getting-sites-sued-in-2026/?utm_source=rss",
+  "published": "2026-10-02T17:09:47"
  },
  {
   "blog_name": "Slashdot",
