@@ -1,5 +1,96 @@
 [
  {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Unlocking Data Portability: Preventing Catalog Lock-in with REGISTER and UNREGISTER APIs",
+  "link": "https://www.databricks.com/blog/unlocking-data-portability-preventing-catalog-lock-register-and-unregister-apis",
+  "published": "2026-10-05T16:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "How Python Will Test Adding Rust Into CPython",
+  "link": "https://developers.slashdot.org/story/26/10/04/2034229/how-python-will-test-adding-rust-into-cpython?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-04T21:37:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Radio Broadcasters Support America's 'AM Radio for Every Vehicle Act'",
+  "link": "https://tech.slashdot.org/story/26/10/04/208221/radio-broadcasters-support-americas-am-radio-for-every-vehicle-act?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-04T20:37:00"
+ },
+ {
+  "blog_name": "Jerry Gamblin",
+  "blog_url": "https://jerrygamblin.com/",
+  "title": "Decision Models vs. CVE Data",
+  "link": "https://jerrygamblin.com/2026/10/04/decision-models-vs-cve-data/",
+  "published": "2026-10-04T20:00:03"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Disney/Marvel's 'Avengers: Endgame' Beats 'Avatar' as Top-Grossing Film, 'Coyote vs Acme' #1 on Apple TV",
+  "link": "https://entertainment.slashdot.org/story/26/10/04/1934230/disneymarvels-avengers-endgame-beats-avatar-as-top-grossing-film-coyote-vs-acme-1-on-apple-tv?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-04T19:37:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Particle Collider Experiment Recreates the Big Bang's Primordial Soup - and Finds Unexpected Pattern",
+  "link": "https://science.slashdot.org/story/26/10/04/1812250/particle-collider-experiment-recreates-the-big-bangs-primordial-soup---and-finds-unexpected-pattern?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-04T18:15:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Research paper overload: submissions capped at two a month",
+  "link": "https://lemire.me/blog/2026/10/04/arxiv-capped-submissions-at-two-a-month/",
+  "published": "2026-10-04T17:07:27"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Google’s first orbital data center is in orbit",
+  "link": "https://lemire.me/blog/2026/10/04/googles-first-orbital-data-center-is-in-orbit/",
+  "published": "2026-10-04T16:49:29"
+ },
+ {
+  "blog_name": "Chris Wellons",
+  "blog_url": "http://nullprogram.com/",
+  "title": "A new, bespoke static site generator to replace Jekyll",
+  "link": "https://nullprogram.com/blog/2026/10/04/",
+  "published": "2026-10-04T16:35:49"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "San Francisco's Car Crime Has Plunged. How Much Credit Does Flock Deserve?",
+  "link": "https://yro.slashdot.org/story/26/10/03/0553234/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-04T16:34:00"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Le développement agentique est-il le fossoyeur de la modélisation métier ? - Part 1",
+  "link": "https://blog.octo.com/le-developpement-agentique-est-il-le-fossoyeur-de-la-modelisation-metier-part-1",
+  "published": "2026-10-04T15:10:10"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Strings and Character Data in Python",
+  "link": "https://realpython.com/python-strings/",
+  "published": "2026-10-04T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "How to Install Python on Your System: A Guide",
+  "link": "https://realpython.com/installing-python/",
+  "published": "2026-10-04T14:00:00"
+ },
+ {
   "blog_name": "Real Python",
   "blog_url": "https://realpython.com/blog/",
   "title": "Quiz: Python's collections: A Buffet of Specialized Data Types",
@@ -53,6 +144,13 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Can You Tell the Difference Between These iOS Tab Bars?",
   "link": "https://www.codenameone.com/blog/ios27-glass-from-measurements/",
+  "published": "2026-10-04T00:00:00"
+ },
+ {
+  "blog_name": "Nicolas Fränkel",
+  "blog_url": "https://blog.frankel.ch/",
+  "title": "Security Baked Into the JVM: no single party controls the outcome",
+  "link": "https://blog.frankel.ch/security-baked-into-jvm/5/",
   "published": "2026-10-04T00:00:00"
  },
  {
@@ -725,6 +823,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "How to Track Opt-Outs in PHP",
   "link": "https://www.twilio.com/en-us/blog/developers/tutorials/track-opt-outs-in-php",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Get Started With WebRTC: Intro to Browser APIs",
+  "link": "https://www.twilio.com/en-us/blog/get-started-webrtc",
   "published": "2026-10-02T00:00:00"
  },
  {
