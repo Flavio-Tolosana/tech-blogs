@@ -2,6 +2,62 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "This Virus Stole a Human Gene and Won't Let Go of It",
+  "link": "https://science.slashdot.org/story/26/10/04/0054248/this-virus-stole-a-human-gene-and-wont-let-go-of-it?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-04T03:21:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Physicists Identify 'Octupolar' Magnetism, With Implications for Quantum Technologies",
+  "link": "https://science.slashdot.org/story/26/10/04/0015230/physicists-identify-octupolar-magnetism-with-implications-for-quantum-technologies?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-04T01:21:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Surveillance Company Tells Cops It Wants to Add Facial Recognition to Flock Cameras",
+  "link": "https://yro.slashdot.org/story/26/10/03/0545254/surveillance-company-tells-cops-it-wants-to-add-facial-recognition-to-flock-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-04T00:21:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Can You Tell the Difference Between These iOS Tab Bars?",
+  "link": "https://www.codenameone.com/blog/ios27-glass-from-measurements/",
+  "published": "2026-10-04T00:00:00"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "We're going to need default hard budget caps on pretty much everything",
+  "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+  "published": "2026-10-03T23:34:02"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "As 'Falcon Heavy' Launches, SpaceX Plans Dragon and Falcon 9 Phase Out As Starship Ramps Up",
+  "link": "https://science.slashdot.org/story/26/10/03/2317251/as-falcon-heavy-launches-spacex-plans-dragon-and-falcon-9-phase-out-as-starship-ramps-up?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-03T23:21:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "The Agent Said It Was Done. The Database Disagreed.",
+  "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+  "published": "2026-10-03T22:56:48"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "President Trump Doxxes Senator's Cellphone in Push For Permanent Daylight Saving Time",
+  "link": "https://yro.slashdot.org/story/26/10/03/2211236/president-trump-doxxes-senators-cellphone-in-push-for-permanent-daylight-saving-time?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-03T22:15:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Steam On Linux - Down To 3.05% For September?",
   "link": "https://linux.slashdot.org/story/26/10/03/2056206/steam-on-linux---down-to-305-for-september?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-03T20:51:00"
@@ -306,6 +362,13 @@
   "title": "AI is changing developer work. Here are three skills to strengthen.",
   "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
   "published": "2026-10-02T15:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Why is there no Windows hot-patching support for other architectures like 32-bit ARM and MIPS?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261002-00/?p=112753/",
+  "published": "2026-10-02T14:00:00"
  },
  {
   "blog_name": "Cloudflare",
