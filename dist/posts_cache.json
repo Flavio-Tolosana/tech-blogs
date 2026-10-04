@@ -1,5 +1,33 @@
 [
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python's collections: A Buffet of Specialized Data Types",
+  "link": "https://realpython.com/quizzes/python-collections-module/",
+  "published": "2026-10-04T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Long-Time Slashdot Reader Announces New Open Source Web Browser 'Northstar'",
+  "link": "https://news.slashdot.org/story/26/10/04/0127201/long-time-slashdot-reader-announces-new-open-source-web-browser-northstar?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-04T11:21:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "How to Stop an AI Agent from Destroying Your Laravel App",
+  "link": "https://freek.dev/3117-how-to-stop-an-ai-agent-from-destroying-your-laravel-app",
+  "published": "2026-10-04T10:30:38"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Three EU Officials Not Sold on Europe's Homegrown Alternative to Microsoft Teams",
+  "link": "https://yro.slashdot.org/story/26/10/04/061207/three-eu-officials-not-sold-on-europes-homegrown-alternative-to-microsoft-teams?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-04T07:21:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "This Virus Stole a Human Gene and Won't Let Go of It",
@@ -6347,6 +6375,13 @@
   "title": "AI is breaking the academic sorting machine",
   "link": "https://lemire.me/blog/2026/09/20/ai-is-breaking-the-academic-sorting-machine/",
   "published": "2026-09-20T21:47:46"
+ },
+ {
+  "blog_name": "Yegor Bugayenko",
+  "blog_url": "http://www.yegor256.com/",
+  "title": "Non Cogito, Ergo Quid Sum?",
+  "link": "https://www.yegor256.com/2026/09/21/cogito-ergo-sum.html",
+  "published": "2026-09-20T21:00:00"
  },
  {
   "blog_name": "Laravel",
