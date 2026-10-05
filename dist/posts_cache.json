@@ -1,5 +1,75 @@
 [
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Wikipedia Operator Says OpenAI's 'Rogue' Bots May Be Linked to a May Outage",
+  "link": "https://news.slashdot.org/story/26/10/05/1932228/wikipedia-operator-says-openais-rogue-bots-may-be-linked-to-a-may-outage?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-05T21:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "NEAREST BY Join: Scaling Vector Search in Databricks Runtime",
+  "link": "https://www.databricks.com/blog/nearest-join-scaling-vector-search-databricks-runtime",
+  "published": "2026-10-05T20:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Meta Rushed To Fix Muse 'VM Escape' Vulnerability Soon Before Launch",
+  "link": "https://yro.slashdot.org/story/26/10/05/1914252/meta-rushed-to-fix-muse-vm-escape-vulnerability-soon-before-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-05T20:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Norway Plans Temporary Ban on Smart Glasses",
+  "link": "https://yro.slashdot.org/story/26/10/05/1842201/norway-plans-temporary-ban-on-smart-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-05T19:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Mac Users Reclaim 12GB+ of Storage With Apple Intelligence Removal Tool",
+  "link": "https://hardware.slashdot.org/story/26/10/05/1747205/mac-users-reclaim-12gb-of-storage-with-apple-intelligence-removal-tool?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-05T18:00:00"
+ },
+ {
+  "blog_name": "Wealthfront",
+  "blog_url": "http://eng.wealthfront.com/",
+  "title": "Unsupervised Topic Discovery with Text Embeddings",
+  "link": "https://eng.wealthfront.com/2026/10/05/unsupervised-topic-discovery-with-text-embeddings/",
+  "published": "2026-10-05T17:46:10"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Anthropic Reports Florida Woman's Claude 'Diary' Threat to Law Enforcement",
+  "link": "https://yro.slashdot.org/story/26/10/05/1733245/anthropic-reports-florida-womans-claude-diary-threat-to-law-enforcement?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-05T17:35:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/",
+  "published": "2026-10-05T17:25:20"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
+  "link": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/",
+  "published": "2026-10-05T17:23:19"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "UWP and WinUI 3 apps: UI testing with MSTest",
+  "link": "https://devblogs.microsoft.com/dotnet/testing-uwp-and-winui-3-apps-with-mstest/",
+  "published": "2026-10-05T17:05:00"
+ },
+ {
   "blog_name": "Databricks",
   "blog_url": "https://databricks.com/blog",
   "title": "Unlocking Data Portability: Preventing Catalog Lock-in with REGISTER and UNREGISTER APIs",
@@ -7,11 +77,88 @@
   "published": "2026-10-05T16:00:00"
  },
  {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "ReviewBench: An open benchmark for AI code review",
+  "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+  "published": "2026-10-05T15:59:40"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion",
+  "link": "https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/",
+  "published": "2026-10-05T15:56:28"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases",
+  "link": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases/",
+  "published": "2026-10-05T15:53:56"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Downgrading user roles in Amazon Quick",
+  "link": "https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick/",
+  "published": "2026-10-05T15:51:38"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)",
+  "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/",
+  "published": "2026-10-05T15:41:19"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How Genie Ontology powers product development at Databricks",
+  "link": "https://www.databricks.com/blog/how-genie-ontology-powers-product-development-databricks",
+  "published": "2026-10-05T15:07:02"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Our approach to EU text provenance rules",
+  "link": "https://openai.com/index/eu-text-provenance",
+  "published": "2026-10-05T15:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Executable UDFs are now generally available on ClickHouse Cloud",
+  "link": "https://clickhouse.com/blog/executable-udfs-generally-available-on-clickhouse-cloud",
+  "published": "2026-10-05T14:46:00"
+ },
+ {
+  "blog_name": "Blender",
+  "blog_url": "https://code.blender.org/",
+  "title": "Geometry Nodes Workshop: September 2026",
+  "link": "https://code.blender.org/2026/10/geometry-nodes-workshop-september-2026/",
+  "published": "2026-10-05T14:29:39"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python 3.15 Gets a Surprise RC3 and Other Python News for October 2026",
+  "link": "https://realpython.com/python-news-october-2026/",
+  "published": "2026-10-05T14:00:00"
+ },
+ {
   "blog_name": "Red Hat",
   "blog_url": "https://developers.redhat.com/blog/",
   "title": "Why your non-root container dropped its capabilities (and how to fix it)",
   "link": "https://developers.redhat.com/articles/2026/10/05/why-your-non-root-container-dropped-its-capabilities-and-how-to-fix-it",
   "published": "2026-10-05T13:15:18"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Securing Filament plugins with Plumb",
+  "link": "https://laravel-news.com/securing-filament-plugins-with-plumb?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-05T13:07:28"
  },
  {
   "blog_name": "Red Hat",
@@ -40,6 +187,13 @@
   "title": "One year later: the power of 1.1.1.1 interns",
   "link": "https://blog.cloudflare.com/one-year-later-1111-interns/",
   "published": "2026-10-05T13:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "8 Ways to Turn a Marketing Brief into a Testable Website",
+  "link": "https://www.sitepoint.com/8-ways-to-turn-a-marketing-brief-into-a-testable-website/?utm_source=rss",
+  "published": "2026-10-05T12:08:39"
  },
  {
   "blog_name": "Atomic Object",
@@ -98,6 +252,13 @@
   "published": "2026-10-05T10:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Build Smarter Marketplace Search with Vanilla JavaScript",
+  "link": "https://www.sitepoint.com/how-to-build-smarter-marketplace-search-with-vanilla-javascript/?utm_source=rss",
+  "published": "2026-10-05T09:14:58"
+ },
+ {
   "blog_name": "Daniel Lemire",
   "blog_url": "https://lemire.me/blog/",
   "title": "Ephemeral testing",
@@ -130,6 +291,13 @@
   "blog_url": "https://nordicapis.com/blog/",
   "title": "Why In-Person Tech Conferences Still Matter",
   "link": "https://nordicapis.com/why-in-person-tech-conferences-still-matter/",
+  "published": "2026-10-05T07:00:00"
+ },
+ {
+  "blog_name": "Ebay",
+  "blog_url": "https://www.ebayinc.com/stories/blogs/tech/",
+  "title": "How Salt Lake City eBayers Welcome New Neighbors",
+  "link": "https://www.ebayinc.com/stories/news/how-salt-lake-city-ebayers-welcome-new-neighbors/",
   "published": "2026-10-05T07:00:00"
  },
  {
@@ -175,6 +343,13 @@
   "published": "2026-10-05T00:51:00"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "LayaPHP: Self-Hosted Text Classification for PHP and Laravel",
+  "link": "https://laravel-news.com/laya-php-self-hosted-classification?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-05T00:48:25"
+ },
+ {
   "blog_name": "CodeName One",
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Do You Prefer Gradle?",
@@ -186,6 +361,20 @@
   "blog_url": "http://engineering.grab.com/",
   "title": "Powering AI-led research through simulation",
   "link": "https://engineering.grab.com/powering-ai-led-research-through-simulation",
+  "published": "2026-10-05T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Auth0 Metadata Explained: user_metadata vs app_metadata",
+  "link": "https://auth0.com/blog/user-metadata-vs-app-metadata/",
+  "published": "2026-10-05T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Process and route critical security logs to Exabeam with Observability Pipelines",
+  "link": "https://www.datadoghq.com/blog/observability-pipelines-exabeam-packs/",
   "published": "2026-10-05T00:00:00"
  },
  {
@@ -20123,6 +20312,13 @@
   "title": "How I make news comics",
   "link": "http://blog.apps.npr.org/2024/05/29/marker-comic.html",
   "published": "2024-05-29T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Encryption at rest in Elastic Cloud: A strategic imperative for enterprise security",
+  "link": "https://www.elastic.co/blog/encryption-at-rest-elastic-cloud-enterprise-security",
+  "published": "2024-05-16T00:00:00"
  },
  {
   "blog_name": "Revolut Engineering",
