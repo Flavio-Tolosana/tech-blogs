@@ -7,6 +7,146 @@
   "published": "2026-10-05T16:00:00"
  },
  {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Why your non-root container dropped its capabilities (and how to fix it)",
+  "link": "https://developers.redhat.com/articles/2026/10/05/why-your-non-root-container-dropped-its-capabilities-and-how-to-fix-it",
+  "published": "2026-10-05T13:15:18"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Add NeMo Guardrails to a LangGraph agent on OpenShift AI",
+  "link": "https://developers.redhat.com/articles/2026/10/05/add-nemo-guardrails-langgraph-agent-openshift-ai",
+  "published": "2026-10-05T13:01:54"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+  "link": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+  "published": "2026-10-05T13:00:57"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Everything we launched during Birthday Week 2026",
+  "link": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
+  "published": "2026-10-05T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "One year later: the power of 1.1.1.1 interns",
+  "link": "https://blog.cloudflare.com/one-year-later-1111-interns/",
+  "published": "2026-10-05T13:00:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Working in Kotlin: Waiting Around with Coroutines",
+  "link": "https://spin.atomicobject.com/kotlin-waiting-coroutines/",
+  "published": "2026-10-05T12:00:12"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: How to Launch an HTTP Server in One Line of Python Code",
+  "link": "https://realpython.com/quizzes/python-http-server/",
+  "published": "2026-10-05T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Flock Blamed for Wrongful 13-Day Imprisonment and a Police Stalking Incident in Florida",
+  "link": "https://tech.slashdot.org/story/26/10/03/0612209/flock-blamed-for-wrongful-13-day-imprisonment-and-a-police-stalking-incident-in-florida?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-05T11:34:00"
+ },
+ {
+  "blog_name": "Kotlin",
+  "blog_url": "https://blog.jetbrains.com/kotlin/",
+  "title": "Discontinuing Swift Language IDE Support in the Kotlin Multiplatform Plugin",
+  "link": "https://blog.jetbrains.com/kotlin/2026/10/discontinuing-swift-language-ide-support-in-the-kotlin-multiplatform-plugin/",
+  "published": "2026-10-05T10:46:19"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "★ Streaming AI replies from Laravel to React",
+  "link": "https://freek.dev/3092-streaming-ai-replies-from-laravel-to-react",
+  "published": "2026-10-05T10:30:47"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Hostinger weekly product updates: Week 40, 2026",
+  "link": "https://www.hostinger.com/blog/product-updates-week-40-2026/",
+  "published": "2026-10-05T10:05:56"
+ },
+ {
+  "blog_name": "Rob Allen",
+  "blog_url": "https://akrabat.com/",
+  "title": "Apidays London 2026",
+  "link": "https://akrabat.com/apidays-london-2026/",
+  "published": "2026-10-05T10:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Building advertising for the way people use AI",
+  "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+  "published": "2026-10-05T10:00:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Ephemeral testing",
+  "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+  "published": "2026-10-05T08:00:51"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Rate limiting is a roadblock, not a speed limit",
+  "link": "https://www.zyte.com/blog/sowa-barrier-rate-limiting/",
+  "published": "2026-10-05T08:00:00"
+ },
+ {
+  "blog_name": "Wix Engineering",
+  "blog_url": "https://www.wix.engineering/",
+  "title": "No Dashboard, No Menus: How We Built an Interface Around Intent",
+  "link": "https://www.wix.engineering/post/no-dashboard-no-menus-how-we-built-an-interface-around-intent",
+  "published": "2026-10-05T07:40:10"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "After Siemens Re-Licenses OpenRadioss, Rocky Linux Announces Open-Source Fork",
+  "link": "https://news.slashdot.org/story/26/10/05/0451252/after-siemens-re-licenses-openradioss-rocky-linux-announces-open-source-fork?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-05T07:34:00"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "Why In-Person Tech Conferences Still Matter",
+  "link": "https://nordicapis.com/why-in-person-tech-conferences-still-matter/",
+  "published": "2026-10-05T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: The Date and Time and Time",
+  "link": "https://thedailywtf.com/articles/the-date-and-time-and-time",
+  "published": "2026-10-05T06:30:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "7 Features Every Creator Marketplace Should Build Before Launch",
+  "link": "https://www.sitepoint.com/7-features-every-creator-marketplace-should-build-before-launch/?utm_source=rss",
+  "published": "2026-10-05T05:49:03"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "FBI Detains Teenager Linked to Group That Stole Data on 5,000 FBI Employees",
@@ -39,6 +179,13 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Do You Prefer Gradle?",
   "link": "https://www.codenameone.com/blog/gradle-smaller-projects/",
+  "published": "2026-10-05T00:00:00"
+ },
+ {
+  "blog_name": "Grab",
+  "blog_url": "http://engineering.grab.com/",
+  "title": "Powering AI-led research through simulation",
+  "link": "https://engineering.grab.com/powering-ai-led-research-through-simulation",
   "published": "2026-10-05T00:00:00"
  },
  {
@@ -670,6 +817,13 @@
   "title": "The Design Workflow Is Broken. Here Is How Vitalii Khomenko Thinks It Should Be Fixed",
   "link": "https://www.sitepoint.com/vitalii-khomenko-design-workflow-ai-era/?utm_source=rss",
   "published": "2026-10-02T10:06:51"
+ },
+ {
+  "blog_name": "GoCardless",
+  "blog_url": "https://gocardless.com/blog/tagged/engineering/",
+  "title": "What businesses really think about agentic payments",
+  "link": "https://gocardless.com/blog/businesses-think-about-agentic-payments",
+  "published": "2026-10-02T09:02:52"
  },
  {
   "blog_name": "SeveralNines",
@@ -1509,6 +1663,13 @@
   "blog_url": "https://www.pulumi.com/blog/",
   "title": "Building Kubernetes PR Previews with Shared Pulumi Components",
   "link": "https://www.pulumi.com/blog/building-kubernetes-pr-previews-with-shared-pulumi-components/",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Beyond the quick-win: Designing AI systems around critical human judgment",
+  "link": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/beyond-the-quick-win-designing-ai-systems-around-critical-human-judgment",
   "published": "2026-10-01T00:00:00"
  },
  {
