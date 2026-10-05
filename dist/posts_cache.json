@@ -9,6 +9,55 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "FBI Detains Teenager Linked to Group That Stole Data on 5,000 FBI Employees",
+  "link": "https://yro.slashdot.org/story/26/10/05/0355256/fbi-detains-teenager-linked-to-group-that-stole-data-on-5000-fbi-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-05T04:34:00"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Fragments: October  4",
+  "link": "https://martinfowler.com/fragments/2026-10-04.html",
+  "published": "2026-10-05T04:28:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Researcher At Russian Plague Laboratory Dies of 'Unknown' Infection",
+  "link": "https://science.slashdot.org/story/26/10/05/0146222/researcher-at-russian-plague-laboratory-dies-of-unknown-infection?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-05T01:51:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+  "link": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-05T00:51:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Do You Prefer Gradle?",
+  "link": "https://www.codenameone.com/blog/gradle-smaller-projects/",
+  "published": "2026-10-05T00:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Next.js Chunk Load Error: How to Fix Production Failures",
+  "link": "https://www.sitepoint.com/nextjs-chunk-load-error-diagnosis-playbook/?utm_source=rss",
+  "published": "2026-10-04T22:05:56"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Node 26 Debounce and Throttle: Practical Guide and Lodash Comparison",
+  "link": "https://www.sitepoint.com/node-26-debounce-throttle-guide/?utm_source=rss",
+  "published": "2026-10-04T22:04:04"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "How Python Will Test Adding Rust Into CPython",
   "link": "https://developers.slashdot.org/story/26/10/04/2034229/how-python-will-test-adding-rust-into-cpython?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-04T21:37:00"
@@ -151,6 +200,13 @@
   "blog_url": "https://blog.frankel.ch/",
   "title": "Security Baked Into the JVM: no single party controls the outcome",
   "link": "https://blog.frankel.ch/security-baked-into-jvm/5/",
+  "published": "2026-10-04T00:00:00"
+ },
+ {
+  "blog_name": "Josh Sherman",
+  "blog_url": "https://joshtronic.com/",
+  "title": "Confessions of a Middle-Aged Domain Hoarder",
+  "link": "https://joshtronic.com/2026/10/04/confessions-domain-hoarder/",
   "published": "2026-10-04T00:00:00"
  },
  {
@@ -4323,6 +4379,13 @@
   "blog_url": "https://www.pulumi.com/blog/",
   "title": "Change your components, keep your infrastructure",
   "link": "https://www.pulumi.com/blog/component-state-migrations/",
+  "published": "2026-09-25T00:00:00"
+ },
+ {
+  "blog_name": "Grab",
+  "blog_url": "http://engineering.grab.com/",
+  "title": "Automated merchant review summary system with integrated feedback",
+  "link": "https://engineering.grab.com/automated-merchant-review-summary-system-with-integrated-feedback",
   "published": "2026-09-25T00:00:00"
  },
  {
@@ -17437,6 +17500,13 @@
   "published": "2026-01-31T17:50:03"
  },
  {
+  "blog_name": "Kogan.com",
+  "blog_url": "https://devblog.kogan.com/",
+  "title": "Improving Frontend Regression Testing with Chromatic",
+  "link": "https://devblog.kogan.com/blog/improving-frontend-regression-testing-with-chromatic",
+  "published": "2026-01-30T01:00:49"
+ },
+ {
   "blog_name": "Romes' Musings",
   "blog_url": "https://alt-romes.github.io",
   "title": "How I turned my Anki side project into a Kickstarter: A Walkthrough",
@@ -17624,6 +17694,13 @@
   "title": "Implementing Co, a Small Language With Coroutines #5: Adding Sleep",
   "link": "https://abhinavsarkar.net/posts/implementing-co-5/?mtm_campaign=feed",
   "published": "2026-01-16T00:00:00"
+ },
+ {
+  "blog_name": "Marcelo Rinesi",
+  "blog_url": "https://blog.rinesi.com/",
+  "title": "The Final Summation",
+  "link": "https://blog.rinesi.com/2026/01/final-summation",
+  "published": "2026-01-15T03:00:00"
  },
  {
   "blog_name": "Mercado Libre Tech",
