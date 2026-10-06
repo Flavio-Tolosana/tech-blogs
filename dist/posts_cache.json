@@ -1,5 +1,138 @@
 [
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Tales from the 2026 Developer Survey results",
+  "link": "https://stackoverflow.blog/2026/10/06/tales-from-the-2026-developer-survey-results/",
+  "published": "2026-10-06T17:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Scaling and Operating a Large dbt Project on Databricks: IFCO's Data Team on Performance, Visibility, and Debugging",
+  "link": "https://www.databricks.com/blog/scaling-and-operating-large-dbt-project-databricks-ifcos-data-team-performance-visibility-and-debugging",
+  "published": "2026-10-06T16:00:00"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "The results of the 2026 Developer Survey are here!",
+  "link": "https://stackoverflow.blog/2026/10/06/the-results-of-the-2026-developer-survey-are-here/",
+  "published": "2026-10-06T14:00:00"
+ },
+ {
+  "blog_name": "Tailscale",
+  "blog_url": "https://tailscale.com/blog",
+  "title": "Codex Cloud shipped with Tailscale support. Nobody told us.",
+  "link": "https://tailscale.com/blog/codex-cloud-tailscale",
+  "published": "2026-10-06T13:30:00"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Declarative clusters: GitOps deployment of hosted control planes on Red Hat OpenShift Virtualization",
+  "link": "https://developers.redhat.com/articles/2026/10/06/declarative-clusters-gitops-deployment-hosted-control-planes-red-hat-openshift",
+  "published": "2026-10-06T13:01:23"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Rossoctl for agent discoverability, security, and observability on Kubernetes",
+  "link": "https://developers.redhat.com/articles/2026/10/06/rossoctl-for-agent-discoverability-security-and-observability-on-kubernetes",
+  "published": "2026-10-06T13:01:21"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+  "link": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+  "published": "2026-10-06T13:00:19"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Meta’s ads MCP server comes to Databricks: Put your customer intelligence to work in advertising campaigns",
+  "link": "https://www.databricks.com/blog/meta-ads-mcp-databricks",
+  "published": "2026-10-06T12:45:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Why Databricks can’t match ClickHouse Cloud for real-time analytics",
+  "link": "https://clickhouse.com/blog/clickhouse-vs-databricks-real-time-performance-per-dollar",
+  "published": "2026-10-06T12:26:14"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "What does en passant mean in chess?",
+  "link": "https://blog.duolingo.com/en-passant/",
+  "published": "2026-10-06T12:00:54"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Write End-to-End Tests in Your Backend’s Language",
+  "link": "https://spin.atomicobject.com/tests-your-backends-language/",
+  "published": "2026-10-06T12:00:42"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Exploring the MVC Pattern in Python",
+  "link": "https://realpython.com/quizzes/exploring-mvc-pattern-python/",
+  "published": "2026-10-06T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Using pandas and Python to Explore Your Dataset",
+  "link": "https://realpython.com/quizzes/pandas-python-explore-dataset/",
+  "published": "2026-10-06T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "OpenAI Is Adding Text Watermarking In ChatGPT and Codex",
+  "link": "https://slashdot.org/story/26/10/06/0443237/openai-is-adding-text-watermarking-in-chatgpt-and-codex?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-06T11:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "★ Exceptions that explain themselves",
+  "link": "https://freek.dev/3091-exceptions-that-explain-themselves",
+  "published": "2026-10-06T10:30:47"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Faster software linking with mold",
+  "link": "https://lemire.me/blog/2026/10/06/linking-node-js-with-mold/",
+  "published": "2026-10-06T08:00:20"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Old Hearts Become Biologically Younger When Transplanted Into Younger People",
+  "link": "https://science.slashdot.org/story/26/10/06/0419213/old-hearts-become-biologically-younger-when-transplanted-into-younger-people?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-06T07:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+  "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+  "published": "2026-10-06T06:44:39"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: A Random Article",
+  "link": "https://thedailywtf.com/articles/a-random-article",
+  "published": "2026-10-06T06:30:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Texas City Demands $2 Million For Public Records On Flock Usage",
@@ -32,6 +165,34 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "AI-ready data: The anthology - Part 2 of 2",
   "link": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/ai-ready-data-part-2",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "Amit Merchant",
+  "blog_url": "https://www.amitmerchant.com/",
+  "title": "7 Game-Changing Web UI Features You Can Start Using Today",
+  "link": "https://www.amitmerchant.com/7-game-changing-web-ui-features-you-need-to-start-using-today/",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "Armin Ronacher",
+  "blog_url": "http://lucumr.pocoo.org/",
+  "title": "What is Codemode",
+  "link": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "Learnk8s",
+  "blog_url": "https://learnk8s.io/blog",
+  "title": "Go CPU and Memory Requests and Limits in Kubernetes",
+  "link": "https://learnkube.com/go-kubernetes-requests-limits",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "How Jev can help improve the efficiency of RAG pipelines",
+  "link": "https://www.thoughtworks.com/insights/blog/generative-ai/how-jev-can-help-improve-the-efficiency-of-rag-pipelines",
   "published": "2026-10-06T00:00:00"
  },
  {
@@ -376,6 +537,13 @@
   "title": "CodeSOD: The Date and Time and Time",
   "link": "https://thedailywtf.com/articles/the-date-and-time-and-time",
   "published": "2026-10-05T06:30:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas groupby basics: Aggregating a numeric column by category",
+  "link": "https://lernerpython.com/2026/10/05/pandas-groupby-basics-aggregating-a-numeric-column-by-category/",
+  "published": "2026-10-05T06:00:00"
  },
  {
   "blog_name": "SitePoint",
