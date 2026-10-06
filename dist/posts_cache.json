@@ -2,6 +2,69 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "Texas City Demands $2 Million For Public Records On Flock Usage",
+  "link": "https://news.slashdot.org/story/26/10/06/0010236/texas-city-demands-2-million-for-public-records-on-flock-usage?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-06T04:30:00"
+ },
+ {
+  "blog_name": "Grab",
+  "blog_url": "http://engineering.grab.com/",
+  "title": "Smarter personalization: How property data helps us understand user price sensitivity",
+  "link": "https://engineering.grab.com/price-sensitivity-profiling-using-llm",
+  "published": "2026-10-06T00:23:00"
+ },
+ {
+  "blog_name": "Thoughtbot",
+  "blog_url": "https://robots.thoughtbot.com/",
+  "title": "What causes AI fatigue for engineers and how to ease the strain",
+  "link": "https://feed.thoughtbot.com/link/24077/17490000/what-causes-ai-fatigue-for-engineers-and-how-to-ease-the-strain",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Connect Your App to Your Enterprise Traces",
+  "link": "https://www.codenameone.com/blog/native-backend-observability/",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "AI-ready data: The anthology - Part 2 of 2",
+  "link": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/ai-ready-data-part-2",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "SurveyMonkey",
+  "blog_url": "https://engineering.surveymonkey.com/",
+  "title": "CNBC and SurveyMonkey Quarterly Money Survey (October 2026)",
+  "link": "https://www.surveymonkey.com/curiosity/cnbc-money-survey-affordability-october-2026/?ut_source=rss",
+  "published": "2026-10-05T23:35:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Introducing GLM 5.3 on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/",
+  "published": "2026-10-05T23:25:17"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+  "link": "https://news.slashdot.org/story/26/10/05/2251217/rural-data-centers-are-in-for-a-big-federal-tax-break?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-05T23:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Hackers Steal 8 Million Citizens' Records From Danish Government Database",
+  "link": "https://yro.slashdot.org/story/26/10/05/2236257/hackers-steal-8-million-citizens-records-from-danish-government-database?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-05T22:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Wikipedia Operator Says OpenAI's 'Rogue' Bots May Be Linked to a May Outage",
   "link": "https://news.slashdot.org/story/26/10/05/1932228/wikipedia-operator-says-openais-rogue-bots-may-be-linked-to-a-may-outage?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-05T21:00:00"
@@ -144,6 +207,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Python 3.15 Gets a Surprise RC3 and Other Python News for October 2026",
   "link": "https://realpython.com/python-news-october-2026/",
+  "published": "2026-10-05T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "If somebody tries to hot-patch an already-hot-patched function, how do they avoid conflicts?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/",
   "published": "2026-10-05T14:00:00"
  },
  {
@@ -375,6 +445,13 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Process and route critical security logs to Exabeam with Observability Pipelines",
   "link": "https://www.datadoghq.com/blog/observability-pipelines-exabeam-packs/",
+  "published": "2026-10-05T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Twilio Reaches Branded Calling Milestone Across AT&T, T-Mobile, and Verizon Networks",
+  "link": "https://www.twilio.com/en-us/blog/products/launches/branded-calling-att-t-mobile-verizon-networks",
   "published": "2026-10-05T00:00:00"
  },
  {
@@ -1859,6 +1936,13 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "Beyond the quick-win: Designing AI systems around critical human judgment",
   "link": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/beyond-the-quick-win-designing-ai-systems-around-critical-human-judgment",
+  "published": "2026-10-01T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Why context is the real bottleneck for AI agents",
+  "link": "https://www.thoughtworks.com/insights/articles/context-challenge-ai-agents",
   "published": "2026-10-01T00:00:00"
  },
  {
