@@ -1,10 +1,164 @@
 [
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "HubSpot Cuts 660 Jobs In AI Restructuring",
+  "link": "https://slashdot.org/story/26/10/06/2055209/hubspot-cuts-660-jobs-in-ai-restructuring?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-06T22:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Alexa Can't Control the AUX Input On Amazon Echo Speakers Anymore",
+  "link": "https://entertainment.slashdot.org/story/26/10/06/2045230/alexa-cant-control-the-aux-input-on-amazon-echo-speakers-anymore?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-06T21:00:00"
+ },
+ {
+  "blog_name": "GitHub",
+  "blog_url": "https://githubengineering.com/",
+  "title": "Building Git infrastructure for agent-scale development",
+  "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+  "published": "2026-10-06T20:57:56"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Supercomputing researchers document evolution of AI hardware",
+  "link": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
+  "published": "2026-10-06T20:55:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Asos Confirms Hackers Sent 'Unauthorized' Notification to App Users",
+  "link": "https://it.slashdot.org/story/26/10/06/195201/asos-confirms-hackers-sent-unauthorized-notification-to-app-users?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-06T20:00:00"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+  "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+  "published": "2026-10-06T19:57:04"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
+  "link": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/",
+  "published": "2026-10-06T19:19:15"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack",
+  "link": "https://developer.nvidia.com/blog/doca-gpunetio-gda-ki-unified-gpu-networking/",
+  "published": "2026-10-06T19:07:02"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "IBM and Red Hat Find More Than 400 New Vulnerabilities In Popular Java Code",
+  "link": "https://it.slashdot.org/story/26/10/06/1854244/ibm-and-red-hat-find-more-than-400-new-vulnerabilities-in-popular-java-code?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-06T19:00:00"
+ },
+ {
+  "blog_name": "Heroku",
+  "blog_url": "https://www.heroku.com/blog/",
+  "title": "A New Era for Managed Databases: Announcing Heroku Postgres Advanced",
+  "link": "https://www.heroku.com/blog/new-era-managed-databases-announcing-heroku-postgres-advanced/",
+  "published": "2026-10-06T18:35:12"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Licensing Costs Driving 90% of VMware Users To Explore Options, Survey Finds",
+  "link": "https://slashdot.org/story/26/10/06/1649245/licensing-costs-driving-90-of-vmware-users-to-explore-options-survey-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-06T18:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "The keys to the Internet change on October 11. Are you ready?",
+  "link": "https://blog.cloudflare.com/root-ksk-2024-rollover/",
+  "published": "2026-10-06T17:50:11"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "AI Gateway adds confidence-based decision fallbacks",
+  "link": "https://vercel.com/changelog/confidence-based-decision-fallbacks",
+  "published": "2026-10-06T17:19:00"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "A faster, lighter C# Dev Kit",
+  "link": "https://devblogs.microsoft.com/dotnet/faster-lighter-csharp-dev-kit/",
+  "published": "2026-10-06T17:05:00"
+ },
+ {
+  "blog_name": "Airbnb",
+  "blog_url": "https://medium.com/airbnb-engineering",
+  "title": "Beyond synthetic testing: Capturing and replaying real database workloads at Airbnb",
+  "link": "https://medium.com/airbnb-engineering/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb-cea7ee9b1ab2?source=rss----53c7c27702d5---4",
+  "published": "2026-10-06T17:01:04"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "Tales from the 2026 Developer Survey results",
   "link": "https://stackoverflow.blog/2026/10/06/tales-from-the-2026-developer-survey-results/",
   "published": "2026-10-06T17:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the MIT Libraries",
+  "link": "https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006",
+  "published": "2026-10-06T17:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "The lakehouse is a better data warehouse: 2026 benchmarks and proof",
+  "link": "https://www.databricks.com/blog/lakehouse-better-data-warehouse-2026-benchmarks-and-proof",
+  "published": "2026-10-06T16:35:12"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
+  "link": "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration/",
+  "published": "2026-10-06T16:13:47"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "All the numbers: Amazon Prime Day 2026 powered by AWS",
+  "link": "https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/",
+  "published": "2026-10-06T16:09:36"
+ },
+ {
+  "blog_name": "Pinterest",
+  "blog_url": "https://medium.com/@Pinterest_Engineering",
+  "title": "Metrics Board: Building an Agent-ready Metrics Layer",
+  "link": "https://medium.com/pinterest-engineering/metrics-board-building-an-agent-ready-metrics-layer-2c8fefe68756?source=rss-ef81ef829bcb------2",
+  "published": "2026-10-06T16:01:02"
+ },
+ {
+  "blog_name": "Pinterest Engineering",
+  "blog_url": "https://medium.com/pinterest-engineering",
+  "title": "Metrics Board: Building an Agent-ready Metrics Layer",
+  "link": "https://medium.com/pinterest-engineering/metrics-board-building-an-agent-ready-metrics-layer-2c8fefe68756?source=rss----4c5a5f6279b6---4",
+  "published": "2026-10-06T16:01:02"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "NTS: Authenticated Time at Meta",
+  "link": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
+  "published": "2026-10-06T16:00:06"
  },
  {
   "blog_name": "Databricks",
@@ -14,10 +168,94 @@
   "published": "2026-10-06T16:00:00"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+  "link": "https://openai.com/index/atlassian-partnership",
+  "published": "2026-10-06T16:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
+  "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/",
+  "published": "2026-10-06T15:53:28"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Best practices for Amazon SageMaker HyperPod administration and governance",
+  "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/",
+  "published": "2026-10-06T15:50:23"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio",
+  "link": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/",
+  "published": "2026-10-06T15:47:02"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic",
+  "link": "https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/",
+  "published": "2026-10-06T15:45:42"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "VMPal: Give Your AI Agent a Whole Computer",
+  "link": "https://laravel-news.com/vmpal-ai-agent-virtual-machine?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-06T15:33:06"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "Pulumi Google Cloud Provider Version 10.0.0",
+  "link": "https://www.pulumi.com/blog/gcp-v10-release/",
+  "published": "2026-10-06T15:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Control How Your GPU Shares Work with Green Contexts",
+  "link": "https://developer.nvidia.com/blog/control-how-your-gpu-shares-work-with-green-contexts/",
+  "published": "2026-10-06T15:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
+  "link": "https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006",
+  "published": "2026-10-06T15:00:00"
+ },
+ {
+  "blog_name": "Feedzai",
+  "blog_url": "https://medium.com/feedzaitech",
+  "title": "From a Trace to Money Flow: How we built an interactive visualization to uncover money laundering",
+  "link": "https://medium.com/feedzaitech/from-a-trace-to-money-flow-how-we-built-an-interactive-visualization-to-uncover-money-laundering-5424dba57e57?source=rss----e11168e7fe6b---4",
+  "published": "2026-10-06T14:49:45"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "Kodebits: September 2026: Day 100 and a Pause [FREE]",
+  "link": "https://www.kodeco.com/54531900-kodebits-september-2026-day-100-and-a-pause",
+  "published": "2026-10-06T14:00:41"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "The results of the 2026 Developer Survey are here!",
   "link": "https://stackoverflow.blog/2026/10/06/the-results-of-the-2026-developer-survey-are-here/",
+  "published": "2026-10-06T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Exploring the MVC Pattern in Python",
+  "link": "https://realpython.com/courses/exploring-mvc-pattern-python/",
   "published": "2026-10-06T14:00:00"
  },
  {
@@ -91,6 +329,13 @@
   "published": "2026-10-06T12:00:00"
  },
  {
+  "blog_name": "SurveyMonkey",
+  "blog_url": "https://engineering.surveymonkey.com/",
+  "title": "Bridging purpose through listening: Our 2025 Social Impact Report",
+  "link": "https://www.surveymonkey.com/curiosity/2025-social-impact-report/?ut_source=rss",
+  "published": "2026-10-06T11:06:30"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "OpenAI Is Adding Text Watermarking In ChatGPT and Codex",
@@ -105,6 +350,27 @@
   "published": "2026-10-06T10:30:47"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Advancing computer use with Ironclad",
+  "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+  "published": "2026-10-06T10:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Designing Connected Products That Are Easier to Debug, Repair, and Use",
+  "link": "https://www.sitepoint.com/designing-connected-products-that-are-easier-to-debug-repair-and-use/?utm_source=rss",
+  "published": "2026-10-06T09:09:26"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "7 Engineering Patterns for Reliable Customer Messaging Integrations",
+  "link": "https://www.sitepoint.com/7-engineering-patterns-for-reliable-customer-messaging-integrations/?utm_source=rss",
+  "published": "2026-10-06T08:59:15"
+ },
+ {
   "blog_name": "Daniel Lemire",
   "blog_url": "https://lemire.me/blog/",
   "title": "Faster software linking with mold",
@@ -112,10 +378,24 @@
   "published": "2026-10-06T08:00:20"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Beyond the Serial Monitor: Micro-Soldering Skills for Developers Building IoT Prototypes",
+  "link": "https://www.sitepoint.com/beyond-the-serial-monitor-micro-soldering-skills-for-developers-building-iot-prototypes/?utm_source=rss",
+  "published": "2026-10-06T07:59:37"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Old Hearts Become Biologically Younger When Transplanted Into Younger People",
   "link": "https://science.slashdot.org/story/26/10/06/0419213/old-hearts-become-biologically-younger-when-transplanted-into-younger-people?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-06T07:00:00"
+ },
+ {
+  "blog_name": "Ebay",
+  "blog_url": "https://www.ebayinc.com/stories/blogs/tech/",
+  "title": "How eBay CEO Jamie Iannone turns feedback into ideas",
+  "link": "https://www.ebayinc.com/stories/news/how-ebay-ceo-jamie-iannone-turns-feedback-into-ideas/",
   "published": "2026-10-06T07:00:00"
  },
  {
@@ -138,6 +418,13 @@
   "title": "Texas City Demands $2 Million For Public Records On Flock Usage",
   "link": "https://news.slashdot.org/story/26/10/06/0010236/texas-city-demands-2-million-for-public-records-on-flock-usage?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-06T04:30:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Synapse: A Dev Dashboard for Laravel AI SDK Agents",
+  "link": "https://laravel-news.com/synapse-laravel-ai-agents?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-06T02:45:59"
  },
  {
   "blog_name": "Grab",
@@ -196,6 +483,97 @@
   "published": "2026-10-06T00:00:00"
  },
  {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Turning Customer Identity into A Growth Engine",
+  "link": "https://auth0.com/blog/turning-customer-identity-into-growth-engine/",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "Discord",
+  "blog_url": "https://blog.discordapp.com/",
+  "title": "Discord Patch Notes: October 6, 2026",
+  "link": "https://discord.com/blog/discord-patch-notes-october-6-2026",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "Jane Street",
+  "blog_url": "https://blogs.janestreet.com/category/ocaml/",
+  "title": "Building and testing a config management orchestrator for Windows",
+  "link": "https://blog.janestreet.com/config-management-orchestrator-for-windows/",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "Dean Hume",
+  "blog_url": "http://deanhume.com/",
+  "title": "How AI helped me get my website to a perfect Lighthouse score",
+  "link": "https://deanhume.com/how-ai-helped-me-get-my-website-to-a-perfect-lighthouse-score/",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "Teleport",
+  "blog_url": "https://goteleport.com/blog/",
+  "title": "How to Reduce Overprivileged Kubernetes Service Accounts",
+  "link": "https://goteleport.com/blog/how-to-reduce-overprivileged-kubernetes-service-accounts/",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Security and OpenAI GPT Cyber models: What frontier cyber defense means for the public sector",
+  "link": "https://www.elastic.co/blog/elastic-security-openai-gpt-cyber-models-public-sector",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Stack 9.5.5 released",
+  "link": "https://www.elastic.co/blog/elastic-stack-9-5-5-released",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Stack 9.4.8 released",
+  "link": "https://www.elastic.co/blog/elastic-stack-9-4-8-released",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Stack 8.19.23 released",
+  "link": "https://www.elastic.co/blog/elastic-stack-8-19-23-released",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Nano Banana 2.1 now available on AI Gateway",
+  "link": "https://vercel.com/changelog/nano-banana-2-1-now-available-on-ai-gateway",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Mistral Large 4 now available on AI Gateway",
+  "link": "https://vercel.com/changelog/mistral-large-4-now-available-on-ai-gateway",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Ship faster, improve reliability, and control CI costs with Datadog CI/CD Optimization",
+  "link": "https://www.datadoghq.com/blog/ci-cd-optimization/",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Quality is speed: Where engineering discipline moves in the AI era",
+  "link": "https://www.thoughtworks.com/insights/articles/quality-is-speed-AI-era",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
   "blog_name": "SurveyMonkey",
   "blog_url": "https://engineering.surveymonkey.com/",
   "title": "CNBC and SurveyMonkey Quarterly Money Survey (October 2026)",
@@ -224,11 +602,25 @@
   "published": "2026-10-05T22:00:00"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Grant: Enum-Based Roles and Permissions for Laravel",
+  "link": "https://laravel-news.com/grant-laravel-roles-permissions?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-05T21:49:41"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Wikipedia Operator Says OpenAI's 'Rogue' Bots May Be Linked to a May Outage",
   "link": "https://news.slashdot.org/story/26/10/05/1932228/wikipedia-operator-says-openais-rogue-bots-may-be-linked-to-a-may-outage?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-05T21:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Decide with Jev: Three Questions in One Request with the Laravel AI SDK",
+  "link": "https://laravel-news.com/decide-with-jev-three-questions-in-one-request-with-the-laravel-ai-sdk?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-05T20:46:25"
  },
  {
   "blog_name": "Databricks",
@@ -620,6 +1012,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "Twilio Reaches Branded Calling Milestone Across AT&T, T-Mobile, and Verizon Networks",
   "link": "https://www.twilio.com/en-us/blog/products/launches/branded-calling-att-t-mobile-verizon-networks",
+  "published": "2026-10-05T00:00:00"
+ },
+ {
+  "blog_name": "Jane Street",
+  "blog_url": "https://blogs.janestreet.com/category/ocaml/",
+  "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+  "link": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
   "published": "2026-10-05T00:00:00"
  },
  {
