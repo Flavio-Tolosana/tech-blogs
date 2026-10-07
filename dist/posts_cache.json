@@ -1,5 +1,103 @@
 [
  {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Use Paicku to containerize and test any app with buildpacks and Node.js",
+  "link": "https://developers.redhat.com/articles/2026/10/07/use-paicku-to-containerize-and-test-any-app-with-buildpacks-and-node-js",
+  "published": "2026-10-07T13:18:27"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "How IdeaBot drives AI innovation workflows on OpenShift",
+  "link": "https://developers.redhat.com/articles/2026/10/07/how-ideabot-drives-ai-innovation-workflows-openshift",
+  "published": "2026-10-07T13:17:03"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+  "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+  "published": "2026-10-07T12:45:31"
+ },
+ {
+  "blog_name": "Timescale",
+  "blog_url": "https://blog.timescale.com/",
+  "title": "Continuous Aggregate Refresh Policies for Solar and Wind SCADA Data: Choosing the Right Policy Shape",
+  "link": "https://www.tigerdata.com/blog/continuous-aggregate-refresh-policies-solar-wind-scada",
+  "published": "2026-10-07T12:14:21"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Start With the Request for Information (RFI)",
+  "link": "https://spin.atomicobject.com/start-with-rfi/",
+  "published": "2026-10-07T12:00:54"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: The Best IDEs and Code Editors for Python (Guide)",
+  "link": "https://realpython.com/quizzes/python-ides-code-editors-guide/",
+  "published": "2026-10-07T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Francis Halzen Wins Nobel Physics Prize For Antarctic 'Ghost Particle' Hunt",
+  "link": "https://slashdot.org/story/26/10/07/0336250/francis-halzen-wins-nobel-physics-prize-for-antarctic-ghost-particle-hunt?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-07T11:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "★ Keeping Laravel and TypeScript in sync with data objects",
+  "link": "https://freek.dev/3090-keeping-laravel-and-typescript-in-sync-with-data-objects",
+  "published": "2026-10-07T10:30:50"
+ },
+ {
+  "blog_name": "Kotlin",
+  "blog_url": "https://blog.jetbrains.com/kotlin/",
+  "title": "Start Your Next KMP App With Kotlin Toolchain 0.13",
+  "link": "https://blog.jetbrains.com/kotlin/2026/10/start-your-next-kmp-app-with-kotlin-toolchain-0-13/",
+  "published": "2026-10-07T10:21:46"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Jev AI in practice: 5x faster, but is it accurate enough?",
+  "link": "https://www.hostinger.com/blog/jev-ai-in-practice/",
+  "published": "2026-10-07T09:33:42"
+ },
+ {
+  "blog_name": "Daniel Stenberg",
+  "blog_url": "https://daniel.haxx.se/blog/",
+  "title": "Twenty-two pending curl vulnerabilities",
+  "link": "https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/",
+  "published": "2026-10-07T07:12:11"
+ },
+ {
+  "blog_name": "Ebay",
+  "blog_url": "https://www.ebayinc.com/stories/blogs/tech/",
+  "title": "eBay's 2026 Recommerce Report is here",
+  "link": "https://www.ebayinc.com/stories/news/ebay-recommerce-report-secondhand-shopping-rises-worldwide-as-consumers-seek-value-and-stretch-budgets/",
+  "published": "2026-10-07T07:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Enters Massive 3.6-GW Power Deal With Constellation Energy",
+  "link": "https://hardware.slashdot.org/story/26/10/06/219233/google-enters-massive-36-gw-power-deal-with-constellation-energy?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-07T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: A Tool for You",
+  "link": "https://thedailywtf.com/articles/a-tool-for-you",
+  "published": "2026-10-07T06:30:00"
+ },
+ {
   "blog_name": "APNIC",
   "blog_url": "https://blog.apnic.net/",
   "title": "PeeringDB product update: April to September 2026",
@@ -14,6 +112,13 @@
   "published": "2026-10-07T03:30:00"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Route::query() and Model defaults() in Laravel 13.35",
+  "link": "https://laravel-news.com/laravel-13-35-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-07T03:01:25"
+ },
+ {
   "blog_name": "Daniel Lemire",
   "blog_url": "https://lemire.me/blog/",
   "title": "Mastering SIMD with Java Vector API",
@@ -26,6 +131,41 @@
   "title": "Do You Want Your Web App to Feel Like a Native App?",
   "link": "https://www.codenameone.com/blog/browser-desktop-theme/",
   "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Evil Martians",
+  "blog_url": "https://evilmartians.com/chronicles/",
+  "title": "Don't bet on SELECT's order: shuffle your rows and see what folds",
+  "link": "https://evilmartians.com/chronicles/dont-bet-on-select-order-shuffle-your-rows-see-what-folds",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Amit Merchant",
+  "blog_url": "https://www.amitmerchant.com/",
+  "title": "A Practical Way to Check Your AI Search Visibility",
+  "link": "https://www.amitmerchant.com/practical-way-to-check-your-ai-search-visibility/",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Snyk",
+  "blog_url": "https://snyk.io/blog",
+  "title": "Autonomous Attacks Are Already Here. The Defense Has to Match Their Speed.",
+  "link": "https://snyk.io/blog/autonomous-attacks-already-here-defense-match-their-speed/",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "How we replaced our host vulnerability scanner with the Datadog Agent",
+  "link": "https://www.datadoghq.com/blog/how-we-replaced-our-host-vulnerability-scanner-with-the-datadog-agent/",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laravel AI SDK 1.1 Adds Agent Skills and Cohere Chat",
+  "link": "https://laravel-news.com/laravel-ai-sdk-1-1?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-06T23:51:31"
  },
  {
   "blog_name": "Slashdot",
@@ -385,6 +525,13 @@
   "published": "2026-10-06T12:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Reduce AI Costs Without Making Your App Worse",
+  "link": "https://www.sitepoint.com/how-to-reduce-ai-costs-without-making-your-app-worse/?utm_source=rss",
+  "published": "2026-10-06T11:53:58"
+ },
+ {
   "blog_name": "SurveyMonkey",
   "blog_url": "https://engineering.surveymonkey.com/",
   "title": "Bridging purpose through listening: Our 2025 Social Impact Report",
@@ -397,6 +544,13 @@
   "title": "OpenAI Is Adding Text Watermarking In ChatGPT and Codex",
   "link": "https://slashdot.org/story/26/10/06/0443237/openai-is-adding-text-watermarking-in-chatgpt-and-codex?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-06T11:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Build Privacy-Conscious Discovery Analytics for a Creator Store",
+  "link": "https://www.sitepoint.com/how-to-build-privacy-conscious-discovery-analytics-for-a-creator-store/?utm_source=rss",
+  "published": "2026-10-06T10:40:38"
  },
  {
   "blog_name": "Freek Van der Herten",
@@ -467,6 +621,13 @@
   "title": "CodeSOD: A Random Article",
   "link": "https://thedailywtf.com/articles/a-random-article",
   "published": "2026-10-06T06:30:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas groupby with sort=False: Keep groups in order of appearance",
+  "link": "https://lernerpython.com/2026/10/06/pandas-groupby-with-sort-false-keep-groups-in-order-of-appearance/",
+  "published": "2026-10-06T06:00:00"
  },
  {
   "blog_name": "Slashdot",
