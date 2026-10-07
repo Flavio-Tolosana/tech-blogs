@@ -1,5 +1,215 @@
 [
  {
+  "blog_name": "T.J. Maher",
+  "blog_url": "http://adventuresinautomation.blogspot.com/",
+  "title": "Refactoring The-Internet:  Fork, Fix, Farewell to Heroku and hello to Render!",
+  "link": "https://www.tjmaher.com/2026/10/refactoring-internet-fork-fix-farewell.html",
+  "published": "2026-10-07T21:00:32"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "Claude Haiku 5.5",
+  "link": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+  "published": "2026-10-07T20:56:21"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Part 3: Knowing when your agent doesn’t know: the confidence layer",
+  "link": "https://stackoverflow.blog/2026/10/07/part-3-knowing-when-your-agent-doesn-t-know-the-confidence-layer/",
+  "published": "2026-10-07T20:40:29"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Part 2: Evals as a deployment gate — and how to know when they drift",
+  "link": "https://stackoverflow.blog/2026/10/07/evals-as-a-deployment-gate-and-how-to-know-when-they-drift/",
+  "published": "2026-10-07T20:31:12"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Part 1: Make your AI agents boring: the determinism layer",
+  "link": "https://stackoverflow.blog/2026/10/07/part-1-make-your-ai-agents-boring-the-determinism-layer/",
+  "published": "2026-10-07T20:14:49"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Discovering the value of humanistic inquiry",
+  "link": "https://news.mit.edu/2026/discovering-value-humanistic-inquiry-1007",
+  "published": "2026-10-07T20:10:00"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Implementing a Modular Master-Agent Telemetry & Diagnostic Framework in Python: Prime-Sentinel Command (PSC)",
+  "link": "https://stackoverflow.blog/2026/10/07/implementing-a-modular-master-agent-telemetry-and-diagnostic-framework-in-python-prime-sentinel-command-psc/",
+  "published": "2026-10-07T20:03:47"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Set Budgets and Alerts for Cloud Data Warehouse Costs",
+  "link": "https://www.databricks.com/blog/set-budgets-and-alerts-cloud-data-warehouse-costs",
+  "published": "2026-10-07T19:02:06"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Microsoft and Nvidia Unveil Surface Laptop Ultra For $2,599",
+  "link": "https://hardware.slashdot.org/story/26/10/07/1812223/microsoft-and-nvidia-unveil-surface-laptop-ultra-for-2599?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-07T19:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Introducing Claude Haiku 5.5 on AWS",
+  "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/",
+  "published": "2026-10-07T18:52:10"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+  "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+  "published": "2026-10-07T18:45:28"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/",
+  "published": "2026-10-07T18:34:44"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "The Machines that Make the Machines",
+  "link": "https://developer.nvidia.com/blog/the-machines-that-make-the-machines/",
+  "published": "2026-10-07T18:21:03"
+ },
+ {
+  "blog_name": "Heroku",
+  "blog_url": "https://www.heroku.com/blog/",
+  "title": "October 2026 Update: Heroku Innovations and New Features",
+  "link": "https://www.heroku.com/blog/october-2026-update-heroku-innovations-features/",
+  "published": "2026-10-07T18:17:45"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "Secret protection must scale with software",
+  "link": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+  "published": "2026-10-07T17:45:34"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "🗽 Postgres Summit US 2026 retrospective",
+  "link": "https://clickhouse.com/blog/postgres-summit-us-2026",
+  "published": "2026-10-07T17:05:28"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Multimodal open d1 decision models for the edge",
+  "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+  "published": "2026-10-07T16:54:33"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Now GA: Building permission-aware Databricks Apps with on-behalf-of-user authorization",
+  "link": "https://www.databricks.com/blog/now-ga-building-permission-aware-databricks-apps-behalf-user-authorization",
+  "published": "2026-10-07T16:40:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
+  "link": "https://blog.cloudflare.com/agentic-security-operations/",
+  "published": "2026-10-07T16:30:36"
+ },
+ {
+  "blog_name": "Strava",
+  "blog_url": "https://medium.com/strava-engineering/",
+  "title": "Summer at my dream company!",
+  "link": "https://medium.com/strava-engineering/summer-at-my-dream-company-a7c46aac76fe?source=rss----89d4108ce2a3---4",
+  "published": "2026-10-07T16:01:02"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Validate AI Factory Changes with Digital Twins and AI Agents",
+  "link": "https://developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents/",
+  "published": "2026-10-07T16:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Beyond hours saved: Building the business case for agentic automation",
+  "link": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/",
+  "published": "2026-10-07T15:50:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How Qlik built grounded, enterprise-scale AI with Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/",
+  "published": "2026-10-07T15:48:46"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Automate remediation post AWS DevOps Agent investigation",
+  "link": "https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation/",
+  "published": "2026-10-07T15:46:49"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt",
+  "link": "https://developer.nvidia.com/blog/scaling-decision-optimization-to-100-million-variables-and-beyond-with-mpdlp-in-nvidia-cuopt/",
+  "published": "2026-10-07T15:45:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Xbox Secures Exclusive GTA 6 Streaming Rights",
+  "link": "https://games.slashdot.org/story/26/10/07/0321232/xbox-secures-exclusive-gta-6-streaming-rights?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-07T15:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Faster Scientific Image Analysis with NVIDIA cuPhoton",
+  "link": "https://developer.nvidia.com/blog/faster-scientific-image-analysis-with-nvidia-cuphoton/",
+  "published": "2026-10-07T15:00:00"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 26.11.0 (Current)",
+  "link": "https://nodejs.org/en/blog/release/v26.11.0",
+  "published": "2026-10-07T14:45:09"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "Account Control, Every Layer: From Your Organization to Every Session",
+  "link": "https://www.digitalocean.com/blog/resource-limits-session-duration",
+  "published": "2026-10-07T14:41:19"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "The Best IDEs and Code Editors for Python (Guide)",
+  "link": "https://realpython.com/python-ides-code-editors-guide/",
+  "published": "2026-10-07T14:00:00"
+ },
+ {
   "blog_name": "Red Hat",
   "blog_url": "https://developers.redhat.com/blog/",
   "title": "Use Paicku to containerize and test any app with buildpacks and Node.js",
@@ -12,6 +222,13 @@
   "title": "How IdeaBot drives AI innovation workflows on OpenShift",
   "link": "https://developers.redhat.com/articles/2026/10/07/how-ideabot-drives-ai-innovation-workflows-openshift",
   "published": "2026-10-07T13:17:03"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Build a Hardware Diagnostic Log with Vanilla JavaScript",
+  "link": "https://www.sitepoint.com/build-a-hardware-diagnostic-log-with-vanilla-javascript/?utm_source=rss",
+  "published": "2026-10-07T12:46:57"
  },
  {
   "blog_name": "Hugging Face",
@@ -40,6 +257,27 @@
   "title": "Quiz: The Best IDEs and Code Editors for Python (Guide)",
   "link": "https://realpython.com/quizzes/python-ides-code-editors-guide/",
   "published": "2026-10-07T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Helping teens learn, plan, and shape the future of AI",
+  "link": "https://openai.com/index/teens-learn-and-plan",
+  "published": "2026-10-07T12:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Turn Frontend Bug Reports into Reproducible Tests",
+  "link": "https://www.sitepoint.com/how-to-turn-frontend-bug-reports-into-reproducible-tests/?utm_source=rss",
+  "published": "2026-10-07T11:48:13"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "From Screen Recording to Accessible Video Documentation: A Developer’s Workflow",
+  "link": "https://www.sitepoint.com/from-screen-recording-to-accessible-video-documentation-a-developer-s-workflow/?utm_source=rss",
+  "published": "2026-10-07T11:10:53"
  },
  {
   "blog_name": "Slashdot",
@@ -91,11 +329,25 @@
   "published": "2026-10-07T07:00:00"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+  "link": "https://openai.com/index/radisson",
+  "published": "2026-10-07T07:00:00"
+ },
+ {
   "blog_name": "The Daily WTF",
   "blog_url": "http://thedailywtf.com/",
   "title": "CodeSOD: A Tool for You",
   "link": "https://thedailywtf.com/articles/a-tool-for-you",
   "published": "2026-10-07T06:30:00"
+ },
+ {
+  "blog_name": "Snyk",
+  "blog_url": "https://snyk.io/blog",
+  "title": "Frontier models found the vulnerabilities. Only the attacker found the chains.",
+  "link": "https://snyk.io/blog/frontier-models-vulnerabilities-attacker-chains/",
+  "published": "2026-10-07T04:00:00"
  },
  {
   "blog_name": "APNIC",
@@ -158,6 +410,90 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "How we replaced our host vulnerability scanner with the Datadog Agent",
   "link": "https://www.datadoghq.com/blog/how-we-replaced-our-host-vulnerability-scanner-with-the-datadog-agent/",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Everybody Thinks Login Is Easy. Until It Is Not",
+  "link": "https://auth0.com/blog/everybody-thinks-login-is-easy/",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Avoid Sending SMS to Landlines in PHP with Twilio's Lookup v2 API",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-php",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Avoid Sending SMS to Landlines with the Lookup v2 API and Go",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-go",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic named a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Search",
+  "link": "https://www.elastic.co/blog/elastic-leader-gartner-magic-quadrant-enterprise-ai-search-2026",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "Concurrent change requests in Pulumi ESC",
+  "link": "https://www.pulumi.com/blog/esc-concurrent-change-requests/",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Microfrontends Routing is now free for Firewall-mitigated traffic",
+  "link": "https://vercel.com/changelog/microfrontends-routing-is-now-free-for-firewall-mitigated-traffic",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "OpenAI Decisions API now available on AI Gateway",
+  "link": "https://vercel.com/changelog/openai-decisions-api-now-available-on-ai-gateway",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Claude Haiku 5.5 now available on AI Gateway",
+  "link": "https://vercel.com/changelog/claude-haiku-5-5-now-available-on-ai-gateway",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Glyph Cluster is now available in stealth for free on AI Gateway",
+  "link": "https://vercel.com/changelog/glyph-cluster-is-now-available-in-stealth-for-free-on-ai-gateway",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Timestamp attributes are now supported in Vercel Flags",
+  "link": "https://vercel.com/changelog/timestamp-attributes-are-now-supported-in-vercel-flags",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "GPT-6 and Intelligent UI for everyone",
+  "link": "https://openai.com/index/gpt-6-for-everyone",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "The action gap: All that customer insight. Now what?",
+  "link": "https://www.thoughtworks.com/insights/articles/the-action-gap-customer-insight",
   "published": "2026-10-07T00:00:00"
  },
  {
@@ -236,6 +572,13 @@
   "title": "IBM and Red Hat Find More Than 400 New Vulnerabilities In Popular Java Code",
   "link": "https://it.slashdot.org/story/26/10/06/1854244/ibm-and-red-hat-find-more-than-400-new-vulnerabilities-in-popular-java-code?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-06T19:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How to Repoint dbt ETL Pipelines to Databricks",
+  "link": "https://www.databricks.com/blog/how-repoint-dbt-etl-pipelines-databricks",
+  "published": "2026-10-06T18:53:48"
  },
  {
   "blog_name": "Heroku",
@@ -788,6 +1131,20 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "Quality is speed: Where engineering discipline moves in the AI era",
   "link": "https://www.thoughtworks.com/insights/articles/quality-is-speed-AI-era",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "My Voice AI Demo Was Hit by a $982 Traffic-Pumping Attack! Here’s What I Learned",
+  "link": "https://www.twilio.com/en-us/blog/developers/best-practices/secure-voice-agent-demos",
+  "published": "2026-10-06T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to design an AI agent for resolution instead of rapport",
+  "link": "https://www.twilio.com/en-us/blog/insights/design-ai-agent-for-resolution",
   "published": "2026-10-06T00:00:00"
  },
  {
@@ -20305,6 +20662,13 @@
   "title": "Multiple monitors support",
   "link": "https://www.red-lang.org/2025/04/multiple-monitors-support.html",
   "published": "2025-04-15T09:08:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "App Search and Workplace Search standalone products are now deprecated",
+  "link": "https://www.elastic.co/blog/search-for-enterprise-serverless",
+  "published": "2025-04-15T00:00:00"
  },
  {
   "blog_name": "Paypal",
