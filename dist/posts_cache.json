@@ -1,5 +1,40 @@
 [
  {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "PeeringDB product update: April to September 2026",
+  "link": "https://blog.apnic.net/2026/10/07/peeringdb-product-update-april-to-september-2026/",
+  "published": "2026-10-07T03:32:38"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+  "link": "https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-07T03:30:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Mastering SIMD with Java Vector API",
+  "link": "https://lemire.me/blog/2026/10/07/mastering-simd-with-java-vector-api/",
+  "published": "2026-10-07T02:07:05"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Do You Want Your Web App to Feel Like a Native App?",
+  "link": "https://www.codenameone.com/blog/browser-desktop-theme/",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Canadian Analysis: Permanent Daylight Saving Harms Sleep and Mental Health",
+  "link": "https://science.slashdot.org/story/26/10/06/2120211/canadian-analysis-permanent-daylight-saving-harms-sleep-and-mental-health?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-06T23:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "HubSpot Cuts 660 Jobs In AI Restructuring",
@@ -259,6 +294,13 @@
   "published": "2026-10-06T14:00:00"
  },
  {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Why does the compiler sometimes use ud2 and sometimes int 3 for code that shouldn’t execute?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261006-00/?p=112757/",
+  "published": "2026-10-06T14:00:00"
+ },
+ {
   "blog_name": "Tailscale",
   "blog_url": "https://tailscale.com/blog",
   "title": "Codex Cloud shipped with Tailscale support. Nobody told us.",
@@ -326,6 +368,20 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Quiz: Using pandas and Python to Explore Your Dataset",
   "link": "https://realpython.com/quizzes/pandas-python-explore-dataset/",
+  "published": "2026-10-06T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How Jump Trading is scaling quant research with ChatGPT",
+  "link": "https://openai.com/index/jump-trading",
+  "published": "2026-10-06T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Sharing AI progress in mathematics",
+  "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
   "published": "2026-10-06T12:00:00"
  },
  {
