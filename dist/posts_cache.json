@@ -7,10 +7,171 @@
   "published": "2026-10-08T23:00:00"
  },
  {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Introducing Funke: Native HL7v2 Parsing on Databricks",
+  "link": "https://www.databricks.com/blog/introducing-funke-native-hl7v2-parsing-databricks",
+  "published": "2026-10-08T22:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Lakebase and Agentic SDLC: Branching Databases for Coding Agents",
+  "link": "https://www.databricks.com/blog/lakebase-and-agentic-sdlc-branching-databases-coding-agents",
+  "published": "2026-10-08T22:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "TypeScript Generics Examples: Fetch Wrappers, Forms, and UI Components",
+  "link": "https://www.sitepoint.com/typescript-generics-examples-practical-guide/?utm_source=rss",
+  "published": "2026-10-08T21:59:55"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "React Dialog Exit Animation: Fixing Broken Transitions on Unmount",
+  "link": "https://www.sitepoint.com/react-dialog-exit-animation-troubleshooting/?utm_source=rss",
+  "published": "2026-10-08T21:59:43"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Playwright 1.64 WebMCP Testing: How to Inspect and Call Page Tools",
+  "link": "https://www.sitepoint.com/playwright-1-64-webmcp-testing/?utm_source=rss",
+  "published": "2026-10-08T21:59:27"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Claude Haiku 5.5 Pricing: How to Calculate Production Costs and Migrate",
+  "link": "https://www.sitepoint.com/claude-haiku-5-5-pricing-cost-model-migration/?utm_source=rss",
+  "published": "2026-10-08T21:58:37"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "3 Questions: What is the best path forward for AI in academia?",
+  "link": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
+  "published": "2026-10-08T21:25:00"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+  "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+  "published": "2026-10-08T21:06:35"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Biomedical Imaging's Real Bottleneck Is the Data, Not the Model",
+  "link": "https://www.databricks.com/blog/biomedical-imagings-real-bottleneck-data-not-model",
+  "published": "2026-10-08T21:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models",
+  "link": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/",
+  "published": "2026-10-08T20:57:55"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "How we migrated Clera’s 500 GB production database to ClickHouse Managed Postgres overnight",
+  "link": "https://clickhouse.com/blog/clera-migrates-to-clickhouse-managed-postgres",
+  "published": "2026-10-08T20:51:48"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Part 5: Operating an LLM system: observability, cost, routing, and the platform underneath",
+  "link": "https://stackoverflow.blog/2026/10/08/part-5-operating-an-llm-system-observability-cost-routing-and-the-platform-underneath/",
+  "published": "2026-10-08T20:08:53"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Emmy Awards Leave Broadcast TV For Prime Video",
+  "link": "https://slashdot.org/story/26/10/07/043218/emmy-awards-leave-broadcast-tv-for-prime-video?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-08T19:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
+  "link": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
+  "published": "2026-10-08T18:33:29"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Building Reliable Data Analytics Agents: Lessons from the KDD Cup",
+  "link": "https://developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup/",
+  "published": "2026-10-08T18:30:02"
+ },
+ {
+  "blog_name": "Jeremy Kun",
+  "blog_url": "https://jeremykun.com/",
+  "title": "Hotword detection in FHE on GPU in 350ms",
+  "link": "https://www.jeremykun.com/shortform/2026-10-08-1120/",
+  "published": "2026-10-08T18:20:29"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "How one bug bounty researcher chooses the features they investigate",
+  "link": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+  "published": "2026-10-08T17:02:52"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
+  "link": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
+  "published": "2026-10-08T16:20:04"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Skip sending request bodies to Routing Middleware",
+  "link": "https://vercel.com/changelog/skip-sending-request-bodies-to-routing-middleware",
+  "published": "2026-10-08T16:05:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+  "link": "https://openai.com/index/oracle",
+  "published": "2026-10-08T16:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Female AI Agents 'Paid' Less Than Males, Study Finds",
+  "link": "https://science.slashdot.org/story/26/10/07/1618200/female-ai-agents-paid-less-than-males-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-08T15:00:00"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/",
   "title": "A green exit code is not evidence that the work happened",
   "link": "https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened/",
+  "published": "2026-10-08T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "What Is Meta Muse? A Plain-English Guide to Meta's New AI",
+  "link": "https://realpython.com/what-is-meta-muse/",
+  "published": "2026-10-08T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Why Junior Developers Might Know More About AI Than Seniors",
+  "link": "https://realpython.com/junior-developers-ahead-on-ai/",
   "published": "2026-10-08T14:00:00"
  },
  {
@@ -98,6 +259,13 @@
   "published": "2026-10-08T12:00:00"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+  "link": "https://openai.com/index/pollo-ai",
+  "published": "2026-10-08T12:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Chrome 155 Ships Decoding Support For JPEG XL",
@@ -161,6 +329,13 @@
   "published": "2026-10-08T06:30:00"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Sandbox creation now returns a ready sandbox",
+  "link": "https://vercel.com/changelog/sandbox-create-waits-until-ready",
+  "published": "2026-10-08T06:00:00"
+ },
+ {
   "blog_name": "Hostinger",
   "blog_url": "https://www.hostinger.com/blog/engineering/",
   "title": "How solo founders build and run their businesses online",
@@ -217,6 +392,76 @@
   "published": "2026-10-08T00:00:00"
  },
  {
+  "blog_name": "Dean Hume",
+  "blog_url": "http://deanhume.com/",
+  "title": "A Modern Guide to Using OAuth 2.0 with Node.js",
+  "link": "https://deanhume.com/a-modern-guide-to-using-oauth-2-0-with-node-js/",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
+  "blog_name": "Swizec Teller",
+  "blog_url": "https://swizec.com/blog/",
+  "title": "When code is cheap, judgement becomes the job",
+  "link": "https://swizec.com/blog/when-code-is-cheap-judgement-becomes-the-job",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
+  "blog_name": "Bootstrap.com",
+  "blog_url": "https://blog.getbootstrap.com/",
+  "title": "Bootstrap 6 Alpha",
+  "link": "https://blog.getbootstrap.com/2026/10/08/bootstrap-6-alpha/",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
+  "blog_name": "Teleport",
+  "blog_url": "https://goteleport.com/blog/",
+  "title": "How to Tie Kubernetes Audit Logs to Individual Engineers",
+  "link": "https://goteleport.com/blog/how-to-tie-kubernetes-logs-to-individual-engineers/",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Grok Imagine Video 1.5 Lite on AI Gateway",
+  "link": "https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Step 5 Preview now available on AI Gateway",
+  "link": "https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "OpenAI Ultrafast mode now available on AI Gateway",
+  "link": "https://vercel.com/changelog/openai-ultrafast-mode-now-available-on-ai-gateway",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Define user actions on your web app with visual labeling in Product Analytics",
+  "link": "https://www.datadoghq.com/blog/product-analytics-visual-labeling/",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Run incident response in your FedRAMP High environment",
+  "link": "https://www.datadoghq.com/blog/fedramp-high-incident-response/",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Disrupting AI-enabled “false front” operations",
+  "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
   "blog_name": "Node.js",
   "blog_url": "https://nodejs.org/en/blog/",
   "title": "Node.js 26.11.1 (Current)",
@@ -257,6 +502,20 @@
   "title": "Claude Haiku 5.5",
   "link": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
   "published": "2026-10-07T20:56:21"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laravel Fake Assertions Now Accept Property Arrays",
+  "link": "https://laravel-news.com/laravel-fake-assertion-property-arrays?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-07T20:51:26"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Part 4: Safety and governance for LLM systems: guardrails, PII, audit, and memory",
+  "link": "https://stackoverflow.blog/2026/10/07/part-4-safety-and-governance-for-llm-systems-guardrails-pii-audit-and-memory/",
+  "published": "2026-10-07T20:48:55"
  },
  {
   "blog_name": "Stack Overflow",
@@ -767,6 +1026,13 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "The action gap: All that customer insight. Now what?",
   "link": "https://www.thoughtworks.com/insights/articles/the-action-gap-customer-insight",
+  "published": "2026-10-07T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Peak Season Deliverability: Why Quality Beats Quantity This Holiday Season",
+  "link": "https://www.twilio.com/en-us/blog/insights/peak-season-deliverability-quality-beats-quantity",
   "published": "2026-10-07T00:00:00"
  },
  {
@@ -14875,6 +15141,13 @@
   "published": "2026-08-19T00:00:00"
  },
  {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "How state and local agencies can get ahead of fraud starting with the data they already have",
+  "link": "https://www.elastic.co/blog/how-state-and-local-agencies-get-ahead-of-fraud",
+  "published": "2026-08-19T00:00:00"
+ },
+ {
   "blog_name": "Dereuromark",
   "blog_url": "http://www.dereuromark.de/",
   "title": "Pandoc: What survives a conversion?",
@@ -18442,6 +18715,20 @@
   "blog_url": "http://tech.trivago.com/",
   "title": "My 2 Cents: I'll gladly spend them to stop staring at test logs",
   "link": "https://tech.trivago.com/post/2026-04-15-my-2-cents-ill-gladly-spend-them-to-stop-staring-at-test-logs/",
+  "published": "2026-04-15T00:00:00"
+ },
+ {
+  "blog_name": "Bootstrap.com",
+  "blog_url": "https://blog.getbootstrap.com/",
+  "title": "Bootstrap VS Code Theme",
+  "link": "https://blog.getbootstrap.com/2026/04/15/bootstrap-vscode-theme/",
+  "published": "2026-04-15T00:00:00"
+ },
+ {
+  "blog_name": "Bootstrap.com",
+  "blog_url": "https://blog.getbootstrap.com/",
+  "title": "Introducing postcss-prefix-custom-properties",
+  "link": "https://blog.getbootstrap.com/2026/04/15/postcss-prefix-custom-properties/",
   "published": "2026-04-15T00:00:00"
  },
  {
