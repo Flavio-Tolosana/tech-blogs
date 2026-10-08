@@ -1,5 +1,89 @@
 [
  {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Announcing Workday Data Connect federation in Unity Catalog",
+  "link": "https://www.databricks.com/blog/announcing-workday-data-connect-federation-unity-catalog",
+  "published": "2026-10-08T23:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "How solo founders build and run their businesses online",
+  "link": "https://www.hostinger.com/blog/solo-founder-digital-habits/",
+  "published": "2026-10-08T04:03:43"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Using AI to mitigate the growing environmental threat of data centers",
+  "link": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
+  "published": "2026-10-08T04:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "EC Chair’s update: APNIC 62 and Member Meeting",
+  "link": "https://blog.apnic.net/2026/10/08/ec-chairs-update-apnic-62-and-member-meeting/",
+  "published": "2026-10-08T03:17:27"
+ },
+ {
+  "blog_name": "T.J. Maher",
+  "blog_url": "http://adventuresinautomation.blogspot.com/",
+  "title": "Refactoring The-Internet: Deploying the web app to Render",
+  "link": "https://www.tjmaher.com/2026/10/refactoring-theinternet-deploying-web.html",
+  "published": "2026-10-08T03:01:37"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Campus Censorship Wars, 25 Years After a Slashdot Q&amp;A",
+  "link": "https://yro.slashdot.org/story/26/10/07/168247/campus-censorship-wars-25-years-after-a-slashdot-qa?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-08T03:00:00"
+ },
+ {
+  "blog_name": "Eli Bendersky",
+  "blog_url": "http://eli.thegreenplace.net/",
+  "title": "Monte-Carlo simulations",
+  "link": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+  "published": "2026-10-08T02:34:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Don't Order Fish on Monday. Don't Release on Friday",
+  "link": "https://www.codenameone.com/blog/friday-release-better-gates/",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 26.11.1 (Current)",
+  "link": "https://nodejs.org/en/blog/release/v26.11.1",
+  "published": "2026-10-07T23:56:26"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google, Unity Launch Platform To Create Video Games From Prompts",
+  "link": "https://games.slashdot.org/story/26/10/07/1640219/google-unity-launch-platform-to-create-video-games-from-prompts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-07T23:00:00"
+ },
+ {
+  "blog_name": "Thumbtack",
+  "blog_url": "https://www.thumbtack.com/engineering/",
+  "title": "Workbench: Building an AI Content Generation and Quality Assurance System at Scale",
+  "link": "https://medium.com/thumbtack-engineering/workbench-building-an-ai-content-generation-and-quality-assurance-system-at-scale-7a381b47c640?source=rss----1199c607a13f---4",
+  "published": "2026-10-07T22:51:23"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "‘Magnifica Humanitas’ and the human future of Artificial Intelligence",
+  "link": "https://blog.apnic.net/2026/10/08/magnifica-humanitas-and-the-human-future-of-artificial-intelligence/",
+  "published": "2026-10-07T22:22:04"
+ },
+ {
   "blog_name": "T.J. Maher",
   "blog_url": "http://adventuresinautomation.blogspot.com/",
   "title": "Refactoring The-Internet:  Fork, Fix, Farewell to Heroku and hello to Render!",
@@ -207,6 +291,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "The Best IDEs and Code Editors for Python (Guide)",
   "link": "https://realpython.com/python-ides-code-editors-guide/",
+  "published": "2026-10-07T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "How can undefined opcodes ud0 and ud1 have parameters? How undefined were they?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261007-00/?p=112759/",
   "published": "2026-10-07T14:00:00"
  },
  {
