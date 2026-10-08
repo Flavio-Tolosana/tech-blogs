@@ -7,6 +7,160 @@
   "published": "2026-10-08T23:00:00"
  },
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/",
+  "title": "A green exit code is not evidence that the work happened",
+  "link": "https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened/",
+  "published": "2026-10-08T14:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Introducing JWT authentication in ClickHouse Cloud",
+  "link": "https://clickhouse.com/blog/introducing-jwt-authentication-in-clickhouse-cloud",
+  "published": "2026-10-08T13:55:14"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Manage RHEL with MCP servers and Red Hat Lightspeed",
+  "link": "https://developers.redhat.com/articles/2026/10/08/manage-rhel-mcp-servers-and-red-hat-lightspeed",
+  "published": "2026-10-08T13:01:46"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Egress network quality of service on Red Hat OpenShift",
+  "link": "https://developers.redhat.com/articles/2026/10/08/egress-network-quality-of-service-on-red-hat-openshift",
+  "published": "2026-10-08T13:01:45"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Migration toolkit for applications 8.3: Agentic code modernization, PVC mobility, and out-of-the-box generators",
+  "link": "https://developers.redhat.com/articles/2026/10/08/migration-toolkit-applications-8-3-agentic-code-modernization",
+  "published": "2026-10-08T13:01:43"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
+  "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
+  "published": "2026-10-08T13:00:46"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How to build governed enterprise apps on Databricks with Replit and Lakebase",
+  "link": "https://www.databricks.com/blog/how-build-governed-enterprise-apps-databricks-replit-and-lakebase",
+  "published": "2026-10-08T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
+  "link": "https://blog.cloudflare.com/radar-redesign/",
+  "published": "2026-10-08T13:00:00"
+ },
+ {
+  "blog_name": "Feedzai",
+  "blog_url": "https://medium.com/feedzaitech",
+  "title": "Explainable AI: If You Can’t Evaluate It, Can You Trust It?",
+  "link": "https://medium.com/feedzaitech/explainable-ai-if-you-cant-evaluate-it-can-you-trust-it-2cbfc35568e8?source=rss----e11168e7fe6b---4",
+  "published": "2026-10-08T12:32:24"
+ },
+ {
+  "blog_name": "Spotify",
+  "blog_url": "https://labs.spotify.com/",
+  "title": "Introducing: Spotify Technology. Proven at Spotify, now yours.",
+  "link": "https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours/",
+  "published": "2026-10-08T12:30:10"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "From Friends Quest to married: Daryl and Alexa’s Duolingo love story",
+  "link": "https://blog.duolingo.com/daryl-and-alexa/",
+  "published": "2026-10-08T12:00:19"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Give a Modal Its Own URL in TanStack Router",
+  "link": "https://spin.atomicobject.com/modal-own-url-tanstack-router/",
+  "published": "2026-10-08T12:00:06"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python, Boto3, and AWS S3: Demystified",
+  "link": "https://realpython.com/quizzes/python-boto3-aws-s3/",
+  "published": "2026-10-08T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Chrome 155 Ships Decoding Support For JPEG XL",
+  "link": "https://slashdot.org/story/26/10/07/160253/chrome-155-ships-decoding-support-for-jpeg-xl?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-08T11:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Why BigQuery can’t match ClickHouse Cloud for real-time analytics",
+  "link": "https://clickhouse.com/blog/clickhouse-vs-bigquery-real-time-performance-per-dollar",
+  "published": "2026-10-08T10:49:15"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "★ Laravel AI SDK in practice: the agent behind There There",
+  "link": "https://freek.dev/3089-laravel-ai-sdk-in-practice-the-agent-behind-there-there",
+  "published": "2026-10-08T10:30:24"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "C’est pas parce qu’on a défini des OKR qu’on a de l’impact !",
+  "link": "https://blog.octo.com/l'iceberg-okr",
+  "published": "2026-10-08T09:54:10"
+ },
+ {
+  "blog_name": "SurveyMonkey",
+  "blog_url": "https://engineering.surveymonkey.com/",
+  "title": "Webinar | DIY Market Research – How to get expert-level insights without an expert research team",
+  "link": "https://www.surveymonkey.com/curiosity/diy-research-how-to-get-expert-level-human-insights/?ut_source=rss",
+  "published": "2026-10-08T09:36:00"
+ },
+ {
+  "blog_name": "Erlang Solutions",
+  "blog_url": "https://www.erlang-solutions.com/blog.html",
+  "title": "Can Agentic AI Find the Security Vulnerabilities Other Tests Miss?",
+  "link": "https://www.erlang-solutions.com/blog/can-agentic-ai-find-the-security-vulnerabilities-other-tests-miss/",
+  "published": "2026-10-08T08:40:46"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "Guide to the OWASP LLM Top 10",
+  "link": "https://nordicapis.com/guide-to-the-owasp-llm-top-10/",
+  "published": "2026-10-08T07:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "OpenAI Unleashes Hundreds More Math Results Upon a Field Already In Shock",
+  "link": "https://science.slashdot.org/story/26/10/07/1653233/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-08T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Racing Trains",
+  "link": "https://thedailywtf.com/articles/racing-trains",
+  "published": "2026-10-08T06:30:00"
+ },
+ {
   "blog_name": "Hostinger",
   "blog_url": "https://www.hostinger.com/blog/engineering/",
   "title": "How solo founders build and run their businesses online",
@@ -53,6 +207,13 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Don't Order Fish on Monday. Don't Release on Friday",
   "link": "https://www.codenameone.com/blog/friday-release-better-gates/",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Real-world lessons in agentic authority and overreach",
+  "link": "https://www.thoughtworks.com/insights/articles/real-world-lessons-agentic-authority-overreach",
   "published": "2026-10-08T00:00:00"
  },
  {
@@ -117,6 +278,13 @@
   "title": "Part 1: Make your AI agents boring: the determinism layer",
   "link": "https://stackoverflow.blog/2026/10/07/part-1-make-your-ai-agents-boring-the-determinism-layer/",
   "published": "2026-10-07T20:14:49"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "JSON-LD for Developers: Building Structured Data That Search and AI Systems Can Parse",
+  "link": "https://www.sitepoint.com/json-ld-for-developers-building-structured-data-that-search-and-ai-systems-can-parse/?utm_source=rss",
+  "published": "2026-10-07T20:13:19"
  },
  {
   "blog_name": "MIT AI News",
@@ -301,6 +469,13 @@
   "published": "2026-10-07T14:00:00"
  },
  {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Introducing Falcon ASR",
+  "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
+  "published": "2026-10-07T13:21:03"
+ },
+ {
   "blog_name": "Red Hat",
   "blog_url": "https://developers.redhat.com/blog/",
   "title": "Use Paicku to containerize and test any app with buildpacks and Node.js",
@@ -432,6 +607,13 @@
   "title": "CodeSOD: A Tool for You",
   "link": "https://thedailywtf.com/articles/a-tool-for-you",
   "published": "2026-10-07T06:30:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas groupby with two columns: Reshape results with unstack",
+  "link": "https://lernerpython.com/2026/10/07/pandas-groupby-with-two-columns-reshape-results-with-unstack/",
+  "published": "2026-10-07T06:00:00"
  },
  {
   "blog_name": "Snyk",
@@ -16363,6 +16545,13 @@
   "blog_url": "https://addyosmani.com/blog/",
   "title": "Own the Outer Loop",
   "link": "https://addyosmani.com/blog/own-the-outer-loop/",
+  "published": "2026-07-15T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic named a Leader in the 2026 Gartner® Magic Quadrant™ for Observability Platforms",
+  "link": "https://www.elastic.co/blog/elastic-leader-gartner-magic-quadrant-observability-platforms-2026",
   "published": "2026-07-15T00:00:00"
  },
  {
