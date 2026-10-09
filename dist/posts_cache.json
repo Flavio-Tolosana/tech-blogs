@@ -7,11 +7,172 @@
   "published": "2026-10-10T00:00:00"
  },
  {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How California built its Behavioral Health Public County Profile on Databricks",
+  "link": "https://www.databricks.com/blog/how-california-built-its-behavioral-health-public-county-profile-databricks",
+  "published": "2026-10-09T21:30:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Agents can now buy domains with the Vercel CLI",
+  "link": "https://vercel.com/changelog/agents-can-now-buy-domains-with-the-vercel-cli",
+  "published": "2026-10-09T20:24:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
+  "link": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
+  "published": "2026-10-09T18:27:34"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "New Pro teams now default to 30-day deployment retention",
+  "link": "https://vercel.com/changelog/new-pro-teams-now-default-to-30-day-deployment-retention",
+  "published": "2026-10-09T18:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Deployment Storage billing begins for existing Pro teams",
+  "link": "https://vercel.com/changelog/deployment-storage-pricing-expands-to-existing-teams",
+  "published": "2026-10-09T18:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Could AI agents be the end of us? The more immediate risk is quieter",
+  "link": "https://www.hostinger.com/blog/ai-agents-risks/",
+  "published": "2026-10-09T16:37:42"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "Hack the World: Why hackathons are still the best place to learn to build",
+  "link": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
+  "published": "2026-10-09T16:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Vue 3 Composition API: Stop Watcher Memory Leaks in Composables",
+  "link": "https://www.sitepoint.com/vue-3-composition-api-watcher-lifecycle/?utm_source=rss",
+  "published": "2026-10-09T15:45:47"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "JavaScript Event Loop Explained: How to Trace Queues and Debug Async Code",
+  "link": "https://www.sitepoint.com/javascript-event-loop-explained-debugging-guide/?utm_source=rss",
+  "published": "2026-10-09T15:45:36"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Express React Refresh Token Setup: Diagnosing Missing Cookies and 401s",
+  "link": "https://www.sitepoint.com/express-react-refresh-token-cookie-diagnosis/?utm_source=rss",
+  "published": "2026-10-09T15:45:24"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Review AI-Generated Pull Requests and Catch Duplicate Types",
+  "link": "https://www.sitepoint.com/review-ai-generated-pull-requests/?utm_source=rss",
+  "published": "2026-10-09T15:45:07"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "ICYMI: What landed for AI builders in September 2026",
+  "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
+  "published": "2026-10-09T15:38:39"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
+  "published": "2026-10-09T15:35:02"
+ },
+ {
+  "blog_name": "Capital One Tech",
+  "blog_url": "https://medium.com/capital-one-tech",
+  "title": "Operational excellence in serverless — 5E’s framework",
+  "link": "https://medium.com/capital-one-tech/operational-excellence-in-serverless-5es-framework-f3bf3dcd2cda?source=rss----3db3a67cb648---4",
+  "published": "2026-10-09T15:27:13"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Impactful scheduling for GPU clusters",
+  "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "published": "2026-10-09T15:20:29"
+ },
+ {
+  "blog_name": "Pinterest",
+  "blog_url": "https://medium.com/@Pinterest_Engineering",
+  "title": "From Activity to Intent: Generating User Journeys with LLMs",
+  "link": "https://medium.com/pinterest-engineering/from-activity-to-intent-generating-user-journeys-with-llms-9652b9417626?source=rss-ef81ef829bcb------2",
+  "published": "2026-10-09T15:01:02"
+ },
+ {
+  "blog_name": "Pinterest Engineering",
+  "blog_url": "https://medium.com/pinterest-engineering",
+  "title": "From Activity to Intent: Generating User Journeys with LLMs",
+  "link": "https://medium.com/pinterest-engineering/from-activity-to-intent-generating-user-journeys-with-llms-9652b9417626?source=rss----4c5a5f6279b6---4",
+  "published": "2026-10-09T15:01:02"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Cloudflare Keeps 1.1.1.1 Out of Piracy Blocking, Escapes Penalties In France",
+  "link": "https://yro.slashdot.org/story/26/10/08/1948246/cloudflare-keeps-1111-out-of-piracy-blocking-escapes-penalties-in-france?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-09T15:00:00"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "A Treatise on Model Oriented Programming Languages",
+  "link": "https://stackoverflow.blog/2026/10/09/a-treatise-on-model-oriented-programming-languages/",
+  "published": "2026-10-09T14:59:04"
+ },
+ {
   "blog_name": "Angular",
   "blog_url": "https://blog.angular.io/",
   "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! ⚡",
   "link": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
   "published": "2026-10-09T14:01:05"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Solving defense supply chain visibility through governed data sharing",
+  "link": "https://www.databricks.com/blog/solving-defense-supply-chain-visibility-through-governed-data-sharing",
+  "published": "2026-10-09T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Generate Images in Python With OpenAI's GPT Image API",
+  "link": "https://realpython.com/generate-images-openai/",
+  "published": "2026-10-09T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Modern Web Automation With Python and Selenium",
+  "link": "https://realpython.com/modern-web-automation-with-python-and-selenium/",
+  "published": "2026-10-09T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Hugging Face Transformers: Leverage Open-Source AI in Python",
+  "link": "https://realpython.com/huggingface-transformers/",
+  "published": "2026-10-09T14:00:00"
  },
  {
   "blog_name": "Red Hat",
@@ -40,6 +201,13 @@
   "title": "Deno is joining Cloudflare",
   "link": "https://blog.cloudflare.com/deno-joins-cloudflare/",
   "published": "2026-10-09T12:50:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Humanize AI-Written Technical Documentation",
+  "link": "https://www.sitepoint.com/how-to-humanize-ai-written-technical-documentation/?utm_source=rss",
+  "published": "2026-10-09T12:25:53"
  },
  {
   "blog_name": "Dereuromark",
@@ -81,6 +249,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Quiz: Python Basics Exercises: Strings and String Methods",
   "link": "https://realpython.com/quizzes/python-exercises-string-methods/",
+  "published": "2026-10-09T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Generate Images in Python With OpenAI's GPT Image API",
+  "link": "https://realpython.com/quizzes/generate-images-openai/",
   "published": "2026-10-09T12:00:00"
  },
  {
@@ -133,6 +308,13 @@
   "published": "2026-10-09T07:00:00"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+  "link": "https://openai.com/index/asana-browser-agent",
+  "published": "2026-10-09T07:00:00"
+ },
+ {
   "blog_name": "Robin Wieruch",
   "blog_url": "https://www.robinwieruch.de/blog/",
   "title": "Toward a Self-Improving Agentic Code Review Loop",
@@ -159,6 +341,20 @@
   "title": "Error'd: Fast Quick",
   "link": "https://thedailywtf.com/articles/fast-quick",
   "published": "2026-10-09T06:30:00"
+ },
+ {
+  "blog_name": "Okta",
+  "blog_url": "https://developer.okta.com/blog/",
+  "title": "Build a Secure TypeScript MCP Client with Cross App Access (XAA)",
+  "link": "https://developer.okta.com/blog/2026/10/09/typescript-mcp-sdk-cross-app-access",
+  "published": "2026-10-09T05:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "How Rillet ships 3× faster with AI agents on Vercel",
+  "link": "https://vercel.com/blog/how-rillet-ships-3-faster-with-ai-agents-on-vercel",
+  "published": "2026-10-09T04:00:00"
  },
  {
   "blog_name": "Daniel Lemire",
@@ -200,6 +396,27 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "The leadership contract behind effective program delivery",
   "link": "https://www.thoughtworks.com/insights/blog/leadership/leadership-contract-effective-program-delivery",
+  "published": "2026-10-09T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Multi-Tenant SaaS Apps with Auth0 Organizations — Part One",
+  "link": "https://auth0.com/blog/multi-tenant-saas-apps-with-auth0-organizations-part-one/",
+  "published": "2026-10-09T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Liquid AI's d1 is available on AI Gateway",
+  "link": "https://vercel.com/changelog/liquid-ai-d1-is-available-on-ai-gateway",
+  "published": "2026-10-09T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Unify data across Datadog BYOC with cross-cluster queries for teams and AI agents",
+  "link": "https://www.datadoghq.com/blog/byoc-cross-cluster-queries/",
   "published": "2026-10-09T00:00:00"
  },
  {
