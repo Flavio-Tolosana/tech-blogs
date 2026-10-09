@@ -1,5 +1,166 @@
 [
  {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "How iSAM Funds built an options research platform for a 10,000x data problem with ClickHouse Cloud",
+  "link": "https://clickhouse.com/blog/isam-market-data-research-platform",
+  "published": "2026-10-10T00:00:00"
+ },
+ {
+  "blog_name": "Angular",
+  "blog_url": "https://blog.angular.io/",
+  "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! ⚡",
+  "link": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
+  "published": "2026-10-09T14:01:05"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Build a multi-tenant platform with OpenShift Dev Spaces",
+  "link": "https://developers.redhat.com/articles/2026/10/09/build-multi-tenant-platform-openshift-dev-spaces",
+  "published": "2026-10-09T13:01:47"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+  "link": "https://blog.cloudflare.com/workers-on-demand-profiling/",
+  "published": "2026-10-09T13:00:00"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "A new feature for my blog, built using my voice",
+  "link": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+  "published": "2026-10-09T12:54:06"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Deno is joining Cloudflare",
+  "link": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+  "published": "2026-10-09T12:50:00"
+ },
+ {
+  "blog_name": "Dereuromark",
+  "blog_url": "http://www.dereuromark.de/",
+  "title": "CakePHP File Storage: store it once, upload it in pieces",
+  "link": "https://www.dereuromark.de/2026/10/09/cakephp-file-storage-store-it-once-upload-it-in-pieces/",
+  "published": "2026-10-09T12:09:38"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "★ Typed routes from Laravel to React with Wayfinder",
+  "link": "https://freek.dev/3088-typed-routes-from-laravel-to-react-with-wayfinder",
+  "published": "2026-10-09T12:04:12"
+ },
+ {
+  "blog_name": "Timescale",
+  "blog_url": "https://blog.timescale.com/",
+  "title": "Measuring How Fast Your IIoT Queries Are Degrading",
+  "link": "https://www.tigerdata.com/blog/measuring-how-fast-iiot-queries-degrading",
+  "published": "2026-10-09T12:00:40"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Reduce AI Decision Fatigue: Lessons from Game Design",
+  "link": "https://spin.atomicobject.com/ai-decision-fatigue-game-design/",
+  "published": "2026-10-09T12:00:09"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "The Real Python Podcast – Episode #314: Codemoo: Demonstrating How Coding Agents Work",
+  "link": "https://realpython.com/podcasts/rpp/314/",
+  "published": "2026-10-09T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python Basics Exercises: Strings and String Methods",
+  "link": "https://realpython.com/quizzes/python-exercises-string-methods/",
+  "published": "2026-10-09T12:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "What 34,582 .si domains say about the Super Intelligence rush (and why so few mention AI)",
+  "link": "https://www.hostinger.com/blog/si-domains-super-intelligence-rush/",
+  "published": "2026-10-09T11:04:42"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "A 1960 Paper Published In Science Predicts World Will End Next Month",
+  "link": "https://science.slashdot.org/story/26/10/08/1937203/a-1960-paper-published-in-science-predicts-world-will-end-next-month?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-09T11:00:00"
+ },
+ {
+  "blog_name": "Semaphore Engineering",
+  "blog_url": "http://semaphoreci.io/feed",
+  "title": "Semaphore Open Source 1.6: MCP Server, sem-ai Out of the Box, and Partial Job Reruns",
+  "link": "https://semaphore.io/blog/semaphore-open-source-1.6-mcp-server-sem-ai-out-of-the-box-and-partial-job-reruns",
+  "published": "2026-10-09T10:14:08"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Best SOC 2 Software in 2026: 10 Platforms Ranked by Audit Readiness",
+  "link": "https://www.sitepoint.com/best-soc-2-software/?utm_source=rss",
+  "published": "2026-10-09T09:34:06"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Taking a look under your agent’s hood",
+  "link": "https://stackoverflow.blog/2026/10/09/taking-a-look-under-your-agent-s-hood/",
+  "published": "2026-10-09T07:40:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Apollo Software Pioneer Margaret Hamilton Dies at 90",
+  "link": "https://science.slashdot.org/story/26/10/08/1923206/apollo-software-pioneer-margaret-hamilton-dies-at-90?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-09T07:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+  "link": "https://openai.com/index/sophos",
+  "published": "2026-10-09T07:00:00"
+ },
+ {
+  "blog_name": "Robin Wieruch",
+  "blog_url": "https://www.robinwieruch.de/blog/",
+  "title": "Toward a Self-Improving Agentic Code Review Loop",
+  "link": "https://www.robinwieruch.de/agentic-code-review-loop/",
+  "published": "2026-10-09T06:50:46"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Build a Fast, Responsive Artwork Gallery for the Web",
+  "link": "https://www.sitepoint.com/how-to-build-a-fast-responsive-artwork-gallery-for-the-web/?utm_source=rss",
+  "published": "2026-10-09T06:35:07"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Five takeaways from Extract Summit 2026 Austin",
+  "link": "https://www.zyte.com/blog/extract-austin-2026-takeaways/",
+  "published": "2026-10-09T06:30:54"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Error'd: Fast Quick",
+  "link": "https://thedailywtf.com/articles/fast-quick",
+  "published": "2026-10-09T06:30:00"
+ },
+ {
   "blog_name": "Daniel Lemire",
   "blog_url": "https://lemire.me/blog/",
   "title": "Faster Python startup with lazy imports",
@@ -28,6 +189,20 @@
   "published": "2026-10-09T00:00:00"
  },
  {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Leadership in the age of AI agents",
+  "link": "https://www.thoughtworks.com/insights/blog/leadership/leadership-in-the-age-of-agents",
+  "published": "2026-10-09T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "The leadership contract behind effective program delivery",
+  "link": "https://www.thoughtworks.com/insights/blog/leadership/leadership-contract-effective-program-delivery",
+  "published": "2026-10-09T00:00:00"
+ },
+ {
   "blog_name": "Databricks",
   "blog_url": "https://databricks.com/blog",
   "title": "Announcing Workday Data Connect federation in Unity Catalog",
@@ -40,6 +215,13 @@
   "title": "US Bars Microsoft, Adobe, and Major IT Firms From Green Card Program",
   "link": "https://yro.slashdot.org/story/26/10/08/194218/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-08T23:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Running Laravel's Scheduler on Multiple Servers",
+  "link": "https://laravel-news.com/laravel-scheduler-multiple-servers?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-08T22:14:01"
  },
  {
   "blog_name": "SitePoint",
@@ -131,6 +313,13 @@
   "title": "How we migrated Clera’s 500 GB production database to ClickHouse Managed Postgres overnight",
   "link": "https://clickhouse.com/blog/clera-migrates-to-clickhouse-managed-postgres",
   "published": "2026-10-08T20:51:48"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Production-grade LLMs and agents: a field guide",
+  "link": "https://stackoverflow.blog/2026/10/08/production-grade-llms-and-agents-a-field-guide/",
+  "published": "2026-10-08T20:22:56"
  },
  {
   "blog_name": "Stack Overflow",
@@ -404,6 +593,13 @@
   "title": "Vercel Sandbox creation now returns a ready sandbox",
   "link": "https://vercel.com/changelog/sandbox-create-waits-until-ready",
   "published": "2026-10-08T06:00:00"
+ },
+ {
+  "blog_name": "Toptal",
+  "blog_url": "https://www.toptal.com/blog/",
+  "title": "NLP for Sentiment Analysis: How It Works and Why It Matters for Business",
+  "link": "https://www.toptal.com/developers/natural-language-processing/nlp-for-sentiment-analysis",
+  "published": "2026-10-08T05:00:00"
  },
  {
   "blog_name": "Hostinger",
