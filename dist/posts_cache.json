@@ -1,10 +1,59 @@
 [
  {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Faster Python startup with lazy imports",
+  "link": "https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/",
+  "published": "2026-10-09T03:15:06"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "First Thorium Nuclear Clocks Begin to Tick",
+  "link": "https://science.slashdot.org/story/26/10/08/1913209/first-thorium-nuclear-clocks-begin-to-tick?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-09T03:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Rolling the root key",
+  "link": "https://blog.apnic.net/2026/10/09/rolling-the-root-key-2/",
+  "published": "2026-10-09T02:15:56"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Android on iOS, Web & Desktop Efficiently and for Free",
+  "link": "https://www.codenameone.com/blog/android-apps-beyond-android/",
+  "published": "2026-10-09T00:00:00"
+ },
+ {
   "blog_name": "Databricks",
   "blog_url": "https://databricks.com/blog",
   "title": "Announcing Workday Data Connect federation in Unity Catalog",
   "link": "https://www.databricks.com/blog/announcing-workday-data-connect-federation-unity-catalog",
   "published": "2026-10-08T23:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "US Bars Microsoft, Adobe, and Major IT Firms From Green Card Program",
+  "link": "https://yro.slashdot.org/story/26/10/08/194218/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-08T23:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Secure Cookies with SameSite: Lax, Strict, and Cross-Site Rules",
+  "link": "https://www.sitepoint.com/secure-cookies-samesite-reference/?utm_source=rss",
+  "published": "2026-10-08T22:00:57"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Cloudflare Web Search API for AI Agents: Build a Grounded Worker",
+  "link": "https://www.sitepoint.com/cloudflare-web-search-api-ai-agent-tutorial/?utm_source=rss",
+  "published": "2026-10-08T22:00:45"
  },
  {
   "blog_name": "Databricks",
@@ -98,6 +147,13 @@
   "published": "2026-10-08T19:00:00"
  },
  {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Load terabytes of data in minutes into Lakebase Postgres",
+  "link": "https://www.databricks.com/blog/load-terabytes-data-minutes-lakebase-postgres",
+  "published": "2026-10-08T18:49:31"
+ },
+ {
   "blog_name": "AWS Machine Learning",
   "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
   "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
@@ -172,6 +228,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Why Junior Developers Might Know More About AI Than Seniors",
   "link": "https://realpython.com/junior-developers-ahead-on-ai/",
+  "published": "2026-10-08T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "If one anti-malware software is good, does that make two better?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261008-00/?p=112762/",
   "published": "2026-10-08T14:00:00"
  },
  {
@@ -263,6 +326,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
   "link": "https://openai.com/index/pollo-ai",
+  "published": "2026-10-08T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "LegalOn halves Codex costs while maintaining development speed",
+  "link": "https://openai.com/index/legalon-halves-codex-costs",
   "published": "2026-10-08T12:00:00"
  },
  {
@@ -459,6 +529,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "Disrupting AI-enabled “false front” operations",
   "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "The model that didn't exist, so you made it yourself",
+  "link": "https://huggingface.co/blog/building-with-ml-intern",
   "published": "2026-10-08T00:00:00"
  },
  {
