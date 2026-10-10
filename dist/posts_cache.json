@@ -1,9 +1,23 @@
 [
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "AI Surveillance Startup Flock To Cut Several Hundred Jobs Amid Backlash, Sources Say",
+  "link": "https://yro.slashdot.org/story/26/10/09/2026244/ai-surveillance-startup-flock-to-cut-several-hundred-jobs-amid-backlash-sources-say?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-10T03:00:00"
+ },
+ {
   "blog_name": "Clickhouse",
   "blog_url": "https://clickhouse.com/blog",
   "title": "How iSAM Funds built an options research platform for a 10,000x data problem with ClickHouse Cloud",
   "link": "https://clickhouse.com/blog/isam-market-data-research-platform",
+  "published": "2026-10-10T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Easy Full Stack Authentication and Login in the Style of Spring",
+  "link": "https://www.codenameone.com/blog/sign-in-client-server-contract/",
   "published": "2026-10-10T00:00:00"
  },
  {
@@ -19,6 +33,13 @@
   "title": "Agents can now buy domains with the Vercel CLI",
   "link": "https://vercel.com/changelog/agents-can-now-buy-domains-with-the-vercel-cli",
   "published": "2026-10-09T20:24:00"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "DigitalOcean MicroVMs: Fast, isolated compute for your AI agent infrastructure",
+  "link": "https://www.digitalocean.com/blog/microvms-public-preview",
+  "published": "2026-10-09T20:13:07"
  },
  {
   "blog_name": "Cloudflare",
@@ -417,6 +438,20 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Unify data across Datadog BYOC with cross-cluster queries for teams and AI agents",
   "link": "https://www.datadoghq.com/blog/byoc-cross-cluster-queries/",
+  "published": "2026-10-09T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "A 1998 PDF-to-Text Converter",
+  "link": "https://code.dblock.org/2026/10/09/a-1998-pdf-to-text-converter.html",
+  "published": "2026-10-09T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Microsoft Decision-1 now available on AI Gateway",
+  "link": "https://vercel.com/changelog/microsoft-decision-1-now-available-on-ai-gateway",
   "published": "2026-10-09T00:00:00"
  },
  {
@@ -949,6 +984,34 @@
   "blog_url": "https://huggingface.co/blog",
   "title": "The model that didn't exist, so you made it yourself",
   "link": "https://huggingface.co/blog/building-with-ml-intern",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Unified Customer Communications: Twilio Voice, SMS, and WhatsApp meet Salesforce",
+  "link": "https://www.twilio.com/en-us/blog/partners/integrations/voice-sms-whatsapp-salesforce",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Building a Multi-Channel AI Agent with Twilio Conversations and eve",
+  "link": "https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "[Webinar] Master automated journeys",
+  "link": "https://www.twilio.com/en-us/blog/events/webinar-master-automated-journeys",
+  "published": "2026-10-08T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "September 2026 Fraud Update: Phishing Trends, Third-party Safety and Latest Releases",
+  "link": "https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-sept-2026",
   "published": "2026-10-08T00:00:00"
  },
  {
