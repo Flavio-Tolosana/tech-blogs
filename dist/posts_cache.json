@@ -2,6 +2,48 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "Ubuntu 26.10 Will Offer a Rust-based GnuPG Replacement Option",
+  "link": "https://linux.slashdot.org/story/26/10/10/2155227/ubuntu-2610-will-offer-a-rust-based-gnupg-replacement-option?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-10T21:59:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Claude Sent Police a Fake Murder Tip. White House Mandates AI Companies Report Security Incidents",
+  "link": "https://slashdot.org/story/26/10/10/1951219/claude-sent-police-a-fake-murder-tip-white-house-mandates-ai-companies-report-security-incidents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-10T19:54:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "OpenAI Disrupts Two AI-Enabled 'False Front' Influence Operations That Included Seven Fake Journalists",
+  "link": "https://politics.slashdot.org/story/26/10/10/0537232/openai-disrupts-two-ai-enabled-false-front-influence-operations-that-included-seven-fake-journalists?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-10T18:34:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Another Woman Sues Flock For Mistaken Crime Accusation By Police - and for Surveillance",
+  "link": "https://yro.slashdot.org/story/26/10/09/2251259/another-woman-sues-flock-for-mistaken-crime-accusation-by-police---and-for-surveillance?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-10T17:34:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Namespaces in Python",
+  "link": "https://realpython.com/python-namespace/",
+  "published": "2026-10-10T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python for Loops: The Pythonic Way",
+  "link": "https://realpython.com/python-for-loop/",
+  "published": "2026-10-10T14:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Meta Developing Compressed RAM 'CRAM' For Linux: Better Than ZRAM and Zswap?",
   "link": "https://hardware.slashdot.org/story/26/10/10/0631257/meta-developing-compressed-ram-cram-for-linux-better-than-zram-and-zswap?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-10T12:04:00"
@@ -26,6 +68,27 @@
   "title": "Migrating Pinkary from Laravel Forge to Laravel Cloud",
   "link": "https://freek.dev/3202-migrating-pinkary-from-laravel-forge-to-laravel-cloud",
   "published": "2026-10-10T10:30:07"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Progressive Web Apps: How They Are Changing the Future of Online Experiences",
+  "link": "https://www.sitepoint.com/progressive-web-apps-how-they-are-changing-the-future-of-online-experiences/?utm_source=rss",
+  "published": "2026-10-10T09:55:44"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How AI Is Transforming Web Development: Tools, Trends, and Best Practices",
+  "link": "https://www.sitepoint.com/how-ai-is-transforming-web-development-tools-trends-and-best-practices/?utm_source=rss",
+  "published": "2026-10-10T09:47:14"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Making JavaScript API Requests More Reliable with Timeouts, Retries, and Cancellation",
+  "link": "https://www.sitepoint.com/making-javascript-api-requests-more-reliable-with-timeouts-retries-and-cancellation/?utm_source=rss",
+  "published": "2026-10-10T09:28:23"
  },
  {
   "blog_name": "Daniel Lemire",
