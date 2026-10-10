@@ -2,6 +2,48 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "Meta Developing Compressed RAM 'CRAM' For Linux: Better Than ZRAM and Zswap?",
+  "link": "https://hardware.slashdot.org/story/26/10/10/0631257/meta-developing-compressed-ram-cram-for-linux-better-than-zram-and-zswap?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-10T12:04:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "The Importance of Play & Whimsy at Work",
+  "link": "https://spin.atomicobject.com/importance-of-play-whimsy/",
+  "published": "2026-10-10T12:00:19"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: How to Get a List of All Files in a Directory With Python",
+  "link": "https://realpython.com/quizzes/get-all-files-in-directory-python/",
+  "published": "2026-10-10T12:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Migrating Pinkary from Laravel Forge to Laravel Cloud",
+  "link": "https://freek.dev/3202-migrating-pinkary-from-laravel-forge-to-laravel-cloud",
+  "published": "2026-10-10T10:30:07"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "WebSocket servers in JavaScript: Node.js, Bun and Deno in 2026",
+  "link": "https://lemire.me/blog/2026/10/10/websocket-servers-in-javascript-node-js-bun-and-deno-in-2026/",
+  "published": "2026-10-10T08:56:11"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Le développement agentique est-il le fossoyeur de la modélisation métier ? - Part 2",
+  "link": "https://blog.octo.com/le-developpement-agentique-est-il-le-fossoyeur-de-la-modelisation-metier",
+  "published": "2026-10-10T07:06:10"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "AI Surveillance Startup Flock To Cut Several Hundred Jobs Amid Backlash, Sources Say",
   "link": "https://yro.slashdot.org/story/26/10/09/2026244/ai-surveillance-startup-flock-to-cut-several-hundred-jobs-amid-backlash-sources-say?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-10T03:00:00"
@@ -40,6 +82,13 @@
   "title": "DigitalOcean MicroVMs: Fast, isolated compute for your AI agent infrastructure",
   "link": "https://www.digitalocean.com/blog/microvms-public-preview",
   "published": "2026-10-09T20:13:07"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Improve Website Performance Without Rewriting Your Front End",
+  "link": "https://www.sitepoint.com/how-to-improve-website-performance-without-rewriting-your-front-end/?utm_source=rss",
+  "published": "2026-10-09T19:19:38"
  },
  {
   "blog_name": "Cloudflare",
@@ -362,6 +411,13 @@
   "title": "Error'd: Fast Quick",
   "link": "https://thedailywtf.com/articles/fast-quick",
   "published": "2026-10-09T06:30:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas groupby: Get a data frame instead of a series",
+  "link": "https://lernerpython.com/2026/10/09/pandas-groupby-get-a-data-frame-instead-of-a-series/",
+  "published": "2026-10-09T06:00:00"
  },
  {
   "blog_name": "Okta",
