@@ -1,5 +1,40 @@
 [
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Continuous Integration With Python: An Introduction",
+  "link": "https://realpython.com/quizzes/python-continuous-integration/",
+  "published": "2026-10-11T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "NASA Releases Data from Artemis II Moon Mission, Calls It 'Sights and Sounds of Science'",
+  "link": "https://science.slashdot.org/story/26/10/11/0221200/nasa-releases-data-from-artemis-ii-moon-mission-calls-it-sights-and-sounds-of-science?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-11T11:34:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Laravel Context: The Hidden Information That Follows Your Code",
+  "link": "https://freek.dev/3203-laravel-context-the-hidden-information-that-follows-your-code",
+  "published": "2026-10-11T10:30:30"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "FBI Arrests Cybersecurity Executive Over Data Breach After Contractor Fails to Update Oracle HR Platform",
+  "link": "https://it.slashdot.org/story/26/10/11/0157259/fbi-arrests-cybersecurity-executive-over-data-breach-after-contractor-fails-to-update-oracle-hr-platform?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-11T07:34:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "The Design Workflow Is Broken. Here Is How Vitalii Khomenko Thinks It Should Be Fixed",
+  "link": "https://www.sitepoint.com/design-workflow-ai-era-vitalii-khomenko/?utm_source=rss",
+  "published": "2026-10-11T06:14:25"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Ubuntu Confirms Thursday's Distributed Denial of Service Attack Against Its Web Infrastructure",
@@ -18,6 +53,13 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Update DB Schema in Production with Flyway like Syntax",
   "link": "https://www.codenameone.com/blog/database-upgrades-without-lost-data/",
+  "published": "2026-10-11T00:00:00"
+ },
+ {
+  "blog_name": "Bartlomiej Filipek",
+  "blog_url": "http://www.bfilipek.com/",
+  "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+  "link": "https://www.cppstories.com/2026/cpp26_contracts/",
   "published": "2026-10-11T00:00:00"
  },
  {
