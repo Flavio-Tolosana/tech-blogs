@@ -1,5 +1,103 @@
 [
  {
+  "blog_name": "Jeremy Kun",
+  "blog_url": "https://jeremykun.com/",
+  "title": "CKKS — Addition and Multiplication",
+  "link": "https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/",
+  "published": "2026-10-11T21:31:19"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Gas Cars Fall Below 50% of Global New Car Sales for the First Time",
+  "link": "https://tech.slashdot.org/story/26/10/11/2033201/gas-cars-fall-below-50-of-global-new-car-sales-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-11T21:10:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "'The Social Reckoning' Bombs with $5.5 Million Opening",
+  "link": "https://entertainment.slashdot.org/story/26/10/11/207258/the-social-reckoning-bombs-with-55-million-opening?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-11T20:10:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Blade Runner, Star Trek, Godzilla, Star Wars + Marvel (and Legos): News From New York Comic-Con",
+  "link": "https://entertainment.slashdot.org/story/26/10/11/1839216/blade-runner-star-trek-godzilla-star-wars--marvel-and-legos-news-from-new-york-comic-con?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-11T18:41:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "A College Told Flock to Remove Its Cameras. The Company Refused.",
+  "link": "https://news.slashdot.org/story/26/10/09/2340244/a-college-told-flock-to-remove-its-cameras-the-company-refused?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-11T16:34:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Test README with Users and Docker: Two-Layer Verification",
+  "link": "https://www.sitepoint.com/test-readme-with-real-users/?utm_source=rss",
+  "published": "2026-10-11T15:48:35"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "AI Agent Tool Calling in TypeScript: Guardrails Against Runaway Loops",
+  "link": "https://www.sitepoint.com/ai-agent-tool-calling-typescript-guardrails/?utm_source=rss",
+  "published": "2026-10-11T15:47:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Self Host Next.js in Production with Docker Standalone",
+  "link": "https://www.sitepoint.com/self-host-nextjs-production-docker-standalone/?utm_source=rss",
+  "published": "2026-10-11T15:45:21"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Tailwind CSS v4 Dynamic Themes Using Semantic CSS Tokens",
+  "link": "https://www.sitepoint.com/tailwind-css-v4-dynamic-themes/?utm_source=rss",
+  "published": "2026-10-11T15:42:16"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Tilde in PATH Security: How Quoted Tildes Cause Relative Execution",
+  "link": "https://www.sitepoint.com/tilde-in-path-security-fix/?utm_source=rss",
+  "published": "2026-10-11T15:40:55"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Original RFC1149 Packet Up For Auction At Christies",
+  "link": "https://entertainment.slashdot.org/story/26/10/11/0050222/original-rfc1149-packet-up-for-auction-at-christies?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-11T15:34:00"
+ },
+ {
+  "blog_name": "Matthew Green",
+  "blog_url": "https://blog.cryptographyengineering.com/",
+  "title": "New website: estimating human cryptanalytic work",
+  "link": "https://blog.cryptographyengineering.com/2026/10/11/new-website-estimating-human-cryptanalytic-work/",
+  "published": "2026-10-11T14:14:03"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Functional Programming in Python: When and How to Use It",
+  "link": "https://realpython.com/python-functional-programming/",
+  "published": "2026-10-11T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "What Can I Do With Python?",
+  "link": "https://realpython.com/what-can-i-do-with-python/",
+  "published": "2026-10-11T14:00:00"
+ },
+ {
   "blog_name": "Real Python",
   "blog_url": "https://realpython.com/blog/",
   "title": "Quiz: Continuous Integration With Python: An Introduction",
@@ -60,6 +158,34 @@
   "blog_url": "http://www.bfilipek.com/",
   "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
   "link": "https://www.cppstories.com/2026/cpp26_contracts/",
+  "published": "2026-10-11T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "ELPDS: Inspecting FAT Partitions in 1995",
+  "link": "https://code.dblock.org/2026/10/11/elpds-a-1995-dos-disk-inspection-tool.html",
+  "published": "2026-10-11T00:00:00"
+ },
+ {
+  "blog_name": "Josh Sherman",
+  "blog_url": "https://joshtronic.com/",
+  "title": "Pros and Cons of Self-hosting a Public Git Forge",
+  "link": "https://joshtronic.com/2026/10/11/pros-cons-self-hosted-git/",
+  "published": "2026-10-11T00:00:00"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "Getting Started with AI-Augmented Coding in iOS [SUBSCRIBER]",
+  "link": "https://www.kodeco.com/ios/paths/ai-assisted-ios-dev/53684496-getting-started-with-ai-augmented-coding-in-ios",
+  "published": "2026-10-11T00:00:00"
+ },
+ {
+  "blog_name": "Nicolas Fränkel",
+  "blog_url": "https://blog.frankel.ch/",
+  "title": "Scraping websites and bot-protection",
+  "link": "https://blog.frankel.ch/bypass-bot-protection/",
   "published": "2026-10-11T00:00:00"
  },
  {
