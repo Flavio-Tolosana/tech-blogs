@@ -7,10 +7,199 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Stanko Tadić",
+  "blog_url": "https://muffinman.io",
+  "title": "Stacked Pinned Tabs in Firefox",
+  "link": "https://muffinman.io/blog/stacked-vertical-pinned-tabs-in-firefox/",
+  "published": "2026-10-13T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Epic Games Delays Disney Project, Asks Developers To Use More AI",
+  "link": "https://games.slashdot.org/story/26/10/12/2128209/epic-games-delays-disney-project-asks-developers-to-use-more-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-12T22:00:00"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
+  "link": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
+  "published": "2026-10-12T21:19:18"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Mark Zuckerberg Says Meta Has Reached AI 'Frontier', Rejects Calls For Slowdown",
+  "link": "https://meta.slashdot.org/story/26/10/12/1910233/mark-zuckerberg-says-meta-has-reached-ai-frontier-rejects-calls-for-slowdown?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-12T21:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google's Fitbit Edge Debuts a Replaceable Battery, Brings Back the Screen",
+  "link": "https://tech.slashdot.org/story/26/10/12/1841208/googles-fitbit-edge-debuts-a-replaceable-battery-brings-back-the-screen?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-12T20:00:00"
+ },
+ {
+  "blog_name": "Gunnar Morling",
+  "blog_url": "https://www.morling.dev/blog/",
+  "title": "Row-Group Control, Faster S3 Reads, Footer Caching: Hardwood 1.1.0.Beta2 Is Out",
+  "link": "https://www.morling.dev/blog/row-group-control-faster-s3-reads-footer-caching-hardwood-1-1-0-beta2/",
+  "published": "2026-10-12T19:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Russia Was Not Ready For the Data Center War It Started With Ukraine",
+  "link": "https://tech.slashdot.org/story/26/10/12/1832205/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-12T19:00:00"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+  "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+  "published": "2026-10-12T18:15:38"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development",
+  "link": "https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html",
+  "published": "2026-10-12T18:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Hackers Heat French Supermarket Fridges, Sparking Fires and Spoiling Food",
+  "link": "https://it.slashdot.org/story/26/10/12/1748203/hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-12T18:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Introducing the Ampere System Profiler",
+  "link": "https://www.sitepoint.com/ampere-system-profiler/?utm_source=rss",
+  "published": "2026-10-12T17:52:31"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+  "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
+  "published": "2026-10-12T17:52:22"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+  "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+  "published": "2026-10-12T17:43:59"
+ },
+ {
+  "blog_name": "Amazon Science",
+  "blog_url": "https://www.amazon.science/",
+  "title": "Can we change an AI model&#8217;s architecture without retraining it from scratch?",
+  "link": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+  "published": "2026-10-12T17:36:18"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Brickster Voices: Meet Clara Kurian",
+  "link": "https://www.databricks.com/blog/brickster-voices-meet-clara-kurian",
+  "published": "2026-10-12T16:40:00"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Durable Task in the Real World: What Problems Does It Actually Solve?",
+  "link": "https://devblogs.microsoft.com/dotnet/durable-task-in-the-real-world/",
+  "published": "2026-10-12T16:30:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Reverse Engineering with AI: Trace Features Across Electron and Native Apps",
+  "link": "https://www.sitepoint.com/reverse-engineering-with-ai-rea-electron-tracing/?utm_source=rss",
+  "published": "2026-10-12T16:28:29"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
+  "link": "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
+  "published": "2026-10-12T16:01:32"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+  "link": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
+  "published": "2026-10-12T16:00:54"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations",
+  "link": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
+  "published": "2026-10-12T16:00:50"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions",
+  "link": "https://www.docker.com/blog/docker-hub-security-advisory-cve-2026-105445/",
+  "published": "2026-10-12T16:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
+  "link": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
+  "published": "2026-10-12T15:51:46"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
+  "link": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
+  "published": "2026-10-12T15:50:14"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How Flo Health built safer, more useful open models with Databricks AI Runtime",
+  "link": "https://www.databricks.com/blog/how-flo-health-built-safer-more-useful-open-models-databricks-ai-runtime",
+  "published": "2026-10-12T15:13:04"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+  "link": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+  "published": "2026-10-12T15:00:25"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Filter, reshape, and redact logs before export with Transformers",
+  "link": "https://blog.cloudflare.com/transformers-on-logpush/",
+  "published": "2026-10-12T14:44:59"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/",
   "title": "Beyond the AI noise: How Stack Overflow is rethinking tech hiring",
   "link": "https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/",
+  "published": "2026-10-12T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Docling vs LlamaParse: How to Extract PDF Tables in Python",
+  "link": "https://realpython.com/extract-table-from-pdf-python/",
   "published": "2026-10-12T14:00:00"
  },
  {
@@ -54,6 +243,13 @@
   "title": "The 2026 curl team",
   "link": "https://daniel.haxx.se/blog/2026/10/12/the-2026-curl-team/",
   "published": "2026-10-12T12:40:27"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Look What You Helped Me Build",
+  "link": "https://laravel-news.com/puzzleparty?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-12T12:10:20"
  },
  {
   "blog_name": "Atomic Object",
@@ -103,6 +299,20 @@
   "title": "Awesome conference – Game of Codes – Niš – 2026",
   "link": "https://vladmihalcea.com/game-of-codes-nis-2026/",
   "published": "2026-10-12T09:25:23"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Designing a Safer Account Recovery Backend for Consumer Apps",
+  "link": "https://www.sitepoint.com/designing-a-safer-account-recovery-backend-for-consumer-apps/?utm_source=rss",
+  "published": "2026-10-12T08:52:11"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Beyond the Password Reset: Building Recovery Experiences That Protect Online Shoppers",
+  "link": "https://www.sitepoint.com/beyond-the-password-reset-building-recovery-experiences-that-protect-online-shoppers/?utm_source=rss",
+  "published": "2026-10-12T08:41:13"
  },
  {
   "blog_name": "Scrapinghub",
@@ -193,6 +403,27 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "Decision models and the possibility of NoOps",
   "link": "https://www.thoughtworks.com/insights/articles/decision-models-and-the-possibility-of-no-ops",
+  "published": "2026-10-12T00:00:00"
+ },
+ {
+  "blog_name": "Crystal",
+  "blog_url": "https://crystal-lang.org/",
+  "title": "Crystal 1.22.0 is released!",
+  "link": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
+  "published": "2026-10-12T00:00:00"
+ },
+ {
+  "blog_name": "Ruby-lang",
+  "blog_url": "https://www.ruby-lang.org/en/news/",
+  "title": "Ruby 4.1.0-preview1 Released",
+  "link": "https://www.ruby-lang.org/en/news/2026/10/12/ruby-4-1-0-preview1-released/",
+  "published": "2026-10-12T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Muse Wonder now available on AI Gateway",
+  "link": "https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway",
   "published": "2026-10-12T00:00:00"
  },
  {
@@ -628,6 +859,13 @@
   "title": "Could AI agents be the end of us? The more immediate risk is quieter",
   "link": "https://www.hostinger.com/blog/ai-agents-risks/",
   "published": "2026-10-09T16:37:42"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "From post-training to production: How TinyFish runs its web-native model on Databricks AI Runtime",
+  "link": "https://www.databricks.com/blog/post-training-production-how-tinyfish-runs-its-web-native-model-databricks-ai-runtime",
+  "published": "2026-10-09T16:32:01"
  },
  {
   "blog_name": "GitHub Old",
