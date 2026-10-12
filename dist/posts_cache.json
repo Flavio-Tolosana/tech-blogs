@@ -1,5 +1,47 @@
 [
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Let's Encrypt to Cut SSL Certificate Lifetimes to 64 Days in February 2027",
+  "link": "https://it.slashdot.org/story/26/10/12/0211238/lets-encrypt-to-cut-ssl-certificate-lifetimes-to-64-days-in-february-2027?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-12T03:09:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Resource delegation review update: Q3 2026",
+  "link": "https://blog.apnic.net/2026/10/12/resource-delegation-review-update-q3-2026/",
+  "published": "2026-10-12T01:09:39"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Game Console Market Craters: Xbox and PS5 Sales Plummet Over 25%",
+  "link": "https://hardware.slashdot.org/story/26/10/12/018224/game-console-market-craters-xbox-and-ps5-sales-plummet-over-25?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-12T01:09:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "How Do You Test Spring Compatibility?",
+  "link": "https://www.codenameone.com/blog/spring-tests-native-backend/",
+  "published": "2026-10-12T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
+  "link": "https://slashdot.org/story/26/10/11/2355238/research-firm-calls-anthropics-upcoming-ipo-unprecedented-test-of-investor-gullibity?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-11T23:58:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Seven years of IPv6 in production: Lessons from one million broadband subscribers",
+  "link": "https://blog.apnic.net/2026/10/12/seven-years-of-ipv6-in-production-lessons-from-one-million-broadband-subscribers/",
+  "published": "2026-10-11T23:07:31"
+ },
+ {
   "blog_name": "Jeremy Kun",
   "blog_url": "https://jeremykun.com/",
   "title": "CKKS — Addition and Multiplication",
@@ -508,6 +550,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Hugging Face Transformers: Leverage Open-Source AI in Python",
   "link": "https://realpython.com/huggingface-transformers/",
+  "published": "2026-10-09T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "One way of thinking about access specifiers in C++/WinRT implementation types",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261009-00/?p=112764/",
   "published": "2026-10-09T14:00:00"
  },
  {
@@ -20704,6 +20753,13 @@
   "title": "AI Trends to Watch In 2026",
   "link": "https://innovation.ebayinc.com/stories/ai-trends-to-watch-in-2026/",
   "published": "2026-01-16T08:00:00"
+ },
+ {
+  "blog_name": "Marcelo Rinesi",
+  "blog_url": "https://blog.rinesi.com/",
+  "title": "Breaking the Smart City Out of its Narcissism",
+  "link": "https://blog.rinesi.com/2026/01/smart-city",
+  "published": "2026-01-16T03:00:00"
  },
  {
   "blog_name": "Abhinav Sarkar",
