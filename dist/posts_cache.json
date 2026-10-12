@@ -1,5 +1,145 @@
 [
  {
+  "blog_name": "Stanko Tadić",
+  "blog_url": "https://muffinman.io",
+  "title": "GB Pixel Art Jam 2026 - SpaceDeck Trio",
+  "link": "https://muffinman.io/blog/gameboy-pixel-art-jam-2026-spacedeck-trio/",
+  "published": "2026-12-10T00:00:00"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/",
+  "title": "Beyond the AI noise: How Stack Overflow is rethinking tech hiring",
+  "link": "https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/",
+  "published": "2026-10-12T14:00:00"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Build an AI matching engine with Docling, Granite & OpenShift AI",
+  "link": "https://developers.redhat.com/articles/2026/10/12/build-ai-matching-engine-docling-granite-openshift-ai",
+  "published": "2026-10-12T13:16:54"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "Introducing DigitalOcean Agent Data Services: The Data Foundation for Agents",
+  "link": "https://www.digitalocean.com/blog/introducing-agent-data-services",
+  "published": "2026-10-12T13:08:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Parsing JSON at tens of gigabytes per second… in Python",
+  "link": "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/",
+  "published": "2026-10-12T13:06:39"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "Introducing DigitalOcean Insights: Built-in Observability for Your Agents, Applications, and Infrastructure",
+  "link": "https://www.digitalocean.com/blog/introducing-insights",
+  "published": "2026-10-12T13:05:00"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "Introducing DigitalOcean Signals and Simulations: see how your agents and models really behave in production, then test the fix before it ships",
+  "link": "https://www.digitalocean.com/blog/introducing-signals-and-simulations",
+  "published": "2026-10-12T13:05:00"
+ },
+ {
+  "blog_name": "Daniel Stenberg",
+  "blog_url": "https://daniel.haxx.se/blog/",
+  "title": "The 2026 curl team",
+  "link": "https://daniel.haxx.se/blog/2026/10/12/the-2026-curl-team/",
+  "published": "2026-10-12T12:40:27"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Look Beyond Velocity: Will This Sprint Unblock the Next One?",
+  "link": "https://spin.atomicobject.com/beyond-velocity-sprint-unblock/",
+  "published": "2026-10-12T12:00:55"
+ },
+ {
+  "blog_name": "Filippo Valsorda",
+  "blog_url": "https://blog.filippo.io/",
+  "title": "(Post-Quantum) Cryptographic Right Answers",
+  "link": "https://words.filippo.io/right-answers/",
+  "published": "2026-10-12T12:00:27"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Docling vs LlamaParse: How to Extract PDF Tables in Python",
+  "link": "https://realpython.com/quizzes/extract-table-from-pdf-python/",
+  "published": "2026-10-12T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Should We Beware of Other License Plate Surveillance Companies Besides Flock?",
+  "link": "https://yro.slashdot.org/story/26/10/09/2131241/should-we-beware-of-other-license-plate-surveillance-companies-besides-flock?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-12T11:34:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Readonly Property Defaults in PHP 8.6: A Four-Year-Old Restriction Finally Lifts",
+  "link": "https://freek.dev/3204-readonly-property-defaults-in-php-86-a-four-year-old-restriction-finally-lifts",
+  "published": "2026-10-12T10:30:50"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Hostinger weekly product updates: Week 41, 2026",
+  "link": "https://www.hostinger.com/blog/product-updates-week-41-2026/",
+  "published": "2026-10-12T09:46:31"
+ },
+ {
+  "blog_name": "Vlad Mihalcea",
+  "blog_url": "https://vladmihalcea.com/",
+  "title": "Awesome conference – Game of Codes – Niš – 2026",
+  "link": "https://vladmihalcea.com/game-of-codes-nis-2026/",
+  "published": "2026-10-12T09:25:23"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "JavaScript renders almost half of sites invisible",
+  "link": "https://www.zyte.com/blog/sowa-barrier-javascript/",
+  "published": "2026-10-12T08:00:00"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Je ne code pas, BMAD code pour moi avec ses agents : sur parole ou sur preuves ?",
+  "link": "https://blog.octo.com/je-ne-code-pas-bmad-code-pour-moi-avec-ses-agents--sur-parole-ou-sur-preuves",
+  "published": "2026-10-12T07:23:17"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "How the US Nuclear Plant Fleet Is Leaning Into AI",
+  "link": "https://hardware.slashdot.org/story/26/10/12/0445233/how-the-us-nuclear-plant-fleet-is-leaning-into-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-12T07:22:00"
+ },
+ {
+  "blog_name": "Wix Engineering",
+  "blog_url": "https://www.wix.engineering/",
+  "title": "Our AI Agent’s Design Looked Complete. 3 Runtime Checks Proved It Wrong",
+  "link": "https://www.wix.engineering/post/our-ai-agent-s-design-looked-complete-3-runtime-checks-proved-it-wrong",
+  "published": "2026-10-12T07:09:10"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: A Type of Type Safety",
+  "link": "https://thedailywtf.com/articles/a-type-of-type-safety",
+  "published": "2026-10-12T06:30:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Let's Encrypt to Cut SSL Certificate Lifetimes to 64 Days in February 2027",
@@ -28,6 +168,34 @@
   "published": "2026-10-12T00:00:00"
  },
  {
+  "blog_name": "Dean Hume",
+  "blog_url": "http://deanhume.com/",
+  "title": "OAuth 2.0 vs OpenID Connect: What's the Difference and Which Do You Need?",
+  "link": "https://deanhume.com/oauth-2-0-vs-openid-connect/",
+  "published": "2026-10-12T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Mislabelled: Why retail calls its strategic failures execution problems",
+  "link": "https://www.thoughtworks.com/insights/blog/technology-strategy/mislabelled-why-retail-calls-its-strategic-failures-execution-problems",
+  "published": "2026-10-12T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Why agentic payments require an executable model of organizational authority",
+  "link": "https://www.thoughtworks.com/insights/blog/generative-ai/why-agentic-payments-require-executable-model-organizational-authority",
+  "published": "2026-10-12T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Decision models and the possibility of NoOps",
+  "link": "https://www.thoughtworks.com/insights/articles/decision-models-and-the-possibility-of-no-ops",
+  "published": "2026-10-12T00:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
@@ -40,6 +208,13 @@
   "title": "Seven years of IPv6 in production: Lessons from one million broadband subscribers",
   "link": "https://blog.apnic.net/2026/10/12/seven-years-of-ipv6-in-production-lessons-from-one-million-broadband-subscribers/",
   "published": "2026-10-11T23:07:31"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "BashBox: A Sandboxed Bash Interpreter for AI Agents in PHP",
+  "link": "https://laravel-news.com/bashbox-sandboxed-bash-php?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-11T22:53:21"
  },
  {
   "blog_name": "Jeremy Kun",
@@ -68,6 +243,27 @@
   "title": "Blade Runner, Star Trek, Godzilla, Star Wars + Marvel (and Legos): News From New York Comic-Con",
   "link": "https://entertainment.slashdot.org/story/26/10/11/1839216/blade-runner-star-trek-godzilla-star-wars--marvel-and-legos-news-from-new-york-comic-con?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-11T18:41:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Designing Reliable Offline Experiences for Modern Web Applications",
+  "link": "https://www.sitepoint.com/designing-reliable-offline-experiences-for-modern-web-applications/?utm_source=rss",
+  "published": "2026-10-11T18:30:27"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Beyond Lazy Loading: How to Build Faster Websites with Responsive Images",
+  "link": "https://www.sitepoint.com/beyond-lazy-loading-how-to-build-faster-websites-with-responsive-images/?utm_source=rss",
+  "published": "2026-10-11T17:44:26"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building Accessible Web Forms with HTML, CSS, and JavaScript",
+  "link": "https://www.sitepoint.com/building-accessible-web-forms-with-html-css-and-javascript/?utm_source=rss",
+  "published": "2026-10-11T17:37:56"
  },
  {
   "blog_name": "Slashdot",
@@ -173,6 +369,13 @@
   "title": "The Design Workflow Is Broken. Here Is How Vitalii Khomenko Thinks It Should Be Fixed",
   "link": "https://www.sitepoint.com/design-workflow-ai-era-vitalii-khomenko/?utm_source=rss",
   "published": "2026-10-11T06:14:25"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas groupby: Multiple columns and multiple aggregation methods",
+  "link": "https://lernerpython.com/2026/10/11/pandas-groupby-multiple-columns-and-multiple-aggregation-methods/",
+  "published": "2026-10-11T06:00:00"
  },
  {
   "blog_name": "Slashdot",
