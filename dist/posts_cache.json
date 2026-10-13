@@ -7,11 +7,74 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Keep calm and call clone with Rust",
+  "link": "https://stackoverflow.blog/2026/10/13/keep-calm-and-call-clone-with-rust/",
+  "published": "2026-10-13T07:40:00"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+  "link": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+  "published": "2026-10-13T05:00:31"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Q&A: Building accountability behind our words — and AI’s — in civic conversations",
+  "link": "https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013",
+  "published": "2026-10-13T04:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Linus Torvalds On Why AI Works For Him",
+  "link": "https://linux.slashdot.org/story/26/10/13/034206/linus-torvalds-on-why-ai-works-for-him?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-13T03:30:00"
+ },
+ {
+  "blog_name": "Grab",
+  "blog_url": "http://engineering.grab.com/",
+  "title": "GrabMart data for faster disease outbreak detection",
+  "link": "https://engineering.grab.com/grabmart-data-for-faster-disease-outbreak-detection",
+  "published": "2026-10-13T00:23:00"
+ },
+ {
   "blog_name": "Stanko Tadić",
   "blog_url": "https://muffinman.io",
   "title": "Stacked Pinned Tabs in Firefox",
   "link": "https://muffinman.io/blog/stacked-vertical-pinned-tabs-in-firefox/",
   "published": "2026-10-13T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Try Real Java in Your Browser, Compiler Errors Included",
+  "link": "https://www.codenameone.com/blog/playground-real-java-compiler/",
+  "published": "2026-10-13T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Using Grafana AI to accelerate incident investigation",
+  "link": "https://www.thoughtworks.com/insights/blog/product-innovation/using-grafana-ai-to-accelerate-incident-investigation",
+  "published": "2026-10-13T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Firefox 158 Now Available With JPEG-XL Support By Default",
+  "link": "https://news.slashdot.org/story/26/10/12/2131234/firefox-158-now-available-with-jpeg-xl-support-by-default?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-12T23:00:00"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "Announcing AWS Lambda Web Functions",
+  "link": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+  "published": "2026-10-12T22:34:47"
  },
  {
   "blog_name": "Slashdot",
@@ -200,6 +263,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Docling vs LlamaParse: How to Extract PDF Tables in Python",
   "link": "https://realpython.com/extract-table-from-pdf-python/",
+  "published": "2026-10-12T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "C++ futures part 1: The mental model",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
   "published": "2026-10-12T14:00:00"
  },
  {
