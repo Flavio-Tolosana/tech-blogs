@@ -7,11 +7,130 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "C++ futures part 2: The mental model for std::promise, std::packaged_task",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/",
+  "published": "2026-10-13T14:00:00"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Are Harnesses Worth the Cost?",
+  "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
+  "published": "2026-10-13T13:35:00"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Test and deploy bootable containers with bootc virtualization kit (bcvk)",
+  "link": "https://developers.redhat.com/articles/2026/10/13/test-deploy-bootable-containers-with-bcvk",
+  "published": "2026-10-13T13:26:16"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Red Hat AI Inference 3.5 MaaS governance on AKS",
+  "link": "https://developers.redhat.com/articles/2026/10/13/red-hat-ai-inference-3-5-maas-governance-aks",
+  "published": "2026-10-13T13:17:06"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Sharding etcd on hosted control planes and what the numbers actually say",
+  "link": "https://developers.redhat.com/articles/2026/10/13/sharding-etcd-on-hosted-control-planes-and-what-the-numbers-actually-say",
+  "published": "2026-10-13T13:17:03"
+ },
+ {
+  "blog_name": "Tailscale",
+  "blog_url": "https://tailscale.com/blog",
+  "title": "Sovereign AI starts with open infrastructure",
+  "link": "https://tailscale.com/blog/sovereign-ai-patricia-prewitt",
+  "published": "2026-10-13T13:15:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "The AI domain rush has stalled, but agentic vocabulary keeps spreading",
+  "link": "https://www.hostinger.com/blog/domain-analysis-2026/",
+  "published": "2026-10-13T12:48:27"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+  "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+  "published": "2026-10-13T12:00:49"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Should AI Really Kill the Code Review? Reflections at LDX3",
+  "link": "https://spin.atomicobject.com/ai-kill-the-code-review/",
+  "published": "2026-10-13T12:00:24"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python's len() Function",
+  "link": "https://realpython.com/quizzes/pythons-len-function/",
+  "published": "2026-10-13T12:00:00"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "Dear Duolingo: Tell me everything about German sentence structure",
+  "link": "https://blog.duolingo.com/german-sentence-structure/",
+  "published": "2026-10-13T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "After a 10-Year Redemption Arc, No Man's Sky Is Coming to the iPhone and iPad",
+  "link": "https://games.slashdot.org/story/26/10/13/0435236/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-13T11:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Why I think we should write our own PR descriptions",
+  "link": "https://freek.dev/3205-why-i-think-we-should-write-our-own-pr-descriptions",
+  "published": "2026-10-13T10:30:42"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Chasing that 32 ms tail latency in ClickHouse",
+  "link": "https://clickhouse.com/blog/chasing-32ms-tail-latency-clickhouse",
+  "published": "2026-10-13T08:49:51"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "Keep calm and call clone with Rust",
   "link": "https://stackoverflow.blog/2026/10/13/keep-calm-and-call-clone-with-rust/",
   "published": "2026-10-13T07:40:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "A New 'Super Ice' Is 10 Times Stronger, Bringing It Close to The Strength of Concrete",
+  "link": "https://science.slashdot.org/story/26/10/13/0428248/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-13T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Editor's Soapbox: Digital Mail",
+  "link": "https://thedailywtf.com/articles/digital-mail",
+  "published": "2026-10-13T06:30:00"
+ },
+ {
+  "blog_name": "Daniel Stenberg",
+  "blog_url": "https://daniel.haxx.se/blog/",
+  "title": "A slightly faster slimmer curl",
+  "link": "https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/",
+  "published": "2026-10-13T06:07:10"
  },
  {
   "blog_name": "Nvidia",
@@ -63,6 +182,27 @@
   "published": "2026-10-13T00:00:00"
  },
  {
+  "blog_name": "Stanko Tadić",
+  "blog_url": "https://muffinman.io",
+  "title": "Show page titles on Firefox's pinned tabs",
+  "link": "https://muffinman.io/blog/show-page-titles-firefox-on-pinned-tabs/",
+  "published": "2026-10-13T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "How Datadog defines service criticality at scale",
+  "link": "https://www.datadoghq.com/blog/how-datadog-defines-service-criticality-at-scale/",
+  "published": "2026-10-13T00:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Pause Polling in Background Tabs in Inertia.js v3.9",
+  "link": "https://laravel-news.com/inertia-3-9-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-12T23:59:10"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Firefox 158 Now Available With JPEG-XL Support By Default",
@@ -105,6 +245,20 @@
   "published": "2026-10-12T20:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Modern CSS Layouts: Building Responsive Websites Without Unnecessary Complexity",
+  "link": "https://www.sitepoint.com/modern-css-layouts-building-responsive-websites-without-unnecessary-complexity/?utm_source=rss",
+  "published": "2026-10-12T19:16:24"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Writing Maintainable JavaScript: Practical Patterns for Scalable Web Applications",
+  "link": "https://www.sitepoint.com/writing-maintainable-javascript-practical-patterns-for-scalable-web-applications/?utm_source=rss",
+  "published": "2026-10-12T19:11:15"
+ },
+ {
   "blog_name": "Gunnar Morling",
   "blog_url": "https://www.morling.dev/blog/",
   "title": "Row-Group Control, Faster S3 Reads, Footer Caching: Hardwood 1.1.0.Beta2 Is Out",
@@ -117,6 +271,13 @@
   "title": "Russia Was Not Ready For the Data Center War It Started With Ukraine",
   "link": "https://tech.slashdot.org/story/26/10/12/1832205/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-12T19:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building Better Web Forms: Practical HTML, CSS, and JavaScript Techniques for Modern Websites",
+  "link": "https://www.sitepoint.com/building-better-web-forms-practical-html-css-and-javascript-techniques-for-modern-websites/?utm_source=rss",
+  "published": "2026-10-12T18:53:17"
  },
  {
   "blog_name": "Simon Willison",
@@ -420,6 +581,13 @@
   "published": "2026-10-12T06:30:00"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas groupby: Aggregating multiple columns with multiple functions",
+  "link": "https://lernerpython.com/2026/10/12/pandas-groupby-aggregating-multiple-columns-with-multiple-functions/",
+  "published": "2026-10-12T06:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Let's Encrypt to Cut SSL Certificate Lifetimes to 64 Days in February 2027",
@@ -494,6 +662,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Muse Wonder now available on AI Gateway",
   "link": "https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway",
+  "published": "2026-10-12T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Jev and the rise of decision models: what you need to know and why they matter",
+  "link": "https://www.thoughtworks.com/insights/blog/generative-ai/jev-decision-models-what-need-know-why",
   "published": "2026-10-12T00:00:00"
  },
  {
@@ -2293,6 +2468,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
   "link": "https://openai.com/index/radisson",
+  "published": "2026-10-07T07:00:00"
+ },
+ {
+  "blog_name": "PubNub:",
+  "blog_url": "https://www.pubnub.com/blog/",
+  "title": "Why MCP Alone Isn’t Enough for AI-Assisted Real-Time Development",
+  "link": "https://www.pubnub.com/blog/why-mcp-alone-isnt-enough-for-ai-assisted-real-time-development/",
   "published": "2026-10-07T07:00:00"
  },
  {
