@@ -7,11 +7,277 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Disney Offers $20 Million For Character.AI Assets As Startup Files For Bankruptcy",
+  "link": "https://yro.slashdot.org/story/26/10/13/1956200/disney-offers-20-million-for-characterai-assets-as-startup-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-13T22:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
+  "link": "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents/",
+  "published": "2026-10-13T21:33:21"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Kroger to Lay Off 3,000 Corporate Employees In AI Restructuring",
+  "link": "https://slashdot.org/story/26/10/13/1945200/kroger-to-lay-off-3000-corporate-employees-in-ai-restructuring?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-13T21:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "How artificial neural networks build their own learning machinery",
+  "link": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
+  "published": "2026-10-13T21:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology",
+  "link": "https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013",
+  "published": "2026-10-13T20:40:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Building agents that transact with Anchor Browser and AgentCore payments",
+  "link": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/",
+  "published": "2026-10-13T20:10:33"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Ledger Confirms Spy Chip Implant Behind Wallet Crypto Thefts",
+  "link": "https://yro.slashdot.org/story/26/10/13/192236/ledger-confirms-spy-chip-implant-behind-wallet-crypto-thefts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-13T20:00:00"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Announcing .NET 11 Release Candidate 2",
+  "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-rc-2/",
+  "published": "2026-10-13T19:40:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "What's New in Lakeflow Designer - October 2026 Roundup",
+  "link": "https://www.databricks.com/blog/whats-new-lakeflow-designer-october-2026-roundup",
+  "published": "2026-10-13T19:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Anthropic Bans Cruelty Toward Claude",
+  "link": "https://slashdot.org/story/26/10/13/1857238/anthropic-bans-cruelty-toward-claude?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-13T19:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Best HR and Payroll Software for SMBs",
+  "link": "https://www.sitepoint.com/best-hr-payroll-software-smbs/?utm_source=rss",
+  "published": "2026-10-13T18:00:39"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Databricks is a Visionary the Gartner® Magic Quadrant™ for Analytics and Business Intelligence Platforms",
+  "link": "https://www.databricks.com/blog/databricks-visionary-gartnerr-magic-quadranttm-analytics-and-business-intelligence-platforms",
+  "published": "2026-10-13T18:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Launches Flagship AI Model Gemini 4 Argon",
+  "link": "https://tech.slashdot.org/story/26/10/13/1643231/google-launches-flagship-ai-model-gemini-4-argon?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-13T18:00:00"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+  "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+  "published": "2026-10-13T17:56:33"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "Inside Action Gateway in Managed Agents",
+  "link": "https://www.digitalocean.com/blog/action-gateway-managed-agents",
+  "published": "2026-10-13T17:26:28"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Introducing Replit Solutions Partners",
+  "link": "https://replit.com/blog/introducing-replit-solutions-partners",
+  "published": "2026-10-13T17:25:04"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
+  "link": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/",
+  "published": "2026-10-13T17:17:25"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+  "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+  "published": "2026-10-13T17:05:48"
+ },
+ {
+  "blog_name": "Airbnb",
+  "blog_url": "https://medium.com/airbnb-engineering",
+  "title": "CASTLE: training natural language search before the first real query",
+  "link": "https://medium.com/airbnb-engineering/castle-training-natural-language-search-before-the-first-real-query-3818ef8b4828?source=rss----53c7c27702d5---4",
+  "published": "2026-10-13T17:01:02"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "New ways to drive smarter discovery, deeper engagement, and business growth on Google Play",
+  "link": "https://android-developers.googleblog.com/2026/10/new-tools-for-discovery-and-engagement.html",
+  "published": "2026-10-13T17:00:00"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Why Your Sandbox Never Quite Matches Production (And Why That's Fine)",
+  "link": "https://stackoverflow.blog/2026/10/13/why-your-sandbox-never-quite-matches-production-and-why-that-s-fine/",
+  "published": "2026-10-13T16:35:35"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
+  "link": "https://blog.cloudflare.com/d1-control-plane/",
+  "published": "2026-10-13T16:20:18"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Natural language security queries at Orca Security using Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/",
+  "published": "2026-10-13T16:03:31"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
+  "link": "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
+  "published": "2026-10-13T16:01:00"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Bringing our latest frontier model to Android Developers",
+  "link": "https://android-developers.googleblog.com/2026/10/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli.html",
+  "published": "2026-10-13T16:00:00"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
+  "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
+  "published": "2026-10-13T15:59:06"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/",
+  "published": "2026-10-13T15:54:49"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/",
+  "published": "2026-10-13T15:52:20"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Rewinding the exponential: How we keep hardware usage down",
+  "link": "https://blog.cloudflare.com/rewinding-the-exponential/",
+  "published": "2026-10-13T15:51:41"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "TanStack Query vs SWR: How to Choose in Next.js App Router",
+  "link": "https://www.sitepoint.com/tanstack-query-vs-swr-nextjs-app-router/?utm_source=rss",
+  "published": "2026-10-13T15:44:38"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Count Unique Visitors Without Cookies Using Daily Salted Hashes in Express",
+  "link": "https://www.sitepoint.com/count-unique-visitors-without-cookies-tutorial/?utm_source=rss",
+  "published": "2026-10-13T15:43:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Node.js JWKS Endpoint with Crypto: Adding Missing Metadata",
+  "link": "https://www.sitepoint.com/node-js-jwks-endpoint-crypto/?utm_source=rss",
+  "published": "2026-10-13T15:40:17"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Postgres at Open House NYC",
+  "link": "https://clickhouse.com/blog/postgres-at-open-house-nyc",
+  "published": "2026-10-13T15:35:19"
+ },
+ {
+  "blog_name": "Timescale",
+  "blog_url": "https://blog.timescale.com/",
+  "title": "Announcing pg_vectorsearch: Scalable Open-Source Vector Search in PostgreSQL",
+  "link": "https://www.tigerdata.com/blog/announcing-pg_vectorsearch-scalable-open-source-vector-search-postgresql",
+  "published": "2026-10-13T14:40:36"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
+  "link": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/",
+  "published": "2026-10-13T14:19:40"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "The Craft of Practitioner Voice",
+  "link": "https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice",
+  "published": "2026-10-13T14:06:00"
+ },
+ {
   "blog_name": "Raymond Chen",
   "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
   "title": "C++ futures part 2: The mental model for std::promise, std::packaged_task",
   "link": "https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/",
   "published": "2026-10-13T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "How to Use Python: Taking Your First Steps",
+  "link": "https://realpython.com/courses/python-first-steps/",
+  "published": "2026-10-13T14:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "PHP News: A New Site for PHP Releases, RFCs, and Packages",
+  "link": "https://laravel-news.com/php-news?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-13T13:49:25"
  },
  {
   "blog_name": "Martin Fowler",
@@ -49,6 +315,13 @@
   "published": "2026-10-13T13:15:00"
  },
  {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "DigitalOcean Inference Router Enhancements: Performance Tuned Routing, No Rules to Write",
+  "link": "https://www.digitalocean.com/blog/inference-router-enhancements",
+  "published": "2026-10-13T13:00:00"
+ },
+ {
   "blog_name": "Hostinger",
   "blog_url": "https://www.hostinger.com/blog/engineering/",
   "title": "The AI domain rush has stalled, but agentic vocabulary keeps spreading",
@@ -81,6 +354,13 @@
   "blog_url": "https://blog.duolingo.com/",
   "title": "Dear Duolingo: Tell me everything about German sentence structure",
   "link": "https://blog.duolingo.com/german-sentence-structure/",
+  "published": "2026-10-13T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Higgsfield takes AI video from 1 minute to over 10",
+  "link": "https://openai.com/index/higgsfield-longer-videos-voice",
   "published": "2026-10-13T12:00:00"
  },
  {
@@ -196,6 +476,41 @@
   "published": "2026-10-13T00:00:00"
  },
  {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Introducing the Auth0 SDK for TanStack Start",
+  "link": "https://auth0.com/blog/introducing-the-auth0-sdk-for-tanstack-start/",
+  "published": "2026-10-13T00:00:00"
+ },
+ {
+  "blog_name": "Stripe",
+  "blog_url": "https://stripe.com/blog",
+  "title": "The “alien” economics of AI monetization",
+  "link": "https://stripe.com/blog/economics-of-ai-monetization",
+  "published": "2026-10-13T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "MAI-Image-2.6 and MAI-Image-2.6-Flash now available on AI Gateway",
+  "link": "https://vercel.com/changelog/mai-image-2-6-and-mai-image-2-6-flash-now-available-on-ai-gateway",
+  "published": "2026-10-13T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Repository checkout and Git LFS downloads are now faster",
+  "link": "https://vercel.com/changelog/repository-checkout-and-git-lfs-downloads-are-now-faster",
+  "published": "2026-10-13T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Gemini 4 Argon now available on AI Gateway",
+  "link": "https://vercel.com/changelog/gemini-4-argon-now-available-on-ai-gateway",
+  "published": "2026-10-13T00:00:00"
+ },
+ {
   "blog_name": "Laravel",
   "blog_url": "https://laravel-news.com/blog/",
   "title": "Pause Polling in Background Tabs in Inertia.js v3.9",
@@ -242,6 +557,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "Google's Fitbit Edge Debuts a Replaceable Battery, Brings Back the Screen",
   "link": "https://tech.slashdot.org/story/26/10/12/1841208/googles-fitbit-edge-debuts-a-replaceable-battery-brings-back-the-screen?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-12T20:00:00"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": ".NET and .NET Framework October 2026 servicing releases updates",
+  "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2026-servicing-updates/",
   "published": "2026-10-12T20:00:00"
  },
  {
@@ -669,6 +991,13 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "Jev and the rise of decision models: what you need to know and why they matter",
   "link": "https://www.thoughtworks.com/insights/blog/generative-ai/jev-decision-models-what-need-know-why",
+  "published": "2026-10-12T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Now in GA: Power Live Conversations with Segment Conversation Memory Integration",
+  "link": "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga",
   "published": "2026-10-12T00:00:00"
  },
  {
@@ -1593,6 +1922,13 @@
   "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
   "title": "3 Questions: What is the best path forward for AI in academia?",
   "link": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
+  "published": "2026-10-08T21:25:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "3 Questions: What is the best path forward for AI in academia?",
+  "link": "https://news.mit.edu/2026/3-questions-best-path-forward-for-ai-academia-1008",
   "published": "2026-10-08T21:25:00"
  },
  {
@@ -21623,6 +21959,13 @@
   "published": "2025-12-31T08:00:00"
  },
  {
+  "blog_name": "NSHipster",
+  "blog_url": "http://nshipster.com/",
+  "title": "Replay",
+  "link": "https://nshipster.com/replay",
+  "published": "2025-12-31T08:00:00"
+ },
+ {
   "blog_name": "Aaron Patterson",
   "blog_url": "http://tenderlovemaking.com/",
   "title": "Cat Pics",
@@ -22288,6 +22631,13 @@
   "published": "2025-10-01T07:00:00"
  },
  {
+  "blog_name": "NSHipster",
+  "blog_url": "http://nshipster.com/",
+  "title": "Manim",
+  "link": "https://nshipster.com/manim",
+  "published": "2025-10-01T07:00:00"
+ },
+ {
   "blog_name": "Erik Runyon",
   "blog_url": "https://erikrunyon.com/",
   "title": "Digital Collegium 2025",
@@ -22533,6 +22883,13 @@
   "published": "2025-08-04T07:00:00"
  },
  {
+  "blog_name": "NSHipster",
+  "blog_url": "http://nshipster.com/",
+  "title": "@isolated(any)",
+  "link": "https://nshipster.com/isolated-any",
+  "published": "2025-08-04T07:00:00"
+ },
+ {
   "blog_name": "V8 Team",
   "blog_url": "https://v8.dev/",
   "title": "How we made JSON.stringify more than twice as fast",
@@ -22558,6 +22915,13 @@
   "blog_url": "http://nshipster.com/",
   "title": "Uncertain⟨T⟩",
   "link": "https://nshipster.com/uncertainty/",
+  "published": "2025-07-25T07:00:00"
+ },
+ {
+  "blog_name": "NSHipster",
+  "blog_url": "http://nshipster.com/",
+  "title": "Uncertain⟨T⟩",
+  "link": "https://nshipster.com/uncertainty",
   "published": "2025-07-25T07:00:00"
  },
  {
@@ -23083,6 +23447,13 @@
   "blog_url": "http://nshipster.com/",
   "title": "Model Context Protocol (MCP)",
   "link": "https://nshipster.com/model-context-protocol/",
+  "published": "2025-03-07T08:00:00"
+ },
+ {
+  "blog_name": "NSHipster",
+  "blog_url": "http://nshipster.com/",
+  "title": "Model Context Protocol (MCP)",
+  "link": "https://nshipster.com/model-context-protocol",
   "published": "2025-03-07T08:00:00"
  },
  {
