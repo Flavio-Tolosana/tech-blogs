@@ -14,10 +14,234 @@
   "published": "2026-10-15T00:06:48"
  },
  {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "Harbor + Docker Sandboxes: Run Safe, Reproducible Agent Evals",
+  "link": "https://www.docker.com/blog/harbor-docker-sandboxes-run-safe-reproducible-agent-evals/",
+  "published": "2026-10-14T21:45:27"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Epic Games' New Vibe-Coded Launcher Is 46% Faster Than Steam",
+  "link": "https://games.slashdot.org/story/26/10/14/1928203/epic-games-new-vibe-coded-launcher-is-46-faster-than-steam?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-14T21:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
+  "link": "https://blog.cloudflare.com/yandex-outage/",
+  "published": "2026-10-14T20:24:19"
+ },
+ {
+  "blog_name": "Capital One Tech",
+  "blog_url": "https://medium.com/capital-one-tech",
+  "title": "USC and Capital One announce 2026–2027 AI research awards",
+  "link": "https://medium.com/capital-one-tech/usc-and-capital-one-announce-2026-2027-ai-research-awards-f06209933d6c?source=rss----3db3a67cb648---4",
+  "published": "2026-10-14T20:20:03"
+ },
+ {
+  "blog_name": "Netflix",
+  "blog_url": "https://medium.com/netflix-techblog",
+  "title": "Integrating Netflix’s Foundation Model into Personalization applications",
+  "link": "https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4",
+  "published": "2026-10-14T20:02:22"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "GitHub availability report: September 2026",
+  "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+  "published": "2026-10-14T20:01:35"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Power real-time applications and agents with Document Intelligence",
+  "link": "https://www.databricks.com/blog/power-real-time-applications-and-agents-document-intelligence",
+  "published": "2026-10-14T20:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "US Tech Giants Warn Europe That Data Sovereignty Requirements Could Cost $128 Billion",
+  "link": "https://news.slashdot.org/story/26/10/14/1849228/us-tech-giants-warn-europe-that-data-sovereignty-requirements-could-cost-128-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-14T20:00:00"
+ },
+ {
+  "blog_name": "Netflix",
+  "blog_url": "https://medium.com/netflix-techblog",
+  "title": "DataJunction as Netflix’s answer to the missing piece of the modern data stack",
+  "link": "https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4",
+  "published": "2026-10-14T19:59:08"
+ },
+ {
+  "blog_name": "Netflix",
+  "blog_url": "https://medium.com/netflix-techblog",
+  "title": "Measuring the Impact of Personalized Recommendations",
+  "link": "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4",
+  "published": "2026-10-14T19:57:43"
+ },
+ {
+  "blog_name": "Netflix",
+  "blog_url": "https://medium.com/netflix-techblog",
+  "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads",
+  "link": "https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
+  "published": "2026-10-14T19:56:08"
+ },
+ {
+  "blog_name": "Netflix",
+  "blog_url": "https://medium.com/netflix-techblog",
+  "title": "Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II",
+  "link": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
+  "published": "2026-10-14T19:51:35"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
+  "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/",
+  "published": "2026-10-14T19:30:48"
+ },
+ {
+  "blog_name": "GitHub",
+  "blog_url": "https://githubengineering.com/",
+  "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+  "link": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+  "published": "2026-10-14T19:11:33"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Is Silently Linking Your Phone Number Across All Signed-In Accounts",
+  "link": "https://tech.slashdot.org/story/26/10/14/1832230/google-is-silently-linking-your-phone-number-across-all-signed-in-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-14T19:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Test Real Mobile Behavior on Actual Devices",
+  "link": "https://www.sitepoint.com/test-real-mobile-behavior-actual-devices/?utm_source=rss",
+  "published": "2026-10-14T18:21:37"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Anthropic Warns Small AI Models Could Self-Replicate Through IoT Devices",
+  "link": "https://it.slashdot.org/story/26/10/14/1743259/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-14T18:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "How Ridgeline unified Iceberg and ClickHouse into one analytics layer for investment management",
+  "link": "https://clickhouse.com/blog/ridgeline-iceberg-clickhouse-cloud",
+  "published": "2026-10-14T17:36:29"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Your next job doesn’t have a title yet: Emerging role skills Q&A with Corey Hymel of Andela",
+  "link": "https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela/",
+  "published": "2026-10-14T17:12:00"
+ },
+ {
+  "blog_name": "Heroku",
+  "blog_url": "https://www.heroku.com/blog/",
+  "title": "Improved Static Website Support on Heroku with Front-End Web Cloud Native Buildpack",
+  "link": "https://www.heroku.com/blog/improved-static-website-support-with-front-end-web-cloud-native-buildpack/",
+  "published": "2026-10-14T17:00:17"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Play Now Lets Anyone Build Private, Vibe-Coded Apps That Run On Android",
+  "link": "https://tech.slashdot.org/story/26/10/14/1529232/google-play-now-lets-anyone-build-private-vibe-coded-apps-that-run-on-android?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-14T17:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
+  "published": "2026-10-14T16:24:07"
+ },
+ {
+  "blog_name": "Hayden James",
+  "blog_url": "https://haydenjames.io/",
+  "title": "Linux perf Command: CPU Profiling and Performance Analysis",
+  "link": "https://linuxblog.io/linux-perf-command/",
+  "published": "2026-10-14T16:22:46"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+  "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+  "published": "2026-10-14T16:12:42"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
+  "link": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/",
+  "published": "2026-10-14T16:10:45"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 24.22.0 (LTS)",
+  "link": "https://nodejs.org/en/blog/release/v24.22.0",
+  "published": "2026-10-14T15:26:48"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 26.12.0 (Current)",
+  "link": "https://nodejs.org/en/blog/release/v26.12.0",
+  "published": "2026-10-14T15:23:06"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Researchers improve weather forecasts looking two to six weeks out",
+  "link": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+  "published": "2026-10-14T15:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Your JavaScript Character Counter Is Probably Wrong: Unicode Explained",
+  "link": "https://www.sitepoint.com/your-javascript-character-counter-is-probably-wrong-unicode-explained/?utm_source=rss",
+  "published": "2026-10-14T14:38:28"
+ },
+ {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "Feature stores in real-time ML, part 3:  Examples from Nubank",
+  "link": "https://building.nu.com/feature-stores-in-real-time-ml-part-3-examples-from-nubank/",
+  "published": "2026-10-14T14:36:17"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Build your slide template",
+  "link": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html",
+  "published": "2026-10-14T14:20:00"
+ },
+ {
   "blog_name": "Databricks",
   "blog_url": "https://databricks.com/blog",
   "title": "Introducing Private Network Gateway",
   "link": "https://www.databricks.com/blog/introducing-private-network-gateway",
+  "published": "2026-10-14T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Gemini 4 Argon Draws a Python Reading a Book",
+  "link": "https://realpython.com/ai-benchmark-gemini-4-argon/",
   "published": "2026-10-14T14:00:00"
  },
  {
@@ -84,6 +308,20 @@
   "published": "2026-10-14T12:00:00"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Amp puts AI agents to work beyond code with OpenAI models",
+  "link": "https://openai.com/index/amp-beyond-coding",
+  "published": "2026-10-14T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "SentinelOne cuts malware analysis from weeks to hours",
+  "link": "https://openai.com/index/sentinelone",
+  "published": "2026-10-14T12:00:00"
+ },
+ {
   "blog_name": "Kotlin",
   "blog_url": "https://blog.jetbrains.com/kotlin/",
   "title": "KotlinConf Recap: Lessons from Verifone’s Architect on Kotlin in Mission-Critical Payments",
@@ -96,6 +334,13 @@
   "title": "Anthropic Reinvents Source Control As Claude Floods the World With Code",
   "link": "https://developers.slashdot.org/story/26/10/14/0244248/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-14T11:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building a Reliable After-Hours Call-Routing Workflow with TypeScript",
+  "link": "https://www.sitepoint.com/building-a-reliable-after-hours-call-routing-workflow-with-typescript/?utm_source=rss",
+  "published": "2026-10-14T09:41:15"
  },
  {
   "blog_name": "Clickhouse",
@@ -123,6 +368,34 @@
   "blog_url": "https://slashdot.org/",
   "title": "Skydance's Discovery+ Prices Increase By Up to 20%",
   "link": "https://news.slashdot.org/story/26/10/14/0315235/skydances-discovery-prices-increase-by-up-to-20?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-14T07:00:00"
+ },
+ {
+  "blog_name": "Ebay",
+  "blog_url": "https://www.ebayinc.com/stories/blogs/tech/",
+  "title": "8 surprising things we learned from eBay’s 2026 Recommerce Report",
+  "link": "https://www.ebayinc.com/stories/news/surprising-things-we-learned-from-ebays-2026-recommerce-report/",
+  "published": "2026-10-14T07:00:00"
+ },
+ {
+  "blog_name": "Ebay",
+  "blog_url": "https://www.ebayinc.com/stories/blogs/tech/",
+  "title": "Inside Minerva: building scalable observability for eBay’s monetization platform",
+  "link": "https://innovation.ebayinc.com/stories/inside-minerva-building-scalable-observability-for-ebays-monetization-platform/",
+  "published": "2026-10-14T07:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+  "link": "https://openai.com/index/third-moment-research",
+  "published": "2026-10-14T07:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Findings from the $1M Vercel Sandbox challenge",
+  "link": "https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge",
   "published": "2026-10-14T07:00:00"
  },
  {
@@ -189,6 +462,13 @@
   "published": "2026-10-14T03:30:00"
  },
  {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Wednesday, October 21, 2026 Security Releases",
+  "link": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+  "published": "2026-10-14T03:00:00"
+ },
+ {
   "blog_name": "Google DeepMind",
   "blog_url": "https://deepmind.google/discover/blog/",
   "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -242,6 +522,48 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "AI Agent Harness",
   "link": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/ai-agent-harness",
+  "published": "2026-10-14T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "One SDK, Multiple Platforms: Introducing the Auth0 SDK for Kotlin Multiplatform",
+  "link": "https://auth0.com/blog/introducing-the-auth0-sdk-for-kotlin-multiplatform/",
+  "published": "2026-10-14T00:00:00"
+ },
+ {
+  "blog_name": "Evil Martians",
+  "blog_url": "https://evilmartians.com/chronicles/",
+  "title": "Don’t get burned, make your Stripe MRR boring and correct",
+  "link": "https://evilmartians.com/chronicles/dont-get-burned-make-your-stripe-mrr-boring-and-correct",
+  "published": "2026-10-14T00:00:00"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "Scale your team's use of AWS IAM account access manager with Pulumi",
+  "link": "https://www.pulumi.com/blog/scale-your-teams-use-of-aws-iam-account-access-manager-with-pulumi/",
+  "published": "2026-10-14T00:00:00"
+ },
+ {
+  "blog_name": "Go",
+  "blog_url": "https://blog.golang.org/",
+  "title": "Better HTTP/1 connection reuse",
+  "link": "https://go.dev/blog/http-connection-reuse",
+  "published": "2026-10-14T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Amazon S3 joins the Vercel Marketplace",
+  "link": "https://vercel.com/changelog/amazon-s3-joins-the-vercel-marketplace",
+  "published": "2026-10-14T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Nemotron 3.5 Lightning now available on AI Gateway for free",
+  "link": "https://vercel.com/changelog/nemotron-3-5-lightning-now-available-on-ai-gateway-for-free",
   "published": "2026-10-14T00:00:00"
  },
  {
