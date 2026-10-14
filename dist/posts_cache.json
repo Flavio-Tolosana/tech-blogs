@@ -7,6 +7,55 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Daniel Stenberg",
+  "blog_url": "https://daniel.haxx.se/blog/",
+  "title": "curl 8.23.0",
+  "link": "https://daniel.haxx.se/blog/2026/10/14/curl-8-23-0/",
+  "published": "2026-10-14T06:01:43"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "FBI Arrests Saudi OpenAI Employee For Planting Recording Device In Conference Room",
+  "link": "https://yro.slashdot.org/story/26/10/14/0231224/fbi-arrests-saudi-openai-employee-for-planting-recording-device-in-conference-room?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-14T03:30:00"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+  "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+  "published": "2026-10-14T02:00:14"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "PGO for Faster Apps and Generational/Adaptive GC",
+  "link": "https://www.codenameone.com/blog/gc-memory-budget-performance/",
+  "published": "2026-10-14T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "The real AI project at your airport isn't an AI project",
+  "link": "https://www.thoughtworks.com/insights/blog/technology-strategy/the-real-ai-project-at-your-airport-isnt-an-ai-project",
+  "published": "2026-10-14T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "GTA 6 Is Reportedly Coming to PC In Early 2027",
+  "link": "https://games.slashdot.org/story/26/10/13/204232/gta-6-is-reportedly-coming-to-pc-in-early-2027?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-13T23:00:00"
+ },
+ {
+  "blog_name": "Chris Wellons",
+  "blog_url": "http://nullprogram.com/",
+  "title": "tugz: a new deflate library with three applications",
+  "link": "https://nullprogram.com/blog/2026/10/13/",
+  "published": "2026-10-13T22:32:24"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Disney Offers $20 Million For Character.AI Assets As Startup Files For Bankruptcy",
@@ -56,11 +105,25 @@
   "published": "2026-10-13T20:00:00"
  },
  {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Developing Gemini 4 Argon responsibly and safely",
+  "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+  "published": "2026-10-13T19:43:07"
+ },
+ {
   "blog_name": ".NET",
   "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
   "title": "Announcing .NET 11 Release Candidate 2",
   "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-rc-2/",
   "published": "2026-10-13T19:40:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "A practical guide to real-time analytics in 2026",
+  "link": "https://www.databricks.com/blog/practical-guide-real-time-analytics-2026",
+  "published": "2026-10-13T19:17:26"
  },
  {
   "blog_name": "Databricks",
@@ -166,6 +229,20 @@
   "title": "Natural language security queries at Orca Security using Amazon Bedrock",
   "link": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/",
   "published": "2026-10-13T16:03:31"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Gemini 4 Argon for Robotics",
+  "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+  "published": "2026-10-13T16:01:58"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Gemini 4 Argon: Built to solve your hardest problems",
+  "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+  "published": "2026-10-13T16:01:52"
  },
  {
   "blog_name": "Facebook",
@@ -508,6 +585,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Gemini 4 Argon now available on AI Gateway",
   "link": "https://vercel.com/changelog/gemini-4-argon-now-available-on-ai-gateway",
+  "published": "2026-10-13T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Drama 3 now available on AI Gateway",
+  "link": "https://vercel.com/changelog/drama-3-now-available-on-ai-gateway",
   "published": "2026-10-13T00:00:00"
  },
  {
