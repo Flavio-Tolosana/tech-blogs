@@ -7,11 +7,179 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Sizing Lakebase Search: lessons from a real app and 4 million passages",
+  "link": "https://www.databricks.com/blog/sizing-lakebase-search-lessons-real-app-and-4-million-passages",
+  "published": "2026-10-15T00:06:48"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Introducing Private Network Gateway",
+  "link": "https://www.databricks.com/blog/introducing-private-network-gateway",
+  "published": "2026-10-14T14:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Generate presentations with Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
+  "published": "2026-10-14T13:58:43"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/",
+  "published": "2026-10-14T13:53:33"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Deploy and evaluate models with Amazon SageMaker JumpStart",
+  "link": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/",
+  "published": "2026-10-14T13:14:36"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "vLLM vs. SGLang: Choosing the right inference engine for your workload",
+  "link": "https://developers.redhat.com/articles/2026/10/14/vllm-vs-sglang-choosing-the-right-inference-engine-for-your-workload",
+  "published": "2026-10-14T13:01:50"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Configure Red Hat OpenShift Dev Spaces for enterprise security",
+  "link": "https://developers.redhat.com/articles/2026/10/14/configure-red-hat-openshift-dev-spaces-enterprise-security",
+  "published": "2026-10-14T13:01:48"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
+  "link": "https://blog.cloudflare.com/hyperdrive-mysql/",
+  "published": "2026-10-14T13:00:00"
+ },
+ {
+  "blog_name": "Blender",
+  "blog_url": "https://code.blender.org/",
+  "title": "BCON26 Talks by Blender Developers",
+  "link": "https://code.blender.org/2026/10/bcon26-talks-by-blender-developers/",
+  "published": "2026-10-14T12:26:59"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Understanding iptables with WireGuard",
+  "link": "https://spin.atomicobject.com/iptables-with-wireguard/",
+  "published": "2026-10-14T12:00:22"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python and PyQt: Building a GUI Desktop Calculator",
+  "link": "https://realpython.com/quizzes/python-pyqt-gui-calculator/",
+  "published": "2026-10-14T12:00:00"
+ },
+ {
+  "blog_name": "Kotlin",
+  "blog_url": "https://blog.jetbrains.com/kotlin/",
+  "title": "KotlinConf Recap: Lessons from Verifone’s Architect on Kotlin in Mission-Critical Payments",
+  "link": "https://blog.jetbrains.com/kotlin/2026/10/kotlinconf-recap-lessons-from-verifone-s-architect-on-kotlin-in-mission-critical-payments/",
+  "published": "2026-10-14T11:03:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Anthropic Reinvents Source Control As Claude Floods the World With Code",
+  "link": "https://developers.slashdot.org/story/26/10/14/0244248/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-14T11:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Why Redshift Serverless can’t match ClickHouse Cloud for real-time analytics",
+  "link": "https://clickhouse.com/blog/clickhouse-vs-redshift-serverless-real-time-performance-per-dollar",
+  "published": "2026-10-14T09:07:30"
+ },
+ {
+  "blog_name": "Daniel Stenberg",
+  "blog_url": "https://daniel.haxx.se/blog/",
+  "title": "A curl audit by Aisle",
+  "link": "https://daniel.haxx.se/blog/2026/10/14/a-curl-audit-by-aisle/",
+  "published": "2026-10-14T09:02:43"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Submarine cable resilience",
+  "link": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+  "published": "2026-10-14T07:15:54"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Skydance's Discovery+ Prices Increase By Up to 20%",
+  "link": "https://news.slashdot.org/story/26/10/14/0315235/skydances-discovery-prices-increase-by-up-to-20?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-14T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Representative Line: A Diamond in the Rough",
+  "link": "https://thedailywtf.com/articles/a-diamond-in-the-rough",
+  "published": "2026-10-14T06:30:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Hostinger cuts server response times by up to 35% without expanding infrastructure",
+  "link": "https://www.hostinger.com/blog/cdn-all-clients/",
+  "published": "2026-10-14T06:23:07"
+ },
+ {
+  "blog_name": "Daniel Stenberg",
+  "blog_url": "https://daniel.haxx.se/blog/",
+  "title": "A UAF turned RCE",
+  "link": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/",
+  "published": "2026-10-14T06:11:02"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+  "link": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+  "published": "2026-10-14T06:04:15"
+ },
+ {
   "blog_name": "Daniel Stenberg",
   "blog_url": "https://daniel.haxx.se/blog/",
   "title": "curl 8.23.0",
   "link": "https://daniel.haxx.se/blog/2026/10/14/curl-8-23-0/",
   "published": "2026-10-14T06:01:43"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+  "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+  "published": "2026-10-14T06:00:28"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Move a Site Off cPanel to Another Control Panel Without Downtime",
+  "link": "https://www.sitepoint.com/how-to-move-a-site-off-cpanel-to-another-control-panel-without-downtime/?utm_source=rss",
+  "published": "2026-10-14T04:49:28"
+ },
+ {
+  "blog_name": "Gleb Bahmutov",
+  "blog_url": "https://glebbahmutov.com/blog/",
+  "title": "Cypress Test For Optional Data",
+  "link": "https://glebbahmutov.com/blog/cypress-test-for-optional-data/",
+  "published": "2026-10-14T04:00:00"
  },
  {
   "blog_name": "Slashdot",
@@ -28,6 +196,13 @@
   "published": "2026-10-14T02:00:14"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Rule Builders for Every Validation Rule in Laravel 13.36",
+  "link": "https://laravel-news.com/laravel-13-36-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-14T00:06:57"
+ },
+ {
   "blog_name": "CodeName One",
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "PGO for Faster Apps and Generational/Adaptive GC",
@@ -39,6 +214,34 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "The real AI project at your airport isn't an AI project",
   "link": "https://www.thoughtworks.com/insights/blog/technology-strategy/the-real-ai-project-at-your-airport-isnt-an-ai-project",
+  "published": "2026-10-14T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Retrieve a Phone Number's SMS Pumping Score in Rust",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms-pumping-risk-score-rust",
+  "published": "2026-10-14T00:00:00"
+ },
+ {
+  "blog_name": "IPFS",
+  "blog_url": "https://ipfs.io/blog/",
+  "title": "New Stewards for Public IPFS Network Services",
+  "link": "https://blog.ipfs.tech/2026-10-new-stewards-public-network-services/",
+  "published": "2026-10-14T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "The EU’s next chapter in AI is agentic",
+  "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+  "published": "2026-10-14T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "AI Agent Harness",
+  "link": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/ai-agent-harness",
   "published": "2026-10-14T00:00:00"
  },
  {
@@ -105,6 +308,13 @@
   "published": "2026-10-13T20:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "A Practical Guide to Testing JavaScript Functions Without Overcomplicating Your Workflow",
+  "link": "https://www.sitepoint.com/a-practical-guide-to-testing-javascript-functions-without-overcomplicating-your-workflow/?utm_source=rss",
+  "published": "2026-10-13T19:48:46"
+ },
+ {
   "blog_name": "Google DeepMind",
   "blog_url": "https://deepmind.google/discover/blog/",
   "title": "Developing Gemini 4 Argon responsibly and safely",
@@ -112,11 +322,25 @@
   "published": "2026-10-13T19:43:07"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building Accessible Navigation Menus with Modern HTML, CSS, and JavaScript",
+  "link": "https://www.sitepoint.com/building-accessible-navigation-menus-with-modern-html-css-and-javascript/?utm_source=rss",
+  "published": "2026-10-13T19:41:45"
+ },
+ {
   "blog_name": ".NET",
   "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
   "title": "Announcing .NET 11 Release Candidate 2",
   "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-rc-2/",
   "published": "2026-10-13T19:40:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Beyond Faster Load Times: Practical Web Performance Optimization for Modern Applications",
+  "link": "https://www.sitepoint.com/beyond-faster-load-times-practical-web-performance-optimization-for-modern-applications/?utm_source=rss",
+  "published": "2026-10-13T19:35:18"
  },
  {
   "blog_name": "Databricks",
@@ -592,6 +816,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Drama 3 now available on AI Gateway",
   "link": "https://vercel.com/changelog/drama-3-now-available-on-ai-gateway",
+  "published": "2026-10-13T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Cyber Week Readiness: A Developer's Guide to Scalable Comms",
+  "link": "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week",
   "published": "2026-10-13T00:00:00"
  },
  {
