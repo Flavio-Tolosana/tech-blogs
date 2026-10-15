@@ -7,11 +7,298 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Flock CEO Defends Surveillance Tech Amid National Backlash",
+  "link": "https://yro.slashdot.org/story/26/10/15/1941247/flock-ceo-defends-surveillance-tech-amid-national-backlash?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-15T21:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
+  "link": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
+  "published": "2026-10-15T21:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Reducing the noise: How Atlassian built an OCSF security lakehouse on Databricks",
+  "link": "https://www.databricks.com/blog/reducing-noise-how-atlassian-built-ocsf-security-lakehouse-databricks",
+  "published": "2026-10-15T20:50:26"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "AI model decodes the language cells use to communicate",
+  "link": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+  "published": "2026-10-15T20:50:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+  "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+  "published": "2026-10-15T20:34:01"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Android Developers Blog is moving",
+  "link": "https://android-developers.googleblog.com/2026/10/android-developers-blog-is-moving.html",
+  "published": "2026-10-15T20:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "First-Ever Public Confirmation of 'Zero-Click' Spyware Delivered Via Targeted Ads",
+  "link": "https://tech.slashdot.org/story/26/10/15/1822259/first-ever-public-confirmation-of-zero-click-spyware-delivered-via-targeted-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-15T20:00:00"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "The next developer interface is ambient intelligence",
+  "link": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+  "published": "2026-10-15T19:39:27"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "How Meta Built Forum With AI-Native Engineering",
+  "link": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+  "published": "2026-10-15T19:00:03"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Meta and Apple Bring Muse Spark Open AI Model to Mac Studio",
+  "link": "https://apple.slashdot.org/story/26/10/15/189249/meta-and-apple-bring-muse-spark-open-ai-model-to-mac-studio?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-15T19:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Bringing GPT-Rosalind to academic research labs",
+  "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+  "published": "2026-10-15T19:00:00"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale",
+  "link": "https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/",
+  "published": "2026-10-15T18:30:29"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+  "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
+  "published": "2026-10-15T18:01:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+  "link": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/",
+  "published": "2026-10-15T18:00:01"
+ },
+ {
+  "blog_name": "GitHub",
+  "blog_url": "https://githubengineering.com/",
+  "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+  "link": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+  "published": "2026-10-15T18:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Microsoft Says Windows 11 Is Now 'More Responsive', Runs Better On 8GB of RAM",
+  "link": "https://tech.slashdot.org/story/26/10/15/1741225/microsoft-says-windows-11-is-now-more-responsive-runs-better-on-8gb-of-ram?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-15T18:00:00"
+ },
+ {
+  "blog_name": "Jeffrey Zeldman",
+  "blog_url": "https://zeldman.com/",
+  "title": "Silly Old Bear",
+  "link": "https://zeldman.com/2026/10/15/pooh-bear/",
+  "published": "2026-10-15T17:57:57"
+ },
+ {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "Squeezing ~2× MFU out of our training runs",
+  "link": "https://building.nu.com/squeezing-2x-mfu-out-of-our-training-runs/",
+  "published": "2026-10-15T17:53:22"
+ },
+ {
+  "blog_name": "Daniel Stenberg",
+  "blog_url": "https://daniel.haxx.se/blog/",
+  "title": "OSI approved the curl license",
+  "link": "https://daniel.haxx.se/blog/2026/10/15/osi-approved-the-curl-license/",
+  "published": "2026-10-15T17:47:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+  "link": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
+  "published": "2026-10-15T17:43:35"
+ },
+ {
+  "blog_name": "SurveyMonkey",
+  "blog_url": "https://engineering.surveymonkey.com/",
+  "title": "SurveyMonkey Trends 2027 | Dropping October 27",
+  "link": "https://www.surveymonkey.com/curiosity/surveymonkey-trends-2027-report-interest/?ut_source=rss",
+  "published": "2026-10-15T17:35:13"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Geospatial queries are up to 38X faster with Lakehouse//RT",
+  "link": "https://www.databricks.com/blog/geospatial-queries-are-38x-faster-lakehousert",
+  "published": "2026-10-15T17:31:02"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Amazon Launches New Bee 'Personal AI' Devices That Listen to Conversations",
+  "link": "https://yro.slashdot.org/story/26/10/15/1718232/amazon-launches-new-bee-personal-ai-devices-that-listen-to-conversations?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-15T17:20:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "A fully programmable secure web gateway",
+  "link": "https://blog.cloudflare.com/programmable-gateway-dlp/",
+  "published": "2026-10-15T17:11:12"
+ },
+ {
+  "blog_name": "Heroku",
+  "blog_url": "https://www.heroku.com/blog/",
+  "title": "Front-End Web Deep Dive: Runtime Config",
+  "link": "https://www.heroku.com/blog/front-end-web-deep-dive-runtime-config/",
+  "published": "2026-10-15T17:00:42"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+  "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+  "published": "2026-10-15T17:00:23"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/",
   "title": "Why your platform team shouldn't build an AI context layer (even though they probably could)",
   "link": "https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/",
   "published": "2026-10-15T17:00:00"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Introducing dotnetup: A toolchain manager for .NET",
+  "link": "https://devblogs.microsoft.com/dotnet/introducing-dotnetup/",
+  "published": "2026-10-15T16:50:00"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "Building a computer that can pause and resume in milliseconds: Inside the MicroVM architecture behind Managed Agents",
+  "link": "https://www.digitalocean.com/blog/microvm-architecture",
+  "published": "2026-10-15T16:29:58"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+  "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+  "published": "2026-10-15T16:08:03"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "When AI-Generated Documentation Is Unreadable: A CI Playbook",
+  "link": "https://www.sitepoint.com/ai-generated-documentation-human-readable/?utm_source=rss",
+  "published": "2026-10-15T16:05:42"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Vibe Coded App Security Audit: How to Vet Code Before Running It",
+  "link": "https://www.sitepoint.com/vibe-coded-app-security-audit-playbook/?utm_source=rss",
+  "published": "2026-10-15T16:03:50"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Dark Mode CSS Variables: Build a Modern Theme with light-dark()",
+  "link": "https://www.sitepoint.com/dark-mode-css-variables-light-dark/?utm_source=rss",
+  "published": "2026-10-15T16:01:42"
+ },
+ {
+  "blog_name": "Microsoft Edge",
+  "blog_url": "https://blogs.windows.com/msedgedev/",
+  "title": "Faster protection, fewer interruptions: How Microsoft Edge is rethinking updates",
+  "link": "https://blogs.windows.com/msedgedev/2026/10/15/faster-protection-fewer-interruptions-how-microsoft-edge-is-rethinking-updates/",
+  "published": "2026-10-15T16:01:39"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "Sapienz Receives ISSTA 2026 Impact Paper Award",
+  "link": "https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/",
+  "published": "2026-10-15T16:00:59"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Next.js Caching: How to Fix revalidate Failures and Stale Data",
+  "link": "https://www.sitepoint.com/nextjs-caching-revalidate-not-working/?utm_source=rss",
+  "published": "2026-10-15T15:48:29"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "TypeScript Discriminated Unions: Refactoring Boolean Flags into State Machines",
+  "link": "https://www.sitepoint.com/typescript-discriminated-unions-exhaustive-checking/?utm_source=rss",
+  "published": "2026-10-15T15:40:11"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Trust in Depth: Giving agents more autonomy without losing control",
+  "link": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/",
+  "published": "2026-10-15T15:05:35"
+ },
+ {
+  "blog_name": "Kotlin",
+  "blog_url": "https://blog.jetbrains.com/kotlin/",
+  "title": "Google Summer of Code 2026 With the Kotlin Foundation: Recap",
+  "link": "https://blog.jetbrains.com/kotlin/2026/10/google-summer-of-code-2026-with-kotlin/",
+  "published": "2026-10-15T15:03:05"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Optimized support for Open NVIDIA Nemotron 3.5 Super VL",
+  "link": "https://developers.redhat.com/articles/2026/10/15/optimized-support-open-nvidia-nemotron-3-5-super-vl",
+  "published": "2026-10-15T15:01:25"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+  "link": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+  "published": "2026-10-15T15:00:24"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "OLTP is expensive, you can ClickHouse it.",
+  "link": "https://clickhouse.com/blog/oltp-is-expensive-you-can-clickhouse-it",
+  "published": "2026-10-15T14:59:39"
  },
  {
   "blog_name": "Cloudflare",
@@ -21,11 +308,25 @@
   "published": "2026-10-15T14:00:00"
  },
  {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "C++ futures part 4: What if I want an immediate on-thread std::async?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/",
+  "published": "2026-10-15T14:00:00"
+ },
+ {
   "blog_name": "Martin Fowler",
   "blog_url": "https://martinfowler.com/",
   "title": "When Software Meets Hardware",
   "link": "https://martinfowler.com/articles/software-meets-hardware.html",
   "published": "2026-10-15T13:25:00"
+ },
+ {
+  "blog_name": "SurveyMonkey",
+  "blog_url": "https://engineering.surveymonkey.com/",
+  "title": "SurveyMonkey Research: AI Sentiment Study",
+  "link": "https://www.surveymonkey.com/curiosity/surveymonkey-research-ai-sentiment-study/?ut_source=rss",
+  "published": "2026-10-15T13:15:50"
  },
  {
   "blog_name": "Red Hat",
@@ -147,6 +448,41 @@
   "published": "2026-10-15T07:00:00"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Open weight takes 71.5% of tokens and 23% of spend",
+  "link": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+  "published": "2026-10-15T07:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel for Enterprise",
+  "link": "https://vercel.com/blog/vercel-for-enterprise",
+  "published": "2026-10-15T07:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Introducing Vercel Drives: persistent storage for agents",
+  "link": "https://vercel.com/blog/introducing-vercel-drives-persistent-storage-for-agents",
+  "published": "2026-10-15T07:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Backends on Vercel: Python, containers, and Daemons",
+  "link": "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
+  "published": "2026-10-15T07:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Python on Vercel is now generally available",
+  "link": "https://vercel.com/blog/python-on-vercel-is-now-generally-available",
+  "published": "2026-10-15T07:00:00"
+ },
+ {
   "blog_name": "The Daily WTF",
   "blog_url": "http://thedailywtf.com/",
   "title": "The Frist Line of Defense",
@@ -231,11 +567,88 @@
   "published": "2026-10-15T00:00:00"
  },
  {
+  "blog_name": "Stripe",
+  "blog_url": "https://stripe.com/blog",
+  "title": "Sync real-time Stripe data to Postgres with Stripe Data Pipeline",
+  "link": "https://stripe.com/blog/real-time-stripe-data-postgres",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "AI-Assisted Feature Development for iOS [SUBSCRIBER]",
+  "link": "https://www.kodeco.com/ios/paths/planning-building-features-ai/53684583-ai-assisted-feature-development-for-ios",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "Bootstrap.com",
+  "blog_url": "https://blog.getbootstrap.com/",
+  "title": "Triaging open source with agents",
+  "link": "https://blog.getbootstrap.com/2026/10/15/triaging-bootstrap-with-claude-agents/",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "Rust",
+  "blog_url": "https://blog.rust-lang.org/",
+  "title": "Announcing Rust 1.99.1",
+  "link": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "Pulumi ESC now issues OIDC tokens for any service",
+  "link": "https://www.pulumi.com/blog/esc-oidc-tokens-for-any-service/",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+  "link": "https://huggingface.co/blog/meta-muse-spark-open",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Welcome FLUX.3 Image Klein in Diffusers",
+  "link": "https://huggingface.co/blog/flux-3",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Introducing Scout 1.0: A new SRE model powering Bits AI with frontier performance at a fraction of the cost",
+  "link": "https://www.datadoghq.com/blog/ai/introducing-scout-sre-specialized-model-bits-ai/",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Monitor the performance of critical steps in user journeys with RUM operations",
+  "link": "https://www.datadoghq.com/blog/rum-operations-monitoring/",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "How Kubernetes DRA can improve GPU utilization and cut costs",
+  "link": "https://www.datadoghq.com/blog/how-kubernetes-dra-can-improve-gpu-utilization-and-cut-costs/",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
   "blog_name": "Databricks",
   "blog_url": "https://databricks.com/blog",
   "title": "Unlock powerful insights and forecasts with Predictive AI Functions",
   "link": "https://www.databricks.com/blog/unlock-powerful-insights-and-forecasts-predictive-ai-functions",
   "published": "2026-10-14T23:30:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laravel URL AI Transformer: Extract Structured Data From URLs",
+  "link": "https://laravel-news.com/laravel-url-ai-transformer?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-14T23:29:42"
  },
  {
   "blog_name": "APNIC",
@@ -250,6 +663,13 @@
   "title": "Eight US States Sue OpenAI, Claiming ChatGPT Harms Young Users",
   "link": "https://yro.slashdot.org/story/26/10/14/2127240/eight-us-states-sue-openai-claiming-chatgpt-harms-young-users?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-14T23:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How FactSet cut model training and deployment from days to hours with Databricks AI Runtime",
+  "link": "https://www.databricks.com/blog/how-factset-cut-model-training-and-deployment-days-hours-databricks-ai-runtime",
+  "published": "2026-10-14T22:55:41"
  },
  {
   "blog_name": "Docker",
@@ -543,6 +963,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Python Project Structure: How to Choose the Right Layout",
   "link": "https://realpython.com/python-application-layouts/",
+  "published": "2026-10-14T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "C++ futures part 3: The mental model for std::async",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261014-00/?p=112774/",
   "published": "2026-10-14T14:00:00"
  },
  {
@@ -2706,6 +3133,13 @@
   "blog_url": "http://blog.lerner.co.il/",
   "title": "Pandas groupby: Get a data frame instead of a series",
   "link": "https://lernerpython.com/2026/10/09/pandas-groupby-get-a-data-frame-instead-of-a-series/",
+  "published": "2026-10-09T06:00:00"
+ },
+ {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Banking at machine speed: Securing access across cloud, AI, and hybrid environments",
+  "link": "https://www.hashicorp.com/blog/banking-at-machine-speed-securing-access-across-cloud-ai-and-hybrid-environments",
   "published": "2026-10-09T06:00:00"
  },
  {
