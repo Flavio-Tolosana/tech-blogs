@@ -7,6 +7,153 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/",
+  "title": "Why your platform team shouldn't build an AI context layer (even though they probably could)",
+  "link": "https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/",
+  "published": "2026-10-15T17:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Deploy with Void",
+  "link": "https://blog.cloudflare.com/deploy-with-void/",
+  "published": "2026-10-15T14:00:00"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "When Software Meets Hardware",
+  "link": "https://martinfowler.com/articles/software-meets-hardware.html",
+  "published": "2026-10-15T13:25:00"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Red Hat OpenShift Virtualization memory management overview",
+  "link": "https://developers.redhat.com/articles/2026/10/15/red-hat-openshift-virtualization-memory-management-overview",
+  "published": "2026-10-15T13:01:42"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+  "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+  "published": "2026-10-15T13:00:59"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
+  "link": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
+  "published": "2026-10-15T13:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Teaching students to think and learn through questions",
+  "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+  "published": "2026-10-15T13:00:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "How I Designed a Roommate Matching Tool on a 20KB Budget",
+  "link": "https://spin.atomicobject.com/roommate-matching-tool/",
+  "published": "2026-10-15T12:00:38"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: PyQt Layouts: Create Professional-Looking GUI Applications",
+  "link": "https://realpython.com/quizzes/python-pyqt-layout/",
+  "published": "2026-10-15T12:00:00"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "Strengthen your Chinese skills with new Component Sessions",
+  "link": "https://blog.duolingo.com/component-sessions/",
+  "published": "2026-10-15T12:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Hostinger Reach adds WhatsApp as a marketing channel alongside email",
+  "link": "https://www.hostinger.com/blog/reach-whatsapp-launch/",
+  "published": "2026-10-15T11:10:31"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Bank of America Hired 1,000 Contractors to Patch Software Flaws Exposed By Anthropic's Mythos",
+  "link": "https://it.slashdot.org/story/26/10/14/2143253/bank-of-america-hired-1000-contractors-to-patch-software-flaws-exposed-by-anthropics-mythos?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-15T11:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "October 2026 newsletter",
+  "link": "https://clickhouse.com/blog/202610-newsletter",
+  "published": "2026-10-15T10:07:35"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+  "link": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+  "published": "2026-10-15T10:00:12"
+ },
+ {
+  "blog_name": "Kotlin",
+  "blog_url": "https://blog.jetbrains.com/kotlin/",
+  "title": "What Makes a Great KotlinConf Proposal?",
+  "link": "https://blog.jetbrains.com/kotlin/2026/10/what-makes-a-great-kotlinconf-proposal/",
+  "published": "2026-10-15T09:11:39"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Apertus 1.5 Release Notes",
+  "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+  "published": "2026-10-15T09:08:45"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Jumeau Numérique Systémique : Collecte des activités sur le terrain",
+  "link": "https://blog.octo.com/jumeau-numerique-systemique--referentiel-et-data",
+  "published": "2026-10-15T08:21:10"
+ },
+ {
+  "blog_name": "Haptik",
+  "blog_url": "https://haptik.ai/tech/",
+  "title": "Designing A Secure Voice AI System for Regulated Industries",
+  "link": "https://www.haptik.ai/tech/voice-ai-system-for-regulated-industries",
+  "published": "2026-10-15T08:03:03"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Train AI on industry-leading Markdown with Zyte’s new extraction mode",
+  "link": "https://www.zyte.com/blog/train-ai-on-industry-leading-markdown-with-zytes-new-extraction-mode/",
+  "published": "2026-10-15T08:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Mini Organs Launching to Space For Study On Aging",
+  "link": "https://science.slashdot.org/story/26/10/14/2153247/mini-organs-launching-to-space-for-study-on-aging?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-15T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "The Frist Line of Defense",
+  "link": "https://thedailywtf.com/articles/the-frist-line-of-defense",
+  "published": "2026-10-15T06:30:00"
+ },
+ {
   "blog_name": "Nvidia",
   "blog_url": "https://blogs.nvidia.com/",
   "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
@@ -18,6 +165,20 @@
   "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
   "title": "Q&A: The “collision” between AI, your brain, and society",
   "link": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
+  "published": "2026-10-15T04:00:00"
+ },
+ {
+  "blog_name": "Snyk",
+  "blog_url": "https://snyk.io/blog",
+  "title": "Introducing Evo Agentic AppSec: Security That Keeps Up With AI Development",
+  "link": "https://snyk.io/blog/announcing-snyk-agentic-appsec/",
+  "published": "2026-10-15T04:00:00"
+ },
+ {
+  "blog_name": "Snyk",
+  "blog_url": "https://snyk.io/blog",
+  "title": "VulnBump: Can AI Agents Fix Vulnerable Dependencies Without Breaking the Build?",
+  "link": "https://snyk.io/blog/vulnbump/",
   "published": "2026-10-15T04:00:00"
  },
  {
@@ -46,6 +207,27 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Smaller Simpler Maven Projects",
   "link": "https://www.codenameone.com/blog/maven-projects-with-less-scaffolding/",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "The future of SaaS in the agentic world: Beyond the disruption narrative",
+  "link": "https://www.thoughtworks.com/insights/blog/technology-strategy/the-future-of-saas-in-the-agentic-world--beyond-the-disruption-n",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Evaluating decision models for document categorization",
+  "link": "https://www.thoughtworks.com/insights/blog/generative-ai/evaluating-decision-models-for-document-categorization",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "The shift to the AI-first enterprise: Insights from technology leaders forum",
+  "link": "https://www.thoughtworks.com/insights/blog/technology-strategy/the-shift-to-the-ai-first-enterprise-technology-forum-2026-insights",
   "published": "2026-10-15T00:00:00"
  },
  {
@@ -105,11 +287,32 @@
   "published": "2026-10-14T21:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "CSS Container Queries: Build Reusable Components That Adapt to Their Layout",
+  "link": "https://www.sitepoint.com/css-container-queries-build-reusable-components-that-adapt-to-their-layout/?utm_source=rss",
+  "published": "2026-10-14T20:28:47"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "HTML Semantics in Practice: Building More Accessible and Maintainable Web Pages",
+  "link": "https://www.sitepoint.com/html-semantics-in-practice-building-more-accessible-and-maintainable-web-pages/?utm_source=rss",
+  "published": "2026-10-14T20:24:35"
+ },
+ {
   "blog_name": "Cloudflare",
   "blog_url": "https://blog.cloudflare.com/",
   "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
   "link": "https://blog.cloudflare.com/yandex-outage/",
   "published": "2026-10-14T20:24:19"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Progressive Enhancement: Building Websites That Work Before JavaScript Loads",
+  "link": "https://www.sitepoint.com/progressive-enhancement-building-websites-that-work-before-javascript-loads/?utm_source=rss",
+  "published": "2026-10-14T20:20:28"
  },
  {
   "blog_name": "Capital One Tech",
@@ -173,6 +376,20 @@
   "title": "Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II",
   "link": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
   "published": "2026-10-14T19:51:35"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Generate Visual Concepts for Imaginary Festivals",
+  "link": "https://www.sitepoint.com/generate-visual-concepts-for-imaginary-festivals/?utm_source=rss",
+  "published": "2026-10-14T19:50:35"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Optimize Web Fonts: WOFF2, Subsetting, and Loading Without Layout Shift",
+  "link": "https://www.sitepoint.com/how-to-optimize-web-fonts-woff2-subsetting-and-loading-without-layout-shift/?utm_source=rss",
+  "published": "2026-10-14T19:40:22"
  },
  {
   "blog_name": "AWS",
@@ -319,6 +536,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Gemini 4 Argon Draws a Python Reading a Book",
   "link": "https://realpython.com/ai-benchmark-gemini-4-argon/",
+  "published": "2026-10-14T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python Project Structure: How to Choose the Right Layout",
+  "link": "https://realpython.com/python-application-layouts/",
   "published": "2026-10-14T14:00:00"
  },
  {
@@ -530,6 +754,13 @@
   "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
   "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
   "published": "2026-10-14T06:00:28"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas groupby on datetime parts with the dt accessor",
+  "link": "https://lernerpython.com/2026/10/14/pandas-groupby-on-datetime-parts-with-the-dt-accessor/",
+  "published": "2026-10-14T06:00:00"
  },
  {
   "blog_name": "SitePoint",
