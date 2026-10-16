@@ -7,6 +7,167 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "China's Tencent Says AI Agents Showed Unintended Browsing Behavior",
+  "link": "https://slashdot.org/story/26/10/16/2036237/chinas-tencent-says-ai-agents-showed-unintended-browsing-behavior?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-16T22:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Steam For Linux Finally Goes 64-Bit",
+  "link": "https://linux.slashdot.org/story/26/10/16/2028232/steam-for-linux-finally-goes-64-bit?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-16T21:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/",
+  "published": "2026-10-16T20:48:16"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Meta May Use Sweeping New Commercial TOS to Avoid Millions In AI Licensing Fees",
+  "link": "https://tech.slashdot.org/story/26/10/16/1614257/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-16T20:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "An OpenAI Research Agent 'Stole' Test Ethereum to Finish a Coding Task",
+  "link": "https://slashdot.org/story/26/10/16/167204/an-openai-research-agent-stole-test-ethereum-to-finish-a-coding-task?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-16T19:00:00"
+ },
+ {
+  "blog_name": "Filippo Valsorda",
+  "blog_url": "https://blog.filippo.io/",
+  "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+  "link": "https://words.filippo.io/seeds-solved/",
+  "published": "2026-10-16T18:57:20"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Les salles d'agents : le seul endroit où l'on est content d'être contredit",
+  "link": "https://blog.octo.com/les-salles-d'agents--le-seul-endroit-ou-l'on-est-content-d'etre-contredit",
+  "published": "2026-10-16T18:54:11"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "CoreWeave's Debt Stress Tests Private Credit's AI Financing Boom",
+  "link": "https://news.slashdot.org/story/26/10/16/1548245/coreweaves-debt-stress-tests-private-credits-ai-financing-boom?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-16T18:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+  "link": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/",
+  "published": "2026-10-16T17:00:00"
+ },
+ {
+  "blog_name": "GoCardless",
+  "blog_url": "https://gocardless.com/blog/tagged/engineering/",
+  "title": "What gym members actually want in 2026",
+  "link": "https://gocardless.com/blog/what-gym-members-actually-want",
+  "published": "2026-10-16T16:08:00"
+ },
+ {
+  "blog_name": "Netflix",
+  "blog_url": "https://medium.com/netflix-techblog",
+  "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
+  "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
+  "published": "2026-10-16T16:01:02"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "From Containers to Sandboxes: Developer Trust in the Agentic Era",
+  "link": "https://www.docker.com/blog/stack-overflow-survey-2026-ai-agent-trust/",
+  "published": "2026-10-16T16:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Fostering community amid Kendall Square’s innovation",
+  "link": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
+  "published": "2026-10-16T16:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "React Form Validation Using Shared Zod Schemas and Server Actions",
+  "link": "https://www.sitepoint.com/react-form-validation-hook-form-zod/?utm_source=rss",
+  "published": "2026-10-16T15:40:49"
+ },
+ {
+  "blog_name": "GoCardless",
+  "blog_url": "https://gocardless.com/blog/tagged/engineering/",
+  "title": "The Member Retention Playbook",
+  "link": "https://gocardless.com/guides/posts/member-retention-playbook",
+  "published": "2026-10-16T15:39:02"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "ESM vs CommonJS in Node: When to Switch and How to Migrate",
+  "link": "https://www.sitepoint.com/esm-vs-commonjs-node-migration-guide/?utm_source=rss",
+  "published": "2026-10-16T15:38:25"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Closing the Binary Blind Spot: Domain-Knowledge Injection for LLM Malware Triage in npm Packages",
+  "link": "https://www.databricks.com/blog/closing-binary-blind-spot-domain-knowledge-injection-llm-malware-triage-npm-packages",
+  "published": "2026-10-16T15:37:00"
+ },
+ {
+  "blog_name": "GoCardless",
+  "blog_url": "https://gocardless.com/blog/tagged/engineering/",
+  "title": "Prospr Health: how a London coaching business took the awkwardness out of getting paid",
+  "link": "https://gocardless.com/blog/prospr-health",
+  "published": "2026-10-16T15:28:58"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
+  "link": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
+  "published": "2026-10-16T15:23:10"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Introducing the (blazing fast!) native TCP client for .NET",
+  "link": "https://clickhouse.com/blog/introducing-the-blazing-fast-native-tcp-client-for-net",
+  "published": "2026-10-16T15:12:43"
+ },
+ {
+  "blog_name": "Pinterest",
+  "blog_url": "https://medium.com/@Pinterest_Engineering",
+  "title": "Open Source Profiler on an Internet Scale Fleet: Pinterest and Intel Partnership on gProfiler",
+  "link": "https://medium.com/@Pinterest_Engineering/open-source-profiler-on-an-internet-scale-fleet-pinterest-and-intel-partnership-on-gprofiler-8fcb387d899c?source=rss-ef81ef829bcb------2",
+  "published": "2026-10-16T15:01:03"
+ },
+ {
+  "blog_name": "GoCardless",
+  "blog_url": "https://gocardless.com/blog/tagged/engineering/",
+  "title": "How to set up GoCardless for your gym or fitness studio",
+  "link": "https://gocardless.com/blog/how-to-set-up-gocardless-for-gyms",
+  "published": "2026-10-16T14:56:57"
+ },
+ {
+  "blog_name": "Spotify",
+  "blog_url": "https://labs.spotify.com/",
+  "title": "Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM",
+  "link": "https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm/",
+  "published": "2026-10-16T14:29:18"
+ },
+ {
   "blog_name": "Raymond Chen",
   "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
   "title": "C++ futures part 5: std::future and std::shared_future",
@@ -18,6 +179,20 @@
   "blog_url": "https://tailscale.com/blog",
   "title": "It's time to make your own RSS reader",
   "link": "https://tailscale.com/blog/self-hosted-rss-reader-freshrss",
+  "published": "2026-10-16T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "How to Run Your Python Scripts and Code",
+  "link": "https://realpython.com/run-python-scripts/",
+  "published": "2026-10-16T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python Exceptions: An Introduction",
+  "link": "https://realpython.com/python-exceptions/",
   "published": "2026-10-16T14:00:00"
  },
  {
@@ -77,6 +252,13 @@
   "published": "2026-10-16T11:00:00"
  },
  {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "On-Behalf-Of Is a Pattern. Token Exchange Is the Standard.",
+  "link": "https://auth0.com/blog/on-behalf-of-is-a-pattern-token-exchange-is-the-standard/",
+  "published": "2026-10-16T10:38:00"
+ },
+ {
   "blog_name": "OCTO Technology",
   "blog_url": "https://blog.octo.com/en/",
   "title": "Vers une plateforme de modèles",
@@ -91,11 +273,32 @@
   "published": "2026-10-16T09:46:24"
  },
  {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Bring Your Own Cloud to Replit",
+  "link": "https://replit.com/blog/bring-your-own-cloud",
+  "published": "2026-10-16T09:30:00"
+ },
+ {
   "blog_name": "SitePoint",
   "blog_url": "https://sitepoint.com",
   "title": "Why AI Agents Break and How to Test Them?",
   "link": "https://www.sitepoint.com/why-ai-agents-break-how-to-test-them/?utm_source=rss",
   "published": "2026-10-16T09:14:41"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Why AI Is Making Revenue Growth Harder, Not Easier, for Average IT Companies",
+  "link": "https://www.sitepoint.com/why-ai-is-making-revenue-growth-harder-not-easier-for-average-it-companies/?utm_source=rss",
+  "published": "2026-10-16T09:06:16"
+ },
+ {
+  "blog_name": "GoCardless",
+  "blog_url": "https://gocardless.com/blog/tagged/engineering/",
+  "title": "Why gym membership admin takes so long",
+  "link": "https://gocardless.com/blog/gym-membership-admin",
+  "published": "2026-10-16T09:00:47"
  },
  {
   "blog_name": "Scrapinghub",
@@ -123,6 +326,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "World's Timekeepers Vote to Eliminate the Leap Second",
   "link": "https://science.slashdot.org/story/26/10/15/2258254/worlds-timekeepers-vote-to-eliminate-the-leap-second?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-16T07:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel and Shopify make agents first-class shoppers",
+  "link": "https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers",
   "published": "2026-10-16T07:00:00"
  },
  {
@@ -203,6 +413,55 @@
   "published": "2026-10-16T00:00:00"
  },
  {
+  "blog_name": "Stripe",
+  "blog_url": "https://stripe.com/blog",
+  "title": "New ways for fintechs to move money and expand globally",
+  "link": "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",
+  "published": "2026-10-16T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Making data work across boundaries: The next challenge for policing",
+  "link": "https://www.elastic.co/blog/making-data-work-across-boundaries-policing",
+  "published": "2026-10-16T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Create an Uber Clone in 1 Minute",
+  "link": "https://www.codenameone.com/blog/create-an-uber-clone-in-1-minute/",
+  "published": "2026-10-16T00:00:00"
+ },
+ {
+  "blog_name": "Go",
+  "blog_url": "https://blog.golang.org/",
+  "title": "Interactive refactoring in gopls",
+  "link": "https://go.dev/blog/interactive-refactoring",
+  "published": "2026-10-16T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+  "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+  "published": "2026-10-16T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Perplexity's Decider V1.2 models now available on AI Gateway",
+  "link": "https://vercel.com/changelog/perplexity-decider-v1-2-models-now-available-on-ai-gateway",
+  "published": "2026-10-16T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Reflection AI's Beam now available on AI Gateway for free",
+  "link": "https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free",
+  "published": "2026-10-16T00:00:00"
+ },
+ {
   "blog_name": "APNIC",
   "blog_url": "https://blog.apnic.net/",
   "title": "Timor-Leste’s Internet ecosystem enters a new phase of development",
@@ -243,6 +502,13 @@
   "title": "How our AI Research team uses AI Runtime",
   "link": "https://www.databricks.com/blog/how-our-ai-research-team-uses-ai-runtime",
   "published": "2026-10-15T21:37:44"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Stripe Data Pipeline now syncs real-time Stripe data to Lakebase Postgres",
+  "link": "https://www.databricks.com/blog/stripe-data-pipeline-now-syncs-real-time-stripe-data-lakebase-postgres",
+  "published": "2026-10-15T21:08:14"
  },
  {
   "blog_name": "Slashdot",
@@ -2177,6 +2443,27 @@
   "published": "2026-10-13T00:00:00"
  },
  {
+  "blog_name": "Jane Street",
+  "blog_url": "https://blogs.janestreet.com/category/ocaml/",
+  "title": "Flex Model: an event-driven feature engineering system",
+  "link": "https://blog.janestreet.com/flex-model-an-event-driven-feature-engineering-system/",
+  "published": "2026-10-13T00:00:00"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Bringing our latest frontier model to Android Developers",
+  "link": "https://developer.android.com/blog/posts/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli",
+  "published": "2026-10-13T00:00:00"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "New ways to drive smarter discovery, deeper engagement, and business growth on Google Play",
+  "link": "https://developer.android.com/blog/posts/google-play-discovery-engagement-growth",
+  "published": "2026-10-13T00:00:00"
+ },
+ {
   "blog_name": "Laravel",
   "blog_url": "https://laravel-news.com/blog/",
   "title": "Pause Polling in Background Tabs in Inertia.js v3.9",
@@ -2664,6 +2951,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "Now in GA: Power Live Conversations with Segment Conversation Memory Integration",
   "link": "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga",
+  "published": "2026-10-12T00:00:00"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development",
+  "link": "https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm",
   "published": "2026-10-12T00:00:00"
  },
  {
@@ -6615,6 +6909,13 @@
   "published": "2026-10-02T00:00:00"
  },
  {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Device Streaming and Android skills - available in Android CLI",
+  "link": "https://developer.android.com/blog/posts/android-cli-device-streaming-and-skills",
+  "published": "2026-10-02T00:00:00"
+ },
+ {
   "blog_name": "Nvidia",
   "blog_url": "https://blogs.nvidia.com/",
   "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
@@ -8026,6 +8327,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "Augment Voice Calls with Twilio Conversation Intelligence Using Node.js",
   "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-conversation-intelligence-nodejs",
+  "published": "2026-09-30T00:00:00"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "How Instagram Direct engineers built AI-native UI architecture with Jetpack Compose and reduced token cost per agent session by 33%",
+  "link": "https://developer.android.com/blog/posts/jetpack-compose-ai-native-ui-instagram-direct",
   "published": "2026-09-30T00:00:00"
  },
  {
