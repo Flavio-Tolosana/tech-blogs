@@ -7,6 +7,83 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "AI says you’re right, formal methods say you’re wrong",
+  "link": "https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/",
+  "published": "2026-10-16T07:40:00"
+ },
+ {
+  "blog_name": "SeveralNines",
+  "blog_url": "https://severalnines.com/database-blog",
+  "title": "PostgreSQL Infrastructure as Code: Consistent Deployment and Operations",
+  "link": "https://severalnines.com/blog/postgresql-infrastructure-as-code-consistent-deployment-and-operations/",
+  "published": "2026-10-16T06:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Tesla Reveals SpaceX-Powered 'Flying' Roadster",
+  "link": "https://tech.slashdot.org/story/26/10/16/030228/tesla-reveals-spacex-powered-flying-roadster?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-16T03:03:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+  "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+  "published": "2026-10-16T01:44:47"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Police Seize Robot that Sexually Assaulted Teen Girl",
+  "link": "https://hardware.slashdot.org/story/26/10/15/2241202/police-seize-robot-that-sexually-assaulted-teen-girl?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-16T01:00:00"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "iOS Feature Implementation Using AI [SUBSCRIBER]",
+  "link": "https://www.kodeco.com/ios/paths/planning-building-features-ai/53684606-ios-feature-implementation-using-ai",
+  "published": "2026-10-16T00:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Timor-Leste’s Internet ecosystem enters a new phase of development",
+  "link": "https://blog.apnic.net/2026/10/16/timor-lestes-internet-ecosystem-enters-a-new-phase-of-development/",
+  "published": "2026-10-15T23:20:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Ubuntu 26.10 Released",
+  "link": "https://news.slashdot.org/story/26/10/15/2013231/ubuntu-2610-released?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-15T23:00:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Redis now has compressed bitmaps (Roaring)",
+  "link": "https://lemire.me/blog/2026/10/15/redis-now-has-compressed-bitmaps-roaring/",
+  "published": "2026-10-15T22:46:54"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "IMF Warns of the Real AI Threat: Debt",
+  "link": "https://news.slashdot.org/story/26/10/15/1949215/imf-warns-of-the-real-ai-threat-debt?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-15T22:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How our AI Research team uses AI Runtime",
+  "link": "https://www.databricks.com/blog/how-our-ai-research-team-uses-ai-runtime",
+  "published": "2026-10-15T21:37:44"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Flock CEO Defends Surveillance Tech Amid National Backlash",
@@ -33,6 +110,13 @@
   "title": "AI model decodes the language cells use to communicate",
   "link": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
   "published": "2026-10-15T20:50:00"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "MCP standardized tools. Now we need the infrastructure around them.",
+  "link": "https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/",
+  "published": "2026-10-15T20:39:29"
  },
  {
   "blog_name": "Hugging Face",
@@ -250,6 +334,13 @@
   "title": "Sapienz Receives ISSTA 2026 Impact Paper Award",
   "link": "https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/",
   "published": "2026-10-15T16:00:59"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Ship 2026 recap",
+  "link": "https://vercel.com/blog/vercel-ship-2026-recap",
+  "published": "2026-10-15T16:00:00"
  },
  {
   "blog_name": "SitePoint",
@@ -634,6 +725,13 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "How Kubernetes DRA can improve GPU utilization and cut costs",
   "link": "https://www.datadoghq.com/blog/how-kubernetes-dra-can-improve-gpu-utilization-and-cut-costs/",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+  "link": "https://openai.com/index/sullivan-cromwell",
   "published": "2026-10-15T00:00:00"
  },
  {
