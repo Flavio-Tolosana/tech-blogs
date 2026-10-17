@@ -7,11 +7,46 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "How Instagram Knew You Wanted a Tent",
+  "link": "https://spin.atomicobject.com/how-instagram-knows/",
+  "published": "2026-10-17T12:00:51"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python's .__call__() Method: Creating Callable Instances",
+  "link": "https://realpython.com/quizzes/python-callable-instances/",
+  "published": "2026-10-17T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Updates Android Earthquake Alerts With 200+ Regions",
+  "link": "https://news.slashdot.org/story/26/10/17/0016213/google-updates-android-earthquake-alerts-with-200-regions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-17T11:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Astronomers Discover the First Green Star",
+  "link": "https://science.slashdot.org/story/26/10/17/0011226/astronomers-discover-the-first-green-star?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-17T07:00:00"
+ },
+ {
   "blog_name": "Daniel Lemire",
   "blog_url": "https://lemire.me/blog/",
   "title": "Decoding base64 in Python at 10 gigabytes per second",
   "link": "https://lemire.me/blog/2026/10/17/decoding-base64-in-python-at-10-gigabytes-per-second/",
   "published": "2026-10-17T04:40:34"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Over $600 Million In Polymarket Election Trades Took Place After Races Ended",
+  "link": "https://news.slashdot.org/story/26/10/16/2051209/over-600-million-in-polymarket-election-trades-took-place-after-races-ended?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-17T03:30:00"
  },
  {
   "blog_name": "CodeName One",
@@ -21,11 +56,32 @@
   "published": "2026-10-17T00:00:00"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
+  "link": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
+  "published": "2026-10-17T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Video Game Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
+  "link": "https://games.slashdot.org/story/26/10/16/2057225/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-16T23:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "China's Tencent Says AI Agents Showed Unintended Browsing Behavior",
   "link": "https://slashdot.org/story/26/10/16/2036237/chinas-tencent-says-ai-agents-showed-unintended-browsing-behavior?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-16T22:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Modern JavaScript Modules: A Practical Guide to Writing Maintainable Code",
+  "link": "https://www.sitepoint.com/modern-javascript-modules-a-practical-guide-to-writing-maintainable-code/?utm_source=rss",
+  "published": "2026-10-16T21:13:24"
  },
  {
   "blog_name": "Slashdot",
@@ -378,6 +434,13 @@
   "published": "2026-10-16T06:00:00"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas Grouper: Group datetime columns by custom time periods",
+  "link": "https://lernerpython.com/2026/10/16/pandas-grouper-group-datetime-columns-by-custom-time-periods/",
+  "published": "2026-10-16T06:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Tesla Reveals SpaceX-Powered 'Flying' Roadster",
@@ -494,6 +557,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "Benefit Street Partners answers questions faster with Codex",
   "link": "https://openai.com/index/benefit-street-partners",
+  "published": "2026-10-16T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Elorian AI's Glimpse now available on AI Gateway",
+  "link": "https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway",
   "published": "2026-10-16T00:00:00"
  },
  {
