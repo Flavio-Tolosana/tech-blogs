@@ -7,6 +7,20 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Decoding base64 in Python at 10 gigabytes per second",
+  "link": "https://lemire.me/blog/2026/10/17/decoding-base64-in-python-at-10-gigabytes-per-second/",
+  "published": "2026-10-17T04:40:34"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Spring Data-Style Repositories Compiled to Native Code",
+  "link": "https://www.codenameone.com/blog/repositories-and-transactions-without-surprises/",
+  "published": "2026-10-17T00:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "China's Tencent Says AI Agents Showed Unintended Browsing Behavior",
@@ -18,6 +32,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "Steam For Linux Finally Goes 64-Bit",
   "link": "https://linux.slashdot.org/story/26/10/16/2028232/steam-for-linux-finally-goes-64-bit?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-16T21:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Transactions are Generally Available, advancing warehousing on the Lakehouse",
+  "link": "https://www.databricks.com/blog/transactions-are-generally-available-advancing-warehousing-lakehouse",
   "published": "2026-10-16T21:00:00"
  },
  {
@@ -39,6 +60,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "An OpenAI Research Agent 'Stole' Test Ethereum to Finish a Coding Task",
   "link": "https://slashdot.org/story/26/10/16/167204/an-openai-research-agent-stole-test-ethereum-to-finish-a-coding-task?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-16T19:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How Itaú is building generative AI for its entire customer base",
+  "link": "https://openai.com/index/itau-generative-ai",
   "published": "2026-10-16T19:00:00"
  },
  {
@@ -459,6 +487,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Reflection AI's Beam now available on AI Gateway for free",
   "link": "https://vercel.com/changelog/reflection-ai-beam-now-available-on-ai-gateway-for-free",
+  "published": "2026-10-16T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Benefit Street Partners answers questions faster with Codex",
+  "link": "https://openai.com/index/benefit-street-partners",
   "published": "2026-10-16T00:00:00"
  },
  {
@@ -1180,6 +1215,27 @@
   "blog_url": "https://clickhouse.com/blog",
   "title": "Scaling ClickStack alerting with built-in anomaly detection",
   "link": "https://clickhouse.com/blog/scaling-clickstack-alerting-anomaly-detection",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Twilio Video Media SDK Powers Smarter Customer Engagement",
+  "link": "https://www.twilio.com/en-us/blog/products/launches/video-media-sdk-public-beta-launch",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Build a Voice AI Agent with OpenAI's GPT-Live, Twilio Agent Connect, and TypeScript",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/tac-gpt-live-voice-ai-agent-typescript",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "What is agentic identity? Securing AI agents in 2026",
+  "link": "https://www.twilio.com/en-us/blog/insights/agentic-identity",
   "published": "2026-10-15T00:00:00"
  },
  {
@@ -24878,6 +24934,13 @@
   "published": "2025-08-04T00:00:00"
  },
  {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "From alert fatigue to action: Smarter SOC workflows for defence teams",
+  "link": "https://www.elastic.co/blog/automating-soc-workflows-defence",
+  "published": "2025-07-30T00:00:00"
+ },
+ {
   "blog_name": "GumGum",
   "blog_url": "https://medium.com/gumgum-tech",
   "title": "And just like that, I was AI-enabled.",
@@ -25088,6 +25151,13 @@
   "published": "2025-05-28T16:00:00"
  },
  {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "How the MOD can achieve decision superiority against cyber threats",
+  "link": "https://www.elastic.co/blog/decision-superiority-against-cyber-threats",
+  "published": "2025-05-28T00:00:00"
+ },
+ {
   "blog_name": "Kevin Burke",
   "blog_url": "https://kev.inburke.com/",
   "title": "github.com/garyburd/redigo has been deleted",
@@ -25170,6 +25240,13 @@
   "title": "Streaming Multiple AI Models in Parallel with React.js and AI SDK",
   "link": "https://www.robinwieruch.de/react-ai-sdk-multiple-streams/",
   "published": "2025-05-05T11:50:46"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Tips for choosing an AI-driven SIEM",
+  "link": "https://www.elastic.co/blog/ai-driven-siem",
+  "published": "2025-05-02T00:00:00"
  },
  {
   "blog_name": "V8 Team",
@@ -25669,6 +25746,13 @@
   "published": "2024-12-12T12:53:34"
  },
  {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Top 5 IT challenges leaders are facing (and solutions to them)",
+  "link": "https://www.elastic.co/blog/top-5-it-challenges-leaders-face-solutions",
+  "published": "2024-12-12T08:00:00"
+ },
+ {
   "blog_name": "HTTP Toolkit",
   "blog_url": "https://httptoolkit.tech/blog",
   "title": "ERR_PROXY_CONNECTION_FAILED errors with HTTP proxies",
@@ -25828,6 +25912,13 @@
   "title": "Magic Cauldron: Harry Potter Themed Gender Reveal Party",
   "link": "http://lifepluslinux.blogspot.com/2024/09/magic-cauldron-harry-potter-themed.html",
   "published": "2024-10-01T06:22:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Faster threat detection, stronger security: The Kibana advantage",
+  "link": "https://www.elastic.co/blog/threat-detection-security-kibana-advantage",
+  "published": "2024-09-30T00:00:00"
  },
  {
   "blog_name": "Jake Trent",
