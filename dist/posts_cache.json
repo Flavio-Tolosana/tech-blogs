@@ -7,6 +7,76 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+  "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+  "published": "2026-10-17T21:00:13"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "MapQuest Shows Location of Flock (and Other ALPR) Cameras",
+  "link": "https://yro.slashdot.org/story/26/10/17/0115242/mapquest-shows-location-of-flock-and-other-alpr-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-17T21:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "AI Gateway logs now show session affinity",
+  "link": "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
+  "published": "2026-10-17T20:03:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Blue Origin Announces $330M Upgrades to Rocket Facilities for 'Multiple Flights Per Week'",
+  "link": "https://science.slashdot.org/story/26/10/17/0641232/blue-origin-announces-330m-upgrades-to-rocket-facilities-for-multiple-flights-per-week?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-17T20:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Linux Maintainers Can Now Submit AI-Generated Code Without Declaring It",
+  "link": "https://linux.slashdot.org/story/26/10/17/0723207/linux-maintainers-can-now-submit-ai-generated-code-without-declaring-it?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-17T19:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Deno Acquired by Cloudflare, Will Work on Open Source Self-Hosting Platform for Applications",
+  "link": "https://developers.slashdot.org/story/26/10/17/0549255/deno-acquired-by-cloudflare-will-work-on-open-source-self-hosting-platform-for-applications?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-17T18:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Personal Data for Millions of California Students Stolen in Massive Breach",
+  "link": "https://news.slashdot.org/story/26/10/17/0618213/personal-data-for-millions-of-california-students-stolen-in-massive-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-17T17:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python's Instance, Class, and Static Methods Demystified",
+  "link": "https://realpython.com/instance-class-and-static-methods-demystified/",
+  "published": "2026-10-17T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "How to Create a Django Project",
+  "link": "https://realpython.com/django-setup/",
+  "published": "2026-10-17T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python Histogram Plotting: NumPy, Matplotlib, pandas & Seaborn",
+  "link": "https://realpython.com/python-histograms/",
+  "published": "2026-10-17T14:00:00"
+ },
+ {
   "blog_name": "Atomic Object",
   "blog_url": "https://spin.atomicobject.com/",
   "title": "How Instagram Knew You Wanted a Tent",
@@ -63,6 +133,20 @@
   "published": "2026-10-17T00:00:00"
  },
  {
+  "blog_name": "Amit Merchant",
+  "blog_url": "https://www.amitmerchant.com/",
+  "title": "An online-first version control system in this agentic era",
+  "link": "https://www.amitmerchant.com/an-online-first-version-control-system/",
+  "published": "2026-10-17T00:00:00"
+ },
+ {
+  "blog_name": "Swizec Teller",
+  "blog_url": "https://swizec.com/blog/",
+  "title": "No more tech debt",
+  "link": "https://swizec.com/blog/no-more-tech-debt",
+  "published": "2026-10-17T00:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Video Game Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
@@ -75,6 +159,20 @@
   "title": "China's Tencent Says AI Agents Showed Unintended Browsing Behavior",
   "link": "https://slashdot.org/story/26/10/16/2036237/chinas-tencent-says-ai-agents-showed-unintended-browsing-behavior?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-16T22:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Modern CSS Grid: Build Responsive Layouts With Less Complexity",
+  "link": "https://www.sitepoint.com/modern-css-grid-build-responsive-layouts-with-less-complexity/?utm_source=rss",
+  "published": "2026-10-16T21:37:37"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building Accessible Web Interfaces With Modern HTML and CSS",
+  "link": "https://www.sitepoint.com/building-accessible-web-interfaces-with-modern-html-and-css/?utm_source=rss",
+  "published": "2026-10-16T21:31:56"
  },
  {
   "blog_name": "SitePoint",
