@@ -7,6 +7,55 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Saudi OpenAI Employee's Arrest Revives Fears US Tech Companies Are Hiring Spies",
+  "link": "https://yro.slashdot.org/story/26/10/18/0323207/saudi-openai-employees-arrest-revives-fears-us-tech-companies-are-hiring-spies?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-18T04:34:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Giving AI a “crystal clear” view of the materials world",
+  "link": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+  "published": "2026-10-18T04:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Woman Arrested After Blocking Delivery Robot to Protest Job Displacements",
+  "link": "https://hardware.slashdot.org/story/26/10/17/2247220/woman-arrested-after-blocking-delivery-robot-to-protest-job-displacements?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-18T01:34:00"
+ },
+ {
+  "blog_name": "Eli Bendersky",
+  "blog_url": "http://eli.thegreenplace.net/",
+  "title": "Notes on the complex roots of unity",
+  "link": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+  "published": "2026-10-18T01:18:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Thymeleaf, Spring MVC and htmx for Native Java Backends",
+  "link": "https://www.codenameone.com/blog/compile-html-before-deployment/",
+  "published": "2026-10-18T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Does a Universal Basic Income Bring Long-Term Changes?",
+  "link": "https://yro.slashdot.org/story/26/10/17/1915216/does-a-universal-basic-income-bring-long-term-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-17T23:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Court Agrees with EFF: Utah's VPN Law Demands a Technical Impossibility",
+  "link": "https://yro.slashdot.org/story/26/10/17/2153207/court-agrees-with-eff-utahs-vpn-law-demands-a-technical-impossibility?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-17T22:00:00"
+ },
+ {
   "blog_name": "Nvidia",
   "blog_url": "https://blogs.nvidia.com/",
   "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
