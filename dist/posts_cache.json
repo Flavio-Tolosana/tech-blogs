@@ -7,6 +7,27 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Writing Comments in Python (Guide)",
+  "link": "https://realpython.com/quizzes/python-comments-guide/",
+  "published": "2026-10-18T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "FSF Criticizes Raspberry Pi DRM Blocking RAM Upgrades",
+  "link": "https://news.slashdot.org/story/26/10/18/0632229/fsf-criticizes-raspberry-pi-drm-blocking-ram-upgrades?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-18T11:34:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Tech Journalist Robert X Cringely Has Died",
+  "link": "https://news.slashdot.org/story/26/10/18/050211/tech-journalist-robert-x-cringely-has-died?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-18T07:34:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Saudi OpenAI Employee's Arrest Revives Fears US Tech Companies Are Hiring Spies",
@@ -152,6 +173,13 @@
   "title": "Astronomers Discover the First Green Star",
   "link": "https://science.slashdot.org/story/26/10/17/0011226/astronomers-discover-the-first-green-star?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-17T07:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas Grouper NaNs: Why outlier dates create empty groups",
+  "link": "https://lernerpython.com/2026/10/17/pandas-grouper-nans-why-outlier-dates-create-empty-groups/",
+  "published": "2026-10-17T06:00:00"
  },
  {
   "blog_name": "Daniel Lemire",
@@ -711,6 +739,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Elorian AI's Glimpse now available on AI Gateway",
   "link": "https://vercel.com/changelog/elorian-ai-glimpse-now-available-on-ai-gateway",
+  "published": "2026-10-16T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to modernize CX without ripping and replacing your stack",
+  "link": "https://www.twilio.com/en-us/blog/insights/modernize-cx-without-rip-and-replace",
   "published": "2026-10-16T00:00:00"
  },
  {
