@@ -7,6 +7,104 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Researchers Discover How To Lead Dying Coral Reefs To a 'Fast And Full Recovery'",
+  "link": "https://science.slashdot.org/story/26/10/18/2016240/researchers-discover-how-to-lead-dying-coral-reefs-to-a-fast-and-full-recovery?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-18T20:24:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Websites Are Closing Their Doors to AI Agents",
+  "link": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-18T19:24:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "More Details on Arrested Saudi OpenAI Employee, Who is Seeking Release on Bail",
+  "link": "https://yro.slashdot.org/story/26/10/18/0318232/more-details-on-arrested-saudi-openai-employee-who-is-seeking-release-on-bail?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-18T17:34:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "LinkedIn Fights AI Slop, Now 40% of Its Long-Form Posts",
+  "link": "https://tech.slashdot.org/story/26/10/18/1553202/linkedin-fights-ai-slop-now-40-of-its-long-form-posts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-18T16:34:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Astro vs Next.js: How to Pick Between Islands and Server Components",
+  "link": "https://www.sitepoint.com/astro-vs-nextjs-choose-framework/?utm_source=rss",
+  "published": "2026-10-18T15:44:13"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Claude Code Hooks: Enforce Project Conventions with Gates and Linting",
+  "link": "https://www.sitepoint.com/claude-code-hooks-enforce-project-conventions/?utm_source=rss",
+  "published": "2026-10-18T15:43:10"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Top Accessibility Errors in Production and How to Avoid Them",
+  "link": "https://www.sitepoint.com/top-accessibility-errors-in-production/?utm_source=rss",
+  "published": "2026-10-18T15:35:14"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Programming Language Popularity Increases for R, Julia, and Rust (but Not Go)",
+  "link": "https://developers.slashdot.org/story/26/10/18/0547202/programming-language-popularity-increases-for-r-julia-and-rust-but-not-go?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-18T15:34:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "How to Round Numbers in Python",
+  "link": "https://realpython.com/python-rounding/",
+  "published": "2026-10-18T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Digging Deeper Into Django Migrations",
+  "link": "https://realpython.com/digging-deeper-into-migrations/",
+  "published": "2026-10-18T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Asynchronous Tasks With Django and Celery",
+  "link": "https://realpython.com/asynchronous-tasks-with-django-and-celery/",
+  "published": "2026-10-18T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Django Migrations: A Primer",
+  "link": "https://realpython.com/django-migrations-a-primer/",
+  "published": "2026-10-18T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python's Mutable vs Immutable Types: What's the Difference?",
+  "link": "https://realpython.com/python-mutable-vs-immutable-types/",
+  "published": "2026-10-18T14:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to prepare for a meta engineer interview",
+  "link": "https://www.sitepoint.com/how-to-prepare-for-a-meta-engineer-interview/?utm_source=rss",
+  "published": "2026-10-18T13:08:01"
+ },
+ {
   "blog_name": "Real Python",
   "blog_url": "https://realpython.com/blog/",
   "title": "Quiz: Writing Comments in Python (Guide)",
@@ -60,6 +158,20 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Thymeleaf, Spring MVC and htmx for Native Java Backends",
   "link": "https://www.codenameone.com/blog/compile-html-before-deployment/",
+  "published": "2026-10-18T00:00:00"
+ },
+ {
+  "blog_name": "Josh Sherman",
+  "blog_url": "https://joshtronic.com/",
+  "title": "Halloween Movies Watch List 2026",
+  "link": "https://joshtronic.com/2026/10/18/halloween-movies-watch-list-2026/",
+  "published": "2026-10-18T00:00:00"
+ },
+ {
+  "blog_name": "Nicolas Fränkel",
+  "blog_url": "https://blog.frankel.ch/",
+  "title": "Maps without a tile server",
+  "link": "https://blog.frankel.ch/maps-without-tile-server/",
   "published": "2026-10-18T00:00:00"
  },
  {
@@ -1488,6 +1600,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "What is agentic identity? Securing AI agents in 2026",
   "link": "https://www.twilio.com/en-us/blog/insights/agentic-identity",
+  "published": "2026-10-15T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "AI Wants to Eat Your Project Backlog",
+  "link": "https://code.dblock.org/2026/10/15/ai-wants-to-eat-your-project-backlog.html",
   "published": "2026-10-15T00:00:00"
  },
  {
