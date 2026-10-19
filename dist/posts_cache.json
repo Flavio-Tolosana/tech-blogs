@@ -7,6 +7,69 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "APNIC 62: Automation, trust, and the future of Internet infrastructure",
+  "link": "https://blog.apnic.net/2026/10/19/apnic-62-automation-trust-and-the-future-of-internet-infrastructure/",
+  "published": "2026-10-19T04:44:56"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Anthropic Announces 'Public Benefit Fund', Committing 5% of Its Shares",
+  "link": "https://it.slashdot.org/story/26/10/19/0252201/anthropic-announces-public-benefit-fund-committing-5-of-its-shares?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-19T04:34:00"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "3 new features that help boost your learning",
+  "link": "https://blog.duolingo.com/october-2026-update/",
+  "published": "2026-10-19T04:00:00"
+ },
+ {
+  "blog_name": "Aaron Patterson",
+  "blog_url": "http://tenderlovemaking.com/",
+  "title": "Static Analysis for the Uninitialized",
+  "link": "https://tenderlovemaking.com/2026/10/18/static-analysis-for-the-uninitialized/",
+  "published": "2026-10-19T03:20:26"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "'Human Vs. Robot' Cage Match Was Illegal, Says California",
+  "link": "https://hardware.slashdot.org/story/26/10/19/0055210/human-vs-robot-cage-match-was-illegal-says-california?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-19T00:57:00"
+ },
+ {
+  "blog_name": "Thoughtbot",
+  "blog_url": "https://robots.thoughtbot.com/",
+  "title": "A pragmatic guide to AI-assisted development",
+  "link": "https://feed.thoughtbot.com/link/24077/17500399/a-pragmatic-guide-to-ai-assisted-development",
+  "published": "2026-10-19T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Build Your App Theme Without a Display Server",
+  "link": "https://www.codenameone.com/blog/headless-css-builds/",
+  "published": "2026-10-19T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "New Video Game Law Proposed: 'If You Pay For It, You Own It'",
+  "link": "https://news.slashdot.org/story/26/10/18/235244/new-video-game-law-proposed-if-you-pay-for-it-you-own-it?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-18T23:08:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Planned UK Data Center Delayed Until 2030s Over Power Grid Delays. Microsoft Pulls Out",
+  "link": "https://news.slashdot.org/story/26/10/18/226212/planned-uk-data-center-delayed-until-2030s-over-power-grid-delays-microsoft-pulls-out?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-18T22:08:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Researchers Discover How To Lead Dying Coral Reefs To a 'Fast And Full Recovery'",
@@ -24064,6 +24127,13 @@
   "title": "Kubernetes Memory Limits and Go",
   "link": "https://www.ardanlabs.com/blog/2024/02/kubernetes-memory-limits-go.html",
   "published": "2026-01-27T00:00:00"
+ },
+ {
+  "blog_name": "Marcelo Rinesi",
+  "blog_url": "https://blog.rinesi.com/",
+  "title": "Seaside Whispers",
+  "link": "https://blog.rinesi.com/2026/01/seaside-whispers",
+  "published": "2026-01-24T03:00:00"
  },
  {
   "blog_name": "Eric Lippert",
