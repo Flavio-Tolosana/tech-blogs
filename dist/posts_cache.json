@@ -7,10 +7,262 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "TP-Link Moves to Assemble Routers In the US Following Import Ban",
+  "link": "https://mobile.slashdot.org/story/26/10/19/211219/tp-link-moves-to-assemble-routers-in-the-us-following-import-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-19T22:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "What makes a catalog open? Unity Catalog Advances the Open Lakehouse",
+  "link": "https://www.databricks.com/blog/what-makes-catalog-open-unity-catalog-advances-open-lakehouse",
+  "published": "2026-10-19T21:20:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
+  "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/",
+  "published": "2026-10-19T21:14:44"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Trump DHS Officials Asked CISA To Secretly Aquire and Hack a Voting Machine",
+  "link": "https://politics.slashdot.org/story/26/10/19/2055248/trump-dhs-officials-asked-cisa-to-secretly-aquire-and-hack-a-voting-machine?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-19T21:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "A Hacker Broke Into John Deere, SharkNinja With an Army of AI Agents",
+  "link": "https://it.slashdot.org/story/26/10/19/1746204/a-hacker-broke-into-john-deere-sharkninja-with-an-army-of-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-19T20:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Apple Announces October 28 'Pro and Tell' Event",
+  "link": "https://hardware.slashdot.org/story/26/10/19/1737252/apple-announces-october-28-pro-and-tell-event?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-19T19:30:00"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+  "link": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+  "published": "2026-10-19T19:27:08"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+  "link": "https://blog.cloudflare.com/obsessive-inference-optimization/",
+  "published": "2026-10-19T19:12:53"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Florida DMV Hacked After Police Dept Insecurely Stored Login Info",
+  "link": "https://yro.slashdot.org/story/26/10/19/1726218/florida-dmv-hacked-after-police-dept-insecurely-stored-login-info?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-19T19:00:00"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "How to continue a GitHub Copilot app session in VS Code",
+  "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+  "published": "2026-10-19T18:47:22"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Updates to Hobby and Pro Terms of Service",
+  "link": "https://vercel.com/changelog/updates-to-hobby-and-pro-terms-of-service",
+  "published": "2026-10-19T18:39:47"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+  "link": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+  "published": "2026-10-19T18:20:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Introducing Clairic, a new System One class of extraction models",
+  "link": "https://blog.cloudflare.com/clairic-extraction-model/",
+  "published": "2026-10-19T17:48:26"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+  "link": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/",
+  "published": "2026-10-19T17:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/",
+  "published": "2026-10-19T16:49:19"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How Deepgram optimized voice AI at scale with AWS Trainium",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/",
+  "published": "2026-10-19T16:23:22"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM",
+  "link": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+  "published": "2026-10-19T16:05:17"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Get Your .NET MAUI App Ready for Xcode 27",
+  "link": "https://devblogs.microsoft.com/dotnet/migrate-dotnet-maui-apps-uikit-scene-lifecycle/",
+  "published": "2026-10-19T16:05:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM",
+  "link": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/",
+  "published": "2026-10-19T16:03:23"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
+  "link": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
+  "published": "2026-10-19T16:00:47"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Ampere PMU Profiler: A Guide to Microarchitecture Profiling",
+  "link": "https://www.sitepoint.com/ampere-pmu-profiler-microarchitecture-guide/?utm_source=rss",
+  "published": "2026-10-19T16:00:10"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Bring Your Own Model to the GitHub Copilot SDK with C#",
+  "link": "https://devblogs.microsoft.com/dotnet/bring-your-own-model-to-the-github-copilot-sdk-with-csharp/",
+  "published": "2026-10-19T16:00:00"
+ },
+ {
+  "blog_name": "Whatnot Engineering",
+  "blog_url": "https://medium.com/whatnot-engineering",
+  "title": "Driver Mode: Jumping levels of abstraction with agents",
+  "link": "https://medium.com/whatnot-engineering/driver-mode-jumping-levels-of-abstraction-with-agents-8073087bd10a?source=rss----162aeca881b0---4",
+  "published": "2026-10-19T15:51:01"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "React useEffect Cleanup Patterns for Timers, Listeners, and Fetch Races",
+  "link": "https://www.sitepoint.com/react-useeffect-cleanup-patterns/?utm_source=rss",
+  "published": "2026-10-19T15:42:38"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "LLM Structured Output with JSON Schema: Typed Responses in TypeScript",
+  "link": "https://www.sitepoint.com/llm-structured-output-json-schema/?utm_source=rss",
+  "published": "2026-10-19T15:41:23"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Review AI-Generated UI Changes with Storybook and Chromatic",
+  "link": "https://www.sitepoint.com/review-ai-generated-ui-changes/?utm_source=rss",
+  "published": "2026-10-19T15:40:06"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "LLM Proxy Setup with LiteLLM: Keys, Logging, and Fallbacks",
+  "link": "https://www.sitepoint.com/llm-proxy-setup-litellm-observability/?utm_source=rss",
+  "published": "2026-10-19T15:38:56"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
+  "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/",
+  "published": "2026-10-19T15:34:59"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Production-grade LLMs and agents: a field guide",
+  "link": "https://stackoverflow.blog/2026/10/19/production-grade-llms-and-agents-a-field-guide/",
+  "published": "2026-10-19T15:32:01"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+  "link": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+  "published": "2026-10-19T15:30:37"
+ },
+ {
+  "blog_name": "Pinterest",
+  "blog_url": "https://medium.com/@Pinterest_Engineering",
+  "title": "Introducing ModuleLens: Zooming into PyTorch Modules for Human and Agentic Engineering",
+  "link": "https://medium.com/pinterest-engineering/introducing-modulelens-zooming-into-pytorch-modules-for-human-and-agentic-engineering-b7e9be9d29f8?source=rss-ef81ef829bcb------2",
+  "published": "2026-10-19T15:01:04"
+ },
+ {
+  "blog_name": "Pinterest Engineering",
+  "blog_url": "https://medium.com/pinterest-engineering",
+  "title": "Introducing ModuleLens: Zooming into PyTorch Modules for Human and Agentic Engineering",
+  "link": "https://medium.com/pinterest-engineering/introducing-modulelens-zooming-into-pytorch-modules-for-human-and-agentic-engineering-b7e9be9d29f8?source=rss----4c5a5f6279b6---4",
+  "published": "2026-10-19T15:01:04"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+  "link": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+  "published": "2026-10-19T15:00:31"
+ },
+ {
+  "blog_name": "SurveyMonkey",
+  "blog_url": "https://engineering.surveymonkey.com/",
+  "title": "Introducing new HRIS integrations: Connect employee feedback to your people data",
+  "link": "https://www.surveymonkey.com/curiosity/hris-integrations-workday-bamboohr/?ut_source=rss",
+  "published": "2026-10-19T14:58:13"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Databricks Is Doubling Down On New York City As A Premier AI Talent Hub",
+  "link": "https://www.databricks.com/blog/databricks-doubling-down-new-york-city-premier-ai-talent-hub",
+  "published": "2026-10-19T14:00:50"
+ },
+ {
   "blog_name": "Tailscale",
   "blog_url": "https://tailscale.com/blog",
   "title": "MagicRoute: Routing without physical routers",
   "link": "https://tailscale.com/blog/magicroute-beta",
+  "published": "2026-10-19T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "How to Automate Your Workflow With Claude Code Hooks",
+  "link": "https://realpython.com/claude-code-hooks/",
   "published": "2026-10-19T14:00:00"
  },
  {
@@ -196,6 +448,13 @@
   "published": "2026-10-19T03:20:26"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Run Large PlanetScale Queries in Laravel With DB::olap()",
+  "link": "https://laravel-news.com/laravel-planetscale-olap?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-19T02:22:57"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "'Human Vs. Robot' Cage Match Was Illegal, Says California",
@@ -249,6 +508,48 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "Cheaper code won't kill software development, but it’s already reshaping it",
   "link": "https://www.thoughtworks.com/insights/articles/cheaper-code-wont-kill-software-development",
+  "published": "2026-10-19T00:00:00"
+ },
+ {
+  "blog_name": "Stripe",
+  "blog_url": "https://stripe.com/blog",
+  "title": "Stripe survey: Four trends reshaping how SaaS platforms compete in the AI era",
+  "link": "https://stripe.com/blog/saas-platform-trends-in-AI-era",
+  "published": "2026-10-19T00:00:00"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Grab Reduces ANRs by 32% and improves startup time by 35% with R8 and Profile guided optimization",
+  "link": "https://developer.android.com/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time",
+  "published": "2026-10-19T00:00:00"
+ },
+ {
+  "blog_name": "Teleport",
+  "blog_url": "https://goteleport.com/blog/",
+  "title": "Don't Trust the Sandbox: 5 Security Lessons from an AI Agent Swarm",
+  "link": "https://goteleport.com/blog/ai-agent-swarm-security-lessons/",
+  "published": "2026-10-19T00:00:00"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "Assign policy groups by stack and account tags",
+  "link": "https://www.pulumi.com/blog/assign-policy-groups-by-tags/",
+  "published": "2026-10-19T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+  "link": "https://huggingface.co/blog/hf-torchneuron",
+  "published": "2026-10-19T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Mercury 3 now available on AI Gateway",
+  "link": "https://vercel.com/changelog/mercury-3-now-available-on-ai-gateway",
   "published": "2026-10-19T00:00:00"
  },
  {
@@ -26572,6 +26873,13 @@
   "published": "2024-09-27T00:00:00"
  },
  {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Encryption at rest in Elastic Cloud: Bring your own key with Google Cloud",
+  "link": "https://www.elastic.co/blog/encryption-at-rest-elastic-cloud-google-cloud",
+  "published": "2024-09-25T00:00:00"
+ },
+ {
   "blog_name": "Guardian",
   "blog_url": "https://www.theguardian.com/info/developer-blog",
   "title": "Cooking up recipe data for the Feast app",
@@ -26677,6 +26985,13 @@
   "published": "2024-08-29T08:00:00"
  },
  {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Encryption at rest in Elastic Cloud: Bring your own key with Azure Key Vault",
+  "link": "https://www.elastic.co/blog/elastic-cloud-azure-key-vault",
+  "published": "2024-08-20T00:00:00"
+ },
+ {
   "blog_name": "GoSquared",
   "blog_url": "https://engineering.gosquared.com/",
   "title": "How Fractional Hiring Can Save Your Business Money",
@@ -26731,6 +27046,13 @@
   "title": "How to Add a Header to a curl Request",
   "link": "https://davidwalsh.name/curl-add-header",
   "published": "2024-08-03T16:51:46"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Encryption at rest in Elastic Cloud: Bring your own key with AWS KMS",
+  "link": "https://www.elastic.co/blog/encryption-at-rest-elastic-cloud-aws-kms",
+  "published": "2024-08-01T00:00:00"
  },
  {
   "blog_name": "Ruslan Spivak",
