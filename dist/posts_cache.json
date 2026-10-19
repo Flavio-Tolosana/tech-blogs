@@ -7,6 +7,167 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Tailscale",
+  "blog_url": "https://tailscale.com/blog",
+  "title": "MagicRoute: Routing without physical routers",
+  "link": "https://tailscale.com/blog/magicroute-beta",
+  "published": "2026-10-19T14:00:00"
+ },
+ {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "The code was the easy part: Lessons from contributing to the Clojure language",
+  "link": "https://building.nu.com/the-code-was-the-easy-part-lessons-from-contributing-to-the-clojure-language/",
+  "published": "2026-10-19T13:51:12"
+ },
+ {
+  "blog_name": "Jeffrey Zeldman",
+  "blog_url": "https://zeldman.com/",
+  "title": "Now Playing: “Side Two”",
+  "link": "https://zeldman.com/2026/10/19/now-playing-side-two/",
+  "published": "2026-10-19T13:38:09"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Clang Bytecode interpreter update 2026",
+  "link": "https://developers.redhat.com/articles/2026/10/19/clang-bytecode-interpreter-update-2026",
+  "published": "2026-10-19T13:16:54"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
+  "link": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+  "published": "2026-10-19T13:00:10"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+  "link": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+  "published": "2026-10-19T13:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "When Retries Make Things Worse: Protecting Your System From Overload",
+  "link": "https://freek.dev/3206-when-retries-make-things-worse-protecting-your-system-from-overload",
+  "published": "2026-10-19T12:11:16"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "How to Run SQL Server Outside Docker Sandboxes",
+  "link": "https://spin.atomicobject.com/sql-server-outside-sandboxes/",
+  "published": "2026-10-19T12:00:34"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: How to Automate Your Workflow With Claude Code Hooks",
+  "link": "https://realpython.com/quizzes/claude-code-hooks/",
+  "published": "2026-10-19T12:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Hostinger weekly product updates: Week 42, 2026",
+  "link": "https://www.hostinger.com/blog/product-updates-week-42-2026/",
+  "published": "2026-10-19T11:37:44"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "America Tries Reviving Shuttered Nuclear Plants - Partly to Help Power Data Centers",
+  "link": "https://hardware.slashdot.org/story/26/10/19/0448253/america-tries-reviving-shuttered-nuclear-plants---partly-to-help-power-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-19T11:34:00"
+ },
+ {
+  "blog_name": "Erlang Solutions",
+  "blog_url": "https://www.erlang-solutions.com/blog.html",
+  "title": "Exploring OTP Patterns for Agentic Workflows",
+  "link": "https://www.erlang-solutions.com/blog/exploring-otp-patterns-for-agentic-workflows/",
+  "published": "2026-10-19T11:31:55"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Postgres wait events, now in Query Insights",
+  "link": "https://clickhouse.com/blog/postgres-wait-events-query-insights",
+  "published": "2026-10-19T11:15:28"
+ },
+ {
+  "blog_name": "Wix Engineering",
+  "blog_url": "https://www.wix.engineering/",
+  "title": "Components Are Dead; And Now for Something Completely Different",
+  "link": "https://www.wix.engineering/post/components-are-dead-and-now-for-something-completely-different",
+  "published": "2026-10-19T11:08:20"
+ },
+ {
+  "blog_name": "Federico Tomassetti",
+  "blog_url": "https://tomassetti.me/",
+  "title": "Has AI really solved legacy migrations?",
+  "link": "https://tomassetti.me/has-ai-really-solved-legacy-migrations/",
+  "published": "2026-10-19T10:00:00"
+ },
+ {
+  "blog_name": "Booking.com Data Science",
+  "blog_url": "https://booking.ai/",
+  "title": "From Static Help Content to a RAG-Based Onboarding Agent for Partners",
+  "link": "https://booking.ai/from-static-help-content-to-a-rag-based-onboarding-agent-for-partners-f7d5a789c4f7?source=rss----4d265f07defc---4",
+  "published": "2026-10-19T09:35:24"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Sola Cosmetics: How a solo founder built a foot cream brand that ships across Brazil",
+  "link": "https://www.hostinger.com/blog/sola-cosmetics/",
+  "published": "2026-10-19T09:33:38"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "TLS fingerprinting, the handshake that reveals your true intent",
+  "link": "https://www.zyte.com/blog/sowa-barrier-tls/",
+  "published": "2026-10-19T08:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "The Black Friday trap: Despite a boost in traffic, unprepared stores sell less than usual",
+  "link": "https://www.hostinger.com/blog/black-friday-research-2026/",
+  "published": "2026-10-19T07:45:15"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Mozilla is Calling Out Microsoft for Forcing Edge on Users",
+  "link": "https://tech.slashdot.org/story/26/10/19/0655217/mozilla-is-calling-out-microsoft-for-forcing-edge-on-users?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-19T07:34:00"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "Nordic APIs Summit 2026 Is a Wrap: Key Takeaways on Preparing APIs for Agents",
+  "link": "https://nordicapis.com/nordic-apis-summit-2026-is-a-wrap-key-takeaways-on-preparing-apis-for-agents/",
+  "published": "2026-10-19T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "A Vat of Terrible Experiences",
+  "link": "https://thedailywtf.com/articles/a-vat-of-terrible-experiences",
+  "published": "2026-10-19T06:30:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "INNOG 9 at APNIC 62: Building resilient infrastructure for the next Internet",
+  "link": "https://blog.apnic.net/2026/10/19/innog-9-at-apnic-62-building-resilient-infrastructure-for-the-next-internet/",
+  "published": "2026-10-19T05:38:05"
+ },
+ {
   "blog_name": "APNIC",
   "blog_url": "https://blog.apnic.net/",
   "title": "APNIC 62: Automation, trust, and the future of Internet infrastructure",
@@ -53,6 +214,41 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Build Your App Theme Without a Display Server",
   "link": "https://www.codenameone.com/blog/headless-css-builds/",
+  "published": "2026-10-19T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Securing the Front Door of Agentic Commerce: Four Channels, One Identity Layer",
+  "link": "https://auth0.com/blog/securing-the-front-door-of-agentic-commerce/",
+  "published": "2026-10-19T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Detect SIM Swaps in Rust With Twilio's Lookup API",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/detect-sim-swaps-rust-twilio-lookup-api",
+  "published": "2026-10-19T00:00:00"
+ },
+ {
+  "blog_name": "Dean Hume",
+  "blog_url": "http://deanhume.com/",
+  "title": "Deliberate Practice and Continuous Improvement in Software Teams",
+  "link": "https://deanhume.com/deliberate-practice-and-continuous-improvement-in-software-teams/",
+  "published": "2026-10-19T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "MiniMax M3.1 Flash now available on AI Gateway for free",
+  "link": "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free",
+  "published": "2026-10-19T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Cheaper code won't kill software development, but it’s already reshaping it",
+  "link": "https://www.thoughtworks.com/insights/articles/cheaper-code-wont-kill-software-development",
   "published": "2026-10-19T00:00:00"
  },
  {
@@ -704,6 +900,13 @@
   "blog_url": "https://www.hostinger.com/blog/engineering/",
   "title": "No more platform hopping – launch Google Ads right from the Hostinger dashboard",
   "link": "https://www.hostinger.com/blog/hostinger-google-ads-integration/",
+  "published": "2026-10-16T09:46:24"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "No more platform hopping – launch Google Ads right from the Hostinger dashboard",
+  "link": "https://www.hostinger.com/blog/google-ads/",
   "published": "2026-10-16T09:46:24"
  },
  {
