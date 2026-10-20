@@ -7,6 +7,216 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
+  "link": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/",
+  "published": "2026-10-20T21:14:10"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "AMD Is Bringing FSR 4.1 to Xbox Consoles and Handhelds",
+  "link": "https://games.slashdot.org/story/26/10/20/1917248/amd-is-bringing-fsr-41-to-xbox-consoles-and-handhelds?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-20T21:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Support Pages Start Defaulting to AI Chatbots",
+  "link": "https://tech.slashdot.org/story/26/10/20/199206/google-support-pages-start-defaulting-to-ai-chatbots?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-20T20:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "WebSocket support is now generally available",
+  "link": "https://vercel.com/changelog/websocket-support-is-now-generally-available",
+  "published": "2026-10-20T20:00:00"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+  "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
+  "published": "2026-10-20T19:34:19"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "DHS Lied About Why It Wanted To Search Activist's GrapheneOS Phone",
+  "link": "https://yro.slashdot.org/story/26/10/20/1740207/dhs-lied-about-why-it-wanted-to-search-activists-grapheneos-phone?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-20T19:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+  "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+  "published": "2026-10-20T18:17:47"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "MemCurrent: Designing Persistent Memory for Production Agents",
+  "link": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
+  "published": "2026-10-20T18:15:47"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "OpenBSD 8.0 Released",
+  "link": "https://tech.slashdot.org/story/26/10/20/171229/openbsd-80-released?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-20T18:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Work management context for AI agents with Smartsheet MCP on AWS",
+  "link": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
+  "published": "2026-10-20T17:59:07"
+ },
+ {
+  "blog_name": "Amazon Science",
+  "blog_url": "https://www.amazon.science/",
+  "title": "Strengthening AI safety evaluation through independent third-party review",
+  "link": "https://www.amazon.science/blog/strengthening-ai-safety-evaluation-through-independent-third-party-review",
+  "published": "2026-10-20T17:57:55"
+ },
+ {
+  "blog_name": "Microsoft TypeScript",
+  "blog_url": "https://devblogs.microsoft.com/typescript/",
+  "title": "Announcing TypeScript 7.1 Beta",
+  "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/",
+  "published": "2026-10-20T17:53:06"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/",
+  "published": "2026-10-20T17:52:50"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
+  "link": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/",
+  "published": "2026-10-20T17:48:27"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/",
+  "published": "2026-10-20T17:34:04"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Introducing Agent Memory on Databricks",
+  "link": "https://www.databricks.com/blog/introducing-agent-memory-databricks",
+  "published": "2026-10-20T17:26:56"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services",
+  "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
+  "published": "2026-10-20T17:03:38"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Meta Muse Exposes Users' Personal, Business Secrets When They Share Conversations",
+  "link": "https://yro.slashdot.org/story/26/10/20/1655247/meta-muse-exposes-users-personal-business-secrets-when-they-share-conversations?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-20T17:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+  "link": "https://huggingface.co/blog/allenai/fairstress",
+  "published": "2026-10-20T16:09:19"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+  "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+  "published": "2026-10-20T16:05:03"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Next.js Hydration Errors from localStorage: 3 Ways to Fix Them",
+  "link": "https://www.sitepoint.com/nextjs-hydration-error-localstorage/?utm_source=rss",
+  "published": "2026-10-20T15:45:07"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Codebase Design for AI Agents: Types, Lint Rules, and CI Gates",
+  "link": "https://www.sitepoint.com/codebase-design-for-ai-agents/?utm_source=rss",
+  "published": "2026-10-20T15:44:18"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Next.js ISR Transient Errors: Prevent notFound from Caching 404s",
+  "link": "https://www.sitepoint.com/nextjs-isr-transient-error-notfound/?utm_source=rss",
+  "published": "2026-10-20T15:42:57"
+ },
+ {
+  "blog_name": "Expedia",
+  "blog_url": "https://medium.com/expedia-group-tech",
+  "title": "The Quiet Tax on Machine Learning Teams",
+  "link": "https://medium.com/expedia-group-tech/the-quiet-tax-on-machine-learning-teams-43d71bd539c7?source=rss----38998a53046f---4",
+  "published": "2026-10-20T15:38:37"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+  "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+  "published": "2026-10-20T15:19:48"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How Hamlet uses Databricks Lakebase Postgres to test changes against production data",
+  "link": "https://www.databricks.com/blog/how-hamlet-uses-databricks-lakebase-postgres-test-changes-against-production-data",
+  "published": "2026-10-20T14:45:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "How to Use Claude Code Skills for Better Python Docstrings",
+  "link": "https://realpython.com/claude-code-skills/",
+  "published": "2026-10-20T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Tell Your Tech Career Story: Proof, Résumés, and Interviews",
+  "link": "https://realpython.com/courses/tell-your-tech-career-story/",
+  "published": "2026-10-20T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Building an AI Agent With LangGraph and Python",
+  "link": "https://realpython.com/courses/building-ai-agent-langgraph-python/",
+  "published": "2026-10-20T14:00:00"
+ },
+ {
+  "blog_name": "Shopify",
+  "blog_url": "https://shopify.engineering/",
+  "title": "Cross-store product clustering across millions of stores",
+  "link": "https://shopify.engineering/catalog-clustering-part-ii",
+  "published": "2026-10-20T13:48:59"
+ },
+ {
   "blog_name": "Transferwise",
   "blog_url": "http://tech.transferwise.com/",
   "title": "Observability At Scale — Every Byte Counts",
@@ -32,6 +242,13 @@
   "blog_url": "https://developers.redhat.com/blog/",
   "title": "Migrate your custom plug-ins to Red Hat Developer Hub 2.1",
   "link": "https://developers.redhat.com/articles/2026/10/20/migrate-your-custom-plug-ins-red-hat-developer-hub-21",
+  "published": "2026-10-20T13:00:29"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Prepare your custom plug-ins for Red Hat Developer Hub 2.1",
+  "link": "https://developers.redhat.com/articles/2026/10/20/prepare-your-custom-plug-ins-red-hat-developer-hub-21",
   "published": "2026-10-20T13:00:29"
  },
  {
@@ -112,11 +329,25 @@
   "published": "2026-10-20T11:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "9 Browser-Based Checks That Make Design-to-Development Handoffs More Reliable",
+  "link": "https://www.sitepoint.com/9-browser-based-checks-that-make-design-to-development-handoffs-more-reliable/?utm_source=rss",
+  "published": "2026-10-20T10:32:29"
+ },
+ {
   "blog_name": "Rob Allen",
   "blog_url": "https://akrabat.com/",
   "title": "Find the slowest PHPUnit tests",
   "link": "https://akrabat.com/find-the-slowest-phpunit-tests/",
   "published": "2026-10-20T10:26:02"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+  "link": "https://openai.com/index/ted-taylor-restaurant",
+  "published": "2026-10-20T10:00:00"
  },
  {
   "blog_name": "OCTO Technology",
@@ -196,6 +427,13 @@
   "published": "2026-10-20T00:01:41"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "DeepSeek V4.1 Flash is now available in Token Pass",
+  "link": "https://vercel.com/changelog/deepseek-v4-1-flash-is-now-available-in-token-pass",
+  "published": "2026-10-20T00:01:00"
+ },
+ {
   "blog_name": "Thoughtbot",
   "blog_url": "https://robots.thoughtbot.com/",
   "title": "Design systems in an AI era; what changes when everyone can build?",
@@ -231,6 +469,55 @@
   "published": "2026-10-20T00:00:00"
  },
  {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Securing AI Agents with Auth0 CIMD and Token Exchange",
+  "link": "https://auth0.com/blog/securing-ai-agents-with-auth0-cimd-token-exchange/",
+  "published": "2026-10-20T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "ID-JAG, Explained: The New OAuth Grant for Cross-App Access",
+  "link": "https://auth0.com/blog/what-is-id-jag/",
+  "published": "2026-10-20T00:00:00"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Remote Compose Gaming Widgets",
+  "link": "https://developer.android.com/blog/posts/remote-compose-gaming-widgets",
+  "published": "2026-10-20T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+  "link": "https://huggingface.co/blog/hf-torchtpu",
+  "published": "2026-10-20T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "OpenAI acquires Orchestra Bio",
+  "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+  "published": "2026-10-20T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Beyond container image signing: How we enforce software supply chain policies at Datadog",
+  "link": "https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/",
+  "published": "2026-10-20T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Build better SLOs with RUM and synthetic SLIs",
+  "link": "https://www.datadoghq.com/blog/rum-synthetic-slos-slis/",
+  "published": "2026-10-20T00:00:00"
+ },
+ {
   "blog_name": "AWS Machine Learning",
   "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
   "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
@@ -250,6 +537,13 @@
   "title": "Developers can now access SageMaker Studio through the new AWS experience",
   "link": "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/",
   "published": "2026-10-19T22:39:24"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "CustomerLake enters Beta: Leading enterprises going live with the Agentic CDP",
+  "link": "https://www.databricks.com/blog/customerlake-beta",
+  "published": "2026-10-19T22:22:13"
  },
  {
   "blog_name": "Slashdot",
@@ -299,6 +593,13 @@
   "title": "How to get the most out of running dbt on Databricks",
   "link": "https://www.databricks.com/blog/how-get-most-out-running-dbt-databricks",
   "published": "2026-10-19T19:45:59"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Modern HTML Forms: Building Accessible, Secure, and User-Friendly Experiences",
+  "link": "https://www.sitepoint.com/modern-html-forms-building-accessible-secure-and-user-friendly-experiences/?utm_source=rss",
+  "published": "2026-10-19T19:43:00"
  },
  {
   "blog_name": "SitePoint",
@@ -578,6 +879,13 @@
   "blog_url": "https://blog.cloudflare.com/",
   "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
   "link": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+  "published": "2026-10-19T13:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Making every harness durable",
+  "link": "https://vercel.com/blog/making-every-harness-durable",
   "published": "2026-10-19T13:00:00"
  },
  {
