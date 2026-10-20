@@ -7,11 +7,158 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Transferwise",
+  "blog_url": "http://tech.transferwise.com/",
+  "title": "Observability At Scale — Every Byte Counts",
+  "link": "https://medium.com/wise-engineering/observability-at-scale-every-byte-counts-80f5e505d710?source=rss----f2565bbe9c46---4",
+  "published": "2026-10-20T13:03:15"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Jev: Bounded semantic judgments for messy text",
+  "link": "https://developers.redhat.com/articles/2026/10/20/jev-bounded-semantic-judgments-messy-text",
+  "published": "2026-10-20T13:02:39"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Speeding up ticket resolution with agentic AI",
+  "link": "https://developers.redhat.com/articles/2026/10/20/speeding-up-ticket-resolution-with-agentic-ai",
+  "published": "2026-10-20T13:02:36"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Migrate your custom plug-ins to Red Hat Developer Hub 2.1",
+  "link": "https://developers.redhat.com/articles/2026/10/20/migrate-your-custom-plug-ins-red-hat-developer-hub-21",
+  "published": "2026-10-20T13:00:29"
+ },
+ {
+  "blog_name": "Timescale",
+  "blog_url": "https://blog.timescale.com/",
+  "title": "Introducing searchgres.js: Composable Search in PostgreSQL",
+  "link": "https://www.tigerdata.com/blog/introducing-searchgres-js-composable-search-postgresql",
+  "published": "2026-10-20T13:00:20"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Introducing tsrs: a Port of TypeScript to Rust",
+  "link": "https://blog.cloudflare.com/typescript-rust-port/",
+  "published": "2026-10-20T13:00:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Here’s My Network Troubleshooting Toolbox",
+  "link": "https://spin.atomicobject.com/network-troubleshooting-toolbox/",
+  "published": "2026-10-20T12:00:47"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Tell Your Tech Career Story: Get Noticed",
+  "link": "https://realpython.com/quizzes/tell-your-tech-career-story-get-noticed/",
+  "published": "2026-10-20T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Tell Your Tech Career Story: Write a Tailored CV",
+  "link": "https://realpython.com/quizzes/tell-your-tech-career-story-tailored-cv/",
+  "published": "2026-10-20T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Tell Your Tech Career Story: Show Proof of Your Skills",
+  "link": "https://realpython.com/quizzes/tell-your-tech-career-story-show-proof/",
+  "published": "2026-10-20T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Building an AI Agent With LangGraph and Python",
+  "link": "https://realpython.com/quizzes/building-ai-agent-langgraph-python/",
+  "published": "2026-10-20T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Tell Your Tech Career Story: Tell Your Story in Interviews",
+  "link": "https://realpython.com/quizzes/tell-your-tech-career-story-interviews/",
+  "published": "2026-10-20T12:00:00"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "How to form simple past verbs in English and when to use them",
+  "link": "https://blog.duolingo.com/simple-past-verbs-in-english/",
+  "published": "2026-10-20T12:00:00"
+ },
+ {
+  "blog_name": "Jeffrey Zeldman",
+  "blog_url": "https://zeldman.com/",
+  "title": "Figma Tips and Shortcuts",
+  "link": "https://zeldman.com/2026/10/20/figma-tips-and-shortcuts/",
+  "published": "2026-10-20T11:33:20"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Microsoft Abandons UK AI Supercomputer As Grid Struggles to Keep Up",
+  "link": "https://hardware.slashdot.org/story/26/10/20/0529215/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-20T11:00:00"
+ },
+ {
+  "blog_name": "Rob Allen",
+  "blog_url": "https://akrabat.com/",
+  "title": "Find the slowest PHPUnit tests",
+  "link": "https://akrabat.com/find-the-slowest-phpunit-tests/",
+  "published": "2026-10-20T10:26:02"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "LLM local sur iOS 27 : ce qu'Apple ne dit pas dans la doc",
+  "link": "https://blog.octo.com/llm-local-sur-ios-27--ce-qu'apple-ne-dit-pas-dans-la-doc",
+  "published": "2026-10-20T08:39:10"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "The Agentic Analytics Benchmark, round two: GPT-6, Claude Opus 5.5, Claude Sonnet 5.5",
+  "link": "https://clickhouse.com/blog/agentic-analytics-benchmark-round-two",
+  "published": "2026-10-20T08:07:44"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/",
   "title": "Don't forget about the UI for AI",
   "link": "https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/",
   "published": "2026-10-20T07:40:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Japan Launches Historic MMX Sample-Return Mission to Mars' Moon Phobos",
+  "link": "https://science.slashdot.org/story/26/10/20/0522251/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-20T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "The Outage",
+  "link": "https://thedailywtf.com/articles/the-outage",
+  "published": "2026-10-20T06:30:00"
+ },
+ {
+  "blog_name": "Daniel Stenberg",
+  "blog_url": "https://daniel.haxx.se/blog/",
+  "title": "Do minor curl vulnerabilities in the open",
+  "link": "https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/",
+  "published": "2026-10-20T06:09:42"
  },
  {
   "blog_name": "Nvidia",
@@ -35,6 +182,13 @@
   "published": "2026-10-20T03:30:00"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Critical Token Guard Auth Bypass Fixed in Laravel 13.29 and 12.68",
+  "link": "https://laravel-news.com/laravel-token-guard-auth-bypass?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-20T00:24:10"
+ },
+ {
   "blog_name": "Databricks",
   "blog_url": "https://databricks.com/blog",
   "title": "How HP Is Building an AI-Ready CDP with Databricks CustomerLake",
@@ -53,6 +207,27 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Give Your Desktop App a Useful Title Bar and Real Tools",
   "link": "https://www.codenameone.com/blog/desktop-tools-title-bars-processes-zip/",
+  "published": "2026-10-20T00:00:00"
+ },
+ {
+  "blog_name": "Evil Martians",
+  "blog_url": "https://evilmartians.com/chronicles/",
+  "title": "Why engineers should come to the SF Ruby Conference in 2026",
+  "link": "https://evilmartians.com/chronicles/why-engineers-should-come-to-the-sf-ruby-conference-in-2026",
+  "published": "2026-10-20T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+  "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+  "published": "2026-10-20T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "MPS in PyTorch 2.15",
+  "link": "https://huggingface.co/blog/mps-pytorch-2-15",
   "published": "2026-10-20T00:00:00"
  },
  {
@@ -126,6 +301,13 @@
   "published": "2026-10-19T19:45:59"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Web Performance Optimization: Practical Techniques for Building Faster Websites",
+  "link": "https://www.sitepoint.com/web-performance-optimization-practical-techniques-for-building-faster-websites/?utm_source=rss",
+  "published": "2026-10-19T19:32:17"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Apple Announces October 28 'Pro and Tell' Event",
@@ -152,6 +334,13 @@
   "title": "Florida DMV Hacked After Police Dept Insecurely Stored Login Info",
   "link": "https://yro.slashdot.org/story/26/10/19/1726218/florida-dmv-hacked-after-police-dept-insecurely-stored-login-info?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-19T19:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Can AI Write Accessible Code?",
+  "link": "https://www.sitepoint.com/can-ai-write-accessible-code/?utm_source=rss",
+  "published": "2026-10-19T18:50:05"
  },
  {
   "blog_name": "GitHub Old",
@@ -511,6 +700,13 @@
   "published": "2026-10-19T06:30:00"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas date range selection: Slicing a datetime index with .loc",
+  "link": "https://lernerpython.com/2026/10/19/pandas-date-range-selection-slicing-a-datetime-index-with-loc/",
+  "published": "2026-10-19T06:00:00"
+ },
+ {
   "blog_name": "APNIC",
   "blog_url": "https://blog.apnic.net/",
   "title": "INNOG 9 at APNIC 62: Building resilient infrastructure for the next Internet",
@@ -648,6 +844,20 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Mercury 3 now available on AI Gateway",
   "link": "https://vercel.com/changelog/mercury-3-now-available-on-ai-gateway",
+  "published": "2026-10-19T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "What is an email blast? (how to do it right)",
+  "link": "https://www.twilio.com/en-us/blog/insights/what-is-an-email-blast",
+  "published": "2026-10-19T00:00:00"
+ },
+ {
+  "blog_name": "Alex Korbonits",
+  "blog_url": "https://korbonits.com/",
+  "title": "Ten of Four Hundred Sixteen",
+  "link": "https://korbonits.com/blog/2026-10-19-ten-of-four-hundred-sixteen/",
   "published": "2026-10-19T00:00:00"
  },
  {
@@ -830,6 +1040,13 @@
   "blog_url": "https://blog.frankel.ch/",
   "title": "Maps without a tile server",
   "link": "https://blog.frankel.ch/maps-without-tile-server/",
+  "published": "2026-10-18T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "19 best email fonts that won't let you down in 2026",
+  "link": "https://www.twilio.com/en-us/blog/insights/best-email-fonts",
   "published": "2026-10-18T00:00:00"
  },
  {
@@ -1523,6 +1740,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "How to modernize CX without ripping and replacing your stack",
   "link": "https://www.twilio.com/en-us/blog/insights/modernize-cx-without-rip-and-replace",
+  "published": "2026-10-16T00:00:00"
+ },
+ {
+  "blog_name": "Trivago",
+  "blog_url": "http://tech.trivago.com/",
+  "title": "\"I'm Sorry, Have We Met?\" — Frictionless Memory for AI",
+  "link": "https://tech.trivago.com/post/2026-10-16-im-sorry-have-we-met--frictionless-memory-for-ai/",
   "published": "2026-10-16T00:00:00"
  },
  {
