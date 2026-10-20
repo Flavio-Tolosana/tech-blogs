@@ -7,11 +7,88 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/",
+  "title": "Don't forget about the UI for AI",
+  "link": "https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/",
+  "published": "2026-10-20T07:40:00"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+  "link": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+  "published": "2026-10-20T05:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Being connected is not enough: Territorial inequalities in fixed-Internet access and performance",
+  "link": "https://blog.apnic.net/2026/10/20/being-connected-is-not-enough-territorial-inequalities-in-fixed-internet-access-and-performance/",
+  "published": "2026-10-20T04:36:37"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Amazon To Fund 12 Small Nuclear Reactors At Former Indiana Coal Plant",
+  "link": "https://hardware.slashdot.org/story/26/10/19/2133234/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-20T03:30:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How HP Is Building an AI-Ready CDP with Databricks CustomerLake",
+  "link": "https://www.databricks.com/blog/hp-ai-ready-cdp-databricks-customerlake",
+  "published": "2026-10-20T00:01:41"
+ },
+ {
+  "blog_name": "Thoughtbot",
+  "blog_url": "https://robots.thoughtbot.com/",
+  "title": "Design systems in an AI era; what changes when everyone can build?",
+  "link": "https://feed.thoughtbot.com/link/24077/17501068/design-systems-in-an-ai-era",
+  "published": "2026-10-20T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Give Your Desktop App a Useful Title Bar and Real Tools",
+  "link": "https://www.codenameone.com/blog/desktop-tools-title-bars-processes-zip/",
+  "published": "2026-10-20T00:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
+  "published": "2026-10-19T23:32:19"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Professor Calls To Abolish Business Schools For Failing Society",
+  "link": "https://news.slashdot.org/story/26/10/19/2126207/professor-calls-to-abolish-business-schools-for-failing-society?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-19T23:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Developers can now access SageMaker Studio through the new AWS experience",
+  "link": "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/",
+  "published": "2026-10-19T22:39:24"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "TP-Link Moves to Assemble Routers In the US Following Import Ban",
   "link": "https://mobile.slashdot.org/story/26/10/19/211219/tp-link-moves-to-assemble-routers-in-the-us-following-import-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-19T22:00:00"
+ },
+ {
+  "blog_name": "Shopify",
+  "blog_url": "https://shopify.engineering/",
+  "title": "Building Overexposed: understanding application exposure",
+  "link": "https://shopify.engineering/overexposed",
+  "published": "2026-10-19T21:54:14"
  },
  {
   "blog_name": "Databricks",
@@ -40,6 +117,13 @@
   "title": "A Hacker Broke Into John Deere, SharkNinja With an Army of AI Agents",
   "link": "https://it.slashdot.org/story/26/10/19/1746204/a-hacker-broke-into-john-deere-sharkninja-with-an-army-of-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-19T20:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How to get the most out of running dbt on Databricks",
+  "link": "https://www.databricks.com/blog/how-get-most-out-running-dbt-databricks",
+  "published": "2026-10-19T19:45:59"
  },
  {
   "blog_name": "Slashdot",
@@ -266,6 +350,13 @@
   "published": "2026-10-19T14:00:00"
  },
  {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Why do we need ud2 when int 6 is right there?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/",
+  "published": "2026-10-19T14:00:00"
+ },
+ {
   "blog_name": "Nubank",
   "blog_url": "https://building.nubank.com/",
   "title": "The code was the easy part: Lessons from contributing to the Clojure language",
@@ -319,6 +410,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Quiz: How to Automate Your Workflow With Claude Code Hooks",
   "link": "https://realpython.com/quizzes/claude-code-hooks/",
+  "published": "2026-10-19T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Advancing coding in low‑resource programming languages",
+  "link": "https://openai.com/index/low-resource-programming-languages",
   "published": "2026-10-19T12:00:00"
  },
  {
@@ -26325,6 +26423,13 @@
   "title": "Year in Review: 2024",
   "link": "https://www.taniarascia.com/2024-into-2025/",
   "published": "2025-03-27T00:00:00"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "What Is Vibe Coding? Meaning, Origin, and How to Vibe Code",
+  "link": "https://replit.com/blog/what-is-vibe-coding",
+  "published": "2025-03-26T19:11:36"
  },
  {
   "blog_name": "V8 Team",
