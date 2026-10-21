@@ -7,11 +7,305 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/",
+  "title": "Survey Says: You'll swap the model, but everything you build around it is staying put",
+  "link": "https://stackoverflow.blog/2026/10/21/survey-says-you-ll-swap-the-model-but-everything-you-build-around-it-is-staying-put/",
+  "published": "2026-10-21T14:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Cloudflare deploys protections against php2shell vulnerability",
+  "link": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+  "published": "2026-10-21T13:56:45"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Test Lightwell dependency upgrades locally",
+  "link": "https://developers.redhat.com/articles/2026/10/21/test-lightwell-dependency-upgrades-locally",
+  "published": "2026-10-21T13:31:40"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Running ClickHouse on NVIDIA Vera CPU: Is your favorite database up to the challenge?",
+  "link": "https://clickhouse.com/blog/clickhouse-performance-on-nvidia-vera",
+  "published": "2026-10-21T13:13:15"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "High availability for everyone with multi-site Red Hat build of Keycloak on Red Hat OpenShift",
+  "link": "https://developers.redhat.com/articles/2026/10/21/high-availability-for-everyone-with-multi-site-red-hat-build-of-keycloak-on-red-hat-openshift",
+  "published": "2026-10-21T13:02:19"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Scaling multi-agent systems with hierarchical orchestration",
+  "link": "https://developers.redhat.com/articles/2026/10/21/scaling-multi-agent-systems-hierarchical-orchestration",
+  "published": "2026-10-21T13:02:15"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+  "link": "https://blog.cloudflare.com/webmcp-commerce/",
+  "published": "2026-10-21T13:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+  "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+  "published": "2026-10-21T13:00:00"
+ },
+ {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "From support to root cause: what a CX person really does at Nubank",
+  "link": "https://building.nu.com/from-support-to-root-cause-what-a-cx-person-really-does-at-nubank/",
+  "published": "2026-10-21T12:57:09"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+  "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
+  "published": "2026-10-21T12:51:24"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
+  "link": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/",
+  "published": "2026-10-21T12:30:00"
+ },
+ {
+  "blog_name": "Timescale",
+  "blog_url": "https://blog.timescale.com/",
+  "title": "Designing IIoT Ingest That Survives a Cut Uplink",
+  "link": "https://www.tigerdata.com/blog/designing-iiot-ingest-that-survives-cut-uplink",
+  "published": "2026-10-21T12:08:45"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Use Scenario Tables to Identify Requirements",
+  "link": "https://spin.atomicobject.com/scenario-tables-requirements/",
+  "published": "2026-10-21T12:00:44"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Generating Random Data in Python (Guide)",
+  "link": "https://realpython.com/quizzes/python-random/",
+  "published": "2026-10-21T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python Performance Optimization: A Practical Guide",
+  "link": "https://realpython.com/quizzes/python-performance-optimization-guide/",
+  "published": "2026-10-21T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "OpenAI models are coming to Google Cloud",
+  "link": "https://openai.com/index/openai-models-google-cloud",
+  "published": "2026-10-21T12:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Databricks AI Runtime and NVIDIA make it easier to customize open models with enterprise data",
+  "link": "https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models",
+  "published": "2026-10-21T11:30:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "AI Runtime is Generally Available",
+  "link": "https://www.databricks.com/blog/ai-runtime-generally-available",
+  "published": "2026-10-21T11:20:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Tesla-SpaceX Merger Being Considered",
+  "link": "https://tech.slashdot.org/story/26/10/21/0458211/tesla-spacex-merger-being-considered?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-21T11:00:00"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Fragments: October 21",
+  "link": "https://martinfowler.com/fragments/2026-10-21.html",
+  "published": "2026-10-21T10:51:00"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+  "link": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+  "published": "2026-10-21T10:50:37"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+  "link": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+  "published": "2026-10-21T10:45:17"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 26.12.1 (Current)",
+  "link": "https://nodejs.org/en/blog/release/v26.12.1",
+  "published": "2026-10-21T10:39:20"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 24.22.1 (LTS)",
+  "link": "https://nodejs.org/en/blog/release/v24.22.1",
+  "published": "2026-10-21T10:39:14"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 22.23.4 (LTS)",
+  "link": "https://nodejs.org/en/blog/release/v22.23.4",
+  "published": "2026-10-21T10:39:12"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+  "link": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+  "published": "2026-10-21T10:30:41"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+  "link": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+  "published": "2026-10-21T10:30:40"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+  "link": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+  "published": "2026-10-21T10:30:25"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
+  "link": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/",
+  "published": "2026-10-21T09:52:16"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
+  "link": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/",
+  "published": "2026-10-21T09:50:14"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
+  "link": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow/",
+  "published": "2026-10-21T09:38:49"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD",
+  "link": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/",
+  "published": "2026-10-21T09:35:32"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "The anti-ban arms race: Agentic traffic and the fight for the open web",
+  "link": "https://www.zyte.com/blog/anti-ban-arms-race-agentic-traffic-open-web/",
+  "published": "2026-10-21T09:00:00"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "API Gateway and AI Gateway: Do You Need Both?",
+  "link": "https://nordicapis.com/api-gateway-and-ai-gateway-do-you-need-both/",
+  "published": "2026-10-21T07:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Russian Satellite's Close Shadowing of Radar Imaging Satellite Is a Big Deal",
+  "link": "https://science.slashdot.org/story/26/10/21/0449230/russian-satellites-close-shadowing-of-radar-imaging-satellite-is-a-big-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-21T07:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+  "link": "https://openai.com/index/building-chatgpt-ad-stack",
+  "published": "2026-10-21T07:00:00"
+ },
+ {
+  "blog_name": "Robin Wieruch",
+  "blog_url": "https://www.robinwieruch.de/blog/",
+  "title": "Testing AI-Generated Code: Lint the Pattern, Test the Decision",
+  "link": "https://www.robinwieruch.de/testing-ai-generated-code/",
+  "published": "2026-10-21T06:50:46"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: Doing the Assignment",
+  "link": "https://thedailywtf.com/articles/doing-the-assignment",
+  "published": "2026-10-21T06:30:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Vibe Coding to Production: A Developer’s Checklist for Building Reliable Web Apps",
+  "link": "https://www.sitepoint.com/vibe-coding-to-production-a-developer-s-checklist-for-building-reliable-web-apps/?utm_source=rss",
+  "published": "2026-10-21T05:24:24"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Using thousands of AI agents to uncover new leads in biological data",
+  "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+  "published": "2026-10-21T04:50:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Deploy RFD4-Proteina on Databricks",
+  "link": "https://www.databricks.com/blog/deploy-rfd4-proteina-model-databricks",
+  "published": "2026-10-21T04:42:46"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Judge Orders Meta To Name Employees Who Approved Torrenting Anna's Archive, Libgen",
   "link": "https://yro.slashdot.org/story/26/10/20/2055251/judge-orders-meta-to-name-employees-who-approved-torrenting-annas-archive-libgen?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-21T03:30:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Prevent Stale Database Reads in Laravel 13.38",
+  "link": "https://laravel-news.com/laravel-13-38-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-21T02:29:27"
  },
  {
   "blog_name": "Shopify",
@@ -56,6 +350,27 @@
   "published": "2026-10-21T00:00:00"
  },
  {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic looks to speed up Jina Model Inference by 8x using NVIDIA RTX GPUs",
+  "link": "https://www.elastic.co/blog/jina-model-inference-nvidia-rtx-gpus",
+  "published": "2026-10-21T00:00:00"
+ },
+ {
+  "blog_name": "Go",
+  "blog_url": "https://blog.golang.org/",
+  "title": "Help set Go's priorities for next year",
+  "link": "https://go.dev/blog/survey2026-announce",
+  "published": "2026-10-21T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Skipped monorepo deployments no longer count against limits",
+  "link": "https://vercel.com/changelog/skipped-monorepo-deployments-no-longer-count-against-limits",
+  "published": "2026-10-21T00:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Ukraine Claims World's First Drone Evacuation of Wounded Soldier",
@@ -91,6 +406,20 @@
   "published": "2026-10-20T21:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Debugging CSS Layout Issues: A Practical Guide to Browser DevTools",
+  "link": "https://www.sitepoint.com/debugging-css-layout-issues-a-practical-guide-to-browser-devtools/?utm_source=rss",
+  "published": "2026-10-20T20:18:20"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Progressive Enhancement in Web Forms: Building Reliable Experiences with HTML, CSS, and JavaScript",
+  "link": "https://www.sitepoint.com/progressive-enhancement-in-web-forms-building-reliable-experiences-with-html-css-and-javascript/?utm_source=rss",
+  "published": "2026-10-20T20:14:36"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Google Support Pages Start Defaulting to AI Chatbots",
@@ -110,6 +439,13 @@
   "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
   "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
   "published": "2026-10-20T19:34:19"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Build a Startup Runway Calculator in JavaScript (and Stress-Test Your Plan)",
+  "link": "https://www.sitepoint.com/build-a-startup-runway-calculator-in-javascript-and-stress-test-your-plan/?utm_source=rss",
+  "published": "2026-10-20T19:05:26"
  },
  {
   "blog_name": "Slashdot",
@@ -215,6 +551,13 @@
   "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
   "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
   "published": "2026-10-20T16:05:03"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Your Agent Can Better Drive the Auth0 CLI with Agent Mode",
+  "link": "https://auth0.com/blog/your-agent-can-better-drive-auth0-cli-with-agent-mode/",
+  "published": "2026-10-20T16:02:00"
  },
  {
   "blog_name": "SitePoint",
@@ -333,6 +676,13 @@
   "blog_url": "https://blog.cloudflare.com/",
   "title": "Introducing tsrs: a Port of TypeScript to Rust",
   "link": "https://blog.cloudflare.com/typescript-rust-port/",
+  "published": "2026-10-20T13:00:00"
+ },
+ {
+  "blog_name": "Findmypast",
+  "blog_url": "http://tech.findmypast.com/",
+  "title": "The Technology Behind the Names: How We're Bringing Local War Memorials to Life",
+  "link": "https://tech.findmypast.com/technology-behind-names/",
   "published": "2026-10-20T13:00:00"
  },
  {
@@ -469,6 +819,13 @@
   "published": "2026-10-20T06:09:42"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas DatetimeIndex slicing: Fix KeyError with sort_index",
+  "link": "https://lernerpython.com/2026/10/20/pandas-datetimeindex-slicing-fix-keyerror-with-sort-index/",
+  "published": "2026-10-20T06:00:00"
+ },
+ {
   "blog_name": "Nvidia",
   "blog_url": "https://blogs.nvidia.com/",
   "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
@@ -481,6 +838,13 @@
   "title": "Being connected is not enough: Territorial inequalities in fixed-Internet access and performance",
   "link": "https://blog.apnic.net/2026/10/20/being-connected-is-not-enough-territorial-inequalities-in-fixed-internet-access-and-performance/",
   "published": "2026-10-20T04:36:37"
+ },
+ {
+  "blog_name": "Toptal",
+  "blog_url": "https://www.toptal.com/blog/",
+  "title": "Spring Batch Tutorial: A Practical Guide to Scalable Batch Processing",
+  "link": "https://www.toptal.com/developers/spring/spring-batch-tutorial",
+  "published": "2026-10-20T04:00:00"
  },
  {
   "blog_name": "Slashdot",
@@ -599,6 +963,20 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "How to handle token limits in long AI support conversations",
   "link": "https://www.twilio.com/en-us/blog/insights/token-limits-ai-support-conversations",
+  "published": "2026-10-20T00:00:00"
+ },
+ {
+  "blog_name": "Trivago",
+  "blog_url": "http://tech.trivago.com/",
+  "title": "Spin-Up, Test, Tear-Down: How trivago Runs 600+ Preview Environments on Kubernetes",
+  "link": "https://tech.trivago.com/post/2026-10-20-spin-up-test-tear-down-how-trivago-runs-600-preview-environments-on-kubernetes/",
+  "published": "2026-10-20T00:00:00"
+ },
+ {
+  "blog_name": "Rust",
+  "blog_url": "https://blog.rust-lang.org/",
+  "title": "Announcing rustup 1.29.2",
+  "link": "https://blog.rust-lang.org/2026/10/20/Rustup-1.29.2/",
   "published": "2026-10-20T00:00:00"
  },
  {
@@ -1104,6 +1482,13 @@
   "title": "INNOG 9 at APNIC 62: Building resilient infrastructure for the next Internet",
   "link": "https://blog.apnic.net/2026/10/19/innog-9-at-apnic-62-building-resilient-infrastructure-for-the-next-internet/",
   "published": "2026-10-19T05:38:05"
+ },
+ {
+  "blog_name": "Toptal",
+  "blog_url": "https://www.toptal.com/blog/",
+  "title": "Marketing Strategy in the AI Era: A New Mandate for CMOs",
+  "link": "https://www.toptal.com/executive-guidance/growth-and-digital-marketing/cmo-marketing-strategy",
+  "published": "2026-10-19T05:00:00"
  },
  {
   "blog_name": "APNIC",
