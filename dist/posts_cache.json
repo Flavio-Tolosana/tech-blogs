@@ -7,6 +7,76 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Judge Orders Meta To Name Employees Who Approved Torrenting Anna's Archive, Libgen",
+  "link": "https://yro.slashdot.org/story/26/10/20/2055251/judge-orders-meta-to-name-employees-who-approved-torrenting-annas-archive-libgen?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-21T03:30:00"
+ },
+ {
+  "blog_name": "Shopify",
+  "blog_url": "https://shopify.engineering/",
+  "title": "How Shopify turns open models into task experts",
+  "link": "https://shopify.engineering/open-model-task-experts",
+  "published": "2026-10-21T02:12:40"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Critical PHP Security Release Coming Tomorrow (October 21)",
+  "link": "https://laravel-news.com/php-critical-security-release?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-21T01:52:52"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Rolling the root key: What happened?",
+  "link": "https://blog.apnic.net/2026/10/21/rolling-the-root-key-what-happened/",
+  "published": "2026-10-21T01:01:24"
+ },
+ {
+  "blog_name": "Grab",
+  "blog_url": "http://engineering.grab.com/",
+  "title": "App stability at scale with a layered defense",
+  "link": "https://engineering.grab.com/app-stability-at-scale-with-a-layered-defense",
+  "published": "2026-10-21T00:23:00"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "Codebase Exploration with AI [SUBSCRIBER]",
+  "link": "https://www.kodeco.com/ios/paths/ai-assisted-ios-dev/53684539-codebase-exploration-with-ai",
+  "published": "2026-10-21T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Let Users Install Your Java Web App Again",
+  "link": "https://www.codenameone.com/blog/install-your-java-web-app-again/",
+  "published": "2026-10-21T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Ukraine Claims World's First Drone Evacuation of Wounded Soldier",
+  "link": "https://tech.slashdot.org/story/26/10/20/1929211/ukraine-claims-worlds-first-drone-evacuation-of-wounded-soldier?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-20T23:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "8 eMudhra certificates are compromised. Here's what you need to know",
+  "link": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
+  "published": "2026-10-20T22:20:16"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Sony Updates the Walkman As a $5,900 Gold-Plated MP3 Player",
+  "link": "https://hardware.slashdot.org/story/26/10/20/1923237/sony-updates-the-walkman-as-a-5900-gold-plated-mp3-player?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-20T22:00:00"
+ },
+ {
   "blog_name": "AWS Machine Learning",
   "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
   "title": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
@@ -378,6 +448,13 @@
   "published": "2026-10-20T07:00:00"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+  "link": "https://openai.com/index/terminal-x",
+  "published": "2026-10-20T07:00:00"
+ },
+ {
   "blog_name": "The Daily WTF",
   "blog_url": "http://thedailywtf.com/",
   "title": "The Outage",
@@ -515,6 +592,13 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Build better SLOs with RUM and synthetic SLIs",
   "link": "https://www.datadoghq.com/blog/rum-synthetic-slos-slis/",
+  "published": "2026-10-20T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to handle token limits in long AI support conversations",
+  "link": "https://www.twilio.com/en-us/blog/insights/token-limits-ai-support-conversations",
   "published": "2026-10-20T00:00:00"
  },
  {
