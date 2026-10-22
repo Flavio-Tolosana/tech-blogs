@@ -7,6 +7,62 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Daniel Stenberg",
+  "blog_url": "https://daniel.haxx.se/blog/",
+  "title": "“ignore the slop”",
+  "link": "https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/",
+  "published": "2026-10-22T05:46:34"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+  "link": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+  "published": "2026-10-22T05:00:56"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+  "link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+  "published": "2026-10-22T05:00:27"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+  "link": "https://blogs.nvidia.com/blog/dsx-power/",
+  "published": "2026-10-22T05:00:25"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+  "link": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+  "published": "2026-10-22T05:00:23"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+  "link": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+  "published": "2026-10-22T05:00:19"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Startup Claims To Use AI-Created Viruses To Treat a Patient",
+  "link": "https://science.slashdot.org/story/26/10/21/2054216/startup-claims-to-use-ai-created-viruses-to-treat-a-patient?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-22T03:30:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Your most pressing questions about ASPA, answered",
+  "link": "https://blog.apnic.net/2026/10/22/your-most-pressing-questions-about-aspa-answered/",
+  "published": "2026-10-22T00:39:37"
+ },
+ {
   "blog_name": "Clickhouse",
   "blog_url": "https://clickhouse.com/blog",
   "title": "Trace and evaluate Cursor agents with Langfuse, powered by ClickHouse",
@@ -14,11 +70,60 @@
   "published": "2026-10-22T00:00:00"
  },
  {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Introducing Dylint Spellcheck (Rust)",
+  "link": "https://code.dblock.org/2026/10/22/introducing-dylint-spellcheck.html",
+  "published": "2026-10-22T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "A Java IDE in Your Browser, With Your Files in Your Browser",
+  "link": "https://www.codenameone.com/blog/not-a-cloud-ide/",
+  "published": "2026-10-22T00:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Turning IPv6 tunnels into programmable delay lines for pulsing DoS",
+  "link": "https://blog.apnic.net/2026/10/22/turning-ipv6-tunnels-into-programmable-delay-lines-for-pulsing-dos/",
+  "published": "2026-10-21T23:48:20"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Securing Quick access from corporate networks with AWS PrivateLink",
+  "link": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
+  "published": "2026-10-21T23:38:38"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
+  "link": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/",
+  "published": "2026-10-21T23:36:47"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "eBay to Cut 9% of Workforce",
+  "link": "https://slashdot.org/story/26/10/21/2040246/ebay-to-cut-9-of-workforce?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-21T23:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "AMD Brings Ryzen Overclocking Driver to Linux",
   "link": "https://linux.slashdot.org/story/26/10/21/2030239/amd-brings-ryzen-overclocking-driver-to-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-21T22:00:00"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "Critical PHP RCE Vulnerabilities: Patch Now (CVE-2026-109618, CVE-2026-109619)",
+  "link": "https://www.digitalocean.com/blog/critical-php-rce-vulnerabilities-patch-now",
+  "published": "2026-10-21T21:46:53"
  },
  {
   "blog_name": "AWS Machine Learning",
