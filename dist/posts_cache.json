@@ -7,6 +7,125 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Capital One Tech",
+  "blog_url": "https://medium.com/capital-one-tech",
+  "title": "Capital One at EMNLP 2026 in Budapest",
+  "link": "https://medium.com/capital-one-tech/capital-one-at-emnlp-2026-in-budapest-4f5b6a450ebc?source=rss----3db3a67cb648---4",
+  "published": "2026-10-23T13:23:19"
+ },
+ {
+  "blog_name": "Vlad Mihalcea",
+  "blog_url": "https://vladmihalcea.com/",
+  "title": "A beginner’s guide to the Jenesis build tool",
+  "link": "https://vladmihalcea.com/jenesis-build-tool/",
+  "published": "2026-10-23T13:18:34"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Advanced authentication for Data Grid in Red Hat OpenShift 4: LDAP and LDAPS",
+  "link": "https://developers.redhat.com/articles/2026/10/23/advanced-authentication-data-grid-red-hat-openshift-4-ldap-and-ldaps",
+  "published": "2026-10-23T13:16:37"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Locking down MCP at the gateway",
+  "link": "https://developers.redhat.com/articles/2026/10/23/locking-down-mcp-at-the-gateway",
+  "published": "2026-10-23T13:16:36"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Advanced authentication for Data Grid in Red Hat OpenShift 4: Keycloak and SSO",
+  "link": "https://developers.redhat.com/articles/2026/10/23/advanced-authentication-data-grid-red-hat-openshift-4-keycloak-and-sso",
+  "published": "2026-10-23T13:16:33"
+ },
+ {
+  "blog_name": "Timescale",
+  "blog_url": "https://blog.timescale.com/",
+  "title": "How Retention Policies Silently Break Continuous Aggregates",
+  "link": "https://www.tigerdata.com/blog/how-retention-policies-silently-break-continuous-aggregates",
+  "published": "2026-10-23T12:28:41"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Consulting Designer Survival Guide 101: How to Adjust to Consulting After Enterprise Work",
+  "link": "https://spin.atomicobject.com/consultancy-vs-enterprise-work/",
+  "published": "2026-10-23T12:00:32"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "The Real Python Podcast – Episode #316: The Future of Python Security: Trends, Challenges, and Solutions",
+  "link": "https://realpython.com/podcasts/rpp/316/",
+  "published": "2026-10-23T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Using Pydantic to Simplify Python Data Validation",
+  "link": "https://realpython.com/quizzes/python-pydantic-video/",
+  "published": "2026-10-23T12:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Best Claude Tracking Tools in 2026: 6 Options Compared",
+  "link": "https://www.sitepoint.com/best-claude-tracking-tools/?utm_source=rss",
+  "published": "2026-10-23T11:23:13"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "How Shipsidekick replaced Neon with ClickHouse Managed Postgres for 10x faster queries and better reliability",
+  "link": "https://clickhouse.com/blog/shipsidekick-neon-to-clickhouse-managed-postgres",
+  "published": "2026-10-23T10:11:36"
+ },
+ {
+  "blog_name": "Dereuromark",
+  "blog_url": "http://www.dereuromark.de/",
+  "title": "Docs that grow up: what Carve does after the first draft",
+  "link": "https://www.dereuromark.de/2026/10/23/docs-that-grow-up-what-carve-does-after-the-first-draft/",
+  "published": "2026-10-23T10:06:48"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Decide with Jev: Turn AI Answers into Decisions with PHP Rules",
+  "link": "https://laravel-news.com/decide-with-jev-turn-ai-answers-into-decisions-with-php-rules?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-23T09:08:28"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Harnais agentiques (1/2) : pourquoi les bonnes pratiques d'hier coûtent cher aujourd'hui",
+  "link": "https://blog.octo.com/harnais-agentiques-(12)--pourquoi-les-bonnes-pratiques-d'hier-coutent-cher-aujourd'hui",
+  "published": "2026-10-23T09:08:10"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Mes agents lisaient trop : ce que dix semaines de chasse aux tokens m'ont appris",
+  "link": "https://blog.octo.com/mes-agents-lisaient-trop--ce-que-dix-semaines-de-chasse-aux-tokens-m'ont-appris",
+  "published": "2026-10-23T08:36:10"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "EME EFE ESTUDIO: The small steps behind one designer’s big leap",
+  "link": "https://www.hostinger.com/blog/eme-efe-estudio/",
+  "published": "2026-10-23T07:41:20"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Error'd: It's About Time",
+  "link": "https://thedailywtf.com/articles/it-s-about-time",
+  "published": "2026-10-23T06:30:00"
+ },
+ {
   "blog_name": "Ruby-lang",
   "blog_url": "https://www.ruby-lang.org/en/news/",
   "title": "Ruby 3.3.13 Released",
@@ -56,6 +175,13 @@
   "published": "2026-10-23T03:09:09"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "AI Agents Need Idempotency: The Distributed Systems Problem Hiding Inside Agentic AI",
+  "link": "https://www.sitepoint.com/ai-agents-need-idempotency-the-distributed-systems-problem-hiding-inside-agentic-ai/?utm_source=rss",
+  "published": "2026-10-23T02:22:42"
+ },
+ {
   "blog_name": "Nvidia",
   "blog_url": "https://blogs.nvidia.com/",
   "title": "Kazakhstan Expands Compute for Its AI Future",
@@ -75,6 +201,34 @@
   "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
   "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
   "published": "2026-10-23T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Rewrite Everything in Java: Not Rust",
+  "link": "https://www.codenameone.com/blog/rewrite-everything-in-java-not-rust/",
+  "published": "2026-10-23T00:00:00"
+ },
+ {
+  "blog_name": "Fly.io",
+  "blog_url": "https://fly.io/blog/",
+  "title": "Feng Shui for Robots: The Fly MCP Server",
+  "link": "https://fly.io/blog/feng-shui-for-robots/",
+  "published": "2026-10-23T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Does Your Model Run on AWS Trainium? Look It Up",
+  "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "published": "2026-10-23T00:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laravel Read Replicas: Prevent Stale Reads After a Write",
+  "link": "https://laravel-news.com/laravel-prevent-stale-database-reads?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-22T23:20:21"
  },
  {
   "blog_name": "Slashdot",
@@ -364,6 +518,13 @@
   "published": "2026-10-22T14:00:00"
  },
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python and REST APIs: Interacting With Web Services",
+  "link": "https://realpython.com/api-integration-in-python/",
+  "published": "2026-10-22T14:00:00"
+ },
+ {
   "blog_name": "Red Hat",
   "blog_url": "https://developers.redhat.com/blog/",
   "title": "Agentic partners integration: AI support agents for Microsoft Azure Red Hat OpenShift",
@@ -453,6 +614,13 @@
   "title": "What “Clear Form” Should Really Do: Managing Draft Data in JavaScript",
   "link": "https://www.sitepoint.com/what-clear-form-should-really-do-managing-draft-data-in-javascript/?utm_source=rss",
   "published": "2026-10-22T09:08:24"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "How I use Zyte MCP to plan web scrapers",
+  "link": "https://www.zyte.com/blog/zyte-mcp-plan-web-scrapers/",
+  "published": "2026-10-22T08:00:00"
  },
  {
   "blog_name": "Hugging Face",
@@ -693,6 +861,13 @@
   "published": "2026-10-22T00:00:00"
  },
  {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to build an AI agent that checks order status and processes refunds",
+  "link": "https://www.twilio.com/en-us/blog/insights/ai-agent-order-status-refunds",
+  "published": "2026-10-22T00:00:00"
+ },
+ {
   "blog_name": "APNIC",
   "blog_url": "https://blog.apnic.net/",
   "title": "Turning IPv6 tunnels into programmable delay lines for pulsing DoS",
@@ -726,6 +901,13 @@
   "title": "Reset Sticky Database Connections Between Laravel Queue Jobs",
   "link": "https://laravel-news.com/laravel-queue-sticky-database-connections?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
   "published": "2026-10-21T22:24:26"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Skuul: Open-Source School Management Built on Laravel",
+  "link": "https://laravel-news.com/skuul-school-management-laravel?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-21T22:08:50"
  },
  {
   "blog_name": "Laravel",
@@ -2224,6 +2406,13 @@
   "title": "Introducing Clairic, a new System One class of extraction models",
   "link": "https://blog.cloudflare.com/clairic-extraction-model/",
   "published": "2026-10-19T17:48:26"
+ },
+ {
+  "blog_name": "RoseHosting",
+  "blog_url": "https://www.rosehosting.com/blog/",
+  "title": "How to Set Up Dokploy Self-Hosted PaaS on Debian 13",
+  "link": "https://www.rosehosting.com/blog/how-to-set-up-dokploy-self-hosted-paas-on-debian-13/",
+  "published": "2026-10-19T17:30:00"
  },
  {
   "blog_name": "NVIDIA Developer",
@@ -4592,6 +4781,13 @@
   "published": "2026-10-14T17:36:29"
  },
  {
+  "blog_name": "RoseHosting",
+  "blog_url": "https://www.rosehosting.com/blog/",
+  "title": "How to Install Zabbix Server and Agent on Ubuntu 26.04 (2026 Guide)",
+  "link": "https://www.rosehosting.com/blog/how-to-install-zabbix-server-and-agent-on-ubuntu-26-04-2026-guide/",
+  "published": "2026-10-14T17:30:00"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "Your next job doesn’t have a title yet: Emerging role skills Q&A with Corey Hymel of Andela",
@@ -5794,6 +5990,13 @@
   "title": "Can we change an AI model&#8217;s architecture without retraining it from scratch?",
   "link": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
   "published": "2026-10-12T17:36:18"
+ },
+ {
+  "blog_name": "RoseHosting",
+  "blog_url": "https://www.rosehosting.com/blog/",
+  "title": "How to Integrate Prometheus with Alertmanager for Advanced Alerting (Beyond Basic Grafana Setup)",
+  "link": "https://www.rosehosting.com/blog/how-to-integrate-prometheus-with-alertmanager/",
+  "published": "2026-10-12T17:30:00"
  },
  {
   "blog_name": "Databricks",
@@ -7721,6 +7924,13 @@
   "published": "2026-10-07T17:45:34"
  },
  {
+  "blog_name": "RoseHosting",
+  "blog_url": "https://www.rosehosting.com/blog/",
+  "title": "How To Set Up a Firewall with UFW on Debian 13",
+  "link": "https://www.rosehosting.com/blog/how-to-set-up-a-firewall-with-ufw-on-debian-13/",
+  "published": "2026-10-07T17:30:00"
+ },
+ {
   "blog_name": "Clickhouse",
   "blog_url": "https://clickhouse.com/blog",
   "title": "🗽 Postgres Summit US 2026 retrospective",
@@ -8888,6 +9098,13 @@
   "title": "Anthropic Reports Florida Woman's Claude 'Diary' Threat to Law Enforcement",
   "link": "https://yro.slashdot.org/story/26/10/05/1733245/anthropic-reports-florida-womans-claude-diary-threat-to-law-enforcement?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-05T17:35:00"
+ },
+ {
+  "blog_name": "RoseHosting",
+  "blog_url": "https://www.rosehosting.com/blog/",
+  "title": "How to Deploy Multi-Container Applications with Docker Compose on Debian 13",
+  "link": "https://www.rosehosting.com/blog/how-to-deploy-multi-container-applications-with-docker-compose-on-debian-13/",
+  "published": "2026-10-05T17:30:00"
  },
  {
   "blog_name": "AWS Machine Learning",
@@ -34934,6 +35151,13 @@
   "blog_url": "http://www.stackabuse.com/",
   "title": "Building a Secure Client-Server Protocol in Python: Sockets, Framing & Key Exchange",
   "link": "https://stackabuse.com/building-a-secure-client-server-protocol-in-python-sockets-framing-key-exchange/",
+  "published": null
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Physicists Trap a Single Antimatter Particle For a Month",
+  "link": "https://science.slashdot.org/story/26/10/23/021237/physicists-trap-a-single-antimatter-particle-for-a-month?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": null
  }
 ]
