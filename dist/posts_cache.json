@@ -7,11 +7,109 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Ruby-lang",
+  "blog_url": "https://www.ruby-lang.org/en/news/",
+  "title": "Ruby 3.3.13 Released",
+  "link": "https://www.ruby-lang.org/en/news/2026/10/23/ruby-3-3-13-released/",
+  "published": "2026-10-23T04:24:46"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Q&A: How AI came to model the “messy” human mind",
+  "link": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+  "published": "2026-10-23T04:00:00"
+ },
+ {
+  "blog_name": "Ruby-lang",
+  "blog_url": "https://www.ruby-lang.org/en/news/",
+  "title": "Ruby 3.4.12 Released",
+  "link": "https://www.ruby-lang.org/en/news/2026/10/23/ruby-3-4-12-released/",
+  "published": "2026-10-23T03:50:27"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Unvetted AI Agents Are Accessing US Bank Accounts",
+  "link": "https://news.slashdot.org/story/26/10/23/0023257/unvetted-ai-agents-are-accessing-us-bank-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-23T03:30:00"
+ },
+ {
+  "blog_name": "Ruby-lang",
+  "blog_url": "https://www.ruby-lang.org/en/news/",
+  "title": "Ruby 4.0.9 Released",
+  "link": "https://www.ruby-lang.org/en/news/2026/10/23/ruby-4-0-9-released/",
+  "published": "2026-10-23T03:11:22"
+ },
+ {
+  "blog_name": "Ruby-lang",
+  "blog_url": "https://www.ruby-lang.org/en/news/",
+  "title": "Regexp compilation fixes related to GitLab's CVE-2026-89078, CVE-2026-93577, CVE-2026-97229 and CVE-2026-110264",
+  "link": "https://www.ruby-lang.org/en/news/2026/10/23/regexp-fixes-for-gitlab-cves/",
+  "published": "2026-10-23T03:11:22"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Security vulnerabilities across the internet: How Replit is protecting your business",
+  "link": "https://replit.com/blog/security-vulnerabilities-across-the-internet",
+  "published": "2026-10-23T03:09:09"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Kazakhstan Expands Compute for Its AI Future",
+  "link": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+  "published": "2026-10-23T02:00:13"
+ },
+ {
+  "blog_name": "Thoughtbot",
+  "blog_url": "https://robots.thoughtbot.com/",
+  "title": "Who's reading the code your AI writes?",
+  "link": "https://feed.thoughtbot.com/link/24077/17503128/who-s-reading-the-code-your-ai-writes",
+  "published": "2026-10-23T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+  "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+  "published": "2026-10-23T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "To Make Way For Data Centers, Google Will Pay Others to Use Less Power",
+  "link": "https://hardware.slashdot.org/story/26/10/22/180226/to-make-way-for-data-centers-google-will-pay-others-to-use-less-power?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-22T23:00:00"
+ },
+ {
   "blog_name": "Vercel",
   "blog_url": "https://vercel.com/blog",
   "title": "Eight more TLDs now eligible for a free domain with Pro",
   "link": "https://vercel.com/changelog/eight-more-tlds-now-eligible-for-a-free-domain-with-pro",
   "published": "2026-10-22T22:28:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+  "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "published": "2026-10-22T22:24:34"
+ },
+ {
+  "blog_name": "Netflix",
+  "blog_url": "https://medium.com/netflix-techblog",
+  "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
+  "link": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
+  "published": "2026-10-22T22:19:12"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Microsoft Says October Updates Didn't Actually Fix VPN Issues",
+  "link": "https://it.slashdot.org/story/26/10/22/1950254/microsoft-says-october-updates-didnt-actually-fix-vpn-issues?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-22T22:00:00"
  },
  {
   "blog_name": "Slashdot",
@@ -378,6 +476,13 @@
   "published": "2026-10-22T07:00:00"
  },
  {
+  "blog_name": "Honeybadger",
+  "blog_url": "http://blog.honeybadger.io/",
+  "title": "Error handling in Elixir",
+  "link": "https://www.honeybadger.io/blog/elixir-error-handling/",
+  "published": "2026-10-22T07:00:00"
+ },
+ {
   "blog_name": "Ruby-lang",
   "blog_url": "https://www.ruby-lang.org/en/news/",
   "title": "Ruby 4.0.8 Released",
@@ -452,6 +557,13 @@
   "blog_url": "https://snyk.io/blog",
   "title": "Turn Your Vulnerability Backlog Into Pull Requests With Agentic Remediation",
   "link": "https://snyk.io/blog/evo-remediation-agent-open-preview/",
+  "published": "2026-10-22T04:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Death to long-lived static credentials",
+  "link": "https://vercel.com/blog/death-to-long-lived-static-credentials",
   "published": "2026-10-22T04:00:00"
  },
  {
@@ -557,6 +669,27 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Optimize AI costs with Agent Observability",
   "link": "https://www.datadoghq.com/blog/cost-agent-observability/",
+  "published": "2026-10-22T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Introducing Markdownlint Spellcheck",
+  "link": "https://code.dblock.org/2026/10/22/introducing-markdownlint-rule-spellcheck.html",
+  "published": "2026-10-22T00:00:00"
+ },
+ {
+  "blog_name": "Jonathan Snook",
+  "blog_url": "https://snook.ca/",
+  "title": "New iPhone",
+  "link": "https://snook.ca/everything/new-iphone/",
+  "published": "2026-10-22T00:00:00"
+ },
+ {
+  "blog_name": "Crystal",
+  "blog_url": "https://crystal-lang.org/",
+  "title": "Crystal 1.22.1 is released!",
+  "link": "https://crystal-lang.org/2026/10/22/1.22.1-released/",
   "published": "2026-10-22T00:00:00"
  },
  {
