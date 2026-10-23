@@ -7,6 +7,265 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "People Are Vibe Coding Their Way to Better TVs",
+  "link": "https://entertainment.slashdot.org/story/26/10/23/2034217/people-are-vibe-coding-their-way-to-better-tvs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-23T22:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel CLI adds Spend Management",
+  "link": "https://vercel.com/changelog/vercel-cli-adds-spend-management",
+  "published": "2026-10-23T21:44:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Greece Enacts Social Media Ban For Kids Under 15",
+  "link": "https://tech.slashdot.org/story/26/10/23/1928227/greece-enacts-social-media-ban-for-kids-under-15?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-23T21:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+  "link": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
+  "published": "2026-10-23T21:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Send feedback from the Vercel MCP",
+  "link": "https://vercel.com/changelog/send-feedback-from-vercel-mcp",
+  "published": "2026-10-23T20:53:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "How Vercel Agent accesses production safely",
+  "link": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
+  "published": "2026-10-23T20:29:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "SpaceX In Talks to Access 80,000 Cell Sites For New Network",
+  "link": "https://mobile.slashdot.org/story/26/10/23/1916222/spacex-in-talks-to-access-80000-cell-sites-for-new-network?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-23T20:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Reinforcing the value of human understanding at MIT",
+  "link": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
+  "published": "2026-10-23T19:35:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Knicks Sent Employees Fake Offer of Championship Rings In Phishing Test",
+  "link": "https://it.slashdot.org/story/26/10/23/193208/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-23T19:05:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Built for Agents: The Case for Spark Declarative Pipelines",
+  "link": "https://www.databricks.com/blog/built-agents-case-spark-declarative-pipelines",
+  "published": "2026-10-23T19:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Real-time energy trading and analytics on Databricks",
+  "link": "https://www.databricks.com/blog/real-time-energy-trading-and-analytics-databricks",
+  "published": "2026-10-23T19:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Deployments now show build cache size",
+  "link": "https://vercel.com/changelog/deployments-now-show-build-cache-size",
+  "published": "2026-10-23T19:00:00"
+ },
+ {
+  "blog_name": "Netflix",
+  "blog_url": "https://medium.com/netflix-techblog",
+  "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
+  "link": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
+  "published": "2026-10-23T18:32:51"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Origin Range Requests: Serving large files without range-request tuning",
+  "link": "https://blog.cloudflare.com/origin-range-requests/",
+  "published": "2026-10-23T18:22:59"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Bringing post-quantum cryptography to geographically fenced key management",
+  "link": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+  "published": "2026-10-23T18:06:56"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Left Alone With Nothing To Do, AI Agents Started Playing",
+  "link": "https://slashdot.org/story/26/10/23/1647249/left-alone-with-nothing-to-do-ai-agents-started-playing?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-23T18:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+  "link": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
+  "published": "2026-10-23T17:48:54"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+  "link": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/",
+  "published": "2026-10-23T17:27:52"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
+  "link": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1/",
+  "published": "2026-10-23T17:27:35"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Connect adds managed Stripe API keys",
+  "link": "https://vercel.com/changelog/vercel-connect-adds-managed-stripe-api-keys",
+  "published": "2026-10-23T17:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+  "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+  "published": "2026-10-23T17:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Second Snuggles: Rescuing plushies, restoring them, and finding them new homes",
+  "link": "https://www.hostinger.com/blog/second-snuggles/",
+  "published": "2026-10-23T16:49:27"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "Prompt Caching is GA on DigitalOcean Serverless Inference: Up to 90% Off the Context Your Agents Resend",
+  "link": "https://www.digitalocean.com/blog/now-available-prompt-caching",
+  "published": "2026-10-23T16:48:34"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+  "link": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/",
+  "published": "2026-10-23T16:30:10"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
+  "link": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/",
+  "published": "2026-10-23T16:24:55"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/",
+  "published": "2026-10-23T16:21:36"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+  "link": "https://huggingface.co/blog/allenai/litpivot",
+  "published": "2026-10-23T16:15:50"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Volker Dusch on the PHP RCE Vulnerabilities and Disclosure",
+  "link": "https://laravel-news.com/volker-dusch-php-rce-disclosure?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-23T15:41:26"
+ },
+ {
+  "blog_name": "Amazon Science",
+  "blog_url": "https://www.amazon.science/",
+  "title": "Better speech synthesis for audiobooks",
+  "link": "https://www.amazon.science/blog/better-speech-synthesis-for-audiobooks",
+  "published": "2026-10-23T15:20:02"
+ },
+ {
+  "blog_name": "Angular",
+  "blog_url": "https://blog.angular.io/",
+  "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with…",
+  "link": "https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4",
+  "published": "2026-10-23T14:58:56"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
+  "link": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
+  "published": "2026-10-23T14:58:32"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Why didn’t we use the COM static store to clean up the unmarshalable delegate?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261023-00/?p=112793/",
+  "published": "2026-10-23T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python's F-String for String Interpolation and Formatting",
+  "link": "https://realpython.com/python-f-strings/",
+  "published": "2026-10-23T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Get Started With Django: Build a Portfolio App",
+  "link": "https://realpython.com/get-started-with-django-1/",
+  "published": "2026-10-23T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python's property(): Add Managed Attributes to Your Classes",
+  "link": "https://realpython.com/python-property/",
+  "published": "2026-10-23T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "NumPy Tutorial: Your First Steps Into Data Science in Python",
+  "link": "https://realpython.com/numpy-tutorial/",
+  "published": "2026-10-23T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python Metaclasses",
+  "link": "https://realpython.com/python-metaclasses/",
+  "published": "2026-10-23T14:00:00"
+ },
+ {
   "blog_name": "Capital One Tech",
   "blog_url": "https://medium.com/capital-one-tech",
   "title": "Capital One at EMNLP 2026 in Budapest",
@@ -91,6 +350,13 @@
   "published": "2026-10-23T10:06:48"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Securing our frontier model training environment",
+  "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "published": "2026-10-23T10:00:00"
+ },
+ {
   "blog_name": "Laravel",
   "blog_url": "https://laravel-news.com/blog/",
   "title": "Decide with Jev: Turn AI Answers into Decisions with PHP Rules",
@@ -105,6 +371,13 @@
   "published": "2026-10-23T09:08:10"
  },
  {
+  "blog_name": "Brandwatch",
+  "blog_url": "http://engineering.brandwatch.com/",
+  "title": "19 Social Media Holidays to Celebrate This November",
+  "link": "https://www.brandwatch.com/blog/social-media-holidays-november/",
+  "published": "2026-10-23T09:00:41"
+ },
+ {
   "blog_name": "OCTO Technology",
   "blog_url": "https://blog.octo.com/en/",
   "title": "Mes agents lisaient trop : ce que dix semaines de chasse aux tokens m'ont appris",
@@ -117,6 +390,13 @@
   "title": "EME EFE ESTUDIO: The small steps behind one designer’s big leap",
   "link": "https://www.hostinger.com/blog/eme-efe-estudio/",
   "published": "2026-10-23T07:41:20"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Rumors of the SaaS demise are greatly exaggerated",
+  "link": "https://stackoverflow.blog/2026/10/23/rumors-of-the-saas-demise-are-greatly-exaggerated/",
+  "published": "2026-10-23T07:40:00"
  },
  {
   "blog_name": "The Daily WTF",
@@ -221,6 +501,27 @@
   "blog_url": "https://huggingface.co/blog",
   "title": "Does Your Model Run on AWS Trainium? Look It Up",
   "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "published": "2026-10-23T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Auth0-Powered SaaS Providers Unlock Growth with the Okta Integration Network",
+  "link": "https://auth0.com/blog/auth0-powered-saas-providers-unlock-growth-okta-integration-network/",
+  "published": "2026-10-23T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "I Am Just One Engineer Armed with AI",
+  "link": "https://code.dblock.org/2026/10/23/i-am-just-one-engineer-armed-with-ai.html",
+  "published": "2026-10-23T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "The agentic control tower: From supply chain visibility to action",
+  "link": "https://www.thoughtworks.com/insights/articles/the-agentic-control-tower-supply-chain",
   "published": "2026-10-23T00:00:00"
  },
  {
@@ -522,6 +823,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Python and REST APIs: Interacting With Web Services",
   "link": "https://realpython.com/api-integration-in-python/",
+  "published": "2026-10-22T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Why didn’t we use Co­Register­Initialize­Spy to clean up the unmarshalable delegate?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261022-00/?p=112791/",
   "published": "2026-10-22T14:00:00"
  },
  {
@@ -33425,6 +33733,13 @@
   "published": "2018-01-28T19:06:09"
  },
  {
+  "blog_name": "Miguel Quinones",
+  "blog_url": "https://www.miqu.me/",
+  "title": "My top 5 must-have technical books",
+  "link": "https://miqu.me/blog/2018/01/28/top-5-must-have-technical-books/",
+  "published": "2018-01-28T19:06:09"
+ },
+ {
   "blog_name": "Localytics",
   "blog_url": "http://eng.localytics.com/",
   "title": "Introducing Exploranda, a set of tools for exploring complex systems.",
@@ -33789,6 +34104,13 @@
   "published": "2017-06-16T22:55:27"
  },
  {
+  "blog_name": "Miguel Quinones",
+  "blog_url": "https://www.miqu.me/",
+  "title": "Fixing autocompletion on mixed Objective-C and Swift projects",
+  "link": "https://miqu.me/blog/2017/06/16/fixing-autocompletion-on-mixed-objective-c-and-swift-projects/",
+  "published": "2017-06-16T22:55:27"
+ },
+ {
   "blog_name": "Wemake.services",
   "blog_url": "https://medium.com/wemake-services",
   "title": "Is Yarn still a thing?",
@@ -33870,6 +34192,13 @@
   "blog_url": "https://www.miqu.me/",
   "title": "Automatic bridging from Swift to Objective-C using Sourcery",
   "link": "http://miqu.me/blog/2017/05/21/automatic-bridging-from-swift-to-objective-c-using-sourcery/",
+  "published": "2017-05-21T21:30:00"
+ },
+ {
+  "blog_name": "Miguel Quinones",
+  "blog_url": "https://www.miqu.me/",
+  "title": "Automatic bridging from Swift to Objective-C using Sourcery",
+  "link": "https://miqu.me/blog/2017/05/21/automatic-bridging-from-swift-to-objective-c-using-sourcery/",
   "published": "2017-05-21T21:30:00"
  },
  {
@@ -34008,8 +34337,22 @@
  {
   "blog_name": "Miguel Quinones",
   "blog_url": "https://www.miqu.me/",
+  "title": "Build settings depending on Xcode version",
+  "link": "https://miqu.me/blog/2017/01/29/temporary-build-settings/",
+  "published": "2017-01-29T23:26:54"
+ },
+ {
+  "blog_name": "Miguel Quinones",
+  "blog_url": "https://www.miqu.me/",
   "title": "Reducing the pain of git bisect with Xcode",
   "link": "http://miqu.me/blog/2017/01/22/reducing-the-pain-of-git-bisect-with-xcode/",
+  "published": "2017-01-22T11:49:01"
+ },
+ {
+  "blog_name": "Miguel Quinones",
+  "blog_url": "https://www.miqu.me/",
+  "title": "Reducing the pain of git bisect with Xcode",
+  "link": "https://miqu.me/blog/2017/01/22/reducing-the-pain-of-git-bisect-with-xcode/",
   "published": "2017-01-22T11:49:01"
  },
  {
