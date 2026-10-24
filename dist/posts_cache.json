@@ -7,6 +7,27 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "The last 24 hours in PHP land, as observed by a monitoring service",
+  "link": "https://freek.dev/3207-the-last-24-hours-in-php-land-as-observed-by-a-monitoring-service",
+  "published": "2026-10-24T12:30:36"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "How to Tell If a Company’s Culture Is Real Before You Accept the Offer",
+  "link": "https://spin.atomicobject.com/company-culture-real/",
+  "published": "2026-10-24T12:00:12"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: How to Run a Python Script",
+  "link": "https://realpython.com/quizzes/running-python-scripts/",
+  "published": "2026-10-24T12:00:00"
+ },
+ {
   "blog_name": "CodeName One",
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Skirmish: A Multiplayer Strategy Game Template in Java",
@@ -75,6 +96,13 @@
   "title": "Reinforcing the value of human understanding at MIT",
   "link": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
   "published": "2026-10-23T19:35:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "7 Checks Developers Should Make So AI Search Can Read Their Site",
+  "link": "https://www.sitepoint.com/7-checks-developers-should-make-so-ai-search-can-read-their-site/?utm_source=rss",
+  "published": "2026-10-23T19:20:04"
  },
  {
   "blog_name": "Slashdot",
@@ -280,6 +308,13 @@
   "published": "2026-10-23T14:00:00"
  },
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Building Serverless Python Apps Using AWS Chalice",
+  "link": "https://realpython.com/aws-chalice-serverless-python/",
+  "published": "2026-10-23T14:00:00"
+ },
+ {
   "blog_name": "Capital One Tech",
   "blog_url": "https://medium.com/capital-one-tech",
   "title": "Capital One at EMNLP 2026 in Budapest",
@@ -420,6 +455,13 @@
   "published": "2026-10-23T06:30:00"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas offset aliases for resample: ME, MS, and other codes",
+  "link": "https://lernerpython.com/2026/10/23/pandas-offset-aliases-for-resample-me-ms-and-other-codes/",
+  "published": "2026-10-23T06:00:00"
+ },
+ {
   "blog_name": "Ruby-lang",
   "blog_url": "https://www.ruby-lang.org/en/news/",
   "title": "Ruby 3.3.13 Released",
@@ -536,6 +578,13 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "The agentic control tower: From supply chain visibility to action",
   "link": "https://www.thoughtworks.com/insights/articles/the-agentic-control-tower-supply-chain",
+  "published": "2026-10-23T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Passkeys vs. passwords: What’s the difference?",
+  "link": "https://www.twilio.com/en-us/blog/insights/best-practices/passkeys",
   "published": "2026-10-23T00:00:00"
  },
  {
@@ -1187,6 +1236,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "How to build an AI agent that checks order status and processes refunds",
   "link": "https://www.twilio.com/en-us/blog/insights/ai-agent-order-status-refunds",
+  "published": "2026-10-22T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Business authentication methods: How to choose the best solution",
+  "link": "https://www.twilio.com/en-us/blog/insights/best-practices/authentication-methods",
   "published": "2026-10-22T00:00:00"
  },
  {
