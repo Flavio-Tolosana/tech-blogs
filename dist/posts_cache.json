@@ -7,6 +7,27 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Josh Sherman",
+  "blog_url": "https://joshtronic.com/",
+  "title": "Learning a New Tech Stack with an LLM",
+  "link": "https://joshtronic.com/2026/10/26/learning-new-tech-stack-with-llm/",
+  "published": "2026-10-26T00:00:00"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": ".NET October 2026 Out-of-Band Security Updates",
+  "link": "https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/",
+  "published": "2026-10-25T18:45:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "9 Checks Before Shipping a Product Email: A Workflow for Developers and Designers",
+  "link": "https://www.sitepoint.com/9-checks-before-shipping-a-product-email-a-workflow-for-developers-and-designers/?utm_source=rss",
+  "published": "2026-10-25T15:49:11"
+ },
+ {
   "blog_name": "Real Python",
   "blog_url": "https://realpython.com/blog/",
   "title": "Logging in Python",
@@ -60,6 +81,13 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Parley: A Private Messenger Template You Can Brand",
   "link": "https://www.codenameone.com/blog/launch-your-own-private-messenger/",
+  "published": "2026-10-25T00:00:00"
+ },
+ {
+  "blog_name": "Nicolas Fränkel",
+  "blog_url": "https://blog.frankel.ch/",
+  "title": "Security Baked Into the JVM: DirtyChai scales vertically, JGDMS scales horizontally",
+  "link": "https://blog.frankel.ch/security-baked-into-jvm/6/",
   "published": "2026-10-25T00:00:00"
  },
  {
@@ -165,6 +193,13 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Skirmish: A Multiplayer Strategy Game Template in Java",
   "link": "https://www.codenameone.com/blog/build-a-multiplayer-strategy-game-in-java/",
+  "published": "2026-10-24T00:00:00"
+ },
+ {
+  "blog_name": "Dan Luu",
+  "blog_url": "https://danluu.com/",
+  "title": "“We should be more ambitious with the software we build”",
+  "link": "https://danluu.com/ambitious/",
   "published": "2026-10-24T00:00:00"
  },
  {
