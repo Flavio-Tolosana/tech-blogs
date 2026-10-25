@@ -7,11 +7,67 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Logging in Python",
+  "link": "https://realpython.com/python-logging/",
+  "published": "2026-10-25T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python Modules and Packages – An Introduction",
+  "link": "https://realpython.com/python-modules-packages/",
+  "published": "2026-10-25T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 3",
+  "link": "https://realpython.com/flask-connexion-rest-api-part-3/",
+  "published": "2026-10-25T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python's with Statement: Manage External Resources Safely",
+  "link": "https://realpython.com/python-with-statement/",
+  "published": "2026-10-25T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python Code Quality: Best Practices and Tools",
+  "link": "https://realpython.com/python-code-quality/",
+  "published": "2026-10-25T14:00:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Agentic Development: The Fun Part Was Never the Typing",
+  "link": "https://spin.atomicobject.com/agentic-development-craft/",
+  "published": "2026-10-25T12:00:57"
+ },
+ {
+  "blog_name": "Wix Engineering",
+  "blog_url": "https://www.wix.engineering/",
+  "title": "Stop Reading Your New Codebase. Start Exploring It",
+  "link": "https://www.wix.engineering/post/stop-reading-your-new-codebase-start-exploring-it",
+  "published": "2026-10-25T08:15:15"
+ },
+ {
   "blog_name": "CodeName One",
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Parley: A Private Messenger Template You Can Brand",
   "link": "https://www.codenameone.com/blog/launch-your-own-private-messenger/",
   "published": "2026-10-25T00:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "7 Engineering Patterns for Measuring Traffic From AI Search and Chat Tools",
+  "link": "https://www.sitepoint.com/7-engineering-patterns-for-measuring-traffic-from-ai-search-and-chat-tools/?utm_source=rss",
+  "published": "2026-10-24T18:29:15"
  },
  {
   "blog_name": "Evan Hahn",
@@ -26,6 +82,13 @@
   "title": "Best AI Recruiting Tools for Agencies and Staffing Firms in 2026",
   "link": "https://www.sitepoint.com/ai-recruiting-tools-for-agencies/?utm_source=rss",
   "published": "2026-10-24T16:01:53"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Stop Overpaying for App Builders: How to Build Premium Websites and Web Apps with AI",
+  "link": "https://www.sitepoint.com/stop-overpaying-for-app-builders-how-to-build-premium-websites-and-web-apps-with-ai/?utm_source=rss",
+  "published": "2026-10-24T15:59:27"
  },
  {
   "blog_name": "Hayden James",
@@ -89,6 +152,13 @@
   "title": "Quiz: How to Run a Python Script",
   "link": "https://realpython.com/quizzes/running-python-scripts/",
   "published": "2026-10-24T12:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas MultiIndex: Select rows by the outer level with loc",
+  "link": "https://lernerpython.com/2026/10/24/pandas-multiindex-select-rows-by-the-outer-level-with-loc/",
+  "published": "2026-10-24T06:00:00"
  },
  {
   "blog_name": "CodeName One",
