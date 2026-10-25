@@ -7,6 +7,13 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Parley: A Private Messenger Template You Can Brand",
+  "link": "https://www.codenameone.com/blog/launch-your-own-private-messenger/",
+  "published": "2026-10-25T00:00:00"
+ },
+ {
   "blog_name": "Evan Hahn",
   "blog_url": "http://evanhahn.com/",
   "title": "List of Vim forks",
@@ -27500,6 +27507,13 @@
   "blog_url": "https://blog.rinesi.com/",
   "title": "Seaside Whispers",
   "link": "https://blog.rinesi.com/2026/01/seaside-whispers",
+  "published": "2026-01-24T03:00:00"
+ },
+ {
+  "blog_name": "Marcelo Rinesi",
+  "blog_url": "https://blog.rinesi.com/",
+  "title": "Against Developer Productivity",
+  "link": "https://blog.rinesi.com/2026/01/against-developer-productivity",
   "published": "2026-01-24T03:00:00"
  },
  {
