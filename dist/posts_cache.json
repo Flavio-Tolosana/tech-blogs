@@ -7,11 +7,214 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
+  "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+  "published": "2026-10-26T22:01:23"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Skydance Offers Buyouts, Gives 5-Day RTO Order",
+  "link": "https://slashdot.org/story/26/10/26/2128235/skydance-offers-buyouts-gives-5-day-rto-order?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-26T22:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+  "link": "https://openai.com/index/greptile-code-review-codex-astra",
+  "published": "2026-10-26T22:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Firefox Tries to Bring Back the Internet's 'Good Old Days'",
+  "link": "https://news.slashdot.org/story/26/10/26/1931208/firefox-tries-to-bring-back-the-internets-good-old-days?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-26T21:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Instagram Chases YouTube With a Push For Longer, Widescreen Videos",
+  "link": "https://entertainment.slashdot.org/story/26/10/26/1846258/instagram-chases-youtube-with-a-push-for-longer-widescreen-videos?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-26T20:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Discover 1000+ services on Vercel Connect from the CLI",
+  "link": "https://vercel.com/changelog/discover-1000-services-on-vercel-connect-from-the-cli",
+  "published": "2026-10-26T20:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How to teach with Databricks Free Edition",
+  "link": "https://www.databricks.com/blog/how-teach-databricks-free-edition",
+  "published": "2026-10-26T19:40:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Walter Koenig, Chekov On Original 'Star Trek,' Dies At 90",
+  "link": "https://entertainment.slashdot.org/story/26/10/26/1828230/walter-koenig-chekov-on-original-star-trek-dies-at-90?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-26T19:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Run Scale AI’s AgentEnv evals on Vercel Sandbox",
+  "link": "https://vercel.com/changelog/run-scale-ais-agentenv-evals-on-vercel-sandbox",
+  "published": "2026-10-26T19:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "At New York Climate Week 2026, MIT connects with a global network",
+  "link": "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
+  "published": "2026-10-26T19:00:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Billion-query-per-second lookup tables in C++",
+  "link": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
+  "published": "2026-10-26T18:23:08"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Building live intelligence: Databricks AI Search supports Streaming Tables, Materialized Views, and Managed tables using Iceberg",
+  "link": "https://www.databricks.com/blog/building-live-intelligence-databricks-ai-search-supports-streaming-tables-materialized-views",
+  "published": "2026-10-26T18:03:59"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Highway Thieves Are Spoofing GPS To Steal Millions In Data Center-Bound Cargo",
+  "link": "https://yro.slashdot.org/story/26/10/26/1759233/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-26T18:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+  "link": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/",
+  "published": "2026-10-26T17:56:58"
+ },
+ {
+  "blog_name": "Confluent",
+  "blog_url": "https://www.confluent.io/blog",
+  "title": "New Forrester study: Why modernizing data streaming is about more than cost savings",
+  "link": "https://www.confluent.io/blog/new-forrester-study-why-modernizing-data-streaming-is-about-more-than-cost-savings/",
+  "published": "2026-10-26T17:33:56"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
+  "published": "2026-10-26T17:27:20"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "Three layers, all config: how DigitalOcean Managed Agents enforce NVIDIA OpenShell-aligned boundaries",
+  "link": "https://www.digitalocean.com/blog/managed-agents-enforce-nvidia-openshell",
+  "published": "2026-10-26T17:21:41"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+  "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/",
+  "published": "2026-10-26T17:15:14"
+ },
+ {
+  "blog_name": "Netflix",
+  "blog_url": "https://medium.com/netflix-techblog",
+  "title": "Making Failure Diagnosis Reliable with Pensive AI",
+  "link": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
+  "published": "2026-10-26T17:04:57"
+ },
+ {
+  "blog_name": "Netflix",
+  "blog_url": "https://medium.com/netflix-techblog",
+  "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+  "link": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
+  "published": "2026-10-26T16:01:02"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks",
+  "link": "https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/",
+  "published": "2026-10-26T16:00:07"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
+  "link": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/",
+  "published": "2026-10-26T16:00:00"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "The Rise of the Self-Driving Company",
+  "link": "https://replit.com/blog/rise-of-self-driving-company",
+  "published": "2026-10-26T15:50:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Best AI Recruiting Agents in 2026: 6 Compared",
+  "link": "https://www.sitepoint.com/best-ai-recruiting-agents/?utm_source=rss",
+  "published": "2026-10-26T15:46:14"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Expanding Customer Notifications for ClickHouse Managed Postgres",
+  "link": "https://clickhouse.com/blog/expanding-customer-notifications-managed-postgres",
+  "published": "2026-10-26T15:22:20"
+ },
+ {
+  "blog_name": "Rob Allen",
+  "blog_url": "https://akrabat.com/",
+  "title": "Sort git branches by date",
+  "link": "https://akrabat.com/sort-git-branches-by-date/",
+  "published": "2026-10-26T15:16:58"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
+  "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/",
+  "published": "2026-10-26T15:02:24"
+ },
+ {
   "blog_name": "NVIDIA Developer",
   "blog_url": "https://developer.nvidia.com/blog/",
   "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
   "link": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes/",
   "published": "2026-10-26T15:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Working with academic communities to build scientific understanding",
+  "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+  "published": "2026-10-26T14:30:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Mastering Laravel Testing: A Video Course on Laravel Tests",
+  "link": "https://laravel-news.com/mastering-laravel-testing-course?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-26T14:17:48"
  },
  {
   "blog_name": "Real Python",
@@ -56,11 +259,46 @@
   "published": "2026-10-26T14:00:00"
  },
  {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Puzzling out why a program doesn’t work when run from a batch file, but works when double-clicked from Explorer",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/",
+  "published": "2026-10-26T14:00:00"
+ },
+ {
   "blog_name": "Freek Van der Herten",
   "blog_url": "https://murze.be/",
   "title": "Laravel Deadlocks: Queue Jobs That Already Ran End Up in failed_jobs",
   "link": "https://freek.dev/3208-laravel-deadlocks-queue-jobs-that-already-ran-end-up-in-failed-jobs",
   "published": "2026-10-26T13:50:14"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+  "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+  "published": "2026-10-26T13:45:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "The media industry is becoming a prediction economy",
+  "link": "https://www.databricks.com/blog/media-industry-becoming-prediction-economy",
+  "published": "2026-10-26T13:36:46"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "6 Tools for Building Email Automations You Can Test and Debug",
+  "link": "https://www.sitepoint.com/6-tools-for-building-email-automations-you-can-test-and-debug/?utm_source=rss",
+  "published": "2026-10-26T13:24:37"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "6 Email Tools Developers Can Use to Build, Test, and Monitor Better Email",
+  "link": "https://www.sitepoint.com/6-email-tools-developers-can-use-to-build-test-and-monitor-better-email/?utm_source=rss",
+  "published": "2026-10-26T13:23:20"
  },
  {
   "blog_name": "Red Hat",
@@ -75,6 +313,20 @@
   "title": "What's new in Red Hat build of Podman Desktop 1.2",
   "link": "https://developers.redhat.com/articles/2026/10/26/whats-new-in-red-hat-build-of-podman-desktop-1-2",
   "published": "2026-10-26T13:01:20"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Browser Fingerprinting Explained: How Websites Identify You and How Developers Can Reduce It",
+  "link": "https://www.sitepoint.com/browser-fingerprinting-explained-how-websites-identify-you-and-how-developers-can-reduce-it/?utm_source=rss",
+  "published": "2026-10-26T12:33:07"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "The Privacy Risks of Browser Extensions: What Developers Should Know",
+  "link": "https://www.sitepoint.com/the-privacy-risks-of-browser-extensions-what-developers-should-know/?utm_source=rss",
+  "published": "2026-10-26T12:26:32"
  },
  {
   "blog_name": "Atomic Object",
@@ -105,6 +357,13 @@
   "published": "2026-10-26T10:43:07"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "ChatGPT’s expanding world of work",
+  "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+  "published": "2026-10-26T10:00:00"
+ },
+ {
   "blog_name": "Scrapinghub",
   "blog_url": "https://blog.scrapinghub.com/",
   "title": "The web's layered defences - how access barriers combine",
@@ -131,6 +390,27 @@
   "title": "Securely Useless",
   "link": "https://thedailywtf.com/articles/securely-useless",
   "published": "2026-10-26T06:30:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Create custom monitors in Vercel Observability",
+  "link": "https://vercel.com/changelog/create-custom-monitors-in-vercel-observability",
+  "published": "2026-10-26T06:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Agent can now validate alerts before paging",
+  "link": "https://vercel.com/changelog/vercel-agent-can-now-validate-alerts-before-paging-you",
+  "published": "2026-10-26T06:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Sandbox commands now support stdin",
+  "link": "https://vercel.com/changelog/vercel-sandbox-commands-now-support-stdin",
+  "published": "2026-10-26T06:00:00"
  },
  {
   "blog_name": "Slashdot",
