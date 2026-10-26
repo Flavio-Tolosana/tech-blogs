@@ -7,10 +7,24 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "One week on the APNIC honeynet: 99,000 IP addresses and 173 million events",
+  "link": "https://blog.apnic.net/2026/10/26/one-week-on-the-apnic-honeynet-99000-ip-addresses-and-173-million-events/",
+  "published": "2026-10-26T04:15:47"
+ },
+ {
   "blog_name": "Josh Sherman",
   "blog_url": "https://joshtronic.com/",
   "title": "Learning a New Tech Stack with an LLM",
   "link": "https://joshtronic.com/2026/10/26/learning-new-tech-stack-with-llm/",
+  "published": "2026-10-26T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Savor: A Food Delivery Template for Restaurants and Local Fleets",
+  "link": "https://www.codenameone.com/blog/launch-your-own-food-delivery-app/",
   "published": "2026-10-26T00:00:00"
  },
  {
