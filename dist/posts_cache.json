@@ -7,11 +7,165 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
+  "link": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes/",
+  "published": "2026-10-26T15:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Single and Double Underscores in Python Names",
+  "link": "https://realpython.com/python-double-underscore/",
+  "published": "2026-10-26T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python Protocols: Leveraging Structural Subtyping",
+  "link": "https://realpython.com/python-protocol/",
+  "published": "2026-10-26T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Build Command-Line Interfaces With Python's argparse",
+  "link": "https://realpython.com/command-line-interfaces-python-argparse/",
+  "published": "2026-10-26T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "How to Use Generators and yield in Python",
+  "link": "https://realpython.com/introduction-to-python-generators/",
+  "published": "2026-10-26T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Create a Flask Application With Google Login",
+  "link": "https://realpython.com/flask-google-login/",
+  "published": "2026-10-26T14:00:00"
+ },
+ {
+  "blog_name": "Tailscale",
+  "blog_url": "https://tailscale.com/blog",
+  "title": "Where Tailscale VPN ends and Tailscale PAM begins",
+  "link": "https://tailscale.com/blog/what-is-tailscale-pam",
+  "published": "2026-10-26T14:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Laravel Deadlocks: Queue Jobs That Already Ran End Up in failed_jobs",
+  "link": "https://freek.dev/3208-laravel-deadlocks-queue-jobs-that-already-ran-end-up-in-failed-jobs",
+  "published": "2026-10-26T13:50:14"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Red Hat Lightspeed advisor self-managed for air-gapped clusters",
+  "link": "https://developers.redhat.com/articles/2026/10/26/red-hat-lightspeed-advisor-self-managed-air-gapped-clusters",
+  "published": "2026-10-26T13:01:23"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "What's new in Red Hat build of Podman Desktop 1.2",
+  "link": "https://developers.redhat.com/articles/2026/10/26/whats-new-in-red-hat-build-of-podman-desktop-1-2",
+  "published": "2026-10-26T13:01:20"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Access Your Version Controlled Configuration from a Docker Container",
+  "link": "https://spin.atomicobject.com/accessing-your-version-controlled-configuration-from-a-docker-container/",
+  "published": "2026-10-26T12:00:45"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Hostinger weekly product updates: Week 43, 2026",
+  "link": "https://www.hostinger.com/blog/product-updates-week-43-2026/",
+  "published": "2026-10-26T11:38:22"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Reddit's Largest Open Source Community Dumbfounded By AI Ban: 'I Guess Linux Is No Longer Allowed?'",
+  "link": "https://tech.slashdot.org/story/26/10/26/0540245/reddits-largest-open-source-community-dumbfounded-by-ai-ban-i-guess-linux-is-no-longer-allowed?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-26T11:34:00"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "Whats is Batch Inference? (2027)",
+  "link": "https://www.digitalocean.com/blog/what-is-batch-inference",
+  "published": "2026-10-26T10:43:07"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "The web's layered defences - how access barriers combine",
+  "link": "https://www.zyte.com/blog/sowa-complexity-stacking/",
+  "published": "2026-10-26T09:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Amazon Deforestation Fell To Lowest Level Since 1988 - And Silva Wins Reelection",
+  "link": "https://news.slashdot.org/story/26/10/26/054248/amazon-deforestation-fell-to-lowest-level-since-1988---and-silva-wins-reelection?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-26T07:34:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How Fanatics and OpenAI streamline the fan experience",
+  "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+  "published": "2026-10-26T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Securely Useless",
+  "link": "https://thedailywtf.com/articles/securely-useless",
+  "published": "2026-10-26T06:30:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Microsoft Announces Open Source Tool Evaluating Your Software's Optimization For AI Coding Agents",
+  "link": "https://news.slashdot.org/story/26/10/26/0420240/microsoft-announces-open-source-tool-evaluating-your-softwares-optimization-for-ai-coding-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-26T04:34:00"
+ },
+ {
   "blog_name": "APNIC",
   "blog_url": "https://blog.apnic.net/",
   "title": "One week on the APNIC honeynet: 99,000 IP addresses and 173 million events",
   "link": "https://blog.apnic.net/2026/10/26/one-week-on-the-apnic-honeynet-99000-ip-addresses-and-173-million-events/",
   "published": "2026-10-26T04:15:47"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "NativePHP Mobile Security Advisories: Update to 4.6.1",
+  "link": "https://laravel-news.com/nativephp-mobile-security-advisories?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-26T02:31:21"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "25% of Incoming Pull Requests May Be AI Slop, Finds Study From Linux Foundation Research",
+  "link": "https://news.slashdot.org/story/26/10/26/0131241/25-of-incoming-pull-requests-may-be-ai-slop-finds-study-from-linux-foundation-research?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-26T01:34:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Systemd Merges Support for Rust Programs",
+  "link": "https://linux.slashdot.org/story/26/10/25/2227243/systemd-merges-support-for-rust-programs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-26T00:08:00"
  },
  {
   "blog_name": "Josh Sherman",
@@ -26,6 +180,48 @@
   "title": "Savor: A Food Delivery Template for Restaurants and Local Fleets",
   "link": "https://www.codenameone.com/blog/launch-your-own-food-delivery-app/",
   "published": "2026-10-26T00:00:00"
+ },
+ {
+  "blog_name": "Rust",
+  "blog_url": "https://blog.rust-lang.org/",
+  "title": "How to fund Rust contributors",
+  "link": "https://blog.rust-lang.org/2026/10/26/how-to-fund-rust-contributors/",
+  "published": "2026-10-26T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Faster pnpm installs",
+  "link": "https://vercel.com/changelog/faster-pnpm-installs",
+  "published": "2026-10-26T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Best practices for scaling A/B testing with experiment protocols",
+  "link": "https://www.datadoghq.com/blog/best-practices-for-scaling-ab-testing-with-experiment-protocols/",
+  "published": "2026-10-26T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Monitor Oracle AI Database across clouds with Datadog",
+  "link": "https://www.datadoghq.com/blog/monitor-oracle-ai-database-across-clouds/",
+  "published": "2026-10-26T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Ethical and commercial risk regarding product development, GDR and AI",
+  "link": "https://www.thoughtworks.com/insights/blog/product-innovation/ethical-commercial-risk-regarding-product-development-gdr-ai",
+  "published": "2026-10-26T00:00:00"
+ },
+ {
+  "blog_name": "Dennis Yurichev",
+  "blog_url": "https://yurichev.com/blog/",
+  "title": "Raw notes",
+  "link": "https://yurichev.com/blog/raw-notes/",
+  "published": "2026-10-25T23:00:00"
  },
  {
   "blog_name": ".NET",
@@ -537,6 +733,13 @@
   "title": "Advanced authentication for Data Grid in Red Hat OpenShift 4: Keycloak and SSO",
   "link": "https://developers.redhat.com/articles/2026/10/23/advanced-authentication-data-grid-red-hat-openshift-4-keycloak-and-sso",
   "published": "2026-10-23T13:16:33"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "PHP2Shell and eMudhra Patched",
+  "link": "https://www.docker.com/blog/php2shell-and-emudhra-patched/",
+  "published": "2026-10-23T13:08:08"
  },
  {
   "blog_name": "Timescale",
