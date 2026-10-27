@@ -7,6 +7,76 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Elevators, toasters, and the birth of Java",
+  "link": "https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/",
+  "published": "2026-10-27T07:40:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Industry Executives Knew For Decades That Microplastics Were Infiltrating the Human Body",
+  "link": "https://science.slashdot.org/story/26/10/27/0232248/industry-executives-knew-for-decades-that-microplastics-were-infiltrating-the-human-body?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-27T07:00:00"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Harnais agentiques (2/2) : huit réflexes à désapprendre pour un harnais frugal",
+  "link": "https://blog.octo.com/harnais-agentiques-(22)--huit-reflexes-a-desapprendre-pour-un-harnais-frugal-1",
+  "published": "2026-10-27T06:53:10"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Sell it, then build it: a 7-step plan for one-person startups",
+  "link": "https://www.hostinger.com/blog/sell-before-you-build/",
+  "published": "2026-10-27T05:55:03"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "APRICOT 2027 Call for Presentations is open now",
+  "link": "https://blog.apnic.net/2026/10/27/apricot-2027-call-for-presentations-is-open-now/",
+  "published": "2026-10-27T03:50:28"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "US Designates Helium As a Critical Material",
+  "link": "https://news.slashdot.org/story/26/10/26/227203/us-designates-helium-as-a-critical-material?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-27T03:30:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "APNIC 62 workshops help build network security, automation, and routing expertise across the region",
+  "link": "https://blog.apnic.net/2026/10/27/apnic-62-workshops-help-build-network-security-automation-and-routing-expertise-across-the-region/",
+  "published": "2026-10-27T01:27:49"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "More of the Java API, and an Experiment With Unity Games",
+  "link": "https://www.codenameone.com/blog/bring-your-java-code-everywhere/",
+  "published": "2026-10-27T00:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Unify your productivity and AI data with Lakeflow Connect",
+  "link": "https://www.databricks.com/blog/unify-your-productivity-and-ai-data-lakeflow-connect",
+  "published": "2026-10-26T23:20:12"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "PHP2Shell Security Flaws Now Successfully Exploited",
+  "link": "https://yro.slashdot.org/story/26/10/26/2150206/php2shell-security-flaws-now-successfully-exploited?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-26T23:00:00"
+ },
+ {
   "blog_name": "Cloudflare",
   "blog_url": "https://blog.cloudflare.com/",
   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
@@ -494,6 +564,20 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "Ethical and commercial risk regarding product development, GDR and AI",
   "link": "https://www.thoughtworks.com/insights/blog/product-innovation/ethical-commercial-risk-regarding-product-development-gdr-ai",
+  "published": "2026-10-26T00:00:00"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "Manage Pulumi ESC change requests from the CLI",
+  "link": "https://www.pulumi.com/blog/esc-change-requests-cli/",
+  "published": "2026-10-26T00:00:00"
+ },
+ {
+  "blog_name": "Go",
+  "blog_url": "https://blog.golang.org/",
+  "title": "Our Response To The eMudhra Key Disclosure Incident",
+  "link": "https://go.dev/blog/emudhra-incident",
   "published": "2026-10-26T00:00:00"
  },
  {
