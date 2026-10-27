@@ -7,6 +7,188 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "The EVPN trust challenge: How to detect and contain internal MAC hijacks",
+  "link": "https://blog.apnic.net/2026/10/28/the-evpn-trust-challenge-how-to-detect-and-contain-internal-mac-hijacks/",
+  "published": "2026-10-27T22:32:41"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Growing List of Firms Object to OKX-ICE Tokenized Stock Plans",
+  "link": "https://news.slashdot.org/story/26/10/27/2130245/growing-list-of-firms-object-to-okx-ice-tokenized-stock-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-27T22:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Code-Execution Flaw In UEFI Firmware Threatens Most Servers On Planet Earth",
+  "link": "https://it.slashdot.org/story/26/10/27/2121232/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-27T21:30:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Learner collaborates with MIT peers to develop book of AI insights",
+  "link": "https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027",
+  "published": "2026-10-27T20:55:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
+  "link": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/",
+  "published": "2026-10-27T20:50:39"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google's Genie 4 World Model Adds Audio, More Realistic Worlds",
+  "link": "https://tech.slashdot.org/story/26/10/27/1841227/googles-genie-4-world-model-adds-audio-more-realistic-worlds?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-27T20:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Vital Skills: Upskilling Genie Code with Healthcare and Life Sciences skills",
+  "link": "https://www.databricks.com/blog/vital-skills-upskilling-genie-code-healthcare-and-life-sciences-skills",
+  "published": "2026-10-27T19:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Anduril Partners With Qualcomm to Build Laptops On US Soil",
+  "link": "https://news.slashdot.org/story/26/10/27/1833240/anduril-partners-with-qualcomm-to-build-laptops-on-us-soil?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-27T19:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
+  "link": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/",
+  "published": "2026-10-27T18:03:12"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Unlocking Investment Insights Without Migrating Your Data: Lakehouse Federation",
+  "link": "https://www.databricks.com/blog/unlocking-investment-insights-without-migrating-your-data-lakehouse-federation",
+  "published": "2026-10-27T18:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "From spot fixes to measured gains: improving document extraction accuracy with ai_extract and MLflow Prompt Registry",
+  "link": "https://www.databricks.com/blog/spot-fixes-measured-gains-improving-document-extraction-accuracy-aiextract-and-mlflow-prompt",
+  "published": "2026-10-27T18:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Apple's Foldable iPhone Duo Draws Early Complaints of the Screen Cracking",
+  "link": "https://hardware.slashdot.org/story/26/10/27/1630226/apples-foldable-iphone-duo-draws-early-complaints-of-the-screen-cracking?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-27T18:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Build specialized multimodal models with LFM3",
+  "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "published": "2026-10-27T17:16:52"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
+  "link": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/",
+  "published": "2026-10-27T17:00:39"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games",
+  "link": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/",
+  "published": "2026-10-27T17:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "The Agentic Analytics Benchmark: ranking tables and labeling failures with Jev",
+  "link": "https://clickhouse.com/blog/agentic-analytics-benchmark-jev",
+  "published": "2026-10-27T16:57:44"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Fix evaluation bias to unlock better models on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/",
+  "published": "2026-10-27T16:53:02"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Exowatt beats frontier models on accuracy with SageMaker serverless model customization",
+  "link": "https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/",
+  "published": "2026-10-27T16:50:55"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Can we trust LLMs to judge whether a research idea is novel?",
+  "link": "https://huggingface.co/blog/allenai/novelty-bench",
+  "published": "2026-10-27T16:12:42"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Genie 4: A new generation of world simulation",
+  "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+  "published": "2026-10-27T16:01:38"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
+  "link": "https://engineering.fb.com/2026/10/27/security/privacylib/",
+  "published": "2026-10-27T16:00:12"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages",
+  "link": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages/",
+  "published": "2026-10-27T16:00:00"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
+  "link": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/",
+  "published": "2026-10-27T15:59:24"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Anyone can now bring their ideas into the company codebase",
+  "link": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+  "published": "2026-10-27T15:30:00"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Que s'est-il passé avec les packages npm sur ces 12 derniers mois ?",
+  "link": "https://blog.octo.com/octo-que-s'est-il-passe-avec-les-packages-npm-sur-ces-12-derniers-mois",
+  "published": "2026-10-27T15:29:10"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+  "link": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+  "published": "2026-10-27T15:00:20"
+ },
+ {
   "blog_name": ".NET",
   "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
   "title": "Blazor Welcomes Open-Source Contributions from Infragistics",
@@ -18,6 +200,13 @@
   "blog_url": "https://developer.nvidia.com/blog/",
   "title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark",
   "link": "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark/",
+  "published": "2026-10-27T15:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Retell uses OpenAI models to help power 100M monthly calls",
+  "link": "https://openai.com/index/retell-ai",
   "published": "2026-10-27T15:00:00"
  },
  {
@@ -91,6 +280,13 @@
   "published": "2026-10-27T13:00:00"
  },
  {
+  "blog_name": "Hayden James",
+  "blog_url": "https://haydenjames.io/",
+  "title": "I was wrong! zswap IS better than zram",
+  "link": "https://linuxblog.io/zswap-better-than-zram/",
+  "published": "2026-10-27T12:30:49"
+ },
+ {
   "blog_name": "Atomic Object",
   "blog_url": "https://spin.atomicobject.com/",
   "title": "Connect to a VPN-in-a-VM Using WireGuard",
@@ -103,6 +299,27 @@
   "title": "Which CEFR level is right for you?",
   "link": "https://blog.duolingo.com/goldilocks-and-the-cefr-levels-which-proficiency-level-is-just-right/",
   "published": "2026-10-27T12:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "7 Checks That Make Form Bugs Easier to Reproduce Across Teams",
+  "link": "https://www.sitepoint.com/7-checks-that-make-form-bugs-easier-to-reproduce-across-teams/?utm_source=rss",
+  "published": "2026-10-27T11:17:16"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "BigQuery to Databricks: A Strategic Framework",
+  "link": "https://www.databricks.com/blog/bigquery-databricks-strategic-framework",
+  "published": "2026-10-27T11:07:53"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "7 Ways to Keep API Changes Safe as More Teams Join a Project",
+  "link": "https://www.sitepoint.com/7-ways-to-keep-api-changes-safe-as-more-teams-join-a-project/?utm_source=rss",
+  "published": "2026-10-27T11:05:30"
  },
  {
   "blog_name": "Expedia",
@@ -161,6 +378,20 @@
   "published": "2026-10-27T07:00:00"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "ElevenLabs on AI Gateway",
+  "link": "https://vercel.com/blog/elevenlabs-on-ai-gateway",
+  "published": "2026-10-27T07:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+  "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+  "published": "2026-10-27T07:00:00"
+ },
+ {
   "blog_name": "OCTO Technology",
   "blog_url": "https://blog.octo.com/en/",
   "title": "Harnais agentiques (2/2) : huit réflexes à désapprendre pour un harnais frugal",
@@ -214,6 +445,48 @@
   "blog_url": "https://stripe.com/blog",
   "title": "How the fastest-growing enterprises on Stripe scale globally",
   "link": "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
+  "published": "2026-10-27T00:00:00"
+ },
+ {
+  "blog_name": "Discord",
+  "blog_url": "https://blog.discordapp.com/",
+  "title": "Making Content from Discoverable Servers Easier to Discover",
+  "link": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+  "published": "2026-10-27T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Deploy a container from a plain Dockerfile",
+  "link": "https://vercel.com/changelog/deploy-a-container-from-a-plain-dockerfile",
+  "published": "2026-10-27T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "AI traffic insights now available in Vercel Observability",
+  "link": "https://vercel.com/changelog/ai-traffic-insights-now-available-in-vercel-observability",
+  "published": "2026-10-27T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Agent sessions now cost 67% less",
+  "link": "https://vercel.com/changelog/vercel-agent-sessions-now-cost-67-percent-less",
+  "published": "2026-10-27T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "HarnessAgent now supports image inputs for all harness adapters",
+  "link": "https://vercel.com/changelog/harness-agent-image-inputs",
+  "published": "2026-10-27T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How Check Point accelerates vulnerability research with Daybreak",
+  "link": "https://openai.com/index/check-point-daybreak",
   "published": "2026-10-27T00:00:00"
  },
  {
@@ -26780,6 +27053,13 @@
   "title": "Finding Bugs using LLMs",
   "link": "https://hookrace.net/blog/finding-bugs-using-llms/",
   "published": "2026-05-21T16:00:00"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Replit Enterprise, Now Self-Serve",
+  "link": "https://replit.com/blog/enterprise-self-serve",
+  "published": "2026-05-21T15:45:00"
  },
  {
   "blog_name": "Criteo",
