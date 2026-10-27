@@ -7,6 +7,146 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Blazor Welcomes Open-Source Contributions from Infragistics",
+  "link": "https://devblogs.microsoft.com/dotnet/blazor-welcomes-infragistics/",
+  "published": "2026-10-27T15:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark",
+  "link": "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark/",
+  "published": "2026-10-27T15:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python Circular Imports: Why They Happen and How to Fix Them",
+  "link": "https://realpython.com/python-circular-imports/",
+  "published": "2026-10-27T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "How to Get Out of Tutorial Hell",
+  "link": "https://realpython.com/how-to-get-out-of-tutorial-hell/",
+  "published": "2026-10-27T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Pyrefly: A Fast Static Type Checker for Python Projects",
+  "link": "https://realpython.com/pyrefly-python/",
+  "published": "2026-10-27T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "MCP vs API Calls: Which Should You Use for Python LLM Apps?",
+  "link": "https://realpython.com/mcp-vs-api/",
+  "published": "2026-10-27T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Exploring AI Coding Agent Workflows",
+  "link": "https://realpython.com/courses/exploring-ai-coding-agent-workflows/",
+  "published": "2026-10-27T14:00:00"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Deploying third-party applications to Red Hat OpenShift: Common pitfalls and how to avoid them",
+  "link": "https://developers.redhat.com/articles/2026/10/27/avoid-common-pitfalls-when-deploying-third-party-apps-to-red-hat-openshift",
+  "published": "2026-10-27T13:01:29"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Smaller model, sharper insights: How Atos approached  structured outputs",
+  "link": "https://developers.redhat.com/articles/2026/10/27/smaller-model-sharper-insights-how-atos-approached-structured-outputs",
+  "published": "2026-10-27T13:01:28"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Apache Camel tool calling: LLM integrations with bounded loops",
+  "link": "https://developers.redhat.com/articles/2026/10/27/apache-camel-tool-calling-llm-integrations-bounded-loops",
+  "published": "2026-10-27T13:01:25"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
+  "link": "https://blog.cloudflare.com/php-ctf/",
+  "published": "2026-10-27T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "What took the Internet offline in Q3 2026",
+  "link": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
+  "published": "2026-10-27T13:00:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Connect to a VPN-in-a-VM Using WireGuard",
+  "link": "https://spin.atomicobject.com/wireguard-vpn-in-vm/",
+  "published": "2026-10-27T12:00:09"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "Which CEFR level is right for you?",
+  "link": "https://blog.duolingo.com/goldilocks-and-the-cefr-levels-which-proficiency-level-is-just-right/",
+  "published": "2026-10-27T12:00:00"
+ },
+ {
+  "blog_name": "Expedia",
+  "blog_url": "https://medium.com/expedia-group-tech",
+  "title": "Beyond the Prompt: Engineering the Loop for Software Change at Scale",
+  "link": "https://medium.com/expedia-group-tech/beyond-the-prompt-engineering-the-loop-for-software-change-at-scale-9ac26e3b2706?source=rss----38998a53046f---4",
+  "published": "2026-10-27T11:01:01"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Denmark Gives Up On Replacing Microsoft Office With Collabora",
+  "link": "https://tech.slashdot.org/story/26/10/26/2222246/denmark-gives-up-on-replacing-microsoft-office-with-collabora?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-27T11:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "We analyzed 213 million AI email actions. Only 2.5% were sends",
+  "link": "https://www.hostinger.com/blog/agentic-mail-analysis/",
+  "published": "2026-10-27T09:20:51"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "PHP2Shell: What it is and why you don’t need to panic",
+  "link": "https://www.hostinger.com/blog/what-is-php2shell/",
+  "published": "2026-10-27T09:17:27"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "When Should You Cache API Calls at the Edge?",
+  "link": "https://nordicapis.com/when-should-you-cache-api-calls-at-the-edge/",
+  "published": "2026-10-27T08:00:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Scrapy vs BeautifulSoup vs Selenium vs Playwright: which should you use?",
+  "link": "https://www.zyte.com/blog/scrapy-vs-beautifulsoup-vs-selenium-vs-playwright/",
+  "published": "2026-10-27T08:00:00"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "Elevators, toasters, and the birth of Java",
@@ -26,6 +166,13 @@
   "title": "Harnais agentiques (2/2) : huit réflexes à désapprendre pour un harnais frugal",
   "link": "https://blog.octo.com/harnais-agentiques-(22)--huit-reflexes-a-desapprendre-pour-un-harnais-frugal-1",
   "published": "2026-10-27T06:53:10"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "News Roundup: Security Fourth",
+  "link": "https://thedailywtf.com/articles/security-fourth",
+  "published": "2026-10-27T06:30:00"
  },
  {
   "blog_name": "Hostinger",
@@ -61,6 +208,20 @@
   "title": "More of the Java API, and an Experiment With Unity Games",
   "link": "https://www.codenameone.com/blog/bring-your-java-code-everywhere/",
   "published": "2026-10-27T00:00:00"
+ },
+ {
+  "blog_name": "Stripe",
+  "blog_url": "https://stripe.com/blog",
+  "title": "How the fastest-growing enterprises on Stripe scale globally",
+  "link": "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
+  "published": "2026-10-27T00:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Deferred Schema Loading in Filament v5.8",
+  "link": "https://laravel-news.com/filament-5-8-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-26T23:33:43"
  },
  {
   "blog_name": "Databricks",
@@ -173,6 +334,13 @@
   "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
   "link": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/",
   "published": "2026-10-26T17:56:58"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Building Location-Aware Interfaces Without Mixing Up Language, Currency, and Region",
+  "link": "https://www.sitepoint.com/building-location-aware-interfaces-without-mixing-up-language-currency-and-region/?utm_source=rss",
+  "published": "2026-10-26T17:43:57"
  },
  {
   "blog_name": "Confluent",
@@ -495,6 +663,13 @@
   "title": "One week on the APNIC honeynet: 99,000 IP addresses and 173 million events",
   "link": "https://blog.apnic.net/2026/10/26/one-week-on-the-apnic-honeynet-99000-ip-addresses-and-173-million-events/",
   "published": "2026-10-26T04:15:47"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Sloppy: Static Analysis for AI-Written PHP",
+  "link": "https://laravel-news.com/sloppy?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-26T02:32:21"
  },
  {
   "blog_name": "Laravel",
@@ -6276,6 +6451,13 @@
   "blog_url": "https://glebbahmutov.com/blog/",
   "title": "Cypress Test For Optional Data",
   "link": "https://glebbahmutov.com/blog/cypress-test-for-optional-data/",
+  "published": "2026-10-14T04:00:00"
+ },
+ {
+  "blog_name": "Latacora",
+  "blog_url": "https://latacora.singles/",
+  "title": "Have your bots talk to my bots. Who’s checking IDs?",
+  "link": "https://www.latacora.com/blog/2026/10/14/have-your-bots-talk-to-my-bots/",
   "published": "2026-10-14T04:00:00"
  },
  {
