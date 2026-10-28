@@ -7,6 +7,76 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "CDC Warns of Rising Threat of Drug-Resistant Germs",
+  "link": "https://science.slashdot.org/story/26/10/28/0256204/cdc-warns-of-rising-threat-of-drug-resistant-germs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-28T07:00:00"
+ },
+ {
+  "blog_name": "Jeff Atwood",
+  "blog_url": "https://blog.codinghorror.com/",
+  "title": "Suffering as a Feature",
+  "link": "https://blog.codinghorror.com/suffering-as-a-feature/",
+  "published": "2026-10-28T06:17:45"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Why ClickHouse Cloud wins at real-time analytics",
+  "link": "https://clickhouse.com/blog/why-clickhouse-cloud-wins-at-real-time-analytics",
+  "published": "2026-10-28T06:10:06"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Global Internet infrastructure at NANOG 98",
+  "link": "https://blog.apnic.net/2026/10/28/global-internet-infrastructure-at-nanog-98/",
+  "published": "2026-10-28T05:18:13"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Making machines that can listen",
+  "link": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
+  "published": "2026-10-28T04:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Greenhouse Gas Levels Set Records In 2025, UN Says",
+  "link": "https://news.slashdot.org/story/26/10/27/2325218/greenhouse-gas-levels-set-records-in-2025-un-says?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-28T03:30:00"
+ },
+ {
+  "blog_name": "Tailscale",
+  "blog_url": "https://tailscale.com/blog",
+  "title": "Tailscale SSH: Findings and fixes",
+  "link": "https://tailscale.com/blog/tailscale-ssh-findings-fixes",
+  "published": "2026-10-28T01:15:00"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "Using AI for Testing in iOS [SUBSCRIBER]",
+  "link": "https://www.kodeco.com/ios/paths/validating-ai-code/53684638-using-ai-for-testing-in-ios",
+  "published": "2026-10-28T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Native Menus, File Dialogs and 3D Models",
+  "link": "https://www.codenameone.com/blog/desktop-dialogs-menus-3d-models/",
+  "published": "2026-10-28T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Ford's Most Affordable EV Will Offer Built-In Bidirectional Home Charging",
+  "link": "https://hardware.slashdot.org/story/26/10/27/2151204/fords-most-affordable-ev-will-offer-built-in-bidirectional-home-charging?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-27T23:00:00"
+ },
+ {
   "blog_name": "APNIC",
   "blog_url": "https://blog.apnic.net/",
   "title": "The EVPN trust challenge: How to detect and contain internal MAC hijacks",
@@ -245,6 +315,13 @@
   "published": "2026-10-27T14:00:00"
  },
  {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Why don’t we run the taskbar and Task Manager at high priority, so they can remain responsive?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261027-00/?p=112800/",
+  "published": "2026-10-27T14:00:00"
+ },
+ {
   "blog_name": "Red Hat",
   "blog_url": "https://developers.redhat.com/blog/",
   "title": "Deploying third-party applications to Red Hat OpenShift: Common pitfalls and how to avoid them",
@@ -406,6 +483,13 @@
   "published": "2026-10-27T06:30:00"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "The fx adapter now runs the harness on the host",
+  "link": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
+  "published": "2026-10-27T06:00:00"
+ },
+ {
   "blog_name": "Hostinger",
   "blog_url": "https://www.hostinger.com/blog/engineering/",
   "title": "Sell it, then build it: a 7-step plan for one-person startups",
@@ -487,6 +571,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "How Check Point accelerates vulnerability research with Daybreak",
   "link": "https://openai.com/index/check-point-daybreak",
+  "published": "2026-10-27T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Plugin now available in OpenCode",
+  "link": "https://vercel.com/changelog/vercel-plugin-now-available-in-opencode",
   "published": "2026-10-27T00:00:00"
  },
  {
@@ -28607,6 +28698,13 @@
   "title": "Crafting a Perfect Product Catalog",
   "link": "https://blog.developer.bazaarvoice.com/2026/01/29/crafting-a-perfect-product-catalog/",
   "published": "2026-01-29T11:33:26"
+ },
+ {
+  "blog_name": "Marcelo Rinesi",
+  "blog_url": "https://blog.rinesi.com/",
+  "title": "Hacking the Hackathon",
+  "link": "https://blog.rinesi.com/2026/01/hacking-the-hackathon",
+  "published": "2026-01-29T03:00:00"
  },
  {
   "blog_name": "Fly.io",
