@@ -7,11 +7,151 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Brilliant Builds: Building for Loyalty",
+  "link": "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1",
+  "published": "2026-10-29T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Begins Certifying Registered App Stores For Android",
+  "link": "https://tech.slashdot.org/story/26/10/28/0313217/google-begins-certifying-registered-app-stores-for-android?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-28T15:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+  "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+  "published": "2026-10-28T14:58:17"
+ },
+ {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "Beyond the dashboard: What I learned about data without an analytical background",
+  "link": "https://building.nu.com/beyond-the-dashboard-what-i-learned-about-data-without-an-analytical-background/",
+  "published": "2026-10-28T14:21:45"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "The new cost-based join optimizer with reordering support for non-inner joins",
+  "link": "https://clickhouse.com/blog/the-new-cost-based-join-optimizer-with-reordering-support-for-non-inner-joins",
+  "published": "2026-10-28T14:12:53"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Build a Python MCP Client to Test Servers From Your Terminal",
+  "link": "https://realpython.com/python-mcp-client/",
+  "published": "2026-10-28T14:00:00"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "The October inflection point for vibe game development",
+  "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+  "published": "2026-10-28T13:55:15"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Et si votre super idée “innovante” de projet Agentique avait déjà été pensée par votre éditeur de Data Plateforme ?",
+  "link": "https://blog.octo.com/et-si-votre-super-idee-innovante-de-projet-agentique-avait-deja-ete-pensee-par-votre-editeur-de-data-plateforme--1",
+  "published": "2026-10-28T13:23:10"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "How DRA can improve the performance of distributed LLM inference workloads with RDMA and SR-IOV",
+  "link": "https://developers.redhat.com/articles/2026/10/28/how-dra-can-improve-performance-of-distributed-llm-inference-workloads-with-rdma-and-sr-iov",
+  "published": "2026-10-28T13:16:22"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "Win the Agentic Era, Together: Introducing the Docker Navigator Partner Program",
+  "link": "https://www.docker.com/blog/docker-navigator-partner-program/",
+  "published": "2026-10-28T13:00:00"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Fragments: October 28",
+  "link": "https://martinfowler.com/fragments/2026-10-28.html",
+  "published": "2026-10-28T12:55:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "I don't write code anymore",
+  "link": "https://freek.dev/3209-i-dont-write-code-anymore",
+  "published": "2026-10-28T12:30:43"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Your LLM is Both Partner and Stakeholder, and That Changes How You Design",
+  "link": "https://spin.atomicobject.com/llm-partner-and-stakeholder/",
+  "published": "2026-10-28T12:00:41"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Creating a Scalable Flask Web Application From Scratch",
+  "link": "https://realpython.com/quizzes/create-scalable-flask-web-app/",
+  "published": "2026-10-28T12:00:00"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "Landing your dream job (even if it doesn’t exist yet)",
+  "link": "https://blog.duolingo.com/career-development-tips/",
+  "published": "2026-10-28T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Astronomers May Have Just Discovered Our Solar System's Sixth Dwarf Planet",
+  "link": "https://science.slashdot.org/story/26/10/28/035218/astronomers-may-have-just-discovered-our-solar-systems-sixth-dwarf-planet?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-28T11:00:00"
+ },
+ {
+  "blog_name": "Wix Engineering",
+  "blog_url": "https://www.wix.engineering/",
+  "title": "Wix Engineering Roundup: AI Agents, Dashboardless UX, Zero-Downtime Migrations &#38; Lessons from Production",
+  "link": "https://www.wix.engineering/post/wix-engineering-roundup-ai-agents-dashboardless-ux-zero-downtime-migrations-lessons-from-produc",
+  "published": "2026-10-28T10:29:09"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Legora is building the agentic operating system for legal work",
+  "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+  "published": "2026-10-28T09:30:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Need for speed: How data inertia kills business ambition",
+  "link": "https://www.zyte.com/blog/need-for-speed-how-data-inertia-kills-business-ambition/",
+  "published": "2026-10-28T09:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "CDC Warns of Rising Threat of Drug-Resistant Germs",
   "link": "https://science.slashdot.org/story/26/10/28/0256204/cdc-warns-of-rising-threat-of-drug-resistant-germs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-28T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: Session Recording",
+  "link": "https://thedailywtf.com/articles/session-recording",
+  "published": "2026-10-28T06:30:00"
  },
  {
   "blog_name": "Jeff Atwood",
@@ -70,11 +210,39 @@
   "published": "2026-10-28T00:00:00"
  },
  {
+  "blog_name": "Evil Martians",
+  "blog_url": "https://evilmartians.com/chronicles/",
+  "title": "How to make postMessage type-safe in under 350 bytes",
+  "link": "https://evilmartians.com/chronicles/how-to-make-postmessage-type-safe-in-under-350-bytes",
+  "published": "2026-10-28T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Match monitoring depth to workload needs with Infrastructure Basic",
+  "link": "https://www.datadoghq.com/blog/infrastructure-monitoring-basic/",
+  "published": "2026-10-28T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "The 14 GB cold-start problem: Rebuilding self-hosted GitHub Actions runners on Azure Kubernetes Service",
+  "link": "https://www.thoughtworks.com/insights/articles/rebuilding-self-hosted-github-actions-runners-on-aks",
+  "published": "2026-10-28T00:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Ford's Most Affordable EV Will Offer Built-In Bidirectional Home Charging",
   "link": "https://hardware.slashdot.org/story/26/10/27/2151204/fords-most-affordable-ev-will-offer-built-in-bidirectional-home-charging?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-27T23:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Scheduled Session Garbage Collection in Laravel 13.39",
+  "link": "https://laravel-news.com/laravel-13-39-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-27T22:35:05"
  },
  {
   "blog_name": "APNIC",
@@ -131,6 +299,13 @@
   "title": "Anduril Partners With Qualcomm to Build Laptops On US Soil",
   "link": "https://news.slashdot.org/story/26/10/27/1833240/anduril-partners-with-qualcomm-to-build-laptops-on-us-soil?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-27T19:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How AI Agents Can Access More Up-to-Date Information",
+  "link": "https://www.sitepoint.com/how-ai-agents-can-access-more-up-to-date-information/?utm_source=rss",
+  "published": "2026-10-27T18:06:36"
  },
  {
   "blog_name": "AWS Machine Learning",
@@ -357,6 +532,13 @@
   "published": "2026-10-27T13:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Create Effective Cold Email Sequences That Generate Replies: A Developer's Guide",
+  "link": "https://www.sitepoint.com/how-to-create-effective-cold-email-sequences-that-generate-replies-a-developer-s-guide/?utm_source=rss",
+  "published": "2026-10-27T12:31:35"
+ },
+ {
   "blog_name": "Hayden James",
   "blog_url": "https://haydenjames.io/",
   "title": "I was wrong! zswap IS better than zram",
@@ -411,6 +593,13 @@
   "title": "Denmark Gives Up On Replacing Microsoft Office With Collabora",
   "link": "https://tech.slashdot.org/story/26/10/26/2222246/denmark-gives-up-on-replacing-microsoft-office-with-collabora?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-27T11:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "A Practical Workflow for Testing JavaScript Forms Before Deployment",
+  "link": "https://www.sitepoint.com/a-practical-workflow-for-testing-javascript-forms-before-deployment/?utm_source=rss",
+  "published": "2026-10-27T09:44:03"
  },
  {
   "blog_name": "Hostinger",
@@ -578,6 +767,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Vercel Plugin now available in OpenCode",
   "link": "https://vercel.com/changelog/vercel-plugin-now-available-in-opencode",
+  "published": "2026-10-27T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "What good looks like: CX benchmarks from 5 enterprise deployments",
+  "link": "https://www.twilio.com/en-us/blog/insights/cx-benchmarks-enterprise-deployments",
   "published": "2026-10-27T00:00:00"
  },
  {
@@ -1117,6 +1313,13 @@
   "blog_url": "https://blog.golang.org/",
   "title": "Our Response To The eMudhra Key Disclosure Incident",
   "link": "https://go.dev/blog/emudhra-incident",
+  "published": "2026-10-26T00:00:00"
+ },
+ {
+  "blog_name": "Artsy",
+  "blog_url": "http://artsy.github.io/",
+  "title": "Going All In on AI Agents for Five Weeks: What I Learned",
+  "link": "https://artsy.github.io/blog/2026/10/26/going-all-in-on-ai-agents-for-five-weeks/",
   "published": "2026-10-26T00:00:00"
  },
  {
