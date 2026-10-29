@@ -7,6 +7,174 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Announcing General Availability of Real-Time Mode for Spark Declarative Pipelines on Databricks",
+  "link": "https://www.databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks",
+  "published": "2026-10-29T22:30:04"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "The reports of Stack Overflow's death are greatly exaggerated",
+  "link": "https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated/",
+  "published": "2026-10-29T22:30:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Multi-Billion Binance Hack Hitting Crypto Markets",
+  "link": "https://slashdot.org/story/26/10/29/2143222/multi-billion-binance-hack-hitting-crypto-markets?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-29T22:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Patrick Stewart, 'Star Trek' Captain and 'X-Men' Superhero, Dies At 86",
+  "link": "https://entertainment.slashdot.org/story/26/10/29/2059216/patrick-stewart-star-trek-captain-and-x-men-superhero-dies-at-86?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-29T21:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How the UK Amazon Quick User Group grew in 2026",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/",
+  "published": "2026-10-29T20:16:40"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Nvidia Chief Seen As Target of Chinese Spy Plot",
+  "link": "https://slashdot.org/story/26/10/29/189230/nvidia-chief-seen-as-target-of-chinese-spy-plot?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-29T20:00:00"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 27.0.0-alpha.0.0.0 (Alpha)",
+  "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0",
+  "published": "2026-10-29T19:52:29"
+ },
+ {
+  "blog_name": "Heroku",
+  "blog_url": "https://www.heroku.com/blog/",
+  "title": "Securing Your Stack: Recent PHP and eMudhra Updates on Heroku",
+  "link": "https://www.heroku.com/blog/securing-your-stack-recent-php-and-emudhra-updates-on-heroku/",
+  "published": "2026-10-29T19:50:20"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Alphabet Heads For a $500 Billion Drop In Market Value",
+  "link": "https://news.slashdot.org/story/26/10/29/1756212/alphabet-heads-for-a-500-billion-drop-in-market-value?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-29T19:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Strix now supports Vercel AI Gateway",
+  "link": "https://vercel.com/changelog/strix-now-supports-vercel-ai-gateway",
+  "published": "2026-10-29T18:44:00"
+ },
+ {
+  "blog_name": "Confluent",
+  "blog_url": "https://www.confluent.io/blog",
+  "title": "Introducing Apache Kafka 4.4.0",
+  "link": "https://www.confluent.io/blog/introducing-apache-kafka-4-4-0/",
+  "published": "2026-10-29T18:34:18"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Building intent-driven UI testing with Amazon Nova Act",
+  "link": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/",
+  "published": "2026-10-29T18:20:27"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Build a repeatable PHP-to-Java migration engine with Kiro",
+  "link": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/",
+  "published": "2026-10-29T18:14:17"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "What is Prompt Injection?",
+  "link": "https://nordicapis.com/what-is-prompt-injection/",
+  "published": "2026-10-29T18:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Canada to Join EU Network of Supercomputers",
+  "link": "https://news.slashdot.org/story/26/10/29/1741210/canada-to-join-eu-network-of-supercomputers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-29T18:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "An updated Model Spec for more capable and beneficial AI",
+  "link": "https://openai.com/index/updated-model-spec",
+  "published": "2026-10-29T17:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "IP geolocation now covers more visitors at higher resolution",
+  "link": "https://vercel.com/changelog/improved-ip-geolocation-data",
+  "published": "2026-10-29T17:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
+  "link": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/",
+  "published": "2026-10-29T16:58:57"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway/",
+  "published": "2026-10-29T16:54:52"
+ },
+ {
+  "blog_name": "Amazon Science",
+  "blog_url": "https://www.amazon.science/",
+  "title": "Speeding up language models for travel applications",
+  "link": "https://www.amazon.science/blog/speeding-up-language-models-for-travel-applications",
+  "published": "2026-10-29T16:51:26"
+ },
+ {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "From using AI to operating with AI: What changes in product management when the bottlenecks disappear",
+  "link": "https://building.nu.com/from-using-ai-to-operating-with-ai-what-changes-in-product-management-when-the-bottlenecks-disappear/",
+  "published": "2026-10-29T16:30:40"
+ },
+ {
+  "blog_name": "Jeffrey Zeldman",
+  "blog_url": "https://zeldman.com/",
+  "title": "The Day the Focus Died",
+  "link": "https://zeldman.com/2026/10/29/the-day-the-focus-died/",
+  "published": "2026-10-29T16:25:23"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
+  "link": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+  "published": "2026-10-29T16:00:12"
+ },
+ {
+  "blog_name": "Microsoft Edge",
+  "blog_url": "https://blogs.windows.com/msedgedev/",
+  "title": "Edge is faster on Windows with Accelerated App Launches",
+  "link": "https://blogs.windows.com/msedgedev/2026/10/29/edge-is-faster-on-windows-with-accelerated-app-launches/",
+  "published": "2026-10-29T15:56:55"
+ },
+ {
   "blog_name": ".NET",
   "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
   "title": "Blazor Welcomes Open-Source Contributions from Syncfusion",
@@ -18,6 +186,13 @@
   "blog_url": "https://developer.nvidia.com/blog/",
   "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
   "link": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/",
+  "published": "2026-10-29T15:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Smarter cost controls for serverless",
+  "link": "https://www.databricks.com/blog/smarter-cost-controls-serverless",
   "published": "2026-10-29T15:00:00"
  },
  {
@@ -84,6 +259,13 @@
   "published": "2026-10-29T12:53:19"
  },
  {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "Inside DigitalOcean Simulations: how user simulation, execution, and validation work",
+  "link": "https://www.digitalocean.com/blog/inside-digitalocean-simulations",
+  "published": "2026-10-29T12:52:58"
+ },
+ {
   "blog_name": "Timescale",
   "blog_url": "https://blog.timescale.com/",
   "title": "Adaptive Integer Compression in TimescaleDB: Built for the Read Path",
@@ -126,6 +308,13 @@
   "published": "2026-10-29T11:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Testing JSON-LD Like an API: 7 Checks Before Your Next Release",
+  "link": "https://www.sitepoint.com/testing-json-ld-like-an-api-7-checks-before-your-next-release/?utm_source=rss",
+  "published": "2026-10-29T09:26:01"
+ },
+ {
   "blog_name": "Scrapinghub",
   "blog_url": "https://blog.scrapinghub.com/",
   "title": "Agentic QA for data: Bots go beyond the rules",
@@ -137,6 +326,13 @@
   "blog_url": "https://blog.scrapinghub.com/",
   "title": "The trouble with variants: Solving the web's infinite ecommerce explosion",
   "link": "https://www.zyte.com/blog/trouble-with-variants-ecommerce-scraping/",
+  "published": "2026-10-29T09:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How we detect frontier model misalignment",
+  "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
   "published": "2026-10-29T09:00:00"
  },
  {
@@ -161,6 +357,20 @@
   "published": "2026-10-29T07:00:00"
  },
  {
+  "blog_name": "Honeybadger",
+  "blog_url": "http://blog.honeybadger.io/",
+  "title": "Connecting Cloudflare and Honeybadger with OpenTelemetry",
+  "link": "https://www.honeybadger.io/blog/cloudflare-honeybadger-otel/",
+  "published": "2026-10-29T07:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How Ropes & Gray is developing AI for transactional diligence",
+  "link": "https://openai.com/index/ropes-gray-ai-diligence",
+  "published": "2026-10-29T07:00:00"
+ },
+ {
   "blog_name": "OCTO Technology",
   "blog_url": "https://blog.octo.com/en/",
   "title": "Harnais agentiques (épilogue) : travailler au quotidien avec un agent frontière",
@@ -173,6 +383,13 @@
   "title": "CodeSOD: Oh, K?",
   "link": "https://thedailywtf.com/articles/oh-k",
   "published": "2026-10-29T06:30:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Flags starts 7x faster and no longer extends function duration",
+  "link": "https://vercel.com/changelog/vercel-flags-starts-7x-faster-and-no-longer-extends-function-duration",
+  "published": "2026-10-29T06:00:00"
  },
  {
   "blog_name": "Hostinger",
@@ -256,6 +473,55 @@
   "blog_url": "https://huggingface.co/blog",
   "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
   "link": "https://huggingface.co/blog/anydecisionmodel",
+  "published": "2026-10-29T00:00:00"
+ },
+ {
+  "blog_name": "MapTiler",
+  "blog_url": "https://www.maptiler.com/blog/",
+  "title": "Natural Disaster Maps: Visualizing Acts of God and Extreme Weather",
+  "link": "https://www.maptiler.com/news/2026/10/natural-disaster-maps-visualizing-acts-of-god-and-extreme-weather",
+  "published": "2026-10-29T00:00:00"
+ },
+ {
+  "blog_name": "Armin Ronacher",
+  "blog_url": "http://lucumr.pocoo.org/",
+  "title": "Custom Voices With Qwen3-TTS",
+  "link": "https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/",
+  "published": "2026-10-29T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Datadog named a Leader in the Forrester Wave™: AIOps Platforms, Q4 2026",
+  "link": "https://www.datadoghq.com/blog/datadog-aiops-platforms-forrester-wave-2026/",
+  "published": "2026-10-29T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Trace voice agents with Datadog Agent Observability",
+  "link": "https://www.datadoghq.com/blog/agent-observability-voice-agent/",
+  "published": "2026-10-29T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Detect when your AI agent copies a self-replicating prompt injection",
+  "link": "https://www.datadoghq.com/blog/detect-when-your-ai-agent-copies-a-self-replicating-prompt-injection/",
+  "published": "2026-10-29T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Default to serverless for AI agents, then let production data decide what moves",
+  "link": "https://www.datadoghq.com/blog/serverless-ai-agents/",
+  "published": "2026-10-29T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Node.js 26 LTS is now Generally Available on Vercel",
+  "link": "https://vercel.com/changelog/node-js-26-lts-is-now-generally-available-on-vercel",
   "published": "2026-10-29T00:00:00"
  },
  {
@@ -474,6 +740,13 @@
   "title": "The new cost-based join optimizer with reordering support for non-inner joins",
   "link": "https://clickhouse.com/blog/the-new-cost-based-join-optimizer-with-reordering-support-for-non-inner-joins",
   "published": "2026-10-28T14:12:53"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Generators and Iterators in JavaScript: Lazy Data and Async Flows",
+  "link": "https://www.sitepoint.com/generators-and-iterators-in-javascript-lazy-data-and-async-flows/?utm_source=rss",
+  "published": "2026-10-28T14:03:26"
  },
  {
   "blog_name": "Real Python",
@@ -774,6 +1047,13 @@
   "blog_url": "https://snyk.io/blog",
   "title": "Snyk UNFILTERED: Inside Our First-Ever Customer Summit",
   "link": "https://snyk.io/blog/snyk-unfiltered-customer-summit/",
+  "published": "2026-10-28T00:00:00"
+ },
+ {
+  "blog_name": "Serverless",
+  "blog_url": "https://serverless.com/blog/",
+  "title": "Web Apps on AWS Lambda",
+  "link": "https://www.serverless.com/blog/web-apps-on-aws-lambda",
   "published": "2026-10-28T00:00:00"
  },
  {
@@ -29853,6 +30133,13 @@
   "title": "Accretion",
   "link": "https://blog.rinesi.com/2025/12/accretion",
   "published": "2025-12-27T03:00:00"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Now You Can Build with Replit in ChatGPT",
+  "link": "https://replit.com/blog/replit-in-chatgpt",
+  "published": "2025-12-22T21:49:55"
  },
  {
   "blog_name": "Marcelo Rinesi",
