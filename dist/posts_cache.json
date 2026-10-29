@@ -7,11 +7,67 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Harnais agentiques (épilogue) : travailler au quotidien avec un agent frontière",
+  "link": "https://blog.octo.com/harnais-agentiques-(epilogue)--travailler-au-quotidien-avec-un-agent-de-frontiere",
+  "published": "2026-10-29T06:53:10"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Financial Times ranks Hostinger among Europe’s Long-Term Growth Champions",
+  "link": "https://www.hostinger.com/blog/long-term-champions-ft-2026/",
+  "published": "2026-10-29T05:39:58"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Bank of America Kindly Asks That You Don't Share Your Password With Your AI Assistant",
+  "link": "https://yro.slashdot.org/story/26/10/28/2247205/bank-of-america-kindly-asks-that-you-dont-share-your-password-with-your-ai-assistant?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-29T03:30:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "APNIC updates conference host and location selection process",
+  "link": "https://blog.apnic.net/2026/10/29/apnic-updates-conference-host-and-location-selection-process/",
+  "published": "2026-10-29T01:57:38"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How Procore is powering construction analytics with OpenSharing",
+  "link": "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0",
+  "published": "2026-10-29T00:29:00"
+ },
+ {
   "blog_name": "Twilio",
   "blog_url": "https://www.twilio.com/blog/",
   "title": "Brilliant Builds: Building for Loyalty",
   "link": "https://www.twilio.com/en-us/blog/events/Brilliant-Builds-Episode-1",
   "published": "2026-10-29T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "WebRTC Calls, Key Agreement and ORM Checks at Build Time",
+  "link": "https://www.codenameone.com/blog/private-calls-and-safer-backends/",
+  "published": "2026-10-29T00:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "[Podcast] Quad 9 — Measurement in the privacy-preserving public DNS service",
+  "link": "https://blog.apnic.net/2026/10/29/podcast-quad-9-measurement-in-the-privacy-preserving-public-dns-service/",
+  "published": "2026-10-28T23:44:09"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Anthropic Engineer Declares the Coding Interview Dead",
+  "link": "https://slashdot.org/story/26/10/28/2222217/anthropic-engineer-declares-the-coding-interview-dead?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-28T23:00:00"
  },
  {
   "blog_name": "Slashdot",
@@ -29160,6 +29216,13 @@
   "title": "In Praise of –dry-run",
   "link": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
   "published": "2026-01-31T17:50:03"
+ },
+ {
+  "blog_name": "Marcelo Rinesi",
+  "blog_url": "https://blog.rinesi.com/",
+  "title": "Acts of War",
+  "link": "https://blog.rinesi.com/2026/01/acts-of-war",
+  "published": "2026-01-31T03:00:00"
  },
  {
   "blog_name": "Kogan.com",
