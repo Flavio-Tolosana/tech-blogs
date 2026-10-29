@@ -7,11 +7,172 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Blazor Welcomes Open-Source Contributions from Syncfusion",
+  "link": "https://devblogs.microsoft.com/dotnet/blazor-welcomes-syncfusion/",
+  "published": "2026-10-29T15:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+  "link": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/",
+  "published": "2026-10-29T15:00:00"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Bliki: LLM Voice",
+  "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+  "published": "2026-10-29T14:28:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Learn With Mentor AI: A Guided Journey Through Async Python",
+  "link": "https://realpython.com/learn-with-mentor-ai-async-python/",
+  "published": "2026-10-29T14:00:00"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Why are good developers so wary of agentic development?",
+  "link": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+  "published": "2026-10-29T13:50:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Granite Switch 4.1.1 — Update models like you update software",
+  "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "published": "2026-10-29T13:37:07"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Sizing Red Hat Quay: Profiling components to find real limits",
+  "link": "https://developers.redhat.com/articles/2026/10/29/sizing-red-hat-quay-profiling-components-find-real-limits",
+  "published": "2026-10-29T13:01:44"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+  "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+  "published": "2026-10-29T13:00:16"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "Coding Agent Horror Stories: The CVE That Did Not Exist",
+  "link": "https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/",
+  "published": "2026-10-29T13:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+  "link": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+  "published": "2026-10-29T12:55:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Meet GroeneAI: our autonomous contributor to ClickHouse",
+  "link": "https://clickhouse.com/blog/meet-groeneai-our-autonomous-contributor-to-clickhouse",
+  "published": "2026-10-29T12:53:19"
+ },
+ {
+  "blog_name": "Timescale",
+  "blog_url": "https://blog.timescale.com/",
+  "title": "Adaptive Integer Compression in TimescaleDB: Built for the Read Path",
+  "link": "https://www.tigerdata.com/blog/adaptive-integer-compression-aic-in-timescaledb",
+  "published": "2026-10-29T12:02:58"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "“Cheaper” Code Makes Creativity More Valuable",
+  "link": "https://spin.atomicobject.com/cheaper-code-creativity/",
+  "published": "2026-10-29T12:00:46"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Learn With Mentor AI: A Guided Journey Through Async Python",
+  "link": "https://realpython.com/quizzes/learn-with-mentor-ai-async-python/",
+  "published": "2026-10-29T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Dictionaries and Arrays: Selecting the Ideal Data Structure",
+  "link": "https://realpython.com/quizzes/dicts-arrays-ideal-data-structure/",
+  "published": "2026-10-29T12:00:00"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "Don’t get spooked: taboos and the scariest words in the world!",
+  "link": "https://blog.duolingo.com/scary-words-around-the-world/",
+  "published": "2026-10-29T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Struggling to Make AI Mode Searches Pay",
+  "link": "https://tech.slashdot.org/story/26/10/29/0444201/google-struggling-to-make-ai-mode-searches-pay?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-29T11:00:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Agentic QA for data: Bots go beyond the rules",
+  "link": "https://www.zyte.com/blog/agentic-data-qa/",
+  "published": "2026-10-29T09:00:04"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "The trouble with variants: Solving the web's infinite ecommerce explosion",
+  "link": "https://www.zyte.com/blog/trouble-with-variants-ecommerce-scraping/",
+  "published": "2026-10-29T09:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "AI Testing Tools: Benefits, Limitations, and Best Practices",
+  "link": "https://www.sitepoint.com/ai-testing-tools-benefits-limitations-and-best-practices/?utm_source=rss",
+  "published": "2026-10-29T07:12:07"
+ },
+ {
+  "blog_name": "Ebay",
+  "blog_url": "https://www.ebayinc.com/stories/blogs/tech/",
+  "title": "eBay unveils collection of cars inspired by gaming's most iconic rides",
+  "link": "https://www.ebayinc.com/stories/news/ebay-unveils-collection-of-cars-inspired-by-gamings-most-iconic-rides/",
+  "published": "2026-10-29T07:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Ink Droplets In Motion Snag Top Prize In Nikon Small World Contest",
+  "link": "https://slashdot.org/story/26/10/29/0436243/ink-droplets-in-motion-snag-top-prize-in-nikon-small-world-contest?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-29T07:00:00"
+ },
+ {
   "blog_name": "OCTO Technology",
   "blog_url": "https://blog.octo.com/en/",
   "title": "Harnais agentiques (épilogue) : travailler au quotidien avec un agent frontière",
   "link": "https://blog.octo.com/harnais-agentiques-(epilogue)--travailler-au-quotidien-avec-un-agent-de-frontiere",
   "published": "2026-10-29T06:53:10"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: Oh, K?",
+  "link": "https://thedailywtf.com/articles/oh-k",
+  "published": "2026-10-29T06:30:00"
  },
  {
   "blog_name": "Hostinger",
@@ -21,11 +182,25 @@
   "published": "2026-10-29T05:39:58"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Pollora: Run WordPress Inside a Laravel Application",
+  "link": "https://laravel-news.com/pollora-wordpress-laravel?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-29T03:46:20"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Bank of America Kindly Asks That You Don't Share Your Password With Your AI Assistant",
   "link": "https://yro.slashdot.org/story/26/10/28/2247205/bank-of-america-kindly-asks-that-you-dont-share-your-password-with-your-ai-assistant?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-29T03:30:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How Applicant Tracking Systems Read Resumes: 7 Checks Developers Should Make",
+  "link": "https://www.sitepoint.com/how-applicant-tracking-systems-read-resumes-7-checks-developers-should-make/?utm_source=rss",
+  "published": "2026-10-29T02:19:52"
  },
  {
   "blog_name": "APNIC",
@@ -53,6 +228,34 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "WebRTC Calls, Key Agreement and ORM Checks at Build Time",
   "link": "https://www.codenameone.com/blog/private-calls-and-safer-backends/",
+  "published": "2026-10-29T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "One Tool for the (Spell Checking) Job",
+  "link": "https://code.dblock.org/2026/10/29/one-tool-for-the-spell-checking-job.html",
+  "published": "2026-10-29T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+  "link": "https://huggingface.co/blog/announcing-project-protostar",
+  "published": "2026-10-29T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+  "link": "https://huggingface.co/blog/mistral-large4",
+  "published": "2026-10-29T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+  "link": "https://huggingface.co/blog/anydecisionmodel",
   "published": "2026-10-29T00:00:00"
  },
  {
@@ -89,6 +292,13 @@
   "title": "Are AI Execs Too Out of Touch To Build For the General Public?",
   "link": "https://slashdot.org/story/26/10/28/199238/are-ai-execs-too-out-of-touch-to-build-for-the-general-public?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-28T20:00:00"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "A JSON schema Is not an AI governance layer",
+  "link": "https://stackoverflow.blog/2026/10/28/a-json-schema-is-not-an-ai-governance-layer/",
+  "published": "2026-10-28T19:27:07"
  },
  {
   "blog_name": "Slashdot",
@@ -424,6 +634,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Introducing Vercel CI",
   "link": "https://vercel.com/blog/introducing-vercel-ci",
+  "published": "2026-10-28T07:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas xs: Using the `level` argument with an int or a name",
+  "link": "https://lernerpython.com/2026/10/28/pandas-xs-using-the-level-argument-with-an-int-or-a-name/",
   "published": "2026-10-28T07:00:00"
  },
  {
