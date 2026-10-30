@@ -7,6 +7,48 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "It’s ok that computers are (sometimes) better than us",
+  "link": "https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/",
+  "published": "2026-10-30T07:40:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Proton CEO Is In 'Full AI Psychosis'",
+  "link": "https://slashdot.org/story/26/10/30/0126236/proton-ceo-is-in-full-ai-psychosis?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-30T07:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Building a startup with AI? Here’s what you can learn from our 21-Day Startup Challenge winners",
+  "link": "https://www.hostinger.com/blog/21-day-startup-challenge-winners/",
+  "published": "2026-10-30T04:34:01"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Same place, different view: How VPNs shape what we learn about the Internet",
+  "link": "https://blog.apnic.net/2026/10/30/same-place-different-view-how-vpns-shape-what-we-learn-about-the-internet/",
+  "published": "2026-10-30T04:12:54"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
+  "link": "https://it.slashdot.org/story/26/10/29/2347249/polymarket-halted-international-trading-after-hackers-drained-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-30T03:30:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Trump's CTFC Steps In to Defend Kalshi As Utah Brings Criminal Charges Against Execs",
+  "link": "https://yro.slashdot.org/story/26/10/29/193242/trumps-ctfc-steps-in-to-defend-kalshi-as-utah-brings-criminal-charges-against-execs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-29T23:00:00"
+ },
+ {
   "blog_name": "Databricks",
   "blog_url": "https://databricks.com/blog",
   "title": "Announcing General Availability of Real-Time Mode for Spark Declarative Pipelines on Databricks",
@@ -207,6 +249,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Learn With Mentor AI: A Guided Journey Through Async Python",
   "link": "https://realpython.com/learn-with-mentor-ai-async-python/",
+  "published": "2026-10-29T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "The support case of a customer who said that all they could see was a black screen",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/",
   "published": "2026-10-29T14:00:00"
  },
  {
@@ -30406,6 +30455,13 @@
   "title": "JavaScript SpeechSynthesis API",
   "link": "https://davidwalsh.name/speechsynthesis-api",
   "published": "2025-11-20T00:39:07"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Fast Mode",
+  "link": "https://replit.com/blog/fast-mode",
+  "published": "2025-11-19T17:12:14"
  },
  {
   "blog_name": "James Long",
