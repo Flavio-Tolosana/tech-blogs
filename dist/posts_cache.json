@@ -9,6 +9,34 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "Google's First Data Center Satellite Is Online and Writing Poetry",
+  "link": "https://science.slashdot.org/story/26/10/30/2344228/googles-first-data-center-satellite-is-online-and-writing-poetry?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-31T07:00:00"
+ },
+ {
+  "blog_name": "Chris Wellons",
+  "blog_url": "http://nullprogram.com/",
+  "title": "Prospero: a new coding harness for a more civilized age",
+  "link": "https://nullprogram.com/blog/2026/10/31/",
+  "published": "2026-10-31T03:38:07"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Cisco Gives Engineer Unlimited AI Tokens To Rewrite Legacy Code",
+  "link": "https://developers.slashdot.org/story/26/10/30/2339234/cisco-gives-engineer-unlimited-ai-tokens-to-rewrite-legacy-code?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-31T03:30:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Your Compose Code, on More Screens and Less CPU",
+  "link": "https://www.codenameone.com/blog/compose-on-more-screens/",
+  "published": "2026-10-31T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Apple Is Entering Its Slop Era",
   "link": "https://apple.slashdot.org/story/26/10/30/216221/apple-is-entering-its-slop-era?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-30T23:00:00"
@@ -200,6 +228,13 @@
   "blog_url": "https://tailscale.com/blog",
   "title": "I wish I had Tailscale when I was at university",
   "link": "https://tailscale.com/blog/tailscale-at-university",
+  "published": "2026-10-30T14:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "The Microsoft building that was reportedly haunted",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261030-00/?p=112815/",
   "published": "2026-10-30T14:00:00"
  },
  {
