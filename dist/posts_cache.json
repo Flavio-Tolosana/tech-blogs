@@ -9,9 +9,58 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "Two US Senators Raise Privacy Concerns About Meta's 'Pervert Glasses'",
+  "link": "https://yro.slashdot.org/story/26/10/31/0553218/two-us-senators-raise-privacy-concerns-about-metas-pervert-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-31T14:50:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "OpenAI Halves the Price of Its New Everyday AI Model",
+  "link": "https://realpython.com/ai-news-weekly-2026-10-30/",
+  "published": "2026-10-31T14:00:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Beating the compiler at signed 32-bit division",
+  "link": "https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/",
+  "published": "2026-10-31T13:05:35"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Programming Language Mascots Tier List 2026",
+  "link": "https://spin.atomicobject.com/programming-mascots-2026/",
+  "published": "2026-10-31T12:00:37"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Socket Programming in Python",
+  "link": "https://realpython.com/quizzes/socket-programming-in-python/",
+  "published": "2026-10-31T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Supersonic Airliner In Doubt As Company Shifts to Powering AI Data Centers",
+  "link": "https://hardware.slashdot.org/story/26/10/30/2355244/supersonic-airliner-in-doubt-as-company-shifts-to-powering-ai-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-31T11:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Google's First Data Center Satellite Is Online and Writing Poetry",
   "link": "https://science.slashdot.org/story/26/10/30/2344228/googles-first-data-center-satellite-is-online-and-writing-poetry?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-31T07:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Optimize AI-Generated Images for Faster Websites",
+  "link": "https://www.sitepoint.com/how-to-optimize-ai-generated-images-for-faster-websites/?utm_source=rss",
+  "published": "2026-10-31T05:40:42"
  },
  {
   "blog_name": "Chris Wellons",
@@ -203,6 +252,13 @@
   "published": "2026-10-30T15:00:10"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Add AI Content Detection to Your Node.js App",
+  "link": "https://www.sitepoint.com/how-to-add-ai-content-detection-to-your-node-js-app/?utm_source=rss",
+  "published": "2026-10-30T14:57:18"
+ },
+ {
   "blog_name": "Amex GBT Technology",
   "blog_url": "https://medium.com/amex-gbt-technology",
   "title": "Building Fair and Personalized Flight Recommenders: Addressing Distortions, Outliers and Evolving…",
@@ -235,6 +291,20 @@
   "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
   "title": "The Microsoft building that was reportedly haunted",
   "link": "https://devblogs.microsoft.com/oldnewthing/20261030-00/?p=112815/",
+  "published": "2026-10-30T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Inheritance and Composition: A Python OOP Guide",
+  "link": "https://realpython.com/inheritance-composition-python/",
+  "published": "2026-10-30T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python range(): Represent Numerical Ranges",
+  "link": "https://realpython.com/python-range/",
   "published": "2026-10-30T14:00:00"
  },
  {
@@ -385,6 +455,13 @@
   "published": "2026-10-30T07:00:00"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas MultiIndex: What a two-level index looks like",
+  "link": "https://lernerpython.com/2026/10/30/pandas-multiindex-what-a-two-level-index-looks-like/",
+  "published": "2026-10-30T07:00:00"
+ },
+ {
   "blog_name": "The Daily WTF",
   "blog_url": "http://thedailywtf.com/",
   "title": "Error'd: Named And",
@@ -480,6 +557,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Ling 3.1 Flash 1019 now available on AI Gateway for free",
   "link": "https://vercel.com/changelog/ling-3-1-flash-1019-now-available-on-ai-gateway-for-free",
+  "published": "2026-10-30T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Build an AI Voice Assistant with Twilio Voice and Media Streams, Rime's Prism, and Node.js",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/voice-ai-agent-rime-prism-node",
   "published": "2026-10-30T00:00:00"
  },
  {
