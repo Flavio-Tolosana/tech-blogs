@@ -7,6 +7,62 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "SystemD's Creator Opens Signups for Private Preview of Amutable's Cryptographically Verified Linux Systems",
+  "link": "https://tech.slashdot.org/story/26/11/01/229250/systemds-creator-opens-signups-for-private-preview-of-amutables-cryptographically-verified-linux-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-01T22:33:00"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "Game Off 2026: The theme is SHIFT",
+  "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+  "published": "2026-11-01T21:36:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Religious Exemption from Using AI in Workplace Granted to Humanist",
+  "link": "https://slashdot.org/story/26/11/01/2130258/religious-exemption-from-using-ai-in-workplace-granted-to-humanist?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-01T21:33:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "AI Makes Linux 7.4 Merge Window the Largest in Kernel History",
+  "link": "https://linux.slashdot.org/story/26/11/01/2012246/ai-makes-linux-74-merge-window-the-largest-in-kernel-history?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-01T20:14:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Which Tech Companies Started Using Trump's Phrase 'Super Intelligence'?",
+  "link": "https://tech.slashdot.org/story/26/10/31/0615204/which-tech-companies-started-using-trumps-phrase-super-intelligence?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-01T17:34:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "College Students are Pushing Colleges to 'De-Flock'",
+  "link": "https://yro.slashdot.org/story/26/10/31/0250246/college-students-are-pushing-colleges-to-de-flock?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-01T16:34:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Pin vs Noon in 2026: Which AI Recruiter Fits Your Team?",
+  "link": "https://www.sitepoint.com/pin-vs-noon/?utm_source=rss",
+  "published": "2026-11-01T15:34:42"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "AI is programming’s next abstraction. What should we teach?",
+  "link": "https://lernerpython.com/2026/11/01/ai-programming-next-abstraction/",
+  "published": "2026-11-01T15:20:36"
+ },
+ {
   "blog_name": "Real Python",
   "blog_url": "https://realpython.com/blog/",
   "title": "Operator and Function Overloading in Custom Python Classes",
@@ -84,6 +140,20 @@
   "published": "2026-11-01T00:00:00"
  },
  {
+  "blog_name": "Josh Sherman",
+  "blog_url": "https://joshtronic.com/",
+  "title": "I'm Open to Work",
+  "link": "https://joshtronic.com/2026/11/01/open-to-work/",
+  "published": "2026-11-01T00:00:00"
+ },
+ {
+  "blog_name": "Nicolas Fränkel",
+  "blog_url": "https://blog.frankel.ch/",
+  "title": "From Google Drive to Syncthing over Tailscale",
+  "link": "https://blog.frankel.ch/google-drive-syncthing-tailscale/",
+  "published": "2026-11-01T00:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Computer Simulations Suggest Building Blocks of Life Didn't Arrive on Prehistoric Comets",
@@ -133,6 +203,13 @@
   "published": "2026-10-31T14:50:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "A 10-Point Checklist for Legacy Application Modernization",
+  "link": "https://www.sitepoint.com/a-10-point-checklist-for-legacy-application-modernization/?utm_source=rss",
+  "published": "2026-10-31T14:45:11"
+ },
+ {
   "blog_name": "Real Python",
   "blog_url": "https://realpython.com/blog/",
   "title": "OpenAI Halves the Price of Its New Everyday AI Model",
@@ -166,6 +243,20 @@
   "title": "Quiz: Socket Programming in Python",
   "link": "https://realpython.com/quizzes/socket-programming-in-python/",
   "published": "2026-10-31T12:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Top 5 AI Animation Generators in 2026: Features, Strengths, and Limits",
+  "link": "https://www.sitepoint.com/top-5-ai-animation-generators-in-2026-features-strengths-and-limits/?utm_source=rss",
+  "published": "2026-10-31T11:20:32"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "The Hidden Problems Behind Website-to-CRM Integrations (and How to Prevent Them)",
+  "link": "https://www.sitepoint.com/the-hidden-problems-behind-website-to-crm-integrations-and-how-to-prevent-them/?utm_source=rss",
+  "published": "2026-10-31T11:16:03"
  },
  {
   "blog_name": "Slashdot",
@@ -29519,6 +29610,13 @@
   "published": "2026-04-22T00:00:00"
  },
  {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Replit Wins 2026 Google Cloud Partner of the Year Award",
+  "link": "https://replit.com/blog/google-cloud-partner-award-winner",
+  "published": "2026-04-21T19:05:00"
+ },
+ {
   "blog_name": "Microsoft TypeScript",
   "blog_url": "https://devblogs.microsoft.com/typescript/",
   "title": "Announcing TypeScript 7.0 Beta",
@@ -33159,6 +33257,13 @@
   "published": "2024-06-09T14:24:00"
  },
  {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Announcing Replit Guides",
+  "link": "https://replit.com/blog/replit-guides",
+  "published": "2024-06-06T17:14:52"
+ },
+ {
   "blog_name": "Elastic",
   "blog_url": "https://www.elastic.co/blog/category/engineering",
   "title": "Reducing false positives with automated SIEM investigations from Elastic and Tines",
@@ -35033,6 +35138,13 @@
   "title": "The Inner Osborne Effect",
   "link": "https://raganwald.com/2021/10/28/the-inner-osborne-effect.html",
   "published": "2021-10-28T00:00:00"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Replit Art Gallery: An introduction to Replit's Illustrator - Joe Baker",
+  "link": "https://replit.com/blog/artist-introduction",
+  "published": "2021-10-27T08:00:00"
  },
  {
   "blog_name": "Brujo Benavides",
