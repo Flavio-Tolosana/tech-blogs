@@ -9,6 +9,27 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "Xbox Manager: AI Already Being Used In Xbox Game Development - And Throughout the Game Industry",
+  "link": "https://games.slashdot.org/story/26/11/01/0431200/xbox-manager-ai-already-being-used-in-xbox-game-development---and-throughout-the-game-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-01T04:34:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Binance Replenishes 90% of Stolen $6.3B, Pledges They'll Cover It All, Reopen Sunday",
+  "link": "https://news.slashdot.org/story/26/11/01/0129237/binance-replenishes-90-of-stolen-63b-pledges-theyll-cover-it-all-reopen-sunday?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-01T01:34:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Your Swing and JavaFX Code on iPhone, Android and the Web",
+  "link": "https://www.codenameone.com/blog/swing-and-javafx-on-phones/",
+  "published": "2026-11-01T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Computer Simulations Suggest Building Blocks of Life Didn't Arrive on Prehistoric Comets",
   "link": "https://science.slashdot.org/story/26/10/31/2142240/computer-simulations-suggest-building-blocks-of-life-didnt-arrive-on-prehistoric-comets?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-31T21:50:00"
@@ -144,6 +165,13 @@
   "blog_url": "https://abhinavsarkar.net/",
   "title": "An LC-3 Disassembler in Haskell",
   "link": "https://abhinavsarkar.net/posts/lc3-disassembler/?mtm_campaign=feed",
+  "published": "2026-10-31T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Introducing Svet: A Git Repository Linter",
+  "link": "https://code.dblock.org/2026/10/31/introducing-svet-a-git-repository-linter.html",
   "published": "2026-10-31T00:00:00"
  },
  {
