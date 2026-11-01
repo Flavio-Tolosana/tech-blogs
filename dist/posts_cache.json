@@ -7,6 +7,62 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Operator and Function Overloading in Custom Python Classes",
+  "link": "https://realpython.com/operator-function-overloading/",
+  "published": "2026-11-01T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Documenting Python Code: A Complete Guide",
+  "link": "https://realpython.com/documenting-python-code/",
+  "published": "2026-11-01T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Recursion in Python: An Introduction",
+  "link": "https://realpython.com/python-recursion/",
+  "published": "2026-11-01T14:00:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "ADHD: Deficit and Disorder Are Right There in the Name",
+  "link": "https://spin.atomicobject.com/adhd-shame/",
+  "published": "2026-11-01T13:00:17"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Documenting Python Code: A Complete Guide",
+  "link": "https://realpython.com/quizzes/documenting-python-code/",
+  "published": "2026-11-01T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Meta Discussed 'Whisper Strategy' to Discredit Social Media Critic Jonathan Haidt, Files Show",
+  "link": "https://tech.slashdot.org/story/26/10/31/0559203/meta-discussed-whisper-strategy-to-discredit-social-media-critic-jonathan-haidt-files-show?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-01T11:34:00"
+ },
+ {
+  "blog_name": "Evan Hahn",
+  "blog_url": "http://evanhahn.com/",
+  "title": "A Mastodon bot powered by iOS Shortcuts",
+  "link": "https://evanhahn.com/mastodon-bot-with-ios-shortcuts/",
+  "published": "2026-11-01T11:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "America's Clocks Are Still Falling Back Tonight Despite Trump's Daylight Saving Push",
+  "link": "https://yro.slashdot.org/story/26/10/31/2356208/americas-clocks-are-still-falling-back-tonight-despite-trumps-daylight-saving-push?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-01T07:34:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Xbox Manager: AI Already Being Used In Xbox Game Development - And Throughout the Game Industry",
@@ -84,6 +140,13 @@
   "published": "2026-10-31T14:00:00"
  },
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Using the Python zip() Function for Parallel Iteration",
+  "link": "https://realpython.com/python-zip-function/",
+  "published": "2026-10-31T14:00:00"
+ },
+ {
   "blog_name": "Daniel Lemire",
   "blog_url": "https://lemire.me/blog/",
   "title": "Beating the compiler at signed 32-bit division",
@@ -123,6 +186,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "Google's First Data Center Satellite Is Online and Writing Poetry",
   "link": "https://science.slashdot.org/story/26/10/30/2344228/googles-first-data-center-satellite-is-online-and-writing-poetry?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-10-31T07:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas droplevel: Remove a level from a multi-index",
+  "link": "https://lernerpython.com/2026/10/31/pandas-droplevel-remove-a-level-from-a-multi-index/",
   "published": "2026-10-31T07:00:00"
  },
  {
