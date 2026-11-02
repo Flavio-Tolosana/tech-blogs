@@ -7,6 +7,55 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "APRICOT 2027 registration is now open, with discounts for APNIC Members",
+  "link": "https://blog.apnic.net/2026/11/02/apricot-2027-registration-is-now-open-with-discounts-for-apnic-members/",
+  "published": "2026-11-02T05:20:56"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Rocky Linux Creator Built a New 'Not Linux' Kernel in 11 Days Using AI",
+  "link": "https://tech.slashdot.org/story/26/11/02/0317207/rocky-linux-creator-built-a-new-not-linux-kernel-in-11-days-using-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-02T05:04:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Experts Expect 'Security Reckoning' As AI Tools Find And Exploit Software Bugs",
+  "link": "https://it.slashdot.org/story/26/11/02/033200/experts-expect-security-reckoning-as-ai-tools-find-and-exploit-software-bugs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-02T03:04:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Binance Reopens to $3.64 in Net Outflows. '98% Choose to Stay', Says Its Founder",
+  "link": "https://news.slashdot.org/story/26/11/02/0159222/binance-reopens-to-364-in-net-outflows-98-choose-to-stay-says-its-founder?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-02T02:02:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Stack Overflow: 'Reports of Our Death are Greatly Exaggerated'",
+  "link": "https://developers.slashdot.org/story/26/11/02/0026255/stack-overflow-reports-of-our-death-are-greatly-exaggerated?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-02T00:34:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Bastion: A Hardened Bank Template, and Crypto Wallets in Core",
+  "link": "https://www.codenameone.com/blog/bastion-hardened-bank-template/",
+  "published": "2026-11-02T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Toyota's EV Sales More Than Doubled In a Year, While Its Gas Car Sales Dropped 20% In China",
+  "link": "https://tech.slashdot.org/story/26/11/01/2333233/toyotas-ev-sales-more-than-doubled-in-a-year-while-its-gas-car-sales-dropped-20-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-01T23:36:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "SystemD's Creator Opens Signups for Private Preview of Amutable's Cryptographically Verified Linux Systems",
