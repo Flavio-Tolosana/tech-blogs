@@ -7,11 +7,200 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Keep Distributed Training Running with Automated Workload Recovery",
+  "link": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/",
+  "published": "2026-11-02T22:43:05"
+ },
+ {
+  "blog_name": "Microsoft Edge",
+  "blog_url": "https://blogs.windows.com/msedgedev/",
+  "title": "Client-side threat detection: how Scareware blocker uncovered malicious notification abuse",
+  "link": "https://blogs.windows.com/msedgedev/2026/11/02/client-side-threat-detection-how-scareware-blocker-uncovered-malicious-notification-abuse/",
+  "published": "2026-11-02T22:05:53"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Apple HomeView Ultra, Drone and Laundry-Folding Robot Reportedly In Development",
+  "link": "https://hardware.slashdot.org/story/26/11/02/2033238/apple-homeview-ultra-drone-and-laundry-folding-robot-reportedly-in-development?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-02T22:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "SpaceX Is Reportedly Looking At Buying Boost Mobile",
+  "link": "https://mobile.slashdot.org/story/26/11/02/205252/spacex-is-reportedly-looking-at-buying-boost-mobile?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-02T21:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel MCP now supports Client ID Metadata Documents",
+  "link": "https://vercel.com/changelog/vercel-mcp-now-supports-client-id-metadata-documents",
+  "published": "2026-11-02T20:09:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "OpenAI Might Rebrand Its Data Centers As 'AI Compute Campuses'",
+  "link": "https://slashdot.org/story/26/11/02/1940254/openai-might-rebrand-its-data-centers-as-ai-compute-campuses?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-02T20:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Powering up for a pivotal moment",
+  "link": "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
+  "published": "2026-11-02T19:55:00"
+ },
+ {
+  "blog_name": "Capital One Tech",
+  "blog_url": "https://medium.com/capital-one-tech",
+  "title": "Advancing safe agentic AI: ASKS symposium highlights",
+  "link": "https://medium.com/capital-one-tech/advancing-safe-agentic-ai-asks-symposium-highlights-bbba40b19784?source=rss----3db3a67cb648---4",
+  "published": "2026-11-02T19:42:48"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Build an AI Wellbeing App with Fireworks and Fitbit via Auth0 Token Vault.",
+  "link": "https://auth0.com/blog/build-an-ai-wellbeing-app-with-fireworks-fitbit-via-auth0-token-vault/",
+  "published": "2026-11-02T19:25:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "The New York Times Sues Brave Web Browser For AI Scraping, Bypassing Paywalls",
+  "link": "https://yro.slashdot.org/story/26/11/02/1829212/the-new-york-times-sues-brave-web-browser-for-ai-scraping-bypassing-paywalls?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-02T19:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Microsoft's Canada Timezone Troubles Leave Admins Fixing Calendars, Pretending They're In Bogota",
+  "link": "https://news.slashdot.org/story/26/11/02/1538237/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-02T18:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
+  "link": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/",
+  "published": "2026-11-02T18:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI",
+  "link": "https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/",
+  "published": "2026-11-02T17:11:21"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel MCP now renders deployments as an interactive card",
+  "link": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
+  "published": "2026-11-02T17:05:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Build efficient agents with knowledge distillation on Amazon SageMaker AI",
+  "link": "https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/",
+  "published": "2026-11-02T17:01:31"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/",
+  "published": "2026-11-02T17:01:16"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock/",
+  "published": "2026-11-02T17:00:58"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
+  "link": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/",
+  "published": "2026-11-02T17:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Flags Explorer redesigned for easier override sharing",
+  "link": "https://vercel.com/changelog/flags-explorer-redesigned-for-easier-override-sharing",
+  "published": "2026-11-02T16:58:00"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026)",
+  "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/",
+  "published": "2026-11-02T16:45:48"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Sandbox with Drives now starts up to 2.4x faster",
+  "link": "https://vercel.com/changelog/vercel-sandbox-with-drives-now-starts-up-to-2-4x-faster",
+  "published": "2026-11-02T16:39:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map",
+  "link": "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map/",
+  "published": "2026-11-02T16:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Evaluate Vercel Flags from another project without sharing SDK keys.",
+  "link": "https://vercel.com/changelog/evaluate-vercel-flags-from-another-project-without-sharing-sdk-keys",
+  "published": "2026-11-02T16:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+  "published": "2026-11-02T15:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Introducing the Grid Protectors Program",
+  "link": "https://openai.com/index/grid-protectors-program",
+  "published": "2026-11-02T15:00:00"
+ },
+ {
   "blog_name": "Clickhouse",
   "blog_url": "https://clickhouse.com/blog",
   "title": "What's new in clickhousectl v0.5.0",
   "link": "https://clickhouse.com/blog/clickhousectl-v0-5-0",
   "published": "2026-11-02T14:45:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Email Sending and Testing for Laravel in One Account",
+  "link": "https://laravel-news.com/maileroo-laravel-email-testing?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-02T14:27:31"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Lakebase Postgres is now generally available on Google Cloud",
+  "link": "https://www.databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud",
+  "published": "2026-11-02T14:26:08"
  },
  {
   "blog_name": "Red Hat",
@@ -126,6 +315,13 @@
   "published": "2026-11-02T12:00:00"
  },
  {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Hostinger weekly product updates: Week 44, 2026",
+  "link": "https://www.hostinger.com/blog/product-updates-week-44-2026/",
+  "published": "2026-11-02T11:58:33"
+ },
+ {
   "blog_name": "OCTO Technology",
   "blog_url": "https://blog.octo.com/en/",
   "title": "Plugin Modernization by Anthropic",
@@ -137,6 +333,13 @@
   "blog_url": "https://blog.scrapinghub.com/",
   "title": "What web access actually costs - the tier picture",
   "link": "https://www.zyte.com/blog/sowa-complexity-cost/",
+  "published": "2026-11-02T09:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "LifeVal",
+  "link": "https://openai.com/index/lifeval",
   "published": "2026-11-02T09:00:00"
  },
  {
@@ -166,6 +369,13 @@
   "title": "CodeSOD: Get It Now",
   "link": "https://thedailywtf.com/articles/get-it-now",
   "published": "2026-11-02T06:30:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
+  "link": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
+  "published": "2026-11-02T05:35:00"
  },
  {
   "blog_name": "APNIC",
@@ -201,6 +411,13 @@
   "title": "Binance Reopens to $3.64 in Net Outflows. '98% Choose to Stay', Says Its Founder",
   "link": "https://news.slashdot.org/story/26/11/02/0159222/binance-reopens-to-364-in-net-outflows-98-choose-to-stay-says-its-founder?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-02T02:02:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "PIE 1.5 Changes PHP Extension Installs in CI",
+  "link": "https://laravel-news.com/pie-1-5?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-02T00:42:47"
  },
  {
   "blog_name": "Slashdot",
@@ -270,6 +487,48 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Agents make decisions at runtime—your security controls should too",
   "link": "https://www.datadoghq.com/blog/runtime-security-for-ai-agents/",
+  "published": "2026-11-02T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Beyond Infrastructure: The New Era of CIAM Innovation",
+  "link": "https://auth0.com/blog/okta-named-a-leader-in-gartner-magic-quadrant-2026/",
+  "published": "2026-11-02T00:00:00"
+ },
+ {
+  "blog_name": "Discord",
+  "blog_url": "https://blog.discordapp.com/",
+  "title": "Modernizing the Video Playback Experience at Discord",
+  "link": "https://discord.com/blog/modernizing-the-video-playback-experience-at-discord",
+  "published": "2026-11-02T00:00:00"
+ },
+ {
+  "blog_name": "Amit Merchant",
+  "blog_url": "https://www.amitmerchant.com/",
+  "title": "Your CI pipeline needs a lockfile, too",
+  "link": "https://www.amitmerchant.com/ci-pipeline-lockfile/",
+  "published": "2026-11-02T00:00:00"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Developing for Today: 50+ New Developer Sessions on Building Apps Today",
+  "link": "https://developer.android.com/blog/posts/building-apps-developer-sessions",
+  "published": "2026-11-02T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Datadog is now available on Anthropic’s Claude Marketplace",
+  "link": "https://www.datadoghq.com/blog/datadog-anthropic-claude-marketplace/",
+  "published": "2026-11-02T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Qodo builds context into AI code review with Codex",
+  "link": "https://openai.com/index/qodo-codex-plugin",
   "published": "2026-11-02T00:00:00"
  },
  {
@@ -502,6 +761,13 @@
   "title": "Using the Python zip() Function for Parallel Iteration",
   "link": "https://realpython.com/python-zip-function/",
   "published": "2026-10-31T14:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Decide with Jev: Tie Every AI Check to the Exact Draft",
+  "link": "https://laravel-news.com/decide-with-jev-tie-every-ai-check-to-the-exact-draft?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-10-31T13:22:17"
  },
  {
   "blog_name": "Daniel Lemire",
