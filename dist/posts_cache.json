@@ -7,6 +7,167 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "What's new in clickhousectl v0.5.0",
+  "link": "https://clickhouse.com/blog/clickhousectl-v0-5-0",
+  "published": "2026-11-02T14:45:00"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Onboard your repository to Testing Farm with Claude Code",
+  "link": "https://developers.redhat.com/articles/2026/11/02/onboard-your-repository-testing-farm-claude-code",
+  "published": "2026-11-02T14:17:25"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Benchmarking tiered KV cache offloading on H100 GPUs in OpenShift AI 3.5",
+  "link": "https://developers.redhat.com/articles/2026/11/02/benchmarking-tiered-kv-cache-offloading-h100-gpus-openshift-ai-3-5",
+  "published": "2026-11-02T14:17:22"
+ },
+ {
+  "blog_name": "Myntra",
+  "blog_url": "https://medium.com/myntra-engineering",
+  "title": "How We Load-Test 700+ Independently-Owned Services Without Touching Production",
+  "link": "https://medium.com/myntra-engineering/how-we-load-test-700-independently-owned-services-without-touching-production-5a48f6bf89ce?source=rss----7484818e9f88---4",
+  "published": "2026-11-02T14:01:26"
+ },
+ {
+  "blog_name": "Myntra",
+  "blog_url": "https://medium.com/myntra-engineering",
+  "title": "Load Testing Without Touching Production: Header-Based Routing with Linkerd",
+  "link": "https://medium.com/myntra-engineering/load-testing-without-touching-production-header-based-routing-with-linkerd-4d0442c27a73?source=rss----7484818e9f88---4",
+  "published": "2026-11-02T14:01:13"
+ },
+ {
+  "blog_name": "Myntra",
+  "blog_url": "https://medium.com/myntra-engineering",
+  "title": "From kubectl and Slack Threads to One Click: Building a Self-Serve NFR Environment",
+  "link": "https://medium.com/myntra-engineering/from-kubectl-and-slack-threads-to-one-click-building-a-self-serve-nfr-environment-b1b3c42b173b?source=rss----7484818e9f88---4",
+  "published": "2026-11-02T14:01:01"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era",
+  "link": "https://www.docker.com/blog/docker-blueprint-alliance-agent-baseline/",
+  "published": "2026-11-02T14:00:00"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "Where should your code live in a Docker Sandbox?",
+  "link": "https://www.docker.com/blog/docker-sandbox-code-checkout-workflows/",
+  "published": "2026-11-02T14:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "How we halved DNS build delay and cut memory use by 85%",
+  "link": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+  "published": "2026-11-02T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python 3.15 Ships and Other Python News for November 2026",
+  "link": "https://realpython.com/python-news-november-2026/",
+  "published": "2026-11-02T14:00:00"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "The U.S. Census Bureau and “Super Intelligence”",
+  "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+  "published": "2026-11-02T13:31:26"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "How OpenRouter observes, understands, and acts on 740 million LLM requests a day with ClickHouse Cloud",
+  "link": "https://clickhouse.com/blog/openrouter-llm-routing-observability-clickhouse-cloud",
+  "published": "2026-11-02T13:24:32"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Questions Worth Asking as a New Developer",
+  "link": "https://spin.atomicobject.com/questions-new-developer/",
+  "published": "2026-11-02T13:00:25"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "5 ways to improve engineering velocity",
+  "link": "https://blog.duolingo.com/improve-engineering-velocity/",
+  "published": "2026-11-02T13:00:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "In C++, = default and {} are not the same constructor",
+  "link": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+  "published": "2026-11-02T12:48:59"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Itch Is Being Flooded By AI-Generated Garbage",
+  "link": "https://games.slashdot.org/story/26/11/02/0354237/itch-is-being-flooded-by-ai-generated-garbage?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-02T12:34:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Advanced Git Tips for Python Developers",
+  "link": "https://realpython.com/quizzes/advanced-git-for-pythonistas/",
+  "published": "2026-11-02T12:00:00"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Plugin Modernization by Anthropic",
+  "link": "https://blog.octo.com/moderniser-un-systeme-legacy-avec-le-plugin-modernization-12",
+  "published": "2026-11-02T10:05:10"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "What web access actually costs - the tier picture",
+  "link": "https://www.zyte.com/blog/sowa-complexity-cost/",
+  "published": "2026-11-02T09:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Bad Flock Info Leads Police To Tow Wrong Car, Then Towing Company Totals It",
+  "link": "https://yro.slashdot.org/story/26/11/01/1832251/bad-flock-info-leads-police-to-tow-wrong-car-then-towing-company-totals-it?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-02T08:34:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How Product Teams Can Use AI User Research to Test Assumptions Before Sprint Planning",
+  "link": "https://www.sitepoint.com/how-product-teams-can-use-ai-user-research-to-test-assumptions-before-sprint-planning/?utm_source=rss",
+  "published": "2026-11-02T07:38:49"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Porting the NDK “Endless Tunnel” to iOS: A Masterclass in Cross-Platform C++",
+  "link": "https://www.sitepoint.com/porting-the-ndk-endless-tunnel-to-ios-a-masterclass-in-cross-platform-c/?utm_source=rss",
+  "published": "2026-11-02T06:48:07"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: Get It Now",
+  "link": "https://thedailywtf.com/articles/get-it-now",
+  "published": "2026-11-02T06:30:00"
+ },
+ {
   "blog_name": "APNIC",
   "blog_url": "https://blog.apnic.net/",
   "title": "APRICOT 2027 registration is now open, with discounts for APNIC Members",
@@ -19,6 +180,13 @@
   "title": "Rocky Linux Creator Built a New 'Not Linux' Kernel in 11 Days Using AI",
   "link": "https://tech.slashdot.org/story/26/11/02/0317207/rocky-linux-creator-built-a-new-not-linux-kernel-in-11-days-using-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-02T05:04:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Build a Typed AI Pipeline With Jev and Clairic.",
+  "link": "https://www.sitepoint.com/how-to-build-a-typed-ai-pipeline-with-jev-and-clairic/?utm_source=rss",
+  "published": "2026-11-02T03:19:45"
  },
  {
   "blog_name": "Slashdot",
@@ -46,6 +214,62 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Bastion: A Hardened Bank Template, and Crypto Wallets in Core",
   "link": "https://www.codenameone.com/blog/bastion-hardened-bank-template/",
+  "published": "2026-11-02T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Stack 9.5.6 released",
+  "link": "https://www.elastic.co/blog/elastic-stack-9-5-6-released",
+  "published": "2026-11-02T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Stack 9.4.9 released",
+  "link": "https://www.elastic.co/blog/elastic-stack-9-4-9-released",
+  "published": "2026-11-02T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Stack 8.19.24 released",
+  "link": "https://www.elastic.co/blog/elastic-stack-8-19-24-released",
+  "published": "2026-11-02T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Extend RUM to Electron’s main process with the Datadog Electron SDK",
+  "link": "https://www.datadoghq.com/blog/datadog-electron-sdk/",
+  "published": "2026-11-02T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Store and recover user sessions with RUM Managed Archive",
+  "link": "https://www.datadoghq.com/blog/rum-managed-archive/",
+  "published": "2026-11-02T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Export RUM and Product Analytics data with Export Pipelines",
+  "link": "https://www.datadoghq.com/blog/export-pipelines/",
+  "published": "2026-11-02T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Monitor C and C++ applications with Datadog RUM",
+  "link": "https://www.datadoghq.com/blog/monitor-native-apps-datadog-rum/",
+  "published": "2026-11-02T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Agents make decisions at runtime—your security controls should too",
+  "link": "https://www.datadoghq.com/blog/runtime-security-for-ai-agents/",
   "published": "2026-11-02T00:00:00"
  },
  {
@@ -166,6 +390,13 @@
   "title": "America's Clocks Are Still Falling Back Tonight Despite Trump's Daylight Saving Push",
   "link": "https://yro.slashdot.org/story/26/10/31/2356208/americas-clocks-are-still-falling-back-tonight-despite-trumps-daylight-saving-push?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-01T07:34:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas multi-index: Working with 3D data using `.loc` and `.xs`",
+  "link": "https://lernerpython.com/2026/11/01/pandas-multi-index-working-with-3d-data-using-loc-and-xs/",
+  "published": "2026-11-01T07:00:00"
  },
  {
   "blog_name": "Slashdot",
@@ -572,6 +803,13 @@
   "title": "Cloudflare services for private origins is now generally available",
   "link": "https://blog.cloudflare.com/private-origins-public-to-private/",
   "published": "2026-10-30T14:23:43"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Speeding up planning decisions with AI",
+  "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+  "published": "2026-10-30T14:18:30"
  },
  {
   "blog_name": "Real Python",
@@ -3112,6 +3350,13 @@
   "blog_url": "https://yurichev.com/blog/",
   "title": "Raw notes",
   "link": "https://yurichev.com/blog/raw-notes/",
+  "published": "2026-10-25T23:00:00"
+ },
+ {
+  "blog_name": "PubNub:",
+  "blog_url": "https://www.pubnub.com/blog/",
+  "title": "PubNub DataSync vs. real-time databases: Where your app's live state belongs",
+  "link": "https://www.pubnub.com/blog/datasync-vs-realtime-databases/",
   "published": "2026-10-25T23:00:00"
  },
  {
