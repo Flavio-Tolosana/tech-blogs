@@ -7,6 +7,69 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Oh, your agents need OAuth2, too",
+  "link": "https://stackoverflow.blog/2026/11/03/oh-your-agents-need-oauth2-too/",
+  "published": "2026-11-03T08:40:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "China Publicly Discloses Plan For a Lunar Landing Within Three Years",
+  "link": "https://science.slashdot.org/story/26/11/03/0550259/china-publicly-discloses-plan-for-a-lunar-landing-within-three-years?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-03T07:00:00"
+ },
+ {
+  "blog_name": "Housing.com",
+  "blog_url": "https://medium.com/engineering-housing",
+  "title": "JVM Startup Time Story: From 330 Seconds to 3",
+  "link": "https://medium.com/engineering-housing/we-stopped-our-jvm-from-ever-booting-cold-again-b5dbd492fe88?source=rss----3a69e32e2594---4",
+  "published": "2026-11-03T04:44:06"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Restating the case for DNSSEC",
+  "link": "https://blog.apnic.net/2026/11/03/restating-the-case-for-dnssec/",
+  "published": "2026-11-03T03:41:45"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "BYD Sold More EVs Last Month Than the US Did All Quarter",
+  "link": "https://tech.slashdot.org/story/26/11/03/0243238/byd-sold-more-evs-last-month-than-the-us-did-all-quarter?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-03T03:30:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Reel: Your Own Streaming Service or Course Platform",
+  "link": "https://www.codenameone.com/blog/reel-streaming-and-courses-template/",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Snap Reaches Settlement In Social Media Addiction Lawsuit Ahead of Trial",
+  "link": "https://tech.slashdot.org/story/26/11/02/2047236/snap-reaches-settlement-in-social-media-addiction-lawsuit-ahead-of-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+  "link": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/",
+  "published": "2026-11-02T23:39:34"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Study Claims Vizio Simply Ignores 'Smart' TV Spying Opt Out Requests",
+  "link": "https://entertainment.slashdot.org/story/26/11/02/2043259/study-claims-vizio-simply-ignores-smart-tv-spying-opt-out-requests?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-02T23:00:00"
+ },
+ {
   "blog_name": "NVIDIA Developer",
   "blog_url": "https://developer.nvidia.com/blog/",
   "title": "Keep Distributed Training Running with Automated Workload Recovery",
@@ -37,9 +100,23 @@
  {
   "blog_name": "Vercel",
   "blog_url": "https://vercel.com/blog",
+  "title": "Projects can now be configured with vercel.toml",
+  "link": "https://vercel.com/changelog/projects-can-now-be-configured-with-vercel-toml",
+  "published": "2026-11-02T21:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
   "title": "Vercel MCP now supports Client ID Metadata Documents",
   "link": "https://vercel.com/changelog/vercel-mcp-now-supports-client-id-metadata-documents",
   "published": "2026-11-02T20:09:00"
+ },
+ {
+  "blog_name": "Wealthfront",
+  "blog_url": "http://eng.wealthfront.com/",
+  "title": "Learnings from building our public MCP server",
+  "link": "https://eng.wealthfront.com/2026/11/02/learnings-from-building-our-public-mcp-server/",
+  "published": "2026-11-02T20:08:25"
  },
  {
   "blog_name": "Slashdot",
@@ -88,6 +165,20 @@
   "blog_url": "https://developer.nvidia.com/blog/",
   "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
   "link": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/",
+  "published": "2026-11-02T18:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Rewarding defenders with bigger bug bounties",
+  "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+  "published": "2026-11-02T18:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Preparing our next security sprint to harden OpenAI",
+  "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
   "published": "2026-11-02T18:00:00"
  },
  {
@@ -166,6 +257,13 @@
   "title": "Evaluate Vercel Flags from another project without sharing SDK keys.",
   "link": "https://vercel.com/changelog/evaluate-vercel-flags-from-another-project-without-sharing-sdk-keys",
   "published": "2026-11-02T16:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Scaling Git at OpenAI",
+  "link": "https://openai.com/index/scaling-git-at-openai",
+  "published": "2026-11-02T15:30:00"
  },
  {
   "blog_name": "Raymond Chen",
@@ -529,6 +627,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "Qodo builds context into AI code review with Codex",
   "link": "https://openai.com/index/qodo-codex-plugin",
+  "published": "2026-11-02T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "AI readiness starts with data ownership",
+  "link": "https://www.thoughtworks.com/insights/blog/data-strategy/ai-readiness-starts-with-data-ownership",
   "published": "2026-11-02T00:00:00"
  },
  {
@@ -31120,6 +31225,13 @@
   "title": "EUC 2026 contest day",
   "link": "http://blog.mitrichev.ch/2026/02/euc-2026-contest-day.html",
   "published": "2026-02-08T06:42:00"
+ },
+ {
+  "blog_name": "Marcelo Rinesi",
+  "blog_url": "https://blog.rinesi.com/",
+  "title": "Citadel",
+  "link": "https://blog.rinesi.com/2026/02/citadel",
+  "published": "2026-02-08T03:00:00"
  },
  {
   "blog_name": "Petr Mitrichev",
