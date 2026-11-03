@@ -7,6 +7,90 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Does your application need local data or faster Postgres?",
+  "link": "https://clickhouse.com/blog/does-your-application-need-local-data-or-faster-postgres",
+  "published": "2026-11-03T14:55:13"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "JBoss EAP clustering in OpenShift: KUBE_PING discovery",
+  "link": "https://developers.redhat.com/articles/2026/11/03/jboss-eap-clustering-openshift-kubeping-discovery",
+  "published": "2026-11-03T14:01:28"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+  "link": "https://blog.cloudflare.com/zero-wire/",
+  "published": "2026-11-03T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Converting Documents to Markdown With MarkItDown",
+  "link": "https://realpython.com/courses/converting-documents-markdown-markitdown/",
+  "published": "2026-11-03T14:00:00"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "How to run I/O workloads on OpenShift Virtualization VMs",
+  "link": "https://developers.redhat.com/articles/2026/11/03/how-run-io-workloads-openshift-virtualization-vms",
+  "published": "2026-11-03T14:00:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "AI Can Save Time If You Put in the Work Up Front",
+  "link": "https://spin.atomicobject.com/ai-software-development-save-time/",
+  "published": "2026-11-03T13:00:18"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "5 habits for improving at chess",
+  "link": "https://blog.duolingo.com/chess-habits-for-improving/",
+  "published": "2026-11-03T13:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: How to Use Claude Code Skills for Better Python Docstrings",
+  "link": "https://realpython.com/quizzes/claude-code-skills/",
+  "published": "2026-11-03T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Converting Documents to Markdown With MarkItDown",
+  "link": "https://realpython.com/quizzes/converting-documents-markdown-markitdown/",
+  "published": "2026-11-03T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Cops Bust Botnet of 1.3 Million Android TV Boxes",
+  "link": "https://it.slashdot.org/story/26/11/03/0558219/cops-bust-botnet-of-13-million-android-tv-boxes?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-03T11:00:00"
+ },
+ {
+  "blog_name": "Transferwise",
+  "blog_url": "http://tech.transferwise.com/",
+  "title": "From Onboarding to Production: How I Built Dynamic Vendor Switching at Wise",
+  "link": "https://medium.com/wise-engineering/from-onboarding-to-production-how-i-built-dynamic-vendor-switching-at-wise-876942d6031f?source=rss----f2565bbe9c46---4",
+  "published": "2026-11-03T09:52:56"
+ },
+ {
+  "blog_name": "Daniel Stenberg",
+  "blog_url": "https://daniel.haxx.se/blog/",
+  "title": "Scrutinize our assessments",
+  "link": "https://daniel.haxx.se/blog/2026/11/03/scrutinize-our-assessments/",
+  "published": "2026-11-03T09:16:17"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "Oh, your agents need OAuth2, too",
@@ -14,11 +98,60 @@
   "published": "2026-11-03T08:40:00"
  },
  {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "The Three Silent Failure States Every Streaming API Should Document",
+  "link": "https://nordicapis.com/the-three-silent-failure-states-every-streaming-api-should-document/",
+  "published": "2026-11-03T08:00:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "How to use browser DevTools for web scraping",
+  "link": "https://www.zyte.com/blog/inspect-element-devtools-web-scraping/",
+  "published": "2026-11-03T08:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Heimstaden is changing residential real estate management with AI",
+  "link": "https://openai.com/index/heimstaden",
+  "published": "2026-11-03T08:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Learn Java with AI: A Practical Guide for Beginners",
+  "link": "https://www.sitepoint.com/how-to-learn-java-with-ai-a-practical-guide-for-beginners/?utm_source=rss",
+  "published": "2026-11-03T07:17:44"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+  "link": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+  "published": "2026-11-03T07:00:12"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "China Publicly Discloses Plan For a Lunar Landing Within Three Years",
   "link": "https://science.slashdot.org/story/26/11/03/0550259/china-publicly-discloses-plan-for-a-lunar-landing-within-three-years?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-03T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: Death of the Auth-Er",
+  "link": "https://thedailywtf.com/articles/death-of-the-auth-er",
+  "published": "2026-11-03T06:30:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Retrying a send is harder than sending",
+  "link": "https://www.sitepoint.com/retrying-a-send-is-harder-than-sending/?utm_source=rss",
+  "published": "2026-11-03T04:47:03"
  },
  {
   "blog_name": "Housing.com",
@@ -42,6 +175,20 @@
   "published": "2026-11-03T03:30:00"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Cooldown Dependency Policy now in Composer 2.11",
+  "link": "https://laravel-news.com/composer-2-11?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-03T03:20:08"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Live Props for Real-Time Updates in Inertia.js v3.11",
+  "link": "https://laravel-news.com/inertia-3-11-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-03T03:19:08"
+ },
+ {
   "blog_name": "CodeName One",
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Reel: Your Own Streaming Service or Course Platform",
@@ -53,6 +200,20 @@
   "blog_url": "https://slashdot.org/",
   "title": "Snap Reaches Settlement In Social Media Addiction Lawsuit Ahead of Trial",
   "link": "https://tech.slashdot.org/story/26/11/02/2047236/snap-reaches-settlement-in-social-media-addiction-lawsuit-ahead-of-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Rust",
+  "blog_url": "https://blog.rust-lang.org/",
+  "title": "Announcing rustup 1.29.3",
+  "link": "https://blog.rust-lang.org/2026/11/03/Rustup-1.29.3/",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Transformers Model Integration Contracts",
+  "link": "https://huggingface.co/blog/transformers-mic",
   "published": "2026-11-03T00:00:00"
  },
  {
@@ -103,6 +264,13 @@
   "title": "Projects can now be configured with vercel.toml",
   "link": "https://vercel.com/changelog/projects-can-now-be-configured-with-vercel-toml",
   "published": "2026-11-02T21:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "AI-Powered Pentesting for DevSecOps: 7 Checks Developers Should Make First",
+  "link": "https://www.sitepoint.com/ai-powered-pentesting-for-devsecops-7-checks-developers-should-make-first/?utm_source=rss",
+  "published": "2026-11-02T20:36:07"
  },
  {
   "blog_name": "Vercel",
@@ -364,6 +532,13 @@
   "published": "2026-11-02T14:00:00"
  },
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "SimPy: Simulating Real-World Processes With Python",
+  "link": "https://realpython.com/simpy-simulating-with-python/",
+  "published": "2026-11-02T14:00:00"
+ },
+ {
   "blog_name": "Simon Willison",
   "blog_url": "http://simonwillison.net/",
   "title": "The U.S. Census Bureau and “Super Intelligence”",
@@ -453,6 +628,13 @@
   "title": "How Product Teams Can Use AI User Research to Test Assumptions Before Sprint Planning",
   "link": "https://www.sitepoint.com/how-product-teams-can-use-ai-user-research-to-test-assumptions-before-sprint-planning/?utm_source=rss",
   "published": "2026-11-02T07:38:49"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python 3.15 list unpacking: Flattening a nested list",
+  "link": "https://lernerpython.com/2026/11/02/python-3-15-list-unpacking-flattening-a-nested-list/",
+  "published": "2026-11-02T07:00:00"
  },
  {
   "blog_name": "SitePoint",
