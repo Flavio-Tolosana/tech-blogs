@@ -7,6 +7,202 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "EU Court Advisor Warns Google AI Chatbot May Breach Copyright Rules",
+  "link": "https://yro.slashdot.org/story/26/11/03/2144244/eu-court-advisor-warns-google-ai-chatbot-may-breach-copyright-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-03T23:00:00"
+ },
+ {
+  "blog_name": "Timescale",
+  "blog_url": "https://blog.timescale.com/",
+  "title": "Building the Modern Enterprise Historian: TimescaleDB Enterprise Is Now in Public Beta",
+  "link": "https://www.tigerdata.com/blog/timescaledb-enterprise-is-in-public-beta",
+  "published": "2026-11-03T22:29:38"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Bethesda Confirms The Elder Scrolls 6 Is Called 'Sentinel'",
+  "link": "https://games.slashdot.org/story/26/11/03/2113209/bethesda-confirms-the-elder-scrolls-6-is-called-sentinel?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-03T22:00:00"
+ },
+ {
+  "blog_name": "Confluent",
+  "blog_url": "https://www.confluent.io/blog",
+  "title": "Graphiant Named Confluent 2027 Data Streaming Startup of the Year for the Americas",
+  "link": "https://www.confluent.io/blog/graphiant-named-confluent-2027-data-streaming-startup-of-the-year-for-the-americas/",
+  "published": "2026-11-03T21:29:59"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Firefox's New Mini Window Is Every Multitasker's Dream",
+  "link": "https://news.slashdot.org/story/26/11/03/214205/firefoxs-new-mini-window-is-every-multitaskers-dream?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-03T21:05:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Claude Platform now supports native OpenTelemetry observability in Databricks MLflow",
+  "link": "https://www.databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow",
+  "published": "2026-11-03T21:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Declare and optimize with UNIQUE constraints on Databricks",
+  "link": "https://www.databricks.com/blog/declare-and-optimize-unique-constraints-databricks",
+  "published": "2026-11-03T21:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Binance Says Hackers Used Fake Job Interviews, AI Tool to Steal $6.3 Billion In Crypto",
+  "link": "https://it.slashdot.org/story/26/11/03/1939254/binance-says-hackers-used-fake-job-interviews-ai-tool-to-steal-63-billion-in-crypto?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-03T20:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Security Review now in public beta",
+  "link": "https://vercel.com/changelog/vercel-security-review-public-beta",
+  "published": "2026-11-03T20:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Building connections across the research infrastructure",
+  "link": "https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103",
+  "published": "2026-11-03T19:30:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "What's new in ClickStack - September and October '26",
+  "link": "https://clickhouse.com/blog/whats-new-in-clickstack-october-2026",
+  "published": "2026-11-03T19:09:52"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Fujifilm To Boost Tape Production 5x As AI Fuels Archiving Demand",
+  "link": "https://hardware.slashdot.org/story/26/11/03/190206/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-03T19:01:00"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Delivering Skills in NuGet packages",
+  "link": "https://devblogs.microsoft.com/dotnet/delivering-skills-in-nuget-packages/",
+  "published": "2026-11-03T19:00:14"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel CI no longer requires a linked Vercel project",
+  "link": "https://vercel.com/changelog/vercel-ci-no-longer-requires-a-linked-vercel-project",
+  "published": "2026-11-03T18:00:00"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Get Ready for .NET Conf 2026!",
+  "link": "https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2026/",
+  "published": "2026-11-03T17:30:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "StateBench: Testing how language models track state changes over long documents",
+  "link": "https://huggingface.co/blog/allenai/statebench",
+  "published": "2026-11-03T17:15:21"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
+  "link": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
+  "published": "2026-11-03T17:00:35"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Bring structured and unstructured data together with Amazon Quick",
+  "link": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/",
+  "published": "2026-11-03T16:49:29"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+  "link": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/",
+  "published": "2026-11-03T16:47:40"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/",
+  "published": "2026-11-03T16:43:20"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/",
+  "published": "2026-11-03T16:41:13"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Building ultra-low-latency voice AI applications on AWS",
+  "link": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/",
+  "published": "2026-11-03T16:40:54"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Palette: teaching a small model to build decks in your design language",
+  "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "published": "2026-11-03T16:35:36"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+  "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+  "published": "2026-11-03T16:29:48"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+  "link": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+  "published": "2026-11-03T16:00:45"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "Arnis turns any place on Earth into a Minecraft world",
+  "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+  "published": "2026-11-03T16:00:00"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Manage Java transitive dependencies with Lightwell rebuilds",
+  "link": "https://developers.redhat.com/articles/2026/11/03/manage-java-transitive-dependencies-lightwell-rebuilds",
+  "published": "2026-11-03T15:14:34"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "How do you implement a random-access database when you don’t have random-access external storage?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261103-00/?p=112825/",
+  "published": "2026-11-03T15:00:00"
+ },
+ {
   "blog_name": "Clickhouse",
   "blog_url": "https://clickhouse.com/blog",
   "title": "Does your application need local data or faster Postgres?",
@@ -56,6 +252,13 @@
   "published": "2026-11-03T13:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How Developers Can Improve Their Learning and Productivity With AI",
+  "link": "https://www.sitepoint.com/how-developers-can-improve-their-learning-and-productivity-with-ai/?utm_source=rss",
+  "published": "2026-11-03T12:50:30"
+ },
+ {
   "blog_name": "Real Python",
   "blog_url": "https://realpython.com/blog/",
   "title": "Quiz: How to Use Claude Code Skills for Better Python Docstrings",
@@ -70,11 +273,25 @@
   "published": "2026-11-03T12:00:00"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Accelerating engineering for the physical world",
+  "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+  "published": "2026-11-03T12:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Cops Bust Botnet of 1.3 Million Android TV Boxes",
   "link": "https://it.slashdot.org/story/26/11/03/0558219/cops-bust-botnet-of-13-million-android-tv-boxes?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-03T11:00:00"
+ },
+ {
+  "blog_name": "Blender",
+  "blog_url": "https://code.blender.org/",
+  "title": "Layered Actions workshop: September 2026",
+  "link": "https://code.blender.org/2026/11/layered-actions-workshop-september-2026/",
+  "published": "2026-11-03T10:37:30"
  },
  {
   "blog_name": "Transferwise",
@@ -89,6 +306,13 @@
   "title": "Scrutinize our assessments",
   "link": "https://daniel.haxx.se/blog/2026/11/03/scrutinize-our-assessments/",
   "published": "2026-11-03T09:16:17"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Top 4 MCP Servers for Marketers: Features, Use Cases, and Limitations",
+  "link": "https://www.sitepoint.com/top-4-mcp-servers-for-marketers-features-use-cases-and-limitations/?utm_source=rss",
+  "published": "2026-11-03T08:53:52"
  },
  {
   "blog_name": "Stack Overflow",
@@ -119,6 +343,27 @@
   "published": "2026-11-03T08:00:00"
  },
  {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Introducing IBM Cloud Secrets Manager Vault Dedicated: HashiCorp Vault Enterprise, managed by IBM",
+  "link": "https://www.hashicorp.com/blog/introducing-ibm-cloud-secrets-manager-vault-dedicated",
+  "published": "2026-11-03T08:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How Cisco defends at machine speed with OpenAI",
+  "link": "https://openai.com/index/cisco-cyber",
+  "published": "2026-11-03T08:00:00"
+ },
+ {
+  "blog_name": "Brandwatch",
+  "blog_url": "http://engineering.brandwatch.com/",
+  "title": "6 Reasons Why You Need Snapchat in Your Influencer Marketing Strategy",
+  "link": "https://www.brandwatch.com/blog/snapchat-influencer-marketing-strategy/",
+  "published": "2026-11-03T07:59:04"
+ },
+ {
   "blog_name": "SitePoint",
   "blog_url": "https://sitepoint.com",
   "title": "How to Learn Java with AI: A Practical Guide for Beginners",
@@ -147,6 +392,13 @@
   "published": "2026-11-03T06:30:00"
  },
  {
+  "blog_name": "Hayden James",
+  "blog_url": "https://haydenjames.io/",
+  "title": "Home Lab Beginners Guide: Hardware (2026)",
+  "link": "https://linuxblog.io/home-lab-beginners-guide-hardware/",
+  "published": "2026-11-03T06:00:02"
+ },
+ {
   "blog_name": "SitePoint",
   "blog_url": "https://sitepoint.com",
   "title": "Retrying a send is harder than sending",
@@ -159,6 +411,20 @@
   "title": "JVM Startup Time Story: From 330 Seconds to 3",
   "link": "https://medium.com/engineering-housing/we-stopped-our-jvm-from-ever-booting-cold-again-b5dbd492fe88?source=rss----3a69e32e2594---4",
   "published": "2026-11-03T04:44:06"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "How Zapier turns ideas into working software in hours with Vercel",
+  "link": "https://vercel.com/blog/how-zapier-turns-ideas-into-working-software-in-hours-with-vercel",
+  "published": "2026-11-03T04:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "How Mercor ships internal apps and billions of production tokens on one platform",
+  "link": "https://vercel.com/blog/how-mercor-ships-internal-apps-and-billions-of-production-tokens-on-one-platform",
+  "published": "2026-11-03T04:00:00"
  },
  {
   "blog_name": "APNIC",
@@ -214,6 +480,90 @@
   "blog_url": "https://huggingface.co/blog",
   "title": "Transformers Model Integration Contracts",
   "link": "https://huggingface.co/blog/transformers-mic",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Advanced Web Machinery",
+  "blog_url": "https://advancedweb.hu/",
+  "title": "How to get 1TB free egress for Amazon S3 via CloudFront",
+  "link": "https://advancedweb.hu/shorts/how-to-get-1tb-free-egress-for-amazon-s3-via-cloudfront/",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Discord",
+  "blog_url": "https://blog.discordapp.com/",
+  "title": "Discord Gift Cards: The Easiest Holiday Gift on Your List",
+  "link": "https://discord.com/blog/discord-gift-cards-the-easiest-holiday-gift-on-your-list",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Evil Martians",
+  "blog_url": "https://evilmartians.com/chronicles/",
+  "title": "The Agents on Rails Files: enter lemans, a Ruby harness for fair agent races",
+  "link": "https://evilmartians.com/chronicles/the-agents-on-rails-files-enter-lemans-a-ruby-harness-for-fair-agent-races",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "What is agent assist? How real-time AI helps human agents",
+  "link": "https://www.twilio.com/en-us/blog/insights/agent-assist",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Zach Holman",
+  "blog_url": "https://zachholman.com/",
+  "title": "The Death of the Angel Investor",
+  "link": "http://zachholman.com/posts/angel-investor-death",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Ivan Ursul",
+  "blog_url": "https://ivanursul.com/",
+  "title": "So You Want to Build Your Own Solar Inverter Monitoring? Here Are the Problems You’ll Hit",
+  "link": "https://ivanursul.com/problems-building-solar-monitoring-solo",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "CWE-bench v2: More coverage, quality, and transparency",
+  "link": "https://huggingface.co/blog/cwe-bench",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+  "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Evaluate your AI agents with Fireworks AI models in Datadog Agent Observability",
+  "link": "https://www.datadoghq.com/blog/fireworks-ai-integration/",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "The next chapter: Why quantum is the catalyst AI has been waiting for",
+  "link": "https://www.thoughtworks.com/insights/articles/why-quantum-is-the-catalyst-ai",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "The token bleed reality: Bridging the chasm from unthrottled AI adoption to sustainable AI transformation",
+  "link": "https://www.thoughtworks.com/insights/articles/the-token-bleed-reality",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "How OpenEvidence scales medical search for 650K doctors",
+  "link": "https://vercel.com/blog/how-openevidence-scales-medical-search-for-doctors",
   "published": "2026-11-03T00:00:00"
  },
  {
@@ -621,6 +971,13 @@
   "title": "Bad Flock Info Leads Police To Tow Wrong Car, Then Towing Company Totals It",
   "link": "https://yro.slashdot.org/story/26/11/01/1832251/bad-flock-info-leads-police-to-tow-wrong-car-then-towing-company-totals-it?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-02T08:34:00"
+ },
+ {
+  "blog_name": "Hayden James",
+  "blog_url": "https://haydenjames.io/",
+  "title": "Finding Linux Compatible Printers",
+  "link": "https://linuxblog.io/finding-linux-compatible-printers/",
+  "published": "2026-11-02T07:56:52"
  },
  {
   "blog_name": "SitePoint",
@@ -3108,6 +3465,13 @@
   "published": "2026-10-27T13:00:00"
  },
  {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Building Self-Service into Terraform: Introducing Terraform Developer Portal (Public Preview)",
+  "link": "https://www.hashicorp.com/blog/introducing-terraform-developer-portal",
+  "published": "2026-10-27T13:00:00"
+ },
+ {
   "blog_name": "SitePoint",
   "blog_url": "https://sitepoint.com",
   "title": "How to Create Effective Cold Email Sequences That Generate Replies: A Developer's Guide",
@@ -3281,6 +3645,13 @@
   "title": "APNIC 62 workshops help build network security, automation, and routing expertise across the region",
   "link": "https://blog.apnic.net/2026/10/27/apnic-62-workshops-help-build-network-security-automation-and-routing-expertise-across-the-region/",
   "published": "2026-10-27T01:27:49"
+ },
+ {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Terraform advances infrastructure lifecycle management for the agentic era",
+  "link": "https://www.hashicorp.com/blog/terraform-advances-infrastructure-lifecycle-management-for-the-agentic-era",
+  "published": "2026-10-27T01:08:00"
  },
  {
   "blog_name": "CodeName One",
@@ -3532,6 +3903,20 @@
   "blog_url": "https://developer.nvidia.com/blog/",
   "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
   "link": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/",
+  "published": "2026-10-26T16:00:00"
+ },
+ {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Announcing the public preview of HashiCorp Secure Hub: Govern Vault at scale",
+  "link": "https://www.hashicorp.com/blog/announcing-the-public-preview-of-hashicorp-secure-hub-govern-vault-at-scale",
+  "published": "2026-10-26T16:00:00"
+ },
+ {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Announcing the public preview of HashiCorp Vault Arc: Evolve security for emerging workloads",
+  "link": "https://www.hashicorp.com/blog/announcing-the-public-preview-of-hashicorp-vault-arc-evolve-security-for-emerging",
   "published": "2026-10-26T16:00:00"
  },
  {
@@ -34979,6 +35364,13 @@
   "published": "2023-05-05T14:05:31"
  },
  {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Announcing Replit Extensions",
+  "link": "https://replit.com/blog/extensions",
+  "published": "2023-05-01T17:00:00"
+ },
+ {
   "blog_name": "theScore",
   "blog_url": "http://techblog.thescore.com/",
   "title": "Repo.transact/2 (The Case Against Ecto.Multi)",
@@ -35005,6 +35397,13 @@
   "title": "Boost Your Engineering Team’s Velocity with Smart Tool Investments",
   "link": "https://medium.com/better-practices/boost-your-engineering-teams-velocity-with-smart-tool-investments-a0c7dde28bd4?source=rss----410f2fbc015d---4",
   "published": "2023-04-26T16:35:38"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Replit Deployments - the fastest way from idea → production",
+  "link": "https://replit.com/blog/deployments-launch",
+  "published": "2023-04-12T00:00:00"
  },
  {
   "blog_name": "Alan Storm",
