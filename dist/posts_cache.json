@@ -7,11 +7,228 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Self-healing scrapers: four things to put in place before an AI agent fixes your spiders",
+  "link": "https://www.zyte.com/blog/self-healing-scrapers-ai-agent/",
+  "published": "2026-11-05T08:00:00"
+ },
+ {
   "blog_name": "Clickhouse",
   "blog_url": "https://clickhouse.com/blog",
   "title": "Fencing a Postgres primary that might still be alive",
   "link": "https://clickhouse.com/blog/fencing-a-postgres-primary-that-might-still-be-alive",
   "published": "2026-11-05T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "OpenAI Says ChatGPT Is Catching Up to Google In Search",
+  "link": "https://tech.slashdot.org/story/26/11/04/207222/openai-says-chatgpt-is-catching-up-to-google-in-search?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-04T23:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
+  "link": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/",
+  "published": "2026-11-04T22:00:17"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Netflix Launches First AI-Branded Content Recommendations Feature on TVs",
+  "link": "https://entertainment.slashdot.org/story/26/11/04/2034237/netflix-launches-first-ai-branded-content-recommendations-feature-on-tvs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-04T22:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Waymo Cuts Ties With Uber, Will Serve Riders Directly",
+  "link": "https://tech.slashdot.org/story/26/11/04/2021250/waymo-cuts-ties-with-uber-will-serve-riders-directly?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-04T21:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "The Enterprise Case for Open-Weight Models on Databricks",
+  "link": "https://www.databricks.com/blog/enterprise-case-open-weight-models-databricks",
+  "published": "2026-11-04T20:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "OpenAI Acquires Pierre Computer to Supercharge Codex",
+  "link": "https://developers.slashdot.org/story/26/11/04/1957217/openai-acquires-pierre-computer-to-supercharge-codex?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-04T20:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "French Blood Banks Hit Alongside Cyberattack On European Supermarkets",
+  "link": "https://it.slashdot.org/story/26/11/04/1834253/french-blood-banks-hit-alongside-cyberattack-on-european-supermarkets?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-04T19:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Workflow SDK adds idempotent starts",
+  "link": "https://vercel.com/changelog/atomic-start-hooks-in-the-workflow-sdk",
+  "published": "2026-11-04T18:55:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+  "link": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
+  "published": "2026-11-04T18:46:36"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
+  "link": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/",
+  "published": "2026-11-04T18:46:07"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+  "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+  "published": "2026-11-04T17:50:10"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "MongoDB CDC connector for ClickPipes is now generally available",
+  "link": "https://clickhouse.com/blog/mongodb-cdc-connector-clickpipes-ga",
+  "published": "2026-11-04T17:46:41"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "J'ai demandé un PowerPoint à des agents : le premier, on voulait l'oublier ; le dernier, tout le monde l'a accepté",
+  "link": "https://blog.octo.com/j'ai-demande-un-powerpoint-a-des-agents--le-premier-on-voulait-l'oublier-le-dernier-tout-le-monde-l'a-accepte",
+  "published": "2026-11-04T17:04:48"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
+  "link": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/",
+  "published": "2026-11-04T17:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Kimi K3.1 Pro now has more ZDR providers on AI Gateway",
+  "link": "https://vercel.com/changelog/kimi-k3-1-pro-now-has-more-zdr-providers-on-ai-gateway",
+  "published": "2026-11-04T17:00:00"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Your .NET parallel loop can become serial in a one-CPU container",
+  "link": "https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container/",
+  "published": "2026-11-04T16:34:13"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Smart Approvals in Amazon Quick: Human oversight where it matters",
+  "link": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
+  "published": "2026-11-04T16:33:03"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+  "link": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/",
+  "published": "2026-11-04T16:30:40"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/",
+  "published": "2026-11-04T16:25:57"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/",
+  "published": "2026-11-04T16:23:33"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "The AI assistant that catches our Head of Content’s loose ends (and never sends a message)",
+  "link": "https://www.hostinger.com/blog/ai-to-do-assistant/",
+  "published": "2026-11-04T16:21:03"
+ },
+ {
+  "blog_name": "Pinterest",
+  "blog_url": "https://medium.com/@Pinterest_Engineering",
+  "title": "Scaling Model Evaluation at Pinterest with Ray (Part 4)",
+  "link": "https://medium.com/pinterest-engineering/scaling-model-evaluation-at-pinterest-with-ray-part-4-4a96cd12cc11?source=rss-ef81ef829bcb------2",
+  "published": "2026-11-04T16:01:04"
+ },
+ {
+  "blog_name": "Pinterest Engineering",
+  "blog_url": "https://medium.com/pinterest-engineering",
+  "title": "Scaling Model Evaluation at Pinterest with Ray (Part 4)",
+  "link": "https://medium.com/pinterest-engineering/scaling-model-evaluation-at-pinterest-with-ray-part-4-4a96cd12cc11?source=rss----4c5a5f6279b6---4",
+  "published": "2026-11-04T16:01:04"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
+  "link": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes/",
+  "published": "2026-11-04T16:00:00"
+ },
+ {
+  "blog_name": "Confluent",
+  "blog_url": "https://www.confluent.io/blog",
+  "title": "What’s New in Q4’26 Confluent Data Streaming Platform: The Most Complete, Performant, and Open Foundation for Streamhouse",
+  "link": "https://www.confluent.io/blog/2026-q4-confluent-bundle-launch/",
+  "published": "2026-11-04T15:55:22"
+ },
+ {
+  "blog_name": "Confluent",
+  "blog_url": "https://www.confluent.io/blog",
+  "title": "A Tale of Two Houses: A Comparison Between Streamhouse and Lakehouse",
+  "link": "https://www.confluent.io/blog/a-tale-of-two-houses-streamhouse-lakehouse/",
+  "published": "2026-11-04T15:53:00"
+ },
+ {
+  "blog_name": "Confluent",
+  "blog_url": "https://www.confluent.io/blog",
+  "title": "Your Business, Always Current. Streamhouse - The Data Architecture for the Age of AI.",
+  "link": "https://www.confluent.io/blog/streamhouse-your-business-always-current/",
+  "published": "2026-11-04T15:52:47"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Manager of agents: a day in the life of an AI engineer at Hostinger",
+  "link": "https://www.hostinger.com/blog/ai-engineer-at-hostinger/",
+  "published": "2026-11-04T15:12:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "There are things with ranks, but it’s not always clear what the ranks mean",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261104-00/?p=112830/",
+  "published": "2026-11-04T15:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+  "link": "https://openai.com/index/openai-to-acquire-pierre",
+  "published": "2026-11-04T14:30:00"
  },
  {
   "blog_name": "Cloudflare",
@@ -84,6 +301,34 @@
   "published": "2026-11-04T10:00:00"
  },
  {
+  "blog_name": "Ebay",
+  "blog_url": "https://www.ebayinc.com/stories/blogs/tech/",
+  "title": "The secondhand boom is just getting started",
+  "link": "https://www.ebayinc.com/stories/news/the-secondhand-boom-is-just-getting-started/",
+  "published": "2026-11-04T08:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "A thousand fewer paths to root",
+  "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+  "published": "2026-11-04T08:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Top 6 AI Image Generators in 2026: Features, Strengths, and Limits",
+  "link": "https://www.sitepoint.com/top-6-ai-image-generators-in-2026-features-strengths-and-limits/?utm_source=rss",
+  "published": "2026-11-04T07:05:54"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+  "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+  "published": "2026-11-04T07:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Democrats Take Control of US Congress As Voters Reject Trump's Republicans",
@@ -98,11 +343,25 @@
   "published": "2026-11-04T06:30:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Use CSS Attribute Selectors to Build More Flexible User Interfaces",
+  "link": "https://www.sitepoint.com/how-to-use-css-attribute-selectors-to-build-more-flexible-user-interfaces/?utm_source=rss",
+  "published": "2026-11-04T05:28:08"
+ },
+ {
   "blog_name": "APNIC",
   "blog_url": "https://blog.apnic.net/",
   "title": "Solar PV for Internet resilience (Part 1): Designing your system",
   "link": "https://blog.apnic.net/2026/11/04/solar-pv-for-internet-resilience-part-1-designing-your-system/",
   "published": "2026-11-04T04:16:29"
+ },
+ {
+  "blog_name": "Snyk",
+  "blog_url": "https://snyk.io/blog",
+  "title": "Snyk Named a Leader in The Forrester Wave™: Agentic Development Security Tools, Q4 2026",
+  "link": "https://snyk.io/blog/snyk-named-leader-forrester-wave-agentic-development-security-tools-q4-2026/",
+  "published": "2026-11-04T04:00:00"
  },
  {
   "blog_name": "Slashdot",
@@ -151,6 +410,48 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "Macro trends in the tech industry | November 2026",
   "link": "https://www.thoughtworks.com/insights/blog/technology-strategy/macro-trends-tech-industry-november-2026",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "Evil Martians",
+  "blog_url": "https://evilmartians.com/chronicles/",
+  "title": "Making your site visible to LLMs and AI agents: 6 techniques that work, 8 that don't",
+  "link": "https://evilmartians.com/chronicles/how-to-make-your-website-visible-to-llms",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "AI in the SOC: Where security teams stand",
+  "link": "https://www.elastic.co/blog/ai-adoption-in-soc",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "Go",
+  "blog_url": "https://blog.golang.org/",
+  "title": "A new Go API for JSON",
+  "link": "https://go.dev/blog/jsonv2",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+  "link": "https://openai.com/index/devrev-enterprise-self-service",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Compare AI agent changes with Online Experiments in Agent Observability",
+  "link": "https://www.datadoghq.com/blog/online-experiments-agent-observability/",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Migrate Splunk queries, alerts, and dashboards to Datadog",
+  "link": "https://www.datadoghq.com/blog/migrate-queries-alerts-dashboards-to-datadog/",
   "published": "2026-11-04T00:00:00"
  },
  {
@@ -35326,6 +35627,13 @@
   "blog_url": "http://blog.apps.npr.org/",
   "title": "Join us for the 2024 election",
   "link": "http://blog.apps.npr.org/2023/09/08/election-jobs.html",
+  "published": "2023-09-08T00:00:00"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "HeyDATA.org Profile: Personalized AI Built with Replit Deployments",
+  "link": "https://replit.com/blog/hey-data-profile",
   "published": "2023-09-08T00:00:00"
  },
  {
