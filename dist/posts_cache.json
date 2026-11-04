@@ -9,6 +9,41 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "Democrats Take Control of US Congress As Voters Reject Trump's Republicans",
+  "link": "https://politics.slashdot.org/story/26/11/04/0629214/democrats-take-control-of-us-congress-as-voters-reject-trumps-republicans?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-04T06:30:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Solar PV for Internet resilience (Part 1): Designing your system",
+  "link": "https://blog.apnic.net/2026/11/04/solar-pv-for-internet-resilience-part-1-designing-your-system/",
+  "published": "2026-11-04T04:16:29"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Ukraine's Drone Strikes Spur Hasty Russian Plans For Underground Data Centers",
+  "link": "https://tech.slashdot.org/story/26/11/03/2354228/ukraines-drone-strikes-spur-hasty-russian-plans-for-underground-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-04T03:30:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "GrapheneOS, LineageOS, /e/OS and Others Are Now Officially Supported",
+  "link": "https://www.codenameone.com/blog/android-apps-everywhere-even-without-google/",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "iOS 27.3 Adds Vertical Tabs, Adaptive Dark Mode to Safari",
+  "link": "https://tech.slashdot.org/story/26/11/03/2347212/ios-273-adds-vertical-tabs-adaptive-dark-mode-to-safari?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "EU Court Advisor Warns Google AI Chatbot May Breach Copyright Rules",
   "link": "https://yro.slashdot.org/story/26/11/03/2144244/eu-court-advisor-warns-google-ai-chatbot-may-breach-copyright-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-03T23:00:00"
@@ -117,6 +152,13 @@
   "title": "StateBench: Testing how language models track state changes over long documents",
   "link": "https://huggingface.co/blog/allenai/statebench",
   "published": "2026-11-03T17:15:21"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Agentic cheminformatics with Google Antigravity",
+  "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+  "published": "2026-11-03T17:01:49"
  },
  {
   "blog_name": "Facebook",
@@ -564,6 +606,41 @@
   "blog_url": "https://vercel.com/blog",
   "title": "How OpenEvidence scales medical search for 650K doctors",
   "link": "https://vercel.com/blog/how-openevidence-scales-medical-search-for-doctors",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Compliant Infrastructure, Frustrating CX",
+  "link": "https://auth0.com/blog/compliant-infrastructure-frustrating-cx/",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Secure and Convenient is the Real Killer App",
+  "link": "https://auth0.com/blog/secure-and-convenient-is-the-real-killer-app/",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Consumers are Ready for AI. Are Companies?",
+  "link": "https://auth0.com/blog/consumers-are-ready-for-ai-are-companies/",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Trust Puts Customer Identity in the Spotlight",
+  "link": "https://auth0.com/blog/trust-puts-customer-identity-in-the-spotlight/",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Moving Quickly Without Breaking Things",
+  "link": "https://auth0.com/blog/moving-quickly-without-breaking-things/",
   "published": "2026-11-03T00:00:00"
  },
  {
@@ -35763,6 +35840,13 @@
   "published": "2022-10-24T14:00:08"
  },
  {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Replit Mobile App",
+  "link": "https://replit.com/blog/mobile-app",
+  "published": "2022-10-19T08:00:00"
+ },
+ {
   "blog_name": "BBC",
   "blog_url": "https://medium.com/bbc-design-engineering/",
   "title": "Hello from Delivery at the BBC",
@@ -36159,6 +36243,13 @@
   "blog_url": "https://learnk8s.io/blog",
   "title": "The mechanics of Kubernetes RBAC and how it connects users to permissions",
   "link": "https://learnkube.com/rbac-kubernetes",
+  "published": "2022-03-31T00:00:00"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "We Built a Search Engine",
+  "link": "https://replit.com/blog/search",
   "published": "2022-03-31T00:00:00"
  },
  {
@@ -36589,6 +36680,13 @@
   "published": "2021-05-13T17:33:18"
  },
  {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Replit Apps",
+  "link": "https://replit.com/blog/apps",
+  "published": "2021-05-12T08:15:20"
+ },
+ {
   "blog_name": "Cerner",
   "blog_url": "http://engineering.cerner.com/",
   "title": "Introducing Inspec Delta",
@@ -36692,6 +36790,13 @@
   "title": "Making pip installations faster with wheel",
   "link": "https://armenzg.medium.com/making-pip-installations-faster-with-wheel-e41bed129993?source=rss-d4d8839a88ef------2",
   "published": "2021-02-18T16:24:18"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Hosting Apps with Always On",
+  "link": "https://replit.com/blog/alwayson",
+  "published": "2021-02-09T05:00:00"
  },
  {
   "blog_name": "Adrian Colyer",
