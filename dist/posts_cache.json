@@ -7,10 +7,94 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Fencing a Postgres primary that might still be alive",
+  "link": "https://clickhouse.com/blog/fencing-a-postgres-primary-that-might-still-be-alive",
+  "published": "2026-11-05T00:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "See the agents, set the terms: new visibility and control for personal agents",
+  "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+  "published": "2026-11-04T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Positron IDE: A Hands-on Python Tutorial",
+  "link": "https://realpython.com/positron-ide/",
+  "published": "2026-11-04T14:00:00"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "How Kueue schedules Spark jobs fairly on Red Hat OpenShift AI",
+  "link": "https://developers.redhat.com/articles/2026/11/04/how-kueue-schedules-spark-jobs-fairly-on-red-hat-openshift-ai",
+  "published": "2026-11-04T13:16:25"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "What AI Can’t Do for Your Legacy System Migration",
+  "link": "https://spin.atomicobject.com/legacy-system-migration-ai/",
+  "published": "2026-11-04T13:00:20"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "NASA's Swift Observatory Is Falling to Earth",
+  "link": "https://science.slashdot.org/story/26/11/04/0616201/nasas-swift-observatory-is-falling-to-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-04T13:00:00"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "We tried “Claude, fix this bug”—here’s what actually worked",
+  "link": "https://blog.duolingo.com/ai-bug-fixing-agent/",
+  "published": "2026-11-04T13:00:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Open source as a research method",
+  "link": "https://lemire.me/blog/2026/11/04/open-source-as-a-research-method/",
+  "published": "2026-11-04T12:48:24"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Developers are getting rAIded",
+  "link": "https://freek.dev/3211-developers-are-getting-raided",
+  "published": "2026-11-04T12:31:05"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Positron IDE: A Hands-on Python Tutorial",
+  "link": "https://realpython.com/quizzes/positron-ide/",
+  "published": "2026-11-04T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Dinosaur Blood Found In Fossils For the First Time",
+  "link": "https://science.slashdot.org/story/26/11/04/066209/dinosaur-blood-found-in-fossils-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-04T10:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Democrats Take Control of US Congress As Voters Reject Trump's Republicans",
   "link": "https://politics.slashdot.org/story/26/11/04/0629214/democrats-take-control-of-us-congress-as-voters-reject-trumps-republicans?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-04T06:30:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Representative Line: What it Doesn't Do",
+  "link": "https://thedailywtf.com/articles/what-it-doesn-t-do",
   "published": "2026-11-04T06:30:00"
  },
  {
@@ -42,10 +126,59 @@
   "published": "2026-11-04T00:00:00"
  },
  {
+  "blog_name": "Amit Merchant",
+  "blog_url": "https://www.amitmerchant.com/",
+  "title": "The Next Dependency Problem Is Inside Your AI Agent",
+  "link": "https://www.amitmerchant.com/ai-agent-dependencies-management/",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "How to Distribute a Rust App with Cargo, Homebrew, MSI, and WinGet",
+  "link": "https://code.dblock.org/2026/11/04/distributing-a-rust-app-everywhere.html",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "The harness is a product",
+  "link": "https://www.thoughtworks.com/insights/blog/generative-ai/harness-is-a-product",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Macro trends in the tech industry | November 2026",
+  "link": "https://www.thoughtworks.com/insights/blog/technology-strategy/macro-trends-tech-industry-november-2026",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Flock: A Free, Native Herd Alternative for Laravel",
+  "link": "https://laravel-news.com/flock-laravel-local-development?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-03T23:55:18"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Slow Job Alerts and Replica Commit IDs in Laravel 13.40",
+  "link": "https://laravel-news.com/laravel-13-40-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-03T23:53:01"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "EU Court Advisor Warns Google AI Chatbot May Breach Copyright Rules",
   "link": "https://yro.slashdot.org/story/26/11/03/2144244/eu-court-advisor-warns-google-ai-chatbot-may-breach-copyright-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-03T23:00:00"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Wednesday, November 11, 2026 Security Releases",
+  "link": "https://nodejs.org/en/blog/vulnerability/november-2026-security-releases",
   "published": "2026-11-03T23:00:00"
  },
  {
@@ -217,6 +350,13 @@
   "published": "2026-11-03T16:29:48"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Why Your AI Agent Can't Read the Web (and How to Build a Fetch Layer That Can)",
+  "link": "https://www.sitepoint.com/why-your-ai-agent-can-t-read-the-web-and-how-to-build-a-fetch-layer-that-can/?utm_source=rss",
+  "published": "2026-11-03T16:09:04"
+ },
+ {
   "blog_name": "Nvidia",
   "blog_url": "https://blogs.nvidia.com/",
   "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
@@ -250,6 +390,13 @@
   "title": "Does your application need local data or faster Postgres?",
   "link": "https://clickhouse.com/blog/does-your-application-need-local-data-or-faster-postgres",
   "published": "2026-11-03T14:55:13"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How Motion Design Improves SaaS Onboarding and Feature Adoption",
+  "link": "https://www.sitepoint.com/how-motion-design-improves-saas-onboarding-and-feature-adoption/?utm_source=rss",
+  "published": "2026-11-03T14:22:32"
  },
  {
   "blog_name": "Red Hat",
@@ -439,6 +586,13 @@
   "title": "Home Lab Beginners Guide: Hardware (2026)",
   "link": "https://linuxblog.io/home-lab-beginners-guide-hardware/",
   "published": "2026-11-03T06:00:02"
+ },
+ {
+  "blog_name": "Toptal",
+  "blog_url": "https://www.toptal.com/blog/",
+  "title": "Build a Production-ready REST API With Express.js and TypeScript (2027 Guide)",
+  "link": "https://www.toptal.com/developers/express-js/nodejs-typescript-rest-api",
+  "published": "2026-11-03T05:00:00"
  },
  {
   "blog_name": "SitePoint",
@@ -641,6 +795,13 @@
   "blog_url": "https://auth0.com/blog/",
   "title": "Moving Quickly Without Breaking Things",
   "link": "https://auth0.com/blog/moving-quickly-without-breaking-things/",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Who Will Consumers Trust to Act, Shop, and Pay on Their Behalf?",
+  "link": "https://auth0.com/blog/who-will-consumers-trust-to-act-shop-pay-on-their-behalf/",
   "published": "2026-11-03T00:00:00"
  },
  {
