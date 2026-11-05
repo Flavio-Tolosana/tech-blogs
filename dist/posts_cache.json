@@ -7,6 +7,139 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "What's new in network observability 1.12",
+  "link": "https://developers.redhat.com/articles/2026/11/05/whats-new-network-observability-112",
+  "published": "2026-11-05T14:51:22"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "The Data Product Platform Navigator",
+  "link": "https://martinfowler.com/articles/data-product-platform-nav.html",
+  "published": "2026-11-05T14:11:00"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "Introducing DigitalOcean Cuttlefish: Get more done with agents on the go",
+  "link": "https://www.digitalocean.com/blog/introducing-cuttlefish",
+  "published": "2026-11-05T14:05:00"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+  "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+  "published": "2026-11-05T14:00:34"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "CNCF Score project improved its security posture by joining the Docker-Sponsored Open Source Program",
+  "link": "https://www.docker.com/blog/cncf-score-project-improved-its-security-posture-by-joining-the-docker-sponsored-open-source-program/",
+  "published": "2026-11-05T14:00:00"
+ },
+ {
+  "blog_name": "Dropbox",
+  "blog_url": "https://blogs.dropbox.com/tech/",
+  "title": "How two engineer side projects became the agent taking action inside Dropbox",
+  "link": "https://dropbox.tech/machine-learning/how-two-engineer-side-projects-became-the-agent-taking-action-inside-dropbox",
+  "published": "2026-11-05T14:00:00"
+ },
+ {
+  "blog_name": "Dropbox",
+  "blog_url": "https://blogs.dropbox.com/tech/",
+  "title": "How AI-assisted development helped us build the new Dropbox experience",
+  "link": "https://dropbox.tech/machine-learning/how-aiassisted-development-helped-us-build-the-new-dropbox-experience",
+  "published": "2026-11-05T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Learn With Mentor AI: Getting More Out of Video Courses",
+  "link": "https://realpython.com/learn-with-mentor-ai-video-courses/",
+  "published": "2026-11-05T14:00:00"
+ },
+ {
+  "blog_name": "Tailscale",
+  "blog_url": "https://tailscale.com/blog",
+  "title": "100x more programmers",
+  "link": "https://tailscale.com/blog/100x-more-programmers",
+  "published": "2026-11-05T14:00:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "A performance trap: when store forwarding fails",
+  "link": "https://lemire.me/blog/2026/11/05/a-performance-trap-when-store-forwarding-fails/",
+  "published": "2026-11-05T13:06:20"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Pair Programming With AI Agents – How to Keep Learning While You Ship",
+  "link": "https://spin.atomicobject.com/pair-programming-ai-agents/",
+  "published": "2026-11-05T13:00:56"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "8 words that look like cognates but aren’t",
+  "link": "https://blog.duolingo.com/lookalike-words/",
+  "published": "2026-11-05T13:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Push-based CDC into Unity Catalog with Zerobus Ingest and Debezium",
+  "link": "https://www.databricks.com/blog/push-based-cdc-unity-catalog-zerobus-ingest-and-debezium",
+  "published": "2026-11-05T12:48:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Hunger beats tenure: Advice for junior engineers",
+  "link": "https://freek.dev/3212-hunger-beats-tenure-advice-for-junior-engineers",
+  "published": "2026-11-05T12:31:02"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Beautiful Soup: Build a Web Scraper With Python",
+  "link": "https://realpython.com/quizzes/beautiful-soup-web-scraper-python/",
+  "published": "2026-11-05T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Learn With Mentor AI: Getting More Out of Video Courses",
+  "link": "https://realpython.com/quizzes/learn-with-mentor-ai-video-courses/",
+  "published": "2026-11-05T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python Plotting With Matplotlib (Guide)",
+  "link": "https://realpython.com/quizzes/python-matplotlib-guide/",
+  "published": "2026-11-05T12:00:00"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Notable V8 changes from Node.js 26 to 27 (Alpha)",
+  "link": "https://nodejs.org/en/blog/announcements/notable-v8-changes-from-node-js-26-to-27-alpha",
+  "published": "2026-11-05T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+  "link": "https://science.slashdot.org/story/26/11/05/0527244/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-05T11:00:00"
+ },
+ {
   "blog_name": "Scrapinghub",
   "blog_url": "https://blog.scrapinghub.com/",
   "title": "Self-healing scrapers: four things to put in place before an AI agent fixes your spiders",
@@ -14,11 +147,32 @@
   "published": "2026-11-05T08:00:00"
  },
  {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "OAuth and OIDC Beyond the Login Button: Identity as the API Security Control Plane",
+  "link": "https://nordicapis.com/oauth-and-oidc-beyond-the-login-button-identity-as-the-api-security-control-plane/",
+  "published": "2026-11-05T08:00:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Web Scraping for RAG: Build a Reliable Pipeline with Zyte API, Qdrant and LangChain",
+  "link": "https://www.zyte.com/blog/uninterrupted-web-data-for-rag-pipelines/",
+  "published": "2026-11-05T07:45:37"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "3M To Pay Over $7 Billion To Settle 'Forever Chemical' Groundwater Claims",
   "link": "https://yro.slashdot.org/story/26/11/05/052220/3m-to-pay-over-7-billion-to-settle-forever-chemical-groundwater-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-05T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: Only Create Me if I Exist",
+  "link": "https://thedailywtf.com/articles/only-create-me-if-i-exist",
+  "published": "2026-11-05T06:30:00"
  },
  {
   "blog_name": "MIT AI News",
@@ -40,6 +194,20 @@
   "title": "Vietnam Jails Pirate Football Streamers For Up To a Year",
   "link": "https://yro.slashdot.org/story/26/11/05/0322258/vietnam-jails-pirate-football-streamers-for-up-to-a-year?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-05T03:30:00"
+ },
+ {
+  "blog_name": "Zendesk",
+  "blog_url": "https://medium.com/zendesk-engineering",
+  "title": "Inside the Open Service Directory specification: the agreement behind a support listing",
+  "link": "https://zendesk.engineering/inside-the-open-service-directory-specification-the-agreement-behind-a-support-listing-f86144253242?source=rss----a88376ea904a---4",
+  "published": "2026-11-05T02:01:03"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Setting a new standard for responsible AI infrastructure",
+  "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+  "published": "2026-11-05T02:00:00"
  },
  {
   "blog_name": "Chris Wellons",
@@ -74,6 +242,34 @@
   "blog_url": "https://slashdot.org/",
   "title": "Axon Sued Over AI-Powered License Plate Reader Network",
   "link": "https://yro.slashdot.org/story/26/11/04/2319208/axon-sued-over-ai-powered-license-plate-reader-network?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-05T00:00:00"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "Reviewing AI-generated Code for iOS [SUBSCRIBER]",
+  "link": "https://www.kodeco.com/ios/paths/validating-ai-code/53703811-reviewing-ai-generated-code-for-ios",
+  "published": "2026-11-05T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+  "link": "https://huggingface.co/blog/phonon-tts",
+  "published": "2026-11-05T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "The commoditization of code: Why empathy is the new core engineering skill",
+  "link": "https://www.thoughtworks.com/insights/blog/technology-strategy/the-commoditization-of-code-why-empathy-is-the-new-core-engineering-skill",
+  "published": "2026-11-05T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Context rot in AI agents: How to recognize and fix it",
+  "link": "https://www.thoughtworks.com/insights/blog/generative-ai/what-is-context-rot",
   "published": "2026-11-05T00:00:00"
  },
  {
@@ -350,6 +546,13 @@
   "published": "2026-11-04T12:31:05"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Which MCM Has the Best Revshare? A Developer’s Guide to Evaluating Ad Partners",
+  "link": "https://www.sitepoint.com/which-mcm-has-the-best-revshare-a-developer-s-guide-to-evaluating-ad-partners/?utm_source=rss",
+  "published": "2026-11-04T12:15:40"
+ },
+ {
   "blog_name": "Real Python",
   "blog_url": "https://realpython.com/blog/",
   "title": "Quiz: Positron IDE: A Hands-on Python Tutorial",
@@ -392,6 +595,13 @@
   "published": "2026-11-04T07:00:00"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python set comprehension: Unique items from nested iterables",
+  "link": "https://lernerpython.com/2026/11/04/python-set-comprehension-unique-items-from-nested-iterables/",
+  "published": "2026-11-04T07:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Democrats Take Control of US Congress As Voters Reject Trump's Republicans",
@@ -404,6 +614,13 @@
   "title": "Representative Line: What it Doesn't Do",
   "link": "https://thedailywtf.com/articles/what-it-doesn-t-do",
   "published": "2026-11-04T06:30:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Get a YouTube API Key and Use the Data API (2026)",
+  "link": "https://www.sitepoint.com/how-to-get-a-youtube-api-key-and-use-the-data-api-2026/?utm_source=rss",
+  "published": "2026-11-04T06:04:48"
  },
  {
   "blog_name": "SitePoint",
