@@ -14,11 +14,74 @@
   "published": "2026-11-05T08:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "3M To Pay Over $7 Billion To Settle 'Forever Chemical' Groundwater Claims",
+  "link": "https://yro.slashdot.org/story/26/11/05/052220/3m-to-pay-over-7-billion-to-settle-forever-chemical-groundwater-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-05T07:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Clearing up a robot’s fuzzy memory",
+  "link": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
+  "published": "2026-11-05T05:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "The Internet didn’t break; we just forgot what it was leaning on",
+  "link": "https://blog.apnic.net/2026/11/05/the-internet-didnt-break-we-just-forgot-what-it-was-leaning-on/",
+  "published": "2026-11-05T04:29:18"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Vietnam Jails Pirate Football Streamers For Up To a Year",
+  "link": "https://yro.slashdot.org/story/26/11/05/0322258/vietnam-jails-pirate-football-streamers-for-up-to-a-year?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-05T03:30:00"
+ },
+ {
+  "blog_name": "Chris Wellons",
+  "blog_url": "http://nullprogram.com/",
+  "title": "We can do better than line-buffered output",
+  "link": "https://nullprogram.com/blog/2026/11/05/",
+  "published": "2026-11-05T00:25:25"
+ },
+ {
   "blog_name": "Clickhouse",
   "blog_url": "https://clickhouse.com/blog",
   "title": "Fencing a Postgres primary that might still be alive",
   "link": "https://clickhouse.com/blog/fencing-a-postgres-primary-that-might-still-be-alive",
   "published": "2026-11-05T00:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Introducing Apache Spark® 4.3 - Now available in Databricks Runtime 19",
+  "link": "https://www.databricks.com/blog/introducing-apache-spark-43-now-available-databricks-runtime-19",
+  "published": "2026-11-05T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Caches, Certificates, Streaming Uploads and a Simulator That Types",
+  "link": "https://www.codenameone.com/blog/backend-caches-certificates-and-a-simulator-that-types/",
+  "published": "2026-11-05T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Axon Sued Over AI-Powered License Plate Reader Network",
+  "link": "https://yro.slashdot.org/story/26/11/04/2319208/axon-sued-over-ai-powered-license-plate-reader-network?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-05T00:00:00"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
+  "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/",
+  "published": "2026-11-04T23:34:52"
  },
  {
   "blog_name": "Slashdot",
@@ -452,6 +515,41 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Migrate Splunk queries, alerts, and dashboards to Datadog",
   "link": "https://www.datadoghq.com/blog/migrate-queries-alerts-dashboards-to-datadog/",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "Evil Martians",
+  "blog_url": "https://evilmartians.com/chronicles/",
+  "title": "Why Buildkite hired Evil Martians for an agentic-first design system",
+  "link": "https://evilmartians.com/chronicles/why-buildkite-hired-evil-martians-for-an-agentic-first-design-system",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Build vs. buy: How to decide for your orchestration layer",
+  "link": "https://www.twilio.com/en-us/blog/insights/build-vs-buy-orchestration-layer",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Contact center analytics: 6 metrics for AI and human agents",
+  "link": "https://www.twilio.com/en-us/blog/insights/contact-center-analytics",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Build for every screen with the latest Jetpack Compose updates from Android Developer Summit",
+  "link": "https://developer.android.com/blog/posts/build-for-every-screen-jetpack-compose-updates",
+  "published": "2026-11-04T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Introducing Images 2.6",
+  "link": "https://openai.com/index/introducing-images-2-6",
   "published": "2026-11-04T00:00:00"
  },
  {
