@@ -7,11 +7,137 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Beyond the award: The people behind our onboarding experience",
+  "link": "https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/the-people-behind-our-onboarding-experience",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "How Infinitas Learning uses ClickHouse Managed Postgres to process billions of events for 1.6M unique learners",
+  "link": "https://clickhouse.com/blog/infinitas-learning-clickhouse-managed-postgres",
+  "published": "2026-11-06T14:59:06"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "What I learned from a month with WalShadow on ClickHouse Managed Postgres",
+  "link": "https://clickhouse.com/blog/a-month-with-walshadow-clickhouse-managed-postgres",
+  "published": "2026-11-06T14:57:28"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+  "link": "https://huggingface.co/blog/allenai/toyblocks",
+  "published": "2026-11-06T14:00:48"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "The post-quantum future of web privacy",
+  "link": "https://blog.cloudflare.com/vole-mole/",
+  "published": "2026-11-06T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "A Fake Claude Code Extension Tried to Open a Backdoor to Your PC",
+  "link": "https://realpython.com/ai-news-weekly-2026-11-06/",
+  "published": "2026-11-06T14:00:00"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Make Kubernetes logs easier to correlate with traces using the log normalizer operator",
+  "link": "https://developers.redhat.com/articles/2026/11/06/make-kubernetes-logs-easier-to-correlate-with-traces-using-the-log-normalizer-operator",
+  "published": "2026-11-06T13:01:47"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "The Care and Feeding of Your Dev Bod – 3 Ergonomics Fixes for Developers",
+  "link": "https://spin.atomicobject.com/developer-ergonomics/",
+  "published": "2026-11-06T13:00:06"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "The SaaS apocalypse started in October",
+  "link": "https://freek.dev/3213-the-saas-apocalypse-started-in-october",
+  "published": "2026-11-06T12:30:48"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "The Real Python Podcast – Episode #318: Free-Threaded Python: Why Python Devs Should Know About the ABI",
+  "link": "https://realpython.com/podcasts/rpp/318/",
+  "published": "2026-11-06T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: LBYL vs EAFP: Preventing or Handling Errors in Python",
+  "link": "https://realpython.com/quizzes/python-lbyl-vs-eafp/",
+  "published": "2026-11-06T12:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "ClickHouse release 26.10",
+  "link": "https://clickhouse.com/blog/clickhouse-release-26-10",
+  "published": "2026-11-06T11:45:40"
+ },
+ {
+  "blog_name": "SeveralNines",
+  "blog_url": "https://severalnines.com/database-blog",
+  "title": "Safe database change at fleet scale: canaries, maintenance waves, and recovery gates",
+  "link": "https://severalnines.com/blog/safe-database-change-at-fleet-scale-canaries-maintenance-waves-and-recovery-gates/",
+  "published": "2026-11-06T11:37:15"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Blue Origin Announces New Glenn Third Stage, New Booster Engine",
+  "link": "https://science.slashdot.org/story/26/11/06/0648255/blue-origin-announces-new-glenn-third-stage-new-booster-engine?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-06T11:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "What to hand over and what to know about your first AI agent",
+  "link": "https://www.hostinger.com/blog/beginners-first-ai-agent/",
+  "published": "2026-11-06T10:34:29"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Your AI agent isn’t your model: 3 infrastructure decisions to make separately",
+  "link": "https://www.hostinger.com/blog/ai-agent-infrastructure/",
+  "published": "2026-11-06T09:46:48"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "Welcome to life in the chip age",
   "link": "https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/",
   "published": "2026-11-06T08:40:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "FAA Phases Out Floppy Disks From Air Traffic Control",
+  "link": "https://hardware.slashdot.org/story/26/11/05/2239227/faa-phases-out-floppy-disks-from-air-traffic-control?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-06T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Error'd: Remember Remember",
+  "link": "https://thedailywtf.com/articles/remember-remember",
+  "published": "2026-11-06T06:30:00"
  },
  {
   "blog_name": "Semaphore Engineering",
@@ -60,6 +186,48 @@
   "blog_url": "https://slashdot.org/",
   "title": "Applebee's Exposed Customers' Personal Data After Leaving Database Password In App",
   "link": "https://yro.slashdot.org/story/26/11/05/2230215/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-06T00:00:00"
+ },
+ {
+  "blog_name": "Amit Merchant",
+  "blog_url": "https://www.amitmerchant.com/",
+  "title": "What’s new in PHP 8.6",
+  "link": "https://www.amitmerchant.com/whats-new-in-php-86/",
+  "published": "2026-11-06T00:00:00"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "Pulumi at KubeCon NA 2026: attendee guide",
+  "link": "https://www.pulumi.com/blog/pulumi-at-kubecon-na-2026/",
+  "published": "2026-11-06T00:00:00"
+ },
+ {
+  "blog_name": "Fly.io",
+  "blog_url": "https://fly.io/blog/",
+  "title": "Well, That Wasn't Fun: October 16 '26",
+  "link": "https://fly.io/blog/well-that-wasnt-fun/",
+  "published": "2026-11-06T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+  "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+  "published": "2026-11-06T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Closing the context gap is what banking AI needs",
+  "link": "https://www.thoughtworks.com/insights/blog/data-strategy/closing-the-context-gap-is-what-banking-ai-needs",
+  "published": "2026-11-06T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Why a language model misses fraud in your transaction data",
+  "link": "https://www.thoughtworks.com/insights/blog/why-a-language-model-misses-fraud-in-your-transaction-data",
   "published": "2026-11-06T00:00:00"
  },
  {
@@ -152,6 +320,13 @@
   "title": "Help Shape the Future of .NET: Take the 2026 .NET Developer Survey",
   "link": "https://devblogs.microsoft.com/dotnet/dotnet-developer-survey-2026/",
   "published": "2026-11-05T19:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Best Static Website Hosting Providers in 2027: Free and Paid Options Compared",
+  "link": "https://www.sitepoint.com/best-static-website-hosting-providers-in-2027-free-and-paid-options-compared/?utm_source=rss",
+  "published": "2026-11-05T18:10:01"
  },
  {
   "blog_name": "AWS Machine Learning",
@@ -378,6 +553,13 @@
   "published": "2026-11-05T14:00:00"
  },
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Polars vs pandas: What's the Difference?",
+  "link": "https://realpython.com/polars-vs-pandas/",
+  "published": "2026-11-05T14:00:00"
+ },
+ {
   "blog_name": "Daniel Lemire",
   "blog_url": "https://lemire.me/blog/",
   "title": "A performance trap: when store forwarding fails",
@@ -508,6 +690,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "3M To Pay Over $7 Billion To Settle 'Forever Chemical' Groundwater Claims",
   "link": "https://yro.slashdot.org/story/26/11/05/052220/3m-to-pay-over-7-billion-to-settle-forever-chemical-groundwater-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-05T07:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python 3.15 comprehension unpacking: Why you can’t transform items",
+  "link": "https://lernerpython.com/2026/11/05/python-3-15-comprehension-unpacking-why-you-cant-transform-items/",
   "published": "2026-11-05T07:00:00"
  },
  {
@@ -676,6 +865,34 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Gemini Omni 1.2 Flash now available on AI Gateway",
   "link": "https://vercel.com/changelog/gemini-omni-1-2-flash-now-available-on-ai-gateway",
+  "published": "2026-11-05T00:00:00"
+ },
+ {
+  "blog_name": "MapTiler",
+  "blog_url": "https://www.maptiler.com/blog/",
+  "title": "MapTiler Server 4.9: Smaller Installer, Leaner SBOM",
+  "link": "https://www.maptiler.com/news/2026/11/maptiler-server-4-9-smaller-installer-leaner-sbom",
+  "published": "2026-11-05T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How brands start trusted conversations on Apple Messages for Business",
+  "link": "https://www.twilio.com/en-us/blog/products/launches/how-brands-start-trusted-conversations-on-apple-messages-for-bus",
+  "published": "2026-11-05T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Why We Expanded our Internship Program this Year",
+  "link": "https://www.twilio.com/en-us/blog/company/inside-twilio/intern-program-expansion-2026",
+  "published": "2026-11-05T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to audit what your AI agent knows about a customer",
+  "link": "https://www.twilio.com/en-us/blog/insights/ai-agent-audit-trail",
   "published": "2026-11-05T00:00:00"
  },
  {
@@ -1852,6 +2069,13 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "How we built DriftSense to solve AI-era design drift",
   "link": "https://www.thoughtworks.com/insights/blog/digital-innovation/how-built-driftsense-solve-ai-era-design-drift",
+  "published": "2026-11-03T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "AI ambitions are blocked by identity debt",
+  "link": "https://auth0.com/blog/ai-ambitions-are-blocked-by-identity-debt/",
   "published": "2026-11-03T00:00:00"
  },
  {
