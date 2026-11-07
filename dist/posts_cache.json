@@ -14,6 +14,62 @@
   "published": "2026-11-10T00:00:00"
  },
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Managing Multiple Python Versions With pyenv",
+  "link": "https://realpython.com/intro-to-pyenv/",
+  "published": "2026-11-07T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Thonny: The Beginner-Friendly Python Editor",
+  "link": "https://realpython.com/python-thonny/",
+  "published": "2026-11-07T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Absolute vs Relative Imports in Python",
+  "link": "https://realpython.com/absolute-vs-relative-python-imports/",
+  "published": "2026-11-07T14:00:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "When You Feel Stuck in the Mud, Just Take One Step",
+  "link": "https://spin.atomicobject.com/mud-just-one-step/",
+  "published": "2026-11-07T13:00:58"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Build an Agent-Friendly CLI Tool in PHP and Run It Anywhere With CPX",
+  "link": "https://freek.dev/3214-build-an-agent-friendly-cli-tool-in-php-and-run-it-anywhere-with-cpx",
+  "published": "2026-11-07T12:30:49"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Managing Multiple Python Versions With pyenv",
+  "link": "https://realpython.com/quizzes/intro-to-pyenv/",
+  "published": "2026-11-07T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Cryosphere Faces Permanent Damage When World Overshoots 1.5C, Scientists Warn",
+  "link": "https://news.slashdot.org/story/26/11/07/0249215/cryosphere-faces-permanent-damage-when-world-overshoots-15c-scientists-warn?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-07T11:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Google Workspace vs. Microsoft 365 vs. Proton Workspace: Which Is Best for Developers and Freelancers?",
+  "link": "https://www.sitepoint.com/google-workspace-vs-microsoft-365-vs-proton-workspace/?utm_source=rss",
+  "published": "2026-11-07T09:20:17"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Vibrating Mattress Helps Clear Alzheimer's Protein From the Brain",
@@ -396,6 +452,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "FAA Phases Out Floppy Disks From Air Traffic Control",
   "link": "https://hardware.slashdot.org/story/26/11/05/2239227/faa-phases-out-floppy-disks-from-air-traffic-control?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-06T07:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas 3.1 `select` method: Retrieving specific columns",
+  "link": "https://lernerpython.com/2026/11/06/pandas-3-1-select-method-retrieving-specific-columns/",
   "published": "2026-11-06T07:00:00"
  },
  {
