@@ -14,6 +14,41 @@
   "published": "2026-11-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Vibrating Mattress Helps Clear Alzheimer's Protein From the Brain",
+  "link": "https://science.slashdot.org/story/26/11/07/0216257/vibrating-mattress-helps-clear-alzheimers-protein-from-the-brain?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-07T07:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Mexico's Senate Approves ISP Rules To Disconnect Persistent Online Pirates",
+  "link": "https://yro.slashdot.org/story/26/11/07/025259/mexicos-senate-approves-isp-rules-to-disconnect-persistent-online-pirates?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-07T03:30:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Dash: An Endless Runner That Races Through Your City",
+  "link": "https://www.codenameone.com/blog/build-an-endless-runner-in-java/",
+  "published": "2026-11-07T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "EU Says TikTok's 'Rabbit Hole' Effect Must Stop",
+  "link": "https://tech.slashdot.org/story/26/11/06/2210231/eu-says-tiktoks-rabbit-hole-effect-must-stop?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-07T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Chainalysis Says Breach Exposed Credentials For All Customers",
+  "link": "https://it.slashdot.org/story/26/11/06/2156257/chainalysis-says-breach-exposed-credentials-for-all-customers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-06T23:00:00"
+ },
+ {
   "blog_name": "NVIDIA Developer",
   "blog_url": "https://developer.nvidia.com/blog/",
   "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
@@ -67,6 +102,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "AI Gateway adds DeepSeek Search and Fetch tools",
   "link": "https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools",
+  "published": "2026-11-06T21:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Chat SDK agents can now stream generative UI with json-render",
+  "link": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
   "published": "2026-11-06T21:00:00"
  },
  {
@@ -201,6 +243,13 @@
   "title": "Core Vitals Optimization, SSR Deployments, and Signal-First Architecture ⚡",
   "link": "https://blog.angular.dev/core-vitals-optimization-ssr-deployments-and-signal-first-architecture-be82fd4a8c87?source=rss----447683c3d9a3---4",
   "published": "2026-11-06T15:01:04"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Why are we all worked up about atomicity when applying hot-patches if we can just suspend all the threads?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261106-00/?p=112838/",
+  "published": "2026-11-06T15:00:00"
  },
  {
   "blog_name": "Clickhouse",
@@ -494,6 +543,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Ampersand from Humans& now available on AI Gateway",
   "link": "https://vercel.com/changelog/humans-and-ampersand-now-available-on-ai-gateway",
+  "published": "2026-11-06T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Linting Both Prose and Embedded Code with RuboCop",
+  "link": "https://code.dblock.org/2026/11/06/linting-both-prose-and-embedded-code-with-rubocop.html",
   "published": "2026-11-06T00:00:00"
  },
  {
