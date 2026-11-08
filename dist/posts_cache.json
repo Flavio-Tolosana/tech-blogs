@@ -14,6 +14,55 @@
   "published": "2026-11-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Nvidia CEO Admits Affair With Alleged Chinese Spy. Investigation Opened",
+  "link": "https://hardware.slashdot.org/story/26/11/08/2125219/nvidia-ceo-admits-affair-with-alleged-chinese-spy-investigation-opened?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-08T21:34:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Parents Sue Google Over AI Safety Risks On School Chromebooks",
+  "link": "https://tech.slashdot.org/story/26/11/08/1936228/parents-sue-google-over-ai-safety-risks-on-school-chromebooks?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-08T20:34:00"
+ },
+ {
+  "blog_name": "Kyle Kingsbury",
+  "blog_url": "https://aphyr.com/",
+  "title": "RIP, Harvest",
+  "link": "https://aphyr.com/posts/427-rip-harvest",
+  "published": "2026-11-08T19:35:42"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Salon, One of the Web's Pioneering News Outlets, Shuts Down After 31 Years",
+  "link": "https://news.slashdot.org/story/26/11/08/1849210/salon-one-of-the-webs-pioneering-news-outlets-shuts-down-after-31-years?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-08T19:34:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Claude Code's 'Don't Ask Again' File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+  "link": "https://it.slashdot.org/story/26/11/08/1758242/claude-codes-dont-ask-again-file-exposes-passwords-and-keys-in-1122-public-copies-on-github?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-08T18:34:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "New course: Introduction to agentic coding with Claude Code",
+  "link": "https://lernerpython.com/2026/11/08/new-course-introduction-to-agentic-coding-with-claude-code/",
+  "published": "2026-11-08T18:12:02"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Do Data Centers Have a Smaller Effect on Electricity Prices Than We Think?",
+  "link": "https://hardware.slashdot.org/story/26/11/07/0412226/do-data-centers-have-a-smaller-effect-on-electricity-prices-than-we-think?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-08T17:34:00"
+ },
+ {
   "blog_name": "Real Python",
   "blog_url": "https://realpython.com/blog/",
   "title": "Memory Management in Python",
@@ -26,6 +75,13 @@
   "title": "Using Python's pip to Manage Your Projects' Dependencies",
   "link": "https://realpython.com/what-is-pip/",
   "published": "2026-11-08T14:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Best AI Humanizer Tools Tested and Compared: 7 Options for Web Content",
+  "link": "https://www.sitepoint.com/best-ai-humanizer-tools-tested-and-compared-7-options-for-web-content/?utm_source=rss",
+  "published": "2026-11-08T12:50:17"
  },
  {
   "blog_name": "Slashdot",
@@ -47,6 +103,13 @@
   "title": "NASA Announces It's Looking for New Astronauts",
   "link": "https://science.slashdot.org/story/26/11/08/0629226/nasa-announces-its-looking-for-new-astronauts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-08T08:03:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Technical Aspects of AI-Generated Video Assets for Web Design",
+  "link": "https://www.sitepoint.com/technical-aspects-of-ai-generated-video-assets-for-web-design/?utm_source=rss",
+  "published": "2026-11-08T06:57:02"
  },
  {
   "blog_name": "SitePoint",
@@ -81,6 +144,20 @@
   "blog_url": "https://www.amitmerchant.com/",
   "title": "Safari Just Made Browser-Controlled Dark Mode Real",
   "link": "https://www.amitmerchant.com/safari-just-made-browsercontrolled-dark-mode-real/",
+  "published": "2026-11-08T00:00:00"
+ },
+ {
+  "blog_name": "Josh Sherman",
+  "blog_url": "https://joshtronic.com/",
+  "title": "Introducing Cuppa",
+  "link": "https://joshtronic.com/2026/11/08/introducing-cuppa/",
+  "published": "2026-11-08T00:00:00"
+ },
+ {
+  "blog_name": "Nicolas Fränkel",
+  "blog_url": "https://blog.frankel.ch/",
+  "title": "Skills across coding assistants",
+  "link": "https://blog.frankel.ch/skills-across-coding-assistants/",
   "published": "2026-11-08T00:00:00"
  },
  {
