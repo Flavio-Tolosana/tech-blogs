@@ -16,6 +16,34 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "Scifi Magazine 'Starlog' Relaunches, and Back Issues Return to Internet Archive",
+  "link": "https://entertainment.slashdot.org/story/26/11/08/041209/scifi-magazine-starlog-relaunches-and-back-issues-return-to-internet-archive?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-08T04:03:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "AlpineBSD Announced - an AI-free FOSS OS",
+  "link": "https://bsd.slashdot.org/story/26/11/08/0044219/alpinebsd-announced---an-ai-free-foss-os?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-08T00:46:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Pulse: Heart Rate Zones From the Watch to the Trainer's Screen",
+  "link": "https://www.codenameone.com/blog/launch-your-own-gym-app/",
+  "published": "2026-11-08T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Microsoft Removes PC-to-PC Migration from Windows 11, Points Users to OneDrive-Based Backup",
+  "link": "https://tech.slashdot.org/story/26/11/07/2333220/microsoft-removes-pc-to-pc-migration-from-windows-11-points-users-to-onedrive-based-backup?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-07T23:35:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Data Centers are Being Powered By Giant Gas Plants, Possibly Increasing Carbon Pollution for Decades",
   "link": "https://hardware.slashdot.org/story/26/11/07/2153213/data-centers-are-being-powered-by-giant-gas-plants-possibly-increasing-carbon-pollution-for-decades?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-07T22:15:00"
@@ -144,6 +172,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
   "link": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-ultrafast-now-available-on-ai-gateway",
+  "published": "2026-11-07T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Releasing Ruby Gems with OIDC and GitHub Actions",
+  "link": "https://code.dblock.org/2026/11/07/releasing-ruby-gems-with-oidc-and-github-actions.html",
   "published": "2026-11-07T00:00:00"
  },
  {
