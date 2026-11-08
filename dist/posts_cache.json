@@ -14,6 +14,48 @@
   "published": "2026-11-10T00:00:00"
  },
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Memory Management in Python",
+  "link": "https://realpython.com/python-memory-management/",
+  "published": "2026-11-08T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Using Python's pip to Manage Your Projects' Dependencies",
+  "link": "https://realpython.com/what-is-pip/",
+  "published": "2026-11-08T14:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Aaron Swartz Would've Been 40 Today.  His 'Legacy Lives On' Says FSF",
+  "link": "https://yro.slashdot.org/story/26/11/07/0825245/aaron-swartz-wouldve-been-40-today-his-legacy-lives-on-says-fsf?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-08T12:34:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "The Next Dependency Problem Is Inside Your AI Agent",
+  "link": "https://freek.dev/3215-the-next-dependency-problem-is-inside-your-ai-agent",
+  "published": "2026-11-08T12:30:37"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "NASA Announces It's Looking for New Astronauts",
+  "link": "https://science.slashdot.org/story/26/11/08/0629226/nasa-announces-its-looking-for-new-astronauts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-08T08:03:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Prompt Management in TypeScript: LangSmith vs Git vs 3 Open-Source Registries",
+  "link": "https://www.sitepoint.com/prompt-management-in-typescript-langsmith-vs-git-vs-3-open-source-registries/?utm_source=rss",
+  "published": "2026-11-08T05:48:13"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Scifi Magazine 'Starlog' Relaunches, and Back Issues Return to Internet Archive",
@@ -32,6 +74,13 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Pulse: Heart Rate Zones From the Watch to the Trainer's Screen",
   "link": "https://www.codenameone.com/blog/launch-your-own-gym-app/",
+  "published": "2026-11-08T00:00:00"
+ },
+ {
+  "blog_name": "Amit Merchant",
+  "blog_url": "https://www.amitmerchant.com/",
+  "title": "Safari Just Made Browser-Controlled Dark Mode Real",
+  "link": "https://www.amitmerchant.com/safari-just-made-browsercontrolled-dark-mode-real/",
   "published": "2026-11-08T00:00:00"
  },
  {
@@ -2609,6 +2658,13 @@
   "title": "Apple HomeView Ultra, Drone and Laundry-Folding Robot Reportedly In Development",
   "link": "https://hardware.slashdot.org/story/26/11/02/2033238/apple-homeview-ultra-drone-and-laundry-folding-robot-reportedly-in-development?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-02T22:00:00"
+ },
+ {
+  "blog_name": "Gusto",
+  "blog_url": "http://engineering.gusto.com/",
+  "title": "What Slash Commands Actually Do",
+  "link": "https://engineering.gusto.com/what-slash-commands-actually-do-76cf4c288f5c?source=rss----645edd256348---4",
+  "published": "2026-11-02T21:04:05"
  },
  {
   "blog_name": "Slashdot",
@@ -5290,6 +5346,13 @@
   "title": "Apple's Foldable iPhone Duo Draws Early Complaints of the Screen Cracking",
   "link": "https://hardware.slashdot.org/story/26/10/27/1630226/apples-foldable-iphone-duo-draws-early-complaints-of-the-screen-cracking?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-10-27T18:00:00"
+ },
+ {
+  "blog_name": "Gusto",
+  "blog_url": "http://engineering.gusto.com/",
+  "title": "How Spec-Driven Development Shaped My New Way of Engineering",
+  "link": "https://engineering.gusto.com/how-spec-driven-development-shaped-my-new-way-of-engineering-ee0acb6d02b4?source=rss----645edd256348---4",
+  "published": "2026-10-27T17:43:13"
  },
  {
   "blog_name": "Hugging Face",
@@ -15939,6 +16002,13 @@
   "published": "2026-10-05T22:00:00"
  },
  {
+  "blog_name": "Gusto",
+  "blog_url": "http://engineering.gusto.com/",
+  "title": "Gusto Went to LDX3 NYC",
+  "link": "https://engineering.gusto.com/gusto-went-to-ldx3-nyc-d06db21cde62?source=rss----645edd256348---4",
+  "published": "2026-10-05T21:56:04"
+ },
+ {
   "blog_name": "Laravel",
   "blog_url": "https://laravel-news.com/blog/",
   "title": "Grant: Enum-Based Roles and Permissions for Laravel",
@@ -22419,6 +22489,13 @@
   "title": "Advancing AI for biology: Teaching models to design and characterize antibodies",
   "link": "https://www.amazon.science/blog/advancing-ai-for-biology-teaching-models-to-design-and-characterize-antibodies",
   "published": "2026-09-21T17:51:00"
+ },
+ {
+  "blog_name": "Gusto",
+  "blog_url": "http://engineering.gusto.com/",
+  "title": "Judgment-Based API Governance at Scale",
+  "link": "https://engineering.gusto.com/judgment-based-api-governance-at-scale-43fe38e0dcb0?source=rss----645edd256348---4",
+  "published": "2026-09-21T17:48:28"
  },
  {
   "blog_name": "Vercel",
