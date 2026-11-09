@@ -14,6 +14,118 @@
   "published": "2026-11-10T00:00:00"
  },
  {
+  "blog_name": "Adyen Tech",
+  "blog_url": "https://medium.com/adyen",
+  "title": "Making payment method testing repeatable: building the Adyen Payment Simulator",
+  "link": "https://medium.com/adyen/making-payment-method-testing-repeatable-building-the-adyen-payment-simulator-5c11d6fcbe18?source=rss----64941d9fbc09---4",
+  "published": "2026-11-09T14:15:51"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+  "link": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+  "published": "2026-11-09T14:00:01"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "TDD With AI Agents: Design the Tests First, Let the Agent Implement",
+  "link": "https://realpython.com/tdd-ai-agents/",
+  "published": "2026-11-09T14:00:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Building Software: Speed Counts, But Quality Matters More",
+  "link": "https://spin.atomicobject.com/software-speed-vs-quality/",
+  "published": "2026-11-09T13:00:42"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Launching the Vite Ecosystem Fund",
+  "link": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
+  "published": "2026-11-09T13:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+  "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+  "published": "2026-11-09T12:34:29"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Orbiter Detects Signs of Possible Volcanic Activity on Mars",
+  "link": "https://science.slashdot.org/story/26/11/09/0516221/orbiter-detects-signs-of-possible-volcanic-activity-on-mars?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-09T12:34:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Ding, toasts with real spring physics",
+  "link": "https://freek.dev/3216-ding-toasts-with-real-spring-physics",
+  "published": "2026-11-09T12:31:06"
+ },
+ {
+  "blog_name": "Hayden James",
+  "blog_url": "https://haydenjames.io/",
+  "title": "5 Network Devices for work-from-home and Small Business",
+  "link": "https://linuxblog.io/5-network-devices-for-work-from-home-and-small-business/",
+  "published": "2026-11-09T12:03:35"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Hostinger weekly product updates: Week 45, 2026",
+  "link": "https://www.hostinger.com/blog/product-updates-week-45-2026/",
+  "published": "2026-11-09T12:02:49"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: TDD With AI Agents: Design the Tests First, Let the Agent Implement",
+  "link": "https://realpython.com/quizzes/tdd-ai-agents/",
+  "published": "2026-11-09T12:00:00"
+ },
+ {
+  "blog_name": "Hayden James",
+  "blog_url": "https://haydenjames.io/",
+  "title": "What to buy for your Raspberry Pi",
+  "link": "https://linuxblog.io/what-to-buy-raspberry-pi/",
+  "published": "2026-11-09T11:40:40"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Surprise for Cast of 'Return of the Living Dead' Sequel. They Were Replaced by AI",
+  "link": "https://entertainment.slashdot.org/story/26/11/09/0625231/surprise-for-cast-of-return-of-the-living-dead-sequel-they-were-replaced-by-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-09T08:34:00"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+  "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+  "published": "2026-11-09T08:00:53"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How Text-to-Image AI Generators Work, and 5 Tools That Deliver Good Results",
+  "link": "https://www.sitepoint.com/how-text-to-image-ai-generators-work-and-5-tools-that-deliver-good-results/?utm_source=rss",
+  "published": "2026-11-09T07:15:58"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: Eventually",
+  "link": "https://thedailywtf.com/articles/eventually",
+  "published": "2026-11-09T06:30:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Asahi Linux Drops MIT and Goes Full GPL After Spotting LLM-Assisted License Laundering",
@@ -77,6 +189,20 @@
   "published": "2026-11-09T04:25:05"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Reduce Hallucinations in LLMs",
+  "link": "https://www.sitepoint.com/how-to-reduce-hallucinations-in-llms/?utm_source=rss",
+  "published": "2026-11-09T04:22:04"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Real-Time Inertia Props With Laravel Reverb",
+  "link": "https://laravel-news.com/inertia-live-props-laravel-reverb?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-09T03:00:10"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Electric Cars Are Close to Overtaking Petrol In the UK, Data Shows",
@@ -110,6 +236,20 @@
   "title": "Real-Time Java: Control Loops the Garbage Collector Never Stops",
   "link": "https://www.codenameone.com/blog/real-time-java-control-loops/",
   "published": "2026-11-09T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Authentication and Authorization: What's New in .NET 11",
+  "link": "https://auth0.com/blog/authentication-and-authorization-what-s-new-in-net-11/",
+  "published": "2026-11-09T00:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "What AI Gets Wrong About the Front End, and Why You Still Need to Know",
+  "link": "https://www.sitepoint.com/what-ai-gets-wrong-about-the-front-end-and-why-you-still-need-to-know/?utm_source=rss",
+  "published": "2026-11-08T22:49:50"
  },
  {
   "blog_name": "Slashdot",
@@ -161,6 +301,13 @@
   "published": "2026-11-08T17:34:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Friendly Fraud Prevention for Developers: What to Log, Block and Automate",
+  "link": "https://www.sitepoint.com/friendly-fraud-prevention-for-developers-what-to-log-block-and-automate/?utm_source=rss",
+  "published": "2026-11-08T16:33:09"
+ },
+ {
   "blog_name": "Real Python",
   "blog_url": "https://realpython.com/blog/",
   "title": "Memory Management in Python",
@@ -201,6 +348,13 @@
   "title": "NASA Announces It's Looking for New Astronauts",
   "link": "https://science.slashdot.org/story/26/11/08/0629226/nasa-announces-its-looking-for-new-astronauts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-08T08:03:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas 3.1 filter: Selecting rows with a pd.col condition",
+  "link": "https://lernerpython.com/2026/11/08/pandas-3-1-filter-selecting-rows-with-a-pd-col-condition/",
+  "published": "2026-11-08T07:00:00"
  },
  {
   "blog_name": "SitePoint",
