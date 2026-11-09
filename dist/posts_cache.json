@@ -16,6 +16,104 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "Asahi Linux Drops MIT and Goes Full GPL After Spotting LLM-Assisted License Laundering",
+  "link": "https://news.slashdot.org/story/26/11/09/0440238/asahi-linux-drops-mit-and-goes-full-gpl-after-spotting-llm-assisted-license-laundering?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-09T05:35:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "The DOs and don’ts of post-quantum DNSSEC",
+  "link": "https://blog.apnic.net/2026/11/09/the-dos-and-donts-of-post-quantum-dnssec/",
+  "published": "2026-11-09T05:34:30"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+  "link": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+  "published": "2026-11-09T05:00:40"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+  "link": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+  "published": "2026-11-09T05:00:39"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+  "link": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+  "published": "2026-11-09T05:00:04"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+  "link": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+  "published": "2026-11-09T05:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+  "link": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+  "published": "2026-11-09T05:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+  "link": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+  "published": "2026-11-09T05:00:00"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "Hide your slop PR descriptions behind <details><summary>",
+  "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
+  "published": "2026-11-09T04:25:05"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Electric Cars Are Close to Overtaking Petrol In the UK, Data Shows",
+  "link": "https://hardware.slashdot.org/story/26/11/09/0226229/electric-cars-are-close-to-overtaking-petrol-in-the-uk-data-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-09T02:34:00"
+ },
+ {
+  "blog_name": "David Walsh",
+  "blog_url": "https://davidwalsh.name/",
+  "title": "STRG: S3-Compatible, AI-Native Cloud Storage (Sponsored)",
+  "link": "https://davidwalsh.name/strg-storage",
+  "published": "2026-11-09T02:30:13"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Can CrowdStrike's New 'AI Kill Switch' Shut Down Rogue AI Agents?",
+  "link": "https://it.slashdot.org/story/26/11/09/0020217/can-crowdstrikes-new-ai-kill-switch-shut-down-rogue-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-09T00:21:00"
+ },
+ {
+  "blog_name": "Thoughtbot",
+  "blog_url": "https://robots.thoughtbot.com/",
+  "title": "NWRUG's (Manchester, UK) November 2026 meeting — (Un)learning programming",
+  "link": "https://feed.thoughtbot.com/link/24077/17518085/nwrug-s-manchester-uk-november-2026-meeting-un-learning-programming",
+  "published": "2026-11-09T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Real-Time Java: Control Loops the Garbage Collector Never Stops",
+  "link": "https://www.codenameone.com/blog/real-time-java-control-loops/",
+  "published": "2026-11-09T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Nvidia CEO Admits Affair With Alleged Chinese Spy. Investigation Opened",
   "link": "https://hardware.slashdot.org/story/26/11/08/2125219/nvidia-ceo-admits-affair-with-alleged-chinese-spy-investigation-opened?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-08T21:34:00"
@@ -158,6 +256,13 @@
   "blog_url": "https://blog.frankel.ch/",
   "title": "Skills across coding assistants",
   "link": "https://blog.frankel.ch/skills-across-coding-assistants/",
+  "published": "2026-11-08T00:00:00"
+ },
+ {
+  "blog_name": "Alex Russell",
+  "blog_url": "https://infrequently.org/",
+  "title": "Corruption Is A Cost-of-Living Issue: App Store Edition",
+  "link": "https://infrequently.org/2026/11/app-stores-pwas-and-corruption/",
   "published": "2026-11-08T00:00:00"
  },
  {
