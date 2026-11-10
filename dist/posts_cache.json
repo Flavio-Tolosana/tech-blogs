@@ -7,11 +7,207 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Timescale",
+  "blog_url": "https://blog.timescale.com/",
+  "title": "You Didn't Choose Your Split Architecture. You Accumulated It.",
+  "link": "https://www.tigerdata.com/blog/split-architecture-second-database",
+  "published": "2026-11-10T15:00:26"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Microsoft employee price list from 1987",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261110-00/?p=112843/",
+  "published": "2026-11-10T15:00:00"
+ },
+ {
+  "blog_name": "Tailscale",
+  "blog_url": "https://tailscale.com/blog",
+  "title": "Share skills across users, teams, and agents with Aperture",
+  "link": "https://tailscale.com/blog/skill-sharing-with-aperture",
+  "published": "2026-11-10T15:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+  "link": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/",
+  "published": "2026-11-10T15:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
+  "link": "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot/",
+  "published": "2026-11-10T15:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
+  "link": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/",
+  "published": "2026-11-10T15:00:00"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Fragments: November 10",
+  "link": "https://martinfowler.com/fragments/2026-11-10.html",
+  "published": "2026-11-10T14:30:00"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Long-horizon agents and durable execution",
+  "link": "https://martinfowler.com/articles/durable-execution-agents.html",
+  "published": "2026-11-10T14:10:00"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Lightbits is now certified for Red Hat OpenStack Services on OpenShift",
+  "link": "https://developers.redhat.com/articles/2026/11/10/lightbits-is-now-certified-for-red-hat-openstack-services-on-openshift",
+  "published": "2026-11-10T14:01:45"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python Coding Interview Practice: Prefix Sums and Binary Search",
+  "link": "https://realpython.com/courses/coding-interview-practice-prefix-sums-binary-search/",
+  "published": "2026-11-10T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python Coding Interview Practice: Hashing, Pointers, and Windows",
+  "link": "https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows/",
+  "published": "2026-11-10T14:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laravel Rest Api 3.0: Typed Fields, Metrics, and OpenAPI Docs",
+  "link": "https://laravel-news.com/laravel-rest-api-3?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-10T13:33:18"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Hostinger Credits launch: one balance, every AI tool, even outside Hostinger",
+  "link": "https://www.hostinger.com/blog/hostinger-credits-launch/",
+  "published": "2026-11-10T13:32:55"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Stuck with MongoDB? 5 Ways to Keep Analytics Possible",
+  "link": "https://spin.atomicobject.com/mongodb-analytics/",
+  "published": "2026-11-10T13:00:29"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "Dear Duolingo: Why don’t we all speak the same language?",
+  "link": "https://blog.duolingo.com/why-different-languages/",
+  "published": "2026-11-10T13:00:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Telling your number parser what to expect",
+  "link": "https://lemire.me/blog/2026/11/10/telling-your-number-parser-what-to-expect/",
+  "published": "2026-11-10T12:44:09"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Tuning Laravel Horizon",
+  "link": "https://freek.dev/3217-tuning-laravel-horizon",
+  "published": "2026-11-10T12:30:33"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+  "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+  "published": "2026-11-10T12:02:28"
+ },
+ {
+  "blog_name": "Expedia",
+  "blog_url": "https://medium.com/expedia-group-tech",
+  "title": "How I Taught an AI to Read My Logs",
+  "link": "https://medium.com/expedia-group-tech/how-i-taught-an-ai-to-read-my-logs-9c04f1cfa750?source=rss----38998a53046f---4",
+  "published": "2026-11-10T12:01:02"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Getting Started With Git",
+  "link": "https://realpython.com/quizzes/getting-started-with-git/",
+  "published": "2026-11-10T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python Coding Interview Practice: Hashing, Pointers, and Windows",
+  "link": "https://realpython.com/quizzes/coding-interview-practice-hashing-two-pointers-sliding-windows/",
+  "published": "2026-11-10T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python Coding Interview Practice: Prefix Sums and Binary Search",
+  "link": "https://realpython.com/quizzes/coding-interview-practice-prefix-sums-binary-search/",
+  "published": "2026-11-10T12:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Helping caregivers use AI in everyday life",
+  "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+  "published": "2026-11-10T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Uber Is Launching Its Own Parking Reservation Service",
+  "link": "https://tech.slashdot.org/story/26/11/09/2239245/uber-is-launching-its-own-parking-reservation-service?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-10T11:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Closing the AI guidance gap in education",
+  "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+  "published": "2026-11-10T09:00:00"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "Customer support is the gnarliest AI problem",
   "link": "https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/",
   "published": "2026-11-10T08:40:00"
+ },
+ {
+  "blog_name": "Ebay",
+  "blog_url": "https://www.ebayinc.com/stories/blogs/tech/",
+  "title": "eBay’s Watchlist Trend Report reveals how fashion’s creative director shakeups are creating demand for archival items",
+  "link": "https://www.ebayinc.com/stories/news/ebays-watchlist-trend-report-reveals-how-fashions-creative-director-shakeups-are-creating-demand-for-archival-items/",
+  "published": "2026-11-10T08:00:00"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "Why API-First Is the Foundation for Telecom’s Future",
+  "link": "https://nordicapis.com/why-api-first-is-the-foundation-for-telecoms-future/",
+  "published": "2026-11-10T08:00:00"
+ },
+ {
+  "blog_name": "Wix Engineering",
+  "blog_url": "https://www.wix.engineering/",
+  "title": "7 Production Habits We Learned at Wix. The Hard Way",
+  "link": "https://www.wix.engineering/post/7-production-habits-we-learned-at-wix-the-hard-way",
+  "published": "2026-11-10T07:44:57"
  },
  {
   "blog_name": "Slashdot",
@@ -21,6 +217,13 @@
   "published": "2026-11-10T07:00:00"
  },
  {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: Plenty of IDs",
+  "link": "https://thedailywtf.com/articles/plenty-of-ids",
+  "published": "2026-11-10T06:30:00"
+ },
+ {
   "blog_name": "MIT AI News",
   "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
   "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
@@ -28,11 +231,25 @@
   "published": "2026-11-10T05:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Build an Accessible Gold Value Calculator in Vanilla JavaScript",
+  "link": "https://www.sitepoint.com/how-to-build-an-accessible-gold-value-calculator-in-vanilla-javascript/?utm_source=rss",
+  "published": "2026-11-10T03:47:01"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "FDA Warns GLP-1s May Increase Risk of Sudden Blindness",
   "link": "https://science.slashdot.org/story/26/11/09/231215/fda-warns-glp-1s-may-increase-risk-of-sudden-blindness?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-10T03:30:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "What Actually Happens When a Kafka Region Fails?",
+  "link": "https://www.sitepoint.com/what-actually-happens-when-a-kafka-region-fails/?utm_source=rss",
+  "published": "2026-11-10T00:42:14"
  },
  {
   "blog_name": "AWS Machine Learning",
@@ -63,6 +280,48 @@
   "published": "2026-11-10T00:00:00"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Speed Insights and Web Analytics now support custom environments",
+  "link": "https://vercel.com/changelog/speed-insights-and-web-analytics-now-support-custom-environments",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Teleport",
+  "blog_url": "https://goteleport.com/blog/",
+  "title": "Announcing beam-init - a Rust init process for agents",
+  "link": "https://goteleport.com/blog/announcing-beam-init/",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Teleport",
+  "blog_url": "https://goteleport.com/blog/",
+  "title": "Phases: Git for container filesystems, or, what I built after leaving CNCF buildpacks.io",
+  "link": "https://goteleport.com/blog/phases-git-for-container-filesystems/",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Teleport",
+  "blog_url": "https://goteleport.com/blog/",
+  "title": "Introducing Teleport Beams: A Trusted Runtime for Securing Agents in Production Infrastructure",
+  "link": "https://goteleport.com/blog/teleport-beams-secure-ai-agents-production/",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Stack 8.19.25 released",
+  "link": "https://www.elastic.co/blog/elastic-stack-8-19-25-released",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Decision Models in Hugging Face",
+  "link": "https://huggingface.co/blog/decision",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
   "blog_name": "Simon Willison",
   "blog_url": "http://simonwillison.net/",
   "title": "Locating the source of a mysterious beep with Claude",
@@ -75,6 +334,13 @@
   "title": "Trump Backs Nvidia CEO Jensen Huang Amid Chinese Spy Affair Investigation",
   "link": "https://yro.slashdot.org/story/26/11/09/2253208/trump-backs-nvidia-ceo-jensen-huang-amid-chinese-spy-affair-investigation?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-09T23:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Search Polymorphic Relations and Filament Tables With Laravel Searchable",
+  "link": "https://laravel-news.com/mozex-laravel-searchable?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-09T22:31:59"
  },
  {
   "blog_name": "Kogan.com",
@@ -109,6 +375,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Vercel Sandbox snapshot creation is now up to 10x faster",
   "link": "https://vercel.com/changelog/vercel-sandbox-snapshot-creation-is-now-up-to-10x-faster",
+  "published": "2026-11-09T21:00:00"
+ },
+ {
+  "blog_name": "Yegor Bugayenko",
+  "blog_url": "http://www.yegor256.com/",
+  "title": "Back to Socrates",
+  "link": "https://www.yegor256.com/2026/11/10/back-to-socrates.html",
   "published": "2026-11-09T21:00:00"
  },
  {
@@ -159,6 +432,13 @@
   "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
   "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/",
   "published": "2026-11-09T20:01:20"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+  "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+  "published": "2026-11-09T19:51:47"
  },
  {
   "blog_name": "Databricks",
@@ -469,6 +749,13 @@
   "published": "2026-11-09T07:15:58"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas 3.1 CSV loading: Multi-threaded, but PyArrow is still faster",
+  "link": "https://lernerpython.com/2026/11/09/pandas-3-1-csv-loading-multi-threaded-but-pyarrow-is-still-faster/",
+  "published": "2026-11-09T07:00:00"
+ },
+ {
   "blog_name": "The Daily WTF",
   "blog_url": "http://thedailywtf.com/",
   "title": "CodeSOD: Eventually",
@@ -683,6 +970,27 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "21 types of emails explained (with tips & examples)",
   "link": "https://www.twilio.com/en-us/blog/insights/5-email-types-explained-with-examples",
+  "published": "2026-11-09T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Speed to a person isn't an AI failure: It may be it’s best feature",
+  "link": "https://www.twilio.com/en-us/blog/insights/speed-to-person-is-not-AI-failure",
+  "published": "2026-11-09T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "The AI race is actually a context race",
+  "link": "https://www.twilio.com/en-us/blog/insights/ai-race-is-context-race",
+  "published": "2026-11-09T00:00:00"
+ },
+ {
+  "blog_name": "Yelp",
+  "blog_url": "https://engineeringblog.yelp.com/",
+  "title": "Zero-Copy Migration: How Yelp Moved Its Cassandra Fleet Between Kubernetes Clusters",
+  "link": "https://engineeringblog.yelp.com/2026/11/zero-copy-cassandra-kubernetes-migration.html",
   "published": "2026-11-09T00:00:00"
  },
  {
@@ -1005,6 +1313,13 @@
   "blog_url": "http://code.dblock.org/",
   "title": "Releasing Ruby Gems with OIDC and GitHub Actions",
   "link": "https://code.dblock.org/2026/11/07/releasing-ruby-gems-with-oidc-and-github-actions.html",
+  "published": "2026-11-07T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Broadcast text messaging: What is it & how to use it",
+  "link": "https://www.twilio.com/en-us/blog/what-is-broadcast-messaging",
   "published": "2026-11-07T00:00:00"
  },
  {
@@ -1530,6 +1845,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "How to build an AI agent that remembers returning customers",
   "link": "https://www.twilio.com/en-us/blog/insights/ai-agent-remember-returning-customers",
+  "published": "2026-11-06T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How much does call center outsourcing cost in 2027?",
+  "link": "https://www.twilio.com/en-us/blog/insights/cloud-comms/call-center-services-pricing",
   "published": "2026-11-06T00:00:00"
  },
  {
@@ -38785,6 +39107,13 @@
   "title": "Stop boring your audience with wordy presentation decks — start using these 15 alternatives today",
   "link": "https://medium.com/xandr-tech/stop-boring-your-audience-with-wordy-presentation-decks-start-using-these-15-alternatives-today-87c77d03bb4c?source=rss----8205519eb4c3---4",
   "published": "2022-10-24T14:00:08"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Why observability can break through top challenges to digital transformation",
+  "link": "https://www.elastic.co/blog/why-observability-can-break-through-top-challenges-to-digital-transformation",
+  "published": "2022-10-20T07:00:00"
  },
  {
   "blog_name": "Replit",
