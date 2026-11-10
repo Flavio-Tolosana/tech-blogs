@@ -7,6 +7,188 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Fireworks AI Confirms Wider Breach Affecting Notion AI Chats",
+  "link": "https://it.slashdot.org/story/26/11/10/2156247/fireworks-ai-confirms-wider-breach-affecting-notion-ai-chats?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-10T23:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
+  "link": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/",
+  "published": "2026-11-10T22:35:03"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "New York Launches Nation's First State AI Testing Program",
+  "link": "https://yro.slashdot.org/story/26/11/10/2058226/new-york-launches-nations-first-state-ai-testing-program?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-10T22:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Every public API should have a feedback endpoint for agents",
+  "link": "https://freek.dev/3222-every-public-api-should-have-a-feedback-endpoint-for-agents",
+  "published": "2026-11-10T21:19:45"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Anthropic Launches New Workplace Features To Take On Microsoft and Google",
+  "link": "https://tech.slashdot.org/story/26/11/10/2023200/anthropic-launches-new-workplace-features-to-take-on-microsoft-and-google?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-10T21:00:00"
+ },
+ {
+  "blog_name": "Lyft",
+  "blog_url": "https://eng.lyft.com/",
+  "title": "Beyond Test Cards: A Fake Payment Provider for Testing at Scale",
+  "link": "https://eng.lyft.com/beyond-test-cards-a-fake-payment-provider-for-testing-at-scale-c69dddadb115?source=rss----25cd379abb8---4",
+  "published": "2026-11-10T20:55:40"
+ },
+ {
+  "blog_name": "HubSpot",
+  "blog_url": "http://product.hubspot.com/blog/topic/engineering",
+  "title": "Incident Report: August 11, 2026",
+  "link": "https://product.hubspot.com/blog/incident-report-august-11-2026",
+  "published": "2026-11-10T20:20:53"
+ },
+ {
+  "blog_name": "HubSpot",
+  "blog_url": "http://product.hubspot.com/blog/topic/engineering",
+  "title": "From Data Silos to Feature Serving: How We Unified Fragmented Data for Training, Inference, and Reuse",
+  "link": "https://product.hubspot.com/blog/from-data-silos-to-feature-serving-how-we-unified-fragmented-data-for-training-inference-and-reuse",
+  "published": "2026-11-10T20:17:40"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Starlink Mini 2 Adds a Swappable Battery, Wi-Fi 6",
+  "link": "https://tech.slashdot.org/story/26/11/10/208239/starlink-mini-2-adds-a-swappable-battery-wi-fi-6?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-10T20:10:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Nintendo Is Officially Investing In Game Preservation",
+  "link": "https://games.slashdot.org/story/26/11/10/1814241/nintendo-is-officially-investing-in-game-preservation?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-10T19:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Unity Catalog Metric Views, now in Power BI: one unified, governed semantic layer for all your reporting and AI",
+  "link": "https://www.databricks.com/blog/unity-catalog-metric-views-now-power-bi-one-unified-governed-semantic-layer-all-your-reporting",
+  "published": "2026-11-10T18:45:00"
+ },
+ {
+  "blog_name": "DigitalOcean",
+  "blog_url": "https://blog.digitalocean.com/tag/engineering/",
+  "title": "QM, Y Combinator's Open-Source Agent Harness, Now Deploys in One Click on DigitalOcean",
+  "link": "https://www.digitalocean.com/blog/qm-ycombinator-digitalocean-one-click",
+  "published": "2026-11-10T18:25:56"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/",
+  "published": "2026-11-10T18:11:08"
+ },
+ {
+  "blog_name": "Airbnb",
+  "blog_url": "https://medium.com/airbnb-engineering",
+  "title": "Skipper, Airbnb’s embedded workflow engine, is now open source",
+  "link": "https://medium.com/airbnb-engineering/skipper-airbnbs-embedded-workflow-engine-is-now-open-source-78dd354f472b?source=rss----53c7c27702d5---4",
+  "published": "2026-11-10T18:01:02"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "Git security vulnerabilities announced",
+  "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+  "published": "2026-11-10T18:00:00"
+ },
+ {
+  "blog_name": "Lyft",
+  "blog_url": "https://eng.lyft.com/",
+  "title": "Hiring Junior Engineers",
+  "link": "https://eng.lyft.com/hiring-junior-engineers-1edc53e0fd5f?source=rss----25cd379abb8---4",
+  "published": "2026-11-10T17:08:06"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
+  "link": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+  "published": "2026-11-10T17:00:49"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
+  "published": "2026-11-10T16:59:43"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
+  "link": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+  "published": "2026-11-10T16:59:31"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Amazon Bedrock tokenomics data lake",
+  "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/",
+  "published": "2026-11-10T16:56:36"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Announcing .NET 11",
+  "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+  "published": "2026-11-10T16:11:00"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": ".NET and .NET Framework November 2026 servicing updates",
+  "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/",
+  "published": "2026-11-10T16:10:00"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Gemini 4 Carbon is now available",
+  "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+  "published": "2026-11-10T16:03:47"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+  "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+  "published": "2026-11-10T16:00:03"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+  "link": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits/",
+  "published": "2026-11-10T16:00:00"
+ },
+ {
+  "blog_name": "Amazon Science",
+  "blog_url": "https://www.amazon.science/",
+  "title": "Mitra-v2: Scaling synthetic pretraining for tabular foundation models",
+  "link": "https://www.amazon.science/blog/mitra-v2-scaling-synthetic-pretraining-for-tabular-foundation-models",
+  "published": "2026-11-10T15:37:39"
+ },
+ {
   "blog_name": "Timescale",
   "blog_url": "https://blog.timescale.com/",
   "title": "You Didn't Choose Your Split Architecture. You Accumulated It.",
@@ -49,6 +231,20 @@
   "published": "2026-11-10T15:00:00"
  },
  {
+  "blog_name": "Shopify",
+  "blog_url": "https://shopify.engineering/",
+  "title": "How we rebuilt the Shopify app in 12 weeks",
+  "link": "https://shopify.engineering/shopify-app-rebuild",
+  "published": "2026-11-10T14:36:23"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Use Developer Time Tracking Data to Improve Sprint Planning and Estimates",
+  "link": "https://www.sitepoint.com/how-to-use-developer-time-tracking-data-to-improve-sprint-planning-and-estimates/?utm_source=rss",
+  "published": "2026-11-10T14:35:42"
+ },
+ {
   "blog_name": "Martin Fowler",
   "blog_url": "https://martinfowler.com/",
   "title": "Fragments: November 10",
@@ -81,6 +277,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "Python Coding Interview Practice: Hashing, Pointers, and Windows",
   "link": "https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows/",
+  "published": "2026-11-10T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Claude Fable 5.2 Draws a Python Reading a Book",
+  "link": "https://realpython.com/ai-benchmark-claude-fable-5-2/",
   "published": "2026-11-10T14:00:00"
  },
  {
@@ -168,11 +371,25 @@
   "published": "2026-11-10T12:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "What Breaks When a Self-Hosted LLM Gateway Hits 1,000 Concurrent Streams",
+  "link": "https://www.sitepoint.com/what-breaks-when-a-self-hosted-llm-gateway-hits-1-000-concurrent-streams/?utm_source=rss",
+  "published": "2026-11-10T11:31:05"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Uber Is Launching Its Own Parking Reservation Service",
   "link": "https://tech.slashdot.org/story/26/11/09/2239245/uber-is-launching-its-own-parking-reservation-service?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-10T11:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Introducing Businesses in ChatGPT",
+  "link": "https://openai.com/index/introducing-businesses-chatgpt",
+  "published": "2026-11-10T10:00:00"
  },
  {
   "blog_name": "OpenAI",
@@ -214,6 +431,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "Boston Dynamics Adds Wheels to Atlas Humanoid",
   "link": "https://hardware.slashdot.org/story/26/11/09/2317206/boston-dynamics-adds-wheels-to-atlas-humanoid?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-10T07:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Work at the Frontier: AI’s effect on freelance work",
+  "link": "https://openai.com/index/ai-effect-on-freelance-work",
   "published": "2026-11-10T07:00:00"
  },
  {
@@ -319,6 +543,76 @@
   "blog_url": "https://huggingface.co/blog",
   "title": "Decision Models in Hugging Face",
   "link": "https://huggingface.co/blog/decision",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "How I Learned to Use Copilot Sessions 400 Million Tokens Later",
+  "link": "https://code.dblock.org/2026/11/10/how-i-learned-to-use-copilot-sessions-400-million-tokens-later.html",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Powering Seamless Player Sign-In: Introducing the Open-Source Sign in with Google Plugin for Unity",
+  "link": "https://developer.android.com/blog/posts/open-source-google-sign-in-unity",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Gemini 4 Carbon now available on AI Gateway",
+  "link": "https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Go",
+  "blog_url": "https://blog.golang.org/",
+  "title": "Go Turns 17",
+  "link": "https://go.dev/blog/17years",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+  "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Troubleshoot Kubernetes inference workloads with Datadog",
+  "link": "https://www.datadoghq.com/blog/kubernetes-inference-workload-monitoring/",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Detect and respond to PHP2Shell with Datadog",
+  "link": "https://www.datadoghq.com/blog/detect-respond-php2shell-datadog/",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Monitor OCI workloads in US government clouds with Datadog",
+  "link": "https://www.datadoghq.com/blog/monitor-oci-government-cloud-datadog/",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Monitor OpenAI Codex usage and impact with Datadog",
+  "link": "https://www.datadoghq.com/blog/monitor-openai-codex-with-datadog/",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Monitor and troubleshoot employee devices with Datadog End User Device Monitoring",
+  "link": "https://www.datadoghq.com/blog/end-user-device-monitoring/",
   "published": "2026-11-10T00:00:00"
  },
  {
@@ -991,6 +1285,13 @@
   "blog_url": "https://engineeringblog.yelp.com/",
   "title": "Zero-Copy Migration: How Yelp Moved Its Cassandra Fleet Between Kubernetes Clusters",
   "link": "https://engineeringblog.yelp.com/2026/11/zero-copy-cassandra-kubernetes-migration.html",
+  "published": "2026-11-09T00:00:00"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "Policy exceptions: enforce every policy, document every exception",
+  "link": "https://www.pulumi.com/blog/policy-exceptions/",
   "published": "2026-11-09T00:00:00"
  },
  {
@@ -37891,6 +38192,13 @@
   "published": "2024-05-01T00:00:00"
  },
  {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Homegate’s fast and modern search experience helps users find their dream home",
+  "link": "https://www.elastic.co/blog/homegate-search-experience",
+  "published": "2024-04-29T07:00:00"
+ },
+ {
   "blog_name": "Skyscanner",
   "blog_url": "http://codevoyagers.com/",
   "title": "WISE: Skyscanner’s Bayesian AB experimentation library and decision engine",
@@ -38533,6 +38841,13 @@
   "title": "Resiliency patterns for cloud-based applications — Part I",
   "link": "https://tech.new-work.se/resiliency-patterns-for-cloud-based-applications-part-i-2bf74873bace?source=rss----35cb8c78d3cf---4",
   "published": "2023-07-28T08:29:13"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Fingerprint enables rapid regulatory compliance with Elastic",
+  "link": "https://www.elastic.co/blog/fingerprint-enables-rapid-regulatory-compliance-with-elastic",
+  "published": "2023-07-26T07:00:00"
  },
  {
   "blog_name": "Eric Elliot",
@@ -39438,6 +39753,13 @@
   "published": "2022-06-14T16:54:44"
  },
  {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic recognized as a Visionary in the 2022 Gartner® Magic Quadrant™ for APM and Observability for the second consecutive year",
+  "link": "https://www.elastic.co/blog/elastic-observability-2022-gartner-magic-quadrant-critical-capabilities-apm",
+  "published": "2022-06-13T07:00:00"
+ },
+ {
   "blog_name": "Ilija Eftimov",
   "blog_url": "http://ieftimov.com/",
   "title": "Problem Solving Framework & Principles for Software Engineers",
@@ -39653,6 +39975,13 @@
   "title": "Inclusive Language Updates",
   "link": "http://engineering.remind.com/inclusive-language-updates/",
   "published": "2022-01-21T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Shay Banon to (re)assume the role of CTO, Ash Kulkarni promoted to CEO",
+  "link": "https://www.elastic.co/blog/shay-banon-to-re-assume-the-role-of-cto-ash-kulkarni-promoted-to-ceo",
+  "published": "2022-01-12T20:03:00"
  },
  {
   "blog_name": "Flickr",
