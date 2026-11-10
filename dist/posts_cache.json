@@ -7,11 +7,74 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Customer support is the gnarliest AI problem",
+  "link": "https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/",
+  "published": "2026-11-10T08:40:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Boston Dynamics Adds Wheels to Atlas Humanoid",
+  "link": "https://hardware.slashdot.org/story/26/11/09/2317206/boston-dynamics-adds-wheels-to-atlas-humanoid?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-10T07:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+  "link": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
+  "published": "2026-11-10T05:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "FDA Warns GLP-1s May Increase Risk of Sudden Blindness",
+  "link": "https://science.slashdot.org/story/26/11/09/231215/fda-warns-glp-1s-may-increase-risk-of-sudden-blindness?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-10T03:30:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How skills and agents work in AWS Quick",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
+  "published": "2026-11-10T00:21:34"
+ },
+ {
   "blog_name": "ThoughtWorks",
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "Beyond the award: The people behind our onboarding experience",
   "link": "https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/the-people-behind-our-onboarding-experience",
   "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Packaging Java Apps for Xbox Developer Mode, and Why Consoles Need Help",
+  "link": "https://www.codenameone.com/blog/codename-one-on-xbox/",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Microsoft Took 31 Years to Let You Kill Windows 11's Sticky Keys Popup",
+  "link": "https://build.slashdot.org/story/26/11/09/2224257/microsoft-took-31-years-to-let-you-kill-windows-11s-sticky-keys-popup?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "Locating the source of a mysterious beep with Claude",
+  "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+  "published": "2026-11-09T23:57:21"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Trump Backs Nvidia CEO Jensen Huang Amid Chinese Spy Affair Investigation",
+  "link": "https://yro.slashdot.org/story/26/11/09/2253208/trump-backs-nvidia-ceo-jensen-huang-amid-chinese-spy-affair-investigation?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-09T23:00:00"
  },
  {
   "blog_name": "Kogan.com",
@@ -250,6 +313,13 @@
   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
   "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
   "published": "2026-11-09T15:05:57"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "If the Windows Update hot patcher checks that the function hasn’t already been patched, does that mean you can’t install two hot-patches?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261109-00/?p=112841/",
+  "published": "2026-11-09T15:00:00"
  },
  {
   "blog_name": "Adyen Tech",
@@ -606,6 +676,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Build disk space on Vercel increased to 64 GB",
   "link": "https://vercel.com/changelog/build-disk-space-on-vercel-increased-to-64-gb",
+  "published": "2026-11-09T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "21 types of emails explained (with tips & examples)",
+  "link": "https://www.twilio.com/en-us/blog/insights/5-email-types-explained-with-examples",
   "published": "2026-11-09T00:00:00"
  },
  {
@@ -37240,6 +37317,13 @@
   "published": "2024-08-15T16:00:00"
  },
  {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "IBM partners with Elasticsearch to deliver Conversational Search with watsonx Assistant",
+  "link": "https://www.elastic.co/blog/ibm-elasticsearch-partnership-conversational-search-watsonx-assistant",
+  "published": "2024-08-15T07:00:00"
+ },
+ {
   "blog_name": "Replit",
   "blog_url": "https://blog.replit.com/",
   "title": "How Replit makes sense of code at scale",
@@ -37252,6 +37336,20 @@
   "title": "7 Things That Helped Me Grow as a Software Engineer",
   "link": "https://ruslanspivak.com/bb04/",
   "published": "2024-08-09T16:26:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic 8.15: Better semantic search, new OTel distribution, SIEM data import",
+  "link": "https://www.elastic.co/blog/whats-new-elastic-8-15-0",
+  "published": "2024-08-08T17:00:04"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elasticsearch 8.15: Accessible semantic search with semantic text and reranking",
+  "link": "https://www.elastic.co/blog/whats-new-elastic-search-8-15-0",
+  "published": "2024-08-08T17:00:00"
  },
  {
   "blog_name": "Clever",
@@ -37553,6 +37651,13 @@
   "title": "Go Big & Go Chrome: Strengthen Cybersecurity in Education, the Enterprise & Beyond",
   "link": "https://umbrella.cisco.com/blog/go-big-go-chrome-strengthen-cybersecurity-in-education-enterprise-beyond",
   "published": "2024-03-28T08:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic 8.13: GA of Amazon Bedrock in the Elastic AI Assistant for Observability",
+  "link": "https://www.elastic.co/blog/whats-new-elastic-8-13-0",
+  "published": "2024-03-26T17:08:17"
  },
  {
   "blog_name": "High Scalability",
@@ -37896,6 +38001,13 @@
   "title": "Serve more with Serverless",
   "link": "https://www.elastic.co/blog/elastic-serverless-architecture",
   "published": "2023-11-15T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Evolution of Workplace Search: Search your private data with Elasticsearch",
+  "link": "https://www.elastic.co/blog/evolution-workplace-search-private-data-elasticsearch",
+  "published": "2023-11-14T08:00:00"
  },
  {
   "blog_name": "XING",
