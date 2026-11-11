@@ -7,6 +7,97 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Gilbert + Tobin rethinks the business of law with AI",
+  "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+  "published": "2026-11-12T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "ChatGPT Plus for veterans and servicemembers",
+  "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+  "published": "2026-11-11T08:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+  "link": "https://huggingface.co/blog/qvac/botpsy",
+  "published": "2026-11-11T05:01:16"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "More than 1 in 4 AI users say writing the right prompt takes longer than doing the task themselves",
+  "link": "https://www.hostinger.com/blog/ai-prompt-anxiety-study/",
+  "published": "2026-11-11T03:41:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "M John Harrison Becomes First Sci-Fi Author To Win Booker Prize",
+  "link": "https://news.slashdot.org/story/26/11/10/2227217/m-john-harrison-becomes-first-sci-fi-author-to-win-booker-prize?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-11T03:30:00"
+ },
+ {
+  "blog_name": "Eli Bendersky",
+  "blog_url": "http://eli.thegreenplace.net/",
+  "title": "Monads in Lean",
+  "link": "https://eli.thegreenplace.net/2026/monads-in-lean/",
+  "published": "2026-11-11T03:25:00"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+  "link": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+  "published": "2026-11-11T03:00:20"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "SIDN publishes RSSAC002 traffic metrics for .nl",
+  "link": "https://blog.apnic.net/2026/11/11/sidn-publishes-rssac002-traffic-metrics-for-nl/",
+  "published": "2026-11-11T01:48:26"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
+  "published": "2026-11-11T01:07:19"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Port Your Spring Code With Fewer Edits, and Libraries That Bring Their Own Server",
+  "link": "https://www.codenameone.com/blog/cn1libs-with-a-server-side/",
+  "published": "2026-11-11T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Fi Brings Back Network Switching With 'Secondary' Partner",
+  "link": "https://mobile.slashdot.org/story/26/11/10/2221238/google-fi-brings-back-network-switching-with-secondary-partner?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-11T00:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+  "link": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/",
+  "published": "2026-11-10T23:34:05"
+ },
+ {
+  "blog_name": "Daniel Stenberg",
+  "blog_url": "https://daniel.haxx.se/blog/",
+  "title": "30 years of Internet transfers with curl",
+  "link": "https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/",
+  "published": "2026-11-10T23:05:57"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Fireworks AI Confirms Wider Breach Affecting Notion AI Chats",
@@ -613,6 +704,13 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Monitor and troubleshoot employee devices with Datadog End User Device Monitoring",
   "link": "https://www.datadoghq.com/blog/end-user-device-monitoring/",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "MiniMax H3 Image and Highspeed now available on AI Gateway",
+  "link": "https://vercel.com/changelog/minimax-h3-image-and-highspeed-now-available-on-ai-gateway",
   "published": "2026-11-10T00:00:00"
  },
  {
