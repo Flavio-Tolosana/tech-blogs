@@ -16,9 +16,184 @@
  {
   "blog_name": "Databricks",
   "blog_url": "https://databricks.com/blog",
+  "title": "Detecting credential-driven attacks on Databricks",
+  "link": "https://www.databricks.com/blog/detecting-credential-driven-attacks-databricks",
+  "published": "2026-11-11T23:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+  "link": "https://slashdot.org/story/26/11/11/2220224/jensen-huang-said-to-have-had-relationship-with-nvidia-executive-who-reports-to-him?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-11T23:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Brickster Voices: Meet Alasdair Anderson",
+  "link": "https://www.databricks.com/blog/brickster-voices-meet-alasdair-anderson",
+  "published": "2026-11-11T22:50:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "ICYMI: What landed for AI builders in October 2026",
+  "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/",
+  "published": "2026-11-11T22:26:40"
+ },
+ {
+  "blog_name": "Hayden James",
+  "blog_url": "https://haydenjames.io/",
+  "title": "Linux Server Setup – Part 1: A Beginner’s Guide",
+  "link": "https://linuxblog.io/linux-server-setup/",
+  "published": "2026-11-11T22:16:07"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Nvidia and Jensen Huang Face Shareholder Lawsuit Alleging Investors Were Misled About Spy Affair",
+  "link": "https://yro.slashdot.org/story/26/11/11/2154252/nvidia-and-jensen-huang-face-shareholder-lawsuit-alleging-investors-were-misled-about-spy-affair?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-11T22:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
+  "link": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/",
+  "published": "2026-11-11T21:05:59"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "New York Forces T-Mobile to End Data Caps On Low-Income Plans",
+  "link": "https://tech.slashdot.org/story/26/11/11/2048256/new-york-forces-t-mobile-to-end-data-caps-on-low-income-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-11T21:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Automating AWS Agent Registry updates with push-based architecture",
+  "link": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/",
+  "published": "2026-11-11T20:52:48"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/",
+  "published": "2026-11-11T20:45:45"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Ukraine Strikes Cause Permanent Data Loss at Russia's Yandex Cloud",
+  "link": "https://hardware.slashdot.org/story/26/11/11/1950231/ukraine-strikes-cause-permanent-data-loss-at-russias-yandex-cloud?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-11T20:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Accelerating generative AI delivery with reusable assets",
+  "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/",
+  "published": "2026-11-11T19:19:21"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "Test your applications against AWS locally with AWS Emulator",
+  "link": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
+  "published": "2026-11-11T19:00:44"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Court Says Trump Can't Use Leaks To Justify Spying On Journalists' LinkedIn DMs",
+  "link": "https://yro.slashdot.org/story/26/11/11/1822204/court-says-trump-cant-use-leaks-to-justify-spying-on-journalists-linkedin-dms?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-11T19:00:00"
+ },
+ {
+  "blog_name": "Shopify",
+  "blog_url": "https://shopify.engineering/",
+  "title": "Shopify’s generative discovery model",
+  "link": "https://shopify.engineering/generative-discovery",
+  "published": "2026-11-11T18:27:48"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Databricks Doubles Down on AI Products, Opens New 235,000-Square-Foot San Francisco Headquarters",
+  "link": "https://www.databricks.com/blog/databricks-doubles-down-ai-products-opens-new-235000-square-foot-san-francisco-headquarters",
+  "published": "2026-11-11T18:20:00"
+ },
+ {
+  "blog_name": "Amazon Science",
+  "blog_url": "https://www.amazon.science/",
+  "title": "Using mathematics to validate network configurations",
+  "link": "https://www.amazon.science/blog/using-mathematics-to-validate-network-configurations",
+  "published": "2026-11-11T17:02:01"
+ },
+ {
+  "blog_name": "Facebook",
+  "blog_url": "https://code.facebook.com/posts/",
+  "title": "Intelligent Delivery: Making Every Unit of Compute Serve Better Ads",
+  "link": "https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/",
+  "published": "2026-11-11T17:00:38"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+  "link": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/",
+  "published": "2026-11-11T17:00:00"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 26.13.1 (LTS)",
+  "link": "https://nodejs.org/en/blog/release/v26.13.1",
+  "published": "2026-11-11T16:45:20"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 24.22.3 (LTS)",
+  "link": "https://nodejs.org/en/blog/release/v24.22.3",
+  "published": "2026-11-11T16:45:11"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 22.23.5 (LTS)",
+  "link": "https://nodejs.org/en/blog/release/v22.23.5",
+  "published": "2026-11-11T16:44:58"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Air gapped, not data dark: how Bright Machines gives customers live factory dashboards without opening the plant",
+  "link": "https://www.databricks.com/blog/air-gapped-not-data-dark-how-bright-machines-gives-customers-live-factory-dashboards-without",
+  "published": "2026-11-11T16:10:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
   "title": "The new Genie: autonomous AI for complex enterprise work",
   "link": "https://www.databricks.com/blog/new-genie-autonomous-ai-complex-enterprise-work",
   "published": "2026-11-11T16:00:00"
+ },
+ {
+  "blog_name": "Hayden James",
+  "blog_url": "https://haydenjames.io/",
+  "title": "Best Linux Distro (2027)",
+  "link": "https://linuxblog.io/best-linux-distro/",
+  "published": "2026-11-11T15:24:01"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Tests as data: ensuring AI-generated code does what we want",
+  "link": "https://martinfowler.com/articles/tests-as-data.html",
+  "published": "2026-11-11T15:17:00"
  },
  {
   "blog_name": "Google DeepMind",
@@ -249,6 +424,41 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Where to run AWS workloads and how to limit their access",
   "link": "https://www.datadoghq.com/blog/aws-account-management/",
+  "published": "2026-11-11T00:00:00"
+ },
+ {
+  "blog_name": "Evil Martians",
+  "blog_url": "https://evilmartians.com/chronicles/",
+  "title": "Building Uscreen’s remote, multi-tenant MCP server inside a Rails app",
+  "link": "https://evilmartians.com/chronicles/building-uscreens-remote-multi-tenant-mcp-server-inside-a-rails-app",
+  "published": "2026-11-11T00:00:00"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "Using AI for CI & Automation in iOS Projects [SUBSCRIBER]",
+  "link": "https://www.kodeco.com/ios/paths/shipping-with-ai/53703840-using-ai-for-ci-automation-in-ios-projects",
+  "published": "2026-11-11T00:00:00"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "How SmileID Scaled Identity Verification to 18,000+ Android Device Types with CameraX",
+  "link": "https://developer.android.com/blog/posts/smileid-camerax-android-identity-verification",
+  "published": "2026-11-11T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Gemini Decision 1 now available on AI Gateway",
+  "link": "https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway",
+  "published": "2026-11-11T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+  "link": "https://openai.com/index/jiostar-vijay-seshadri",
   "published": "2026-11-11T00:00:00"
  },
  {
