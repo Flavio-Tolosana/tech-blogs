@@ -14,11 +14,144 @@
   "published": "2026-11-12T00:00:00"
  },
  {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "The new Genie: autonomous AI for complex enterprise work",
+  "link": "https://www.databricks.com/blog/new-genie-autonomous-ai-complex-enterprise-work",
+  "published": "2026-11-11T16:00:00"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+  "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+  "published": "2026-11-11T15:00:15"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Announcing GA of Genie Ontology",
+  "link": "https://www.databricks.com/blog/announcing-ga-genie-ontology",
+  "published": "2026-11-11T15:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "From enterprise context to action: Genie Agents now analyze more data sources to transform your work",
+  "link": "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work",
+  "published": "2026-11-11T15:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Bring your business context to ChatGPT, Claude, Microsoft Copilot Cowork and Grok Bot",
+  "link": "https://www.databricks.com/blog/bring-your-business-context-chatgpt-claude-microsoft-copilot-cowork-and-grok-bot",
+  "published": "2026-11-11T15:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Genie with Genie Ontology Delivers 1.6× the Accuracy with Less than Half the Tokens",
+  "link": "https://www.databricks.com/blog/genie-genie-ontology-delivers-16-accuracy-less-half-tokens",
+  "published": "2026-11-11T15:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Choosing QuePaxa, an unusual consensus algorithm",
+  "link": "https://blog.cloudflare.com/choosing-quepaxa/",
+  "published": "2026-11-11T14:24:46"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "What's new for developers in Red Hat Enterprise Linux 10.3 and 9.9",
+  "link": "https://developers.redhat.com/articles/2026/11/11/new-for-developers-in-rhel-10-3-and-9-9",
+  "published": "2026-11-11T14:01:55"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Control multicluster costs with right-sizing in Red Hat Advanced Cluster Management 5",
+  "link": "https://developers.redhat.com/articles/2026/11/11/control-multicluster-costs-right-sizing-red-hat-advanced-cluster-management-5",
+  "published": "2026-11-11T14:01:52"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python HTTPX: Making HTTP Requests With HTTPX2",
+  "link": "https://realpython.com/python-httpx/",
+  "published": "2026-11-11T14:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "I used em dashes before it was uncool (or: writing better with AI without the slop)",
+  "link": "https://www.hostinger.com/blog/write-better-with-ai/",
+  "published": "2026-11-11T13:31:17"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "How to Win Back Your Agency from Cognitive Surrender",
+  "link": "https://spin.atomicobject.com/preserve-shared-understanding/",
+  "published": "2026-11-11T13:00:22"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Your Laravel queue workers keep 8 copies of your app in memory",
+  "link": "https://freek.dev/3218-your-laravel-queue-workers-keep-8-copies-of-your-app-in-memory",
+  "published": "2026-11-11T12:31:09"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python HTTPX: Making HTTP Requests With HTTPX2",
+  "link": "https://realpython.com/quizzes/python-httpx/",
+  "published": "2026-11-11T12:00:00"
+ },
+ {
+  "blog_name": "Jeffrey Zeldman",
+  "blog_url": "https://zeldman.com/",
+  "title": "Better Day, Sunshine",
+  "link": "https://zeldman.com/2026/11/11/better-day-sunshine/",
+  "published": "2026-11-11T11:31:37"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "GTA VI Is Now Available For Preloading",
+  "link": "https://games.slashdot.org/story/26/11/11/0137202/gta-vi-is-now-available-for-preloading?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-11T11:00:00"
+ },
+ {
   "blog_name": "OpenAI",
   "blog_url": "https://openai.com/news/",
   "title": "ChatGPT Plus for veterans and servicemembers",
   "link": "https://openai.com/index/chatgpt-plus-for-veterans",
   "published": "2026-11-11T08:00:00"
+ },
+ {
+  "blog_name": "Ebay",
+  "blog_url": "https://www.ebayinc.com/stories/blogs/tech/",
+  "title": "eBay makes selling easier with a new camera-first experience",
+  "link": "https://www.ebayinc.com/stories/news/ebay-makes-selling-easier-with-a-new-camera-first-experience/",
+  "published": "2026-11-11T08:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "US and Rest of World Must Follow China's Lead On Green Energy, Says John Kerry",
+  "link": "https://news.slashdot.org/story/26/11/11/0126232/us-and-rest-of-world-must-follow-chinas-lead-on-green-energy-says-john-kerry?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-11T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "In the Hole",
+  "link": "https://thedailywtf.com/articles/in-the-hole",
+  "published": "2026-11-11T06:30:00"
  },
  {
   "blog_name": "Hugging Face",
@@ -70,6 +203,13 @@
   "published": "2026-11-11T01:07:19"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "UUID Request Input and Migration Failure Events in Laravel 13.42",
+  "link": "https://laravel-news.com/laravel-13-42-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-11T00:02:52"
+ },
+ {
   "blog_name": "CodeName One",
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Port Your Spring Code With Fewer Edits, and Libraries That Bring Their Own Server",
@@ -81,6 +221,34 @@
   "blog_url": "https://slashdot.org/",
   "title": "Google Fi Brings Back Network Switching With 'Secondary' Partner",
   "link": "https://mobile.slashdot.org/story/26/11/10/2221238/google-fi-brings-back-network-switching-with-secondary-partner?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-11T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "PHP2Shell. What is it and What Do You Need to Do?",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/php2shell-what-is-it-what-do-you-need-to-do",
+  "published": "2026-11-11T00:00:00"
+ },
+ {
+  "blog_name": "Rust",
+  "blog_url": "https://blog.rust-lang.org/",
+  "title": "Google Summer of Code 2026 results",
+  "link": "https://blog.rust-lang.org/2026/11/11/gsoc-2026-results/",
+  "published": "2026-11-11T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+  "link": "https://huggingface.co/blog/token-pooling",
+  "published": "2026-11-11T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Where to run AWS workloads and how to limit their access",
+  "link": "https://www.datadoghq.com/blog/aws-account-management/",
   "published": "2026-11-11T00:00:00"
  },
  {
@@ -110,6 +278,13 @@
   "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
   "link": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/",
   "published": "2026-11-10T22:35:03"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Improve Email Deliverability Rates",
+  "link": "https://www.sitepoint.com/how-to-improve-email-deliverability-rates/?utm_source=rss",
+  "published": "2026-11-10T22:14:18"
  },
  {
   "blog_name": "Slashdot",
@@ -215,6 +390,13 @@
   "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
   "link": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
   "published": "2026-11-10T17:00:49"
+ },
+ {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "From insight to action: improving infrastructure risk posture with Terraform and Concert",
+  "link": "https://www.hashicorp.com/blog/from-insight-to-action-improving-infrastructure-risk-posture-with-terraform-and-c",
+  "published": "2026-11-10T17:00:00"
  },
  {
   "blog_name": "AWS Machine Learning",
@@ -378,6 +560,20 @@
   "published": "2026-11-10T14:00:00"
  },
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Gemini 4 Carbon Explained: Google's Model That Thinks Longer",
+  "link": "https://realpython.com/gemini-4-carbon/",
+  "published": "2026-11-10T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Gemini 4 Carbon Draws a Python Reading a Book",
+  "link": "https://realpython.com/ai-benchmark-gemini-4-carbon/",
+  "published": "2026-11-10T14:00:00"
+ },
+ {
   "blog_name": "Laravel",
   "blog_url": "https://laravel-news.com/blog/",
   "title": "Laravel Rest Api 3.0: Typed Fields, Metrics, and OpenAPI Docs",
@@ -529,6 +725,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "Work at the Frontier: AI’s effect on freelance work",
   "link": "https://openai.com/index/ai-effect-on-freelance-work",
+  "published": "2026-11-10T07:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas options: Setting display precision with pd.set_option",
+  "link": "https://lernerpython.com/2026/11/10/pandas-options-setting-display-precision-with-pd-set-option/",
   "published": "2026-11-10T07:00:00"
  },
  {
@@ -714,6 +917,13 @@
   "published": "2026-11-10T00:00:00"
  },
  {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "We built an AI control plane to reduce LLM expenses and prevent data leaks",
+  "link": "https://www.thoughtworks.com/insights/blog/generative-ai/we-built-ai-control-plane-reduce-LLM-expenses-prevent-data-leaks",
+  "published": "2026-11-10T00:00:00"
+ },
+ {
   "blog_name": "Simon Willison",
   "blog_url": "http://simonwillison.net/",
   "title": "Locating the source of a mysterious beep with Claude",
@@ -726,6 +936,13 @@
   "title": "Trump Backs Nvidia CEO Jensen Huang Amid Chinese Spy Affair Investigation",
   "link": "https://yro.slashdot.org/story/26/11/09/2253208/trump-backs-nvidia-ceo-jensen-huang-amid-chinese-spy-affair-investigation?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-09T23:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Replay Missed Laravel Scheduled Tasks With Schedule Catchup",
+  "link": "https://laravel-news.com/schedule-catchup?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-09T22:32:39"
  },
  {
   "blog_name": "Laravel",
@@ -957,6 +1174,13 @@
   "title": "Shop faster and save money with built-in tools in Microsoft Edge",
   "link": "https://blogs.windows.com/msedgedev/2026/11/09/shop-faster-and-save-money-with-built-in-tools-in-microsoft-edge/",
   "published": "2026-11-09T16:55:05"
+ },
+ {
+  "blog_name": "Brandwatch",
+  "blog_url": "http://engineering.brandwatch.com/",
+  "title": "The maxxing evolution: How social and search together explain the trend’s cultural impact",
+  "link": "https://www.brandwatch.com/blog/maxxing/",
+  "published": "2026-11-09T16:27:23"
  },
  {
   "blog_name": "Hostinger",
@@ -2072,6 +2296,13 @@
   "published": "2026-11-06T08:00:00"
  },
  {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Consul 2.1.0: Advancing secure, resilient connectivity for modern and agentic applications",
+  "link": "https://www.hashicorp.com/blog/consul-210-advancing-secure-resilient-connectivity-for-modern-and-agentic-applica",
+  "published": "2026-11-06T08:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "FAA Phases Out Floppy Disks From Air Traffic Control",
@@ -2433,6 +2664,20 @@
   "blog_url": "https://openai.com/news/",
   "title": "Australian universities are creating AI-native graduates",
   "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+  "published": "2026-11-05T17:00:00"
+ },
+ {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Migrate Sentinel and OPA policies to Terraform policy faster with the Terraform policy agent",
+  "link": "https://www.hashicorp.com/blog/migrate-sentinel-and-opa-policies-to-terraform-policy-faster",
+  "published": "2026-11-05T17:00:00"
+ },
+ {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Secure AI credentials from discovery to remediation with Vault Radar and Vault",
+  "link": "https://www.hashicorp.com/blog/secure-ai-credentials-from-discovery-to-remediation-with-vault-radar-and-vault",
   "published": "2026-11-05T17:00:00"
  },
  {
