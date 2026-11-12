@@ -7,11 +7,144 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Bliki: Generated Glossary",
+  "link": "https://martinfowler.com/bliki/GeneratedGlossary.html",
+  "published": "2026-11-12T14:15:00"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Run Red Hat Enterprise Linux CoreOS on NVIDIA BlueField DPUs",
+  "link": "https://developers.redhat.com/articles/2026/11/12/run-red-hat-enterprise-linux-coreos-nvidia-bluefield-dpus",
+  "published": "2026-11-12T14:01:53"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Agent harness engineering: Separating model capabilities from enforcement",
+  "link": "https://developers.redhat.com/articles/2026/11/12/agent-harness-engineering-separating-model-capabilities-enforcement",
+  "published": "2026-11-12T14:01:51"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+  "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+  "published": "2026-11-12T14:00:59"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Learn With Mentor AI: Working Through a Coding Exercise",
+  "link": "https://realpython.com/mentor-ai-coding-exercise/",
+  "published": "2026-11-12T14:00:00"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 27.0.0-alpha.0.1.0 (Alpha)",
+  "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.0",
+  "published": "2026-11-12T13:36:10"
+ },
+ {
+  "blog_name": "Whatnot Engineering",
+  "blog_url": "https://medium.com/whatnot-engineering",
+  "title": "Don’t let overload protection be the enemy of scaling",
+  "link": "https://medium.com/whatnot-engineering/dont-let-overload-protection-be-the-enemy-of-scaling-7f59abbcb070?source=rss----162aeca881b0---4",
+  "published": "2026-11-12T13:05:42"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "We Have Coding Agents. What Is a Spike Now?",
+  "link": "https://spin.atomicobject.com/what-is-a-spike-now/",
+  "published": "2026-11-12T13:00:57"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "7 unique Spanish words that don’t *quite* translate",
+  "link": "https://blog.duolingo.com/unique-spanish-words/",
+  "published": "2026-11-12T13:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Using Laravel Boost for package development with Orchestra Testbench",
+  "link": "https://freek.dev/3219-using-laravel-boost-for-package-development-with-orchestra-testbench",
+  "published": "2026-11-12T12:30:29"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Sharing knowledge, opening doors: Hostinger colleagues inspire future tech talent in Uganda",
+  "link": "https://www.hostinger.com/blog/sharing-knowledge-opening-doors-hostinger-colleagues-inspire-future-tech-talent-in-uganda/",
+  "published": "2026-11-12T12:19:58"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Learn With Mentor AI: Working Through a Coding Exercise",
+  "link": "https://realpython.com/quizzes/mentor-ai-coding-exercise/",
+  "published": "2026-11-12T12:00:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "How do you manage the context window in Claude Code and other coding agents - like a ninja",
+  "link": "https://www.zyte.com/blog/how-to-manage-context-window-claude-code/",
+  "published": "2026-11-12T11:56:01"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Tim Peters, Python User #2 and Prolific Contributor, Dies At 74",
+  "link": "https://developers.slashdot.org/story/26/11/11/2318211/tim-peters-python-user-2-and-prolific-contributor-dies-at-74?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-12T11:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Announcing: Vibe to valid",
+  "link": "https://lernerpython.com/2026/11/12/announcing-vibe-to-valid/",
+  "published": "2026-11-12T10:01:13"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Holiday Extras is rethinking what it can build with Codex",
+  "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+  "published": "2026-11-12T09:30:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "7 Best Accounts Receivable (AR) Software Platforms for Automating Invoice-to-Cash",
+  "link": "https://www.sitepoint.com/best-accounts-receivable-ar-software-platforms/?utm_source=rss",
+  "published": "2026-11-12T09:10:36"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "How API Governance Is Evolving In The Agentic Era",
+  "link": "https://nordicapis.com/how-api-governance-is-evolving-in-the-agentic-era/",
+  "published": "2026-11-12T08:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Power Grids On 5 Continents Pulse Every 60s. Scientists Think They Know Why",
   "link": "https://hardware.slashdot.org/story/26/11/11/2347221/power-grids-on-5-continents-pulse-every-60s-scientists-think-they-know-why?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-12T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: Next Month",
+  "link": "https://thedailywtf.com/articles/next-month",
+  "published": "2026-11-12T06:30:00"
  },
  {
   "blog_name": "MIT AI News",
@@ -74,6 +207,27 @@
   "blog_url": "https://slashdot.org/",
   "title": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
   "link": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-12T00:00:00"
+ },
+ {
+  "blog_name": "Trivago",
+  "blog_url": "http://tech.trivago.com/",
+  "title": "Recycle your tests: many shades of green",
+  "link": "https://tech.trivago.com/post/2026-11-12-recycle-your-tests-many-shades-of-green/",
+  "published": "2026-11-12T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "link": "https://huggingface.co/blog/3d-lora-finetuning",
+  "published": "2026-11-12T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Supporting research on AI and children’s safety",
+  "link": "https://openai.com/index/children-first-declaration",
   "published": "2026-11-12T00:00:00"
  },
  {
@@ -231,6 +385,13 @@
   "published": "2026-11-11T18:20:00"
  },
  {
+  "blog_name": "GoCardless",
+  "blog_url": "https://gocardless.com/blog/tagged/engineering/",
+  "title": "UK consumer lending splits into two-speed market as late payments rise 24%, new research reveals",
+  "link": "https://gocardless.com/blog/uk-lending-two-speed-market",
+  "published": "2026-11-11T17:13:31"
+ },
+ {
   "blog_name": "Amazon Science",
   "blog_url": "https://www.amazon.science/",
   "title": "Using mathematics to validate network configurations",
@@ -371,6 +532,13 @@
   "published": "2026-11-11T14:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Top 6 AI Text to Speech Tools in 2026: Features, Strengths and Limits",
+  "link": "https://www.sitepoint.com/top-6-ai-text-to-speech-tools-in-2026-features-strengths-and-limits/?utm_source=rss",
+  "published": "2026-11-11T13:59:35"
+ },
+ {
   "blog_name": "Hostinger",
   "blog_url": "https://www.hostinger.com/blog/engineering/",
   "title": "I used em dashes before it was uncool (or: writing better with AI without the slop)",
@@ -385,11 +553,25 @@
   "published": "2026-11-11T13:00:22"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "5 Best AI Anime Video Generators in 2026, and Are AI Anime Videos Worth Making?",
+  "link": "https://www.sitepoint.com/5-best-ai-anime-video-generators-in-2026-and-are-ai-anime-videos-worth-making/?utm_source=rss",
+  "published": "2026-11-11T12:36:17"
+ },
+ {
   "blog_name": "Freek Van der Herten",
   "blog_url": "https://murze.be/",
   "title": "Your Laravel queue workers keep 8 copies of your app in memory",
   "link": "https://freek.dev/3218-your-laravel-queue-workers-keep-8-copies-of-your-app-in-memory",
   "published": "2026-11-11T12:31:09"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Use IP Geolocation to Stop Bots and Fraud (Without Hurting UX)",
+  "link": "https://www.sitepoint.com/how-to-use-ip-geolocation-to-stop-bots-and-fraud-without-hurting-ux/?utm_source=rss",
+  "published": "2026-11-11T12:23:33"
  },
  {
   "blog_name": "Real Python",
@@ -413,6 +595,13 @@
   "published": "2026-11-11T11:00:00"
  },
  {
+  "blog_name": "Brandwatch",
+  "blog_url": "http://engineering.brandwatch.com/",
+  "title": "Does Boolean Search Still Matter When AI Can Do the Searching?",
+  "link": "https://www.brandwatch.com/blog/boolean-search-ai/",
+  "published": "2026-11-11T10:00:05"
+ },
+ {
   "blog_name": "OpenAI",
   "blog_url": "https://openai.com/news/",
   "title": "ChatGPT Plus for veterans and servicemembers",
@@ -434,6 +623,13 @@
   "published": "2026-11-11T07:00:00"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Pandas option_context: Temporarily change display settings",
+  "link": "https://lernerpython.com/2026/11/11/pandas-option-context-temporarily-change-display-settings/",
+  "published": "2026-11-11T07:00:00"
+ },
+ {
   "blog_name": "The Daily WTF",
   "blog_url": "http://thedailywtf.com/",
   "title": "In the Hole",
@@ -446,6 +642,20 @@
   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
   "link": "https://huggingface.co/blog/qvac/botpsy",
   "published": "2026-11-11T05:01:16"
+ },
+ {
+  "blog_name": "Toptal",
+  "blog_url": "https://www.toptal.com/blog/",
+  "title": "A Practical Guide to Robot Programming in Python",
+  "link": "https://www.toptal.com/developers/robotics/programming-a-robot-an-introductory-tutorial",
+  "published": "2026-11-11T05:00:00"
+ },
+ {
+  "blog_name": "Toptal",
+  "blog_url": "https://www.toptal.com/blog/",
+  "title": "NLP Models for Text Classification: How to Choose and Implement the Right Approach",
+  "link": "https://www.toptal.com/developers/machine-learning/nlp-text-classfication-models",
+  "published": "2026-11-11T05:00:00"
  },
  {
   "blog_name": "Hostinger",
@@ -585,6 +795,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "7 questions to ask a customer engagement platform before you commit",
   "link": "https://www.twilio.com/en-us/blog/insights/customer-engagement-platform-lock-in-questions",
+  "published": "2026-11-11T00:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Bring high-performance analytics to your lakehouse with ClickHouse and Amazon S3 Tables",
+  "link": "https://clickhouse.com/blog/clickhouse-amazon-s3-tables",
   "published": "2026-11-11T00:00:00"
  },
  {
