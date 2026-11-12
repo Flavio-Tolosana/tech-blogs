@@ -7,6 +7,202 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "Build once, run on any agent: A practical guide to agent skills",
+  "link": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+  "published": "2026-11-12T22:54:52"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+  "link": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+  "published": "2026-11-12T22:03:34"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Former Nvidia CEO Jensen Huang Had a Relationship With a Second Employee",
+  "link": "https://slashdot.org/story/26/11/12/2141213/former-nvidia-ceo-jensen-huang-had-a-relationship-with-a-second-employee?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-12T22:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Dispelling LTAP myths",
+  "link": "https://www.databricks.com/blog/dispelling-ltap-myths",
+  "published": "2026-11-12T21:49:43"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
+  "published": "2026-11-12T21:47:07"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
+  "link": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
+  "published": "2026-11-12T21:15:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Singapore Says US Not Helpful On Investigation Into Suspected Spy's Company",
+  "link": "https://news.slashdot.org/story/26/11/12/1948204/singapore-says-us-not-helpful-on-investigation-into-suspected-spys-company?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-12T21:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Four Amazon Bedrock inference choices that affect cost",
+  "link": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/",
+  "published": "2026-11-12T20:51:55"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Microsoft Outlook Goes Down Nationwide [UPDATE]",
+  "link": "https://tech.slashdot.org/story/26/11/12/1959220/microsoft-outlook-goes-down-nationwide-update?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-12T20:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+  "link": "https://openai.com/index/amplitude",
+  "published": "2026-11-12T20:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets",
+  "link": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/",
+  "published": "2026-11-12T19:29:55"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How Constellation is building a governed data foundation on Databricks",
+  "link": "https://www.databricks.com/blog/how-constellation-building-governed-data-foundation-databricks",
+  "published": "2026-11-12T19:21:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Eclipse Aerospace simplifies flight-data ingestion with Databricks",
+  "link": "https://www.databricks.com/blog/eclipse-aerospace-simplifies-flight-data-ingestion-databricks",
+  "published": "2026-11-12T19:20:48"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+  "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+  "published": "2026-11-12T19:07:35"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Pushes Privacy Angle As Gemini-Powered Smartglasses Debut",
+  "link": "https://yro.slashdot.org/story/26/11/12/1831251/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-12T19:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Optimizing cost per task and proving agent ROI on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/",
+  "published": "2026-11-12T18:43:19"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Migrate Effortlessly to the Databricks Lakehouse with Genie Migrate, now Generally Available",
+  "link": "https://www.databricks.com/genie-migrate-for-lakehouse-generally-available",
+  "published": "2026-11-12T18:26:29"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Introducing Gemini 4 Hydrogen",
+  "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+  "published": "2026-11-12T18:00:50"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Iconic First Image of Black Hole Holds Up To Scrutiny",
+  "link": "https://science.slashdot.org/story/26/11/12/0312210/iconic-first-image-of-black-hole-holds-up-to-scrutiny?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-12T18:00:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Five takeaways from Extract Summit Dublin",
+  "link": "https://www.zyte.com/blog/five-takeaways-extract-summit-dublin-2026/",
+  "published": "2026-11-12T17:18:02"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How H6.ai builds AI-powered financial automation with Lakebase Postgres",
+  "link": "https://www.databricks.com/blog/how-h6ai-builds-ai-powered-financial-automation-lakebase-postgres",
+  "published": "2026-11-12T16:56:52"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Replit Agent can now buy for your business and help you reach customers",
+  "link": "https://replit.com/blog/replit-agent-ads-commerce",
+  "published": "2026-11-12T16:45:00"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter",
+  "link": "https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human-q-and-a-with-tom-harvey-stack-overflow-technical-recruiter/",
+  "published": "2026-11-12T16:16:25"
+ },
+ {
+  "blog_name": "Pinterest Engineering",
+  "blog_url": "https://medium.com/pinterest-engineering",
+  "title": "How Pinterest Improved Analytics Agent Compliance with Loop Engineering",
+  "link": "https://medium.com/pinterest-engineering/how-pinterest-improved-analytics-agent-compliance-with-loop-engineering-d3c52d0abaa2?source=rss----4c5a5f6279b6---4",
+  "published": "2026-11-12T16:01:06"
+ },
+ {
+  "blog_name": "Pinterest",
+  "blog_url": "https://medium.com/@Pinterest_Engineering",
+  "title": "How Pinterest Improved Analytics Agent Compliance with Loop Engineering",
+  "link": "https://medium.com/pinterest-engineering/how-pinterest-improved-analytics-agent-compliance-with-loop-engineering-d3c52d0abaa2?source=rss-ef81ef829bcb------2",
+  "published": "2026-11-12T16:01:05"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "How can I pass more than one parameter to co_await?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261112-00/?p=112851/",
+  "published": "2026-11-12T15:00:00"
+ },
+ {
+  "blog_name": "Shopify",
+  "blog_url": "https://shopify.engineering/",
+  "title": "Cyber Chaos Monkey: Staying ahead of security threats with AI agents",
+  "link": "https://shopify.engineering/cyber-chaos-monkey",
+  "published": "2026-11-12T14:57:16"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "What the AI trust gap looks like with our AI support agent",
+  "link": "https://www.hostinger.com/blog/ai-trust-gap/",
+  "published": "2026-11-12T14:44:28"
+ },
+ {
   "blog_name": "Martin Fowler",
   "blog_url": "https://martinfowler.com/",
   "title": "Bliki: Generated Glossary",
@@ -231,6 +427,34 @@
   "published": "2026-11-12T00:00:00"
  },
  {
+  "blog_name": "Discord",
+  "blog_url": "https://blog.discordapp.com/",
+  "title": "Discord <3 Linux: A Year of Upgrades",
+  "link": "https://discord.com/blog/discord-linux-a-year-of-upgrades",
+  "published": "2026-11-12T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Releases as Code",
+  "link": "https://code.dblock.org/2026/11/12/releases-as-code.html",
+  "published": "2026-11-12T00:00:00"
+ },
+ {
+  "blog_name": "Rust",
+  "blog_url": "https://blog.rust-lang.org/",
+  "title": "Announcing Rust 1.100.0",
+  "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+  "published": "2026-11-12T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Gemini 4 Hydrogen now available on AI Gateway",
+  "link": "https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway",
+  "published": "2026-11-12T00:00:00"
+ },
+ {
   "blog_name": "AWS Machine Learning",
   "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
   "title": "OpenAI Codex on Amazon Bedrock",
@@ -264,6 +488,13 @@
   "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
   "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
   "published": "2026-11-11T23:13:16"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laravel Read Replicas: Check if a Replica Has Caught Up",
+  "link": "https://laravel-news.com/laravel-read-replica-commit-ids?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-11T23:04:37"
  },
  {
   "blog_name": "APNIC",
@@ -383,6 +614,13 @@
   "title": "Databricks Doubles Down on AI Products, Opens New 235,000-Square-Foot San Francisco Headquarters",
   "link": "https://www.databricks.com/blog/databricks-doubles-down-ai-products-opens-new-235000-square-foot-san-francisco-headquarters",
   "published": "2026-11-11T18:20:00"
+ },
+ {
+  "blog_name": "Bootstrap.com",
+  "blog_url": "https://blog.getbootstrap.com/",
+  "title": "Bootstrap 5.3.9",
+  "link": "https://blog.getbootstrap.com/2026/11/11/bootstrap-5-3-9/",
+  "published": "2026-11-11T17:53:55"
  },
  {
   "blog_name": "GoCardless",
@@ -35992,6 +36230,13 @@
   "title": "Codeforces Blitz Cup 2026 Round of 32 livestream",
   "link": "http://blog.mitrichev.ch/2026/02/codeforces-blitz-cup-2026-round-of-32.html",
   "published": "2026-02-26T10:44:00"
+ },
+ {
+  "blog_name": "Marcelo Rinesi",
+  "blog_url": "https://blog.rinesi.com/",
+  "title": "The Mathematics of Change",
+  "link": "https://blog.rinesi.com/2026/02/mathematics-of-change",
+  "published": "2026-02-26T03:00:00"
  },
  {
   "blog_name": "OLX",
