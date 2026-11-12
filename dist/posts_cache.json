@@ -7,11 +7,116 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Power Grids On 5 Continents Pulse Every 60s. Scientists Think They Know Why",
+  "link": "https://hardware.slashdot.org/story/26/11/11/2347221/power-grids-on-5-continents-pulse-every-60s-scientists-think-they-know-why?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-12T07:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "New research could lead to faster, trustworthy AI models for climate prediction",
+  "link": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+  "published": "2026-11-12T05:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "2026 APNIC Survey: Executive Council Response",
+  "link": "https://blog.apnic.net/2026/11/12/2026-apnic-survey-executive-council-response/",
+  "published": "2026-11-12T04:50:28"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Sunken SS United States Set To Become World's Largest Artificial Reef",
+  "link": "https://news.slashdot.org/story/26/11/11/238236/sunken-ss-united-states-set-to-become-worlds-largest-artificial-reef?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-12T03:30:00"
+ },
+ {
+  "blog_name": "Zendesk",
+  "blog_url": "https://medium.com/zendesk-engineering",
+  "title": "Building an Open Service Directory registry for your platform’s support services",
+  "link": "https://zendesk.engineering/building-an-open-service-directory-registry-for-your-platforms-support-services-4074b0cffc3c?source=rss----a88376ea904a---4",
+  "published": "2026-11-12T02:01:06"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+  "link": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
+  "published": "2026-11-12T01:18:23"
+ },
+ {
   "blog_name": "OpenAI",
   "blog_url": "https://openai.com/news/",
   "title": "Gilbert + Tobin rethinks the business of law with AI",
   "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
   "published": "2026-11-12T00:00:00"
+ },
+ {
+  "blog_name": "Thoughtbot",
+  "blog_url": "https://robots.thoughtbot.com/",
+  "title": "Modernising legacy systems in UK banking and financial services",
+  "link": "https://feed.thoughtbot.com/link/24077/17522520/modernizing-legacy-systems-in-uk-banking-and-financial-services",
+  "published": "2026-11-12T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Debug Your Dart in a Java Debugger, and JFX Central on a Phone",
+  "link": "https://www.codenameone.com/blog/debug-dart-in-a-java-debugger/",
+  "published": "2026-11-12T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+  "link": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-12T00:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "OpenAI Codex on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
+  "published": "2026-11-11T23:35:47"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Semantic diffing of formal policies with anti-unification",
+  "link": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/",
+  "published": "2026-11-11T23:33:03"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
+  "link": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/",
+  "published": "2026-11-11T23:30:03"
+ },
+ {
+  "blog_name": "Jeremy Kun",
+  "blog_url": "https://jeremykun.com/",
+  "title": "CKKS — Rescaling",
+  "link": "https://www.jeremykun.com/2026/11/11/ckks-rescaling/",
+  "published": "2026-11-11T23:27:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
+  "published": "2026-11-11T23:13:16"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "[Podcast] Submarine cable resilience and economics",
+  "link": "https://blog.apnic.net/2026/11/12/podcast-submarine-cable-resilience-and-economics/",
+  "published": "2026-11-11T23:01:13"
  },
  {
   "blog_name": "Databricks",
@@ -228,6 +333,13 @@
   "blog_url": "https://databricks.com/blog",
   "title": "Genie with Genie Ontology Delivers 1.6× the Accuracy with Less than Half the Tokens",
   "link": "https://www.databricks.com/blog/genie-genie-ontology-delivers-16-accuracy-less-half-tokens",
+  "published": "2026-11-11T15:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "I didn’t write a program with emoji, but I did use a control character",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261111-00/?p=112848/",
   "published": "2026-11-11T15:00:00"
  },
  {
@@ -459,6 +571,20 @@
   "blog_url": "https://openai.com/news/",
   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
   "link": "https://openai.com/index/jiostar-vijay-seshadri",
+  "published": "2026-11-11T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Transitioning Your Communications: How to Keep Customer Messages Flowing Seamlessly",
+  "link": "https://www.twilio.com/en-us/blog/partners/integrations/transition-communications-tyntec-twilio",
+  "published": "2026-11-11T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "7 questions to ask a customer engagement platform before you commit",
+  "link": "https://www.twilio.com/en-us/blog/insights/customer-engagement-platform-lock-in-questions",
   "published": "2026-11-11T00:00:00"
  },
  {
