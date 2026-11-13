@@ -7,6 +7,62 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Agentic search doesn't find pages, it assembles answers",
+  "link": "https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/",
+  "published": "2026-11-13T08:40:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "New AI “copilot” helps engineers design better structures",
+  "link": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+  "published": "2026-11-13T05:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Helping robots fit into the human workplace",
+  "link": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
+  "published": "2026-11-13T05:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "SpaceX To Invest $74 Billion Into Data Center Construction Projects In Texas, Arizona",
+  "link": "https://slashdot.org/story/26/11/13/0121210/spacex-to-invest-74-billion-into-data-center-construction-projects-in-texas-arizona?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-13T03:30:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Whoop Launches a Social Network Where Every User Has a 'Verified Heartbeat'",
+  "link": "https://tech.slashdot.org/story/26/11/13/0135237/whoop-launches-a-social-network-where-every-user-has-a-verified-heartbeat?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-13T01:40:00"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "GitHub availability report: October 2026",
+  "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+  "published": "2026-11-13T00:20:16"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Could pigeons deliver the Internet?",
+  "link": "https://blog.apnic.net/2026/11/13/could-pigeons-deliver-the-internet/",
+  "published": "2026-11-12T23:37:47"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Nintendo Takes Down Switch Emulators, Mod Chip Firmware in Massive GitHub DMCA Sweep",
+  "link": "https://games.slashdot.org/story/26/11/12/212237/nintendo-takes-down-switch-emulators-mod-chip-firmware-in-massive-github-dmca-sweep?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-12T23:00:00"
+ },
+ {
   "blog_name": "GitHub Old",
   "blog_url": "https://github.com/blog/category/engineering",
   "title": "Build once, run on any agent: A practical guide to agent skills",
@@ -74,6 +130,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
   "link": "https://openai.com/index/amplitude",
+  "published": "2026-11-12T20:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+  "link": "https://openai.com/business/customer-stories/amplitude",
   "published": "2026-11-12T20:00:00"
  },
  {
@@ -287,6 +350,13 @@
   "published": "2026-11-12T12:00:00"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Gondola doubles revenue as its team builds more with Codex",
+  "link": "https://openai.com/business/customer-stories/gondola",
+  "published": "2026-11-12T12:00:00"
+ },
+ {
   "blog_name": "Scrapinghub",
   "blog_url": "https://blog.scrapinghub.com/",
   "title": "How do you manage the context window in Claude Code and other coding agents - like a ninja",
@@ -452,6 +522,20 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Gemini 4 Hydrogen now available on AI Gateway",
   "link": "https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway",
+  "published": "2026-11-12T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Use Agent Test Run Claims to Skip CI",
+  "link": "https://code.dblock.org/2026/11/12/use-agent-test-run-claims-to-skip-ci.html",
+  "published": "2026-11-12T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Inkling 2 Small now available on AI Gateway",
+  "link": "https://vercel.com/changelog/inkling-2-small-now-available-on-ai-gateway",
   "published": "2026-11-12T00:00:00"
  },
  {
@@ -39487,6 +39571,13 @@
   "published": "2024-03-12T15:23:14"
  },
  {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Machine learning vs. AI: Understanding the differences",
+  "link": "https://www.elastic.co/blog/ml-vs-ai",
+  "published": "2024-03-07T14:08:27"
+ },
+ {
   "blog_name": "Artsy",
   "blog_url": "http://artsy.github.io/",
   "title": "Two years of Next.js at Artsy: A Retrospective",
@@ -39632,6 +39723,13 @@
   "title": "Scaling Challenge Leaderboards for Millions of Athletes",
   "link": "https://medium.com/strava-engineering/scaling-challenge-leaderboards-for-millions-of-athletes-9ab09ef01381?source=rss----89d4108ce2a3---4",
   "published": "2024-01-18T17:01:41"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic 8.12: GA of AI Assistant for Observability, Update to Apache Lucene 9.9",
+  "link": "https://www.elastic.co/blog/whats-new-elastic-8-12-0",
+  "published": "2024-01-17T00:00:00"
  },
  {
   "blog_name": "Johannes Brodwall",
@@ -39865,6 +39963,13 @@
   "published": "2023-09-13T00:00:00"
  },
  {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elasticsearch 8.10: Powerful personalized search powered by a comprehensive connector catalog",
+  "link": "https://www.elastic.co/blog/whats-new-elastic-search-8-10-0",
+  "published": "2023-09-12T07:00:00"
+ },
+ {
   "blog_name": "NPR Apps",
   "blog_url": "http://blog.apps.npr.org/",
   "title": "Join us for the 2024 election",
@@ -39989,6 +40094,20 @@
   "title": "Fingerprint enables rapid regulatory compliance with Elastic",
   "link": "https://www.elastic.co/blog/fingerprint-enables-rapid-regulatory-compliance-with-elastic",
   "published": "2023-07-26T07:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Stack 8.9: Faster cross-cluster searches and aggregations on metrics",
+  "link": "https://www.elastic.co/blog/whats-new-elasticsearch-platform-8-9-0",
+  "published": "2023-07-25T07:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic 8.9: Meet the Elastic AI Assistant for Security and ML-powered SIEM",
+  "link": "https://www.elastic.co/blog/whats-new-elastic-8-9-0",
+  "published": "2023-07-25T07:00:00"
  },
  {
   "blog_name": "Eric Elliot",
