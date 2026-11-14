@@ -7,11 +7,67 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "I used to organize XConf. Then I took the stage to talk about AI.",
+  "link": "https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/i-used-to-organize-xconf-then-i-took-the-stage-to-talk-about-ai",
+  "published": "2026-11-16T00:00:00"
+ },
+ {
   "blog_name": "Databricks",
   "blog_url": "https://databricks.com/blog",
   "title": "Apache Spark vs Apache Flink: which should you use?",
   "link": "https://www.databricks.com/blog/spark-vs-flink",
   "published": "2026-11-14T07:02:42"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Amazon's Plan to Index the World's Online Shopping Data",
+  "link": "https://tech.slashdot.org/story/26/11/14/0226222/amazons-plan-to-index-the-worlds-online-shopping-data?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-14T07:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Your SSL certificates can now last 200 days at most: The real risk isn’t renewal",
+  "link": "https://www.sitepoint.com/ssl-certificate-lifespan-200-days-renewal/?utm_source=rss",
+  "published": "2026-11-14T06:07:40"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Windows 0-Day Dropped By Disgruntled Researcher Hands Hackers System Rights",
+  "link": "https://it.slashdot.org/story/26/11/14/020218/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-14T03:30:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "FAA Lifts Nationwide Ground Stop for All Aircraft [UPDATE]",
+  "link": "https://news.slashdot.org/story/26/11/14/0128254/faa-lifts-nationwide-ground-stop-for-all-aircraft-update?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-14T01:30:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "SpaceX Falls Short of Historic Double Starship Catch",
+  "link": "https://science.slashdot.org/story/26/11/14/0046259/spacex-falls-short-of-historic-double-starship-catch?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-14T01:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Calendars, Gantt Charts and Booking Apps Without Writing a Calendar",
+  "link": "https://www.codenameone.com/blog/scheduler-gantt-and-material-pickers/",
+  "published": "2026-11-14T00:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+  "link": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
+  "published": "2026-11-13T23:22:09"
  },
  {
   "blog_name": "Slashdot",
@@ -362,6 +418,13 @@
   "title": "Agentic search doesn't find pages, it assembles answers",
   "link": "https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/",
   "published": "2026-11-13T08:40:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+  "link": "https://openai.com/business/customer-stories/shield",
+  "published": "2026-11-13T08:00:00"
  },
  {
   "blog_name": "Slashdot",
