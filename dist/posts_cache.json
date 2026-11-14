@@ -14,6 +14,41 @@
   "published": "2026-11-16T00:00:00"
  },
  {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Reading JSON at 277 GB/s in Python",
+  "link": "https://lemire.me/blog/2026/11/14/reading-json-at-277-gb-s-in-python/",
+  "published": "2026-11-14T14:53:50"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "How to Do a Binary Search in Python",
+  "link": "https://realpython.com/binary-search-python/",
+  "published": "2026-11-14T14:00:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Lessons from a Literary Clock",
+  "link": "https://spin.atomicobject.com/lessons-from-a-literary-clock/",
+  "published": "2026-11-14T13:00:12"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "How Claude reviews our docs every Monday",
+  "link": "https://freek.dev/3221-how-claude-reviews-our-docs-every-monday",
+  "published": "2026-11-14T12:30:31"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Ex-Nvidia CEO Misled Company Leaders On Affair With Chinese Businesswoman",
+  "link": "https://yro.slashdot.org/story/26/11/14/0211248/ex-nvidia-ceo-misled-company-leaders-on-affair-with-chinese-businesswoman?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-14T11:00:00"
+ },
+ {
   "blog_name": "Databricks",
   "blog_url": "https://databricks.com/blog",
   "title": "Apache Spark vs Apache Flink: which should you use?",
@@ -26,6 +61,13 @@
   "title": "Amazon's Plan to Index the World's Online Shopping Data",
   "link": "https://tech.slashdot.org/story/26/11/14/0226222/amazons-plan-to-index-the-worlds-online-shopping-data?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-14T07:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Logging AI Prompts and Responses in Java Without Leaking Sensitive Data",
+  "link": "https://www.sitepoint.com/logging-ai-prompts-and-responses-in-java-without-leaking-sensitive-data/?utm_source=rss",
+  "published": "2026-11-14T06:15:17"
  },
  {
   "blog_name": "SitePoint",
@@ -154,6 +196,13 @@
   "published": "2026-11-13T19:35:35"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Best Ecommerce Platforms for Developers: Six Options and the Layers Each Leaves You",
+  "link": "https://www.sitepoint.com/best-ecommerce-platforms-for-developers-six-options-and-the-layers-each-leaves-you/?utm_source=rss",
+  "published": "2026-11-13T19:32:04"
+ },
+ {
   "blog_name": "Cloudflare",
   "blog_url": "https://blog.cloudflare.com/",
   "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
@@ -194,6 +243,13 @@
   "title": "Token Pass now includes $150 in tokens for $30/month",
   "link": "https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens",
   "published": "2026-11-13T18:42:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Running an AI Agent on a Local LLM: What I Measured on One GPU",
+  "link": "https://www.sitepoint.com/running-an-ai-agent-on-a-local-llm-what-i-measured-on-one-gpu/?utm_source=rss",
+  "published": "2026-11-13T18:03:55"
  },
  {
   "blog_name": "Hugging Face",
@@ -37994,6 +38050,13 @@
   "title": "Birds • Art",
   "link": "https://muffinman.io/art/birds/",
   "published": "2025-11-15T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic named a Leader in the IDC MarketScape: Worldwide Observability Platforms 2025 Vendor Assessment",
+  "link": "https://www.elastic.co/blog/elastic-observability-idc-marketscape-leader-2025",
+  "published": "2025-11-14T21:09:30"
  },
  {
   "blog_name": "Domenico Luciani",
