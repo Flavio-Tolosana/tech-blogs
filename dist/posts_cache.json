@@ -14,6 +14,41 @@
   "published": "2026-11-16T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Manjaro Linux Moves Toward Independent Community Governance",
+  "link": "https://linux.slashdot.org/story/26/11/14/2236207/manjaro-linux-moves-toward-independent-community-governance?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-14T22:37:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "EFF Criticizes US Government's Use of AI For Evaluating Senior Health Insurance Requests",
+  "link": "https://yro.slashdot.org/story/26/11/14/0641233/eff-criticizes-us-governments-use-of-ai-for-evaluating-senior-health-insurance-requests?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-14T21:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Hundreds of Fake Accounts Defended Jensen Huang On Social Media",
+  "link": "https://tech.slashdot.org/story/26/11/14/0529218/hundreds-of-fake-accounts-defended-jensen-huang-on-social-media?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-14T20:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Amazon Expands Drone Deliveries, and Gets Noise Complaints. 'Like a Swarm of Bees'",
+  "link": "https://tech.slashdot.org/story/26/11/14/0755210/amazon-expands-drone-deliveries-and-gets-noise-complaints-like-a-swarm-of-bees?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-14T19:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "America Cancels 4,000 More Flights.  FAA Denies Impact of New AI System.",
+  "link": "https://yro.slashdot.org/story/26/11/14/125229/america-cancels-4000-more-flights-faa-denies-impact-of-new-ai-system?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-14T18:00:00"
+ },
+ {
   "blog_name": "Daniel Lemire",
   "blog_url": "https://lemire.me/blog/",
   "title": "Reading JSON at 277 GB/s in Python",
@@ -26,6 +61,13 @@
   "title": "How to Do a Binary Search in Python",
   "link": "https://realpython.com/binary-search-python/",
   "published": "2026-11-14T14:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Securing FastAPI Applications: JWT Authentication and Rate Limiting with Redis",
+  "link": "https://www.sitepoint.com/securing-fastapi-applications-jwt-authentication-and-rate-limiting-with-redis/?utm_source=rss",
+  "published": "2026-11-14T13:51:10"
  },
  {
   "blog_name": "Atomic Object",
@@ -102,6 +144,13 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Calendars, Gantt Charts and Booking Apps Without Writing a Calendar",
   "link": "https://www.codenameone.com/blog/scheduler-gantt-and-material-pickers/",
+  "published": "2026-11-14T00:00:00"
+ },
+ {
+  "blog_name": "Swizec Teller",
+  "blog_url": "https://swizec.com/blog/",
+  "title": "Software has no value",
+  "link": "https://swizec.com/blog/software-has-no-value",
   "published": "2026-11-14T00:00:00"
  },
  {
