@@ -14,11 +14,67 @@
   "published": "2026-11-16T17:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "ULA Vulcan Rocket Failure Destroys 40 Amazon Leo Satellites",
+  "link": "https://science.slashdot.org/story/26/11/16/0550239/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-16T06:34:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Hot topics in DNS from DNS OARC 47",
+  "link": "https://blog.apnic.net/2026/11/16/hot-topics-in-dns-from-dns-oarc-47/",
+  "published": "2026-11-16T05:53:06"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "AI-Generated Books Confront Publishing Industry With Big Questions",
+  "link": "https://news.slashdot.org/story/26/11/16/0342245/ai-generated-books-confront-publishing-industry-with-big-questions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-16T03:45:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Should Jensen Huang Return as Nvidia's CEO? Supporters and Critics Disagree",
+  "link": "https://hardware.slashdot.org/story/26/11/16/0146256/should-jensen-huang-return-as-nvidias-ceo-supporters-and-critics-disagree?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-16T02:02:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "FAA Router In Middle-of-nowhere Arkansas Identified as Cause of Nationwide Flight Chaos",
+  "link": "https://tech.slashdot.org/story/26/11/16/0059214/faa-router-in-middle-of-nowhere-arkansas-identified-as-cause-of-nationwide-flight-chaos?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-16T01:02:00"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+  "link": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+  "published": "2026-11-16T00:00:28"
+ },
+ {
   "blog_name": "ThoughtWorks",
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "I used to organize XConf. Then I took the stage to talk about AI.",
   "link": "https://www.thoughtworks.com/insights/blog/careers-at-thoughtworks/i-used-to-organize-xconf-then-i-took-the-stage-to-talk-about-ai",
   "published": "2026-11-16T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Kafka Listeners, Mail and Live Streams in Your Backend, With Records as Entities",
+  "link": "https://www.codenameone.com/blog/kafka-mail-and-records-in-your-java-backend/",
+  "published": "2026-11-16T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Pranksters Redirect Bitly's Links in X Posts for Trump, McDonald's and Burger King",
+  "link": "https://slashdot.org/story/26/11/15/2311255/pranksters-redirect-bitlys-links-in-x-posts-for-trump-mcdonalds-and-burger-king?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-15T23:13:00"
  },
  {
   "blog_name": "OpenAI",
@@ -40,6 +96,13 @@
   "title": "Siri Glitches Ruin Reviewer's Test of Apple's New 'HomeView' Smart Speaker",
   "link": "https://apple.slashdot.org/story/26/11/15/2151238/siri-glitches-ruin-reviewers-test-of-apples-new-homeview-smart-speaker?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-15T21:53:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Qwen4-Max now available on AI Gateway",
+  "link": "https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway",
+  "published": "2026-11-15T20:00:00"
  },
  {
   "blog_name": "Slashdot",
