@@ -7,11 +7,249 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
+  "link": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
+  "published": "2026-11-16T22:43:30"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Solar photovoltaics for Internet resilience (Part 2): Choosing suppliers and components",
+  "link": "https://blog.apnic.net/2026/11/17/solar-photovoltaics-for-internet-resilience-part-2-choosing-suppliers-and-components/",
+  "published": "2026-11-16T22:36:10"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+  "link": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/",
+  "published": "2026-11-16T22:30:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/",
+  "published": "2026-11-16T22:06:08"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "FBI Says Artex AI Open-Source Hacking Tool Used to Breach Networks In 'Under Three Hours'",
+  "link": "https://it.slashdot.org/story/26/11/16/2025219/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-16T22:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
+  "link": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing/",
+  "published": "2026-11-16T21:53:46"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Microsoft Outage Leads To Chlorine Gas Poisoning At German Theme Park",
+  "link": "https://tech.slashdot.org/story/26/11/16/201240/microsoft-outage-leads-to-chlorine-gas-poisoning-at-german-theme-park?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-16T21:00:00"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+  "link": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+  "published": "2026-11-16T20:00:37"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Apple Eyes 2027 Launch For AI-Powered Smart Glasses",
+  "link": "https://apple.slashdot.org/story/26/11/16/186242/apple-eyes-2027-launch-for-ai-powered-smart-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-16T20:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Corporations Are Using Trump's Tariff Refunds On Bonuses Rather Than Reimbursing",
+  "link": "https://news.slashdot.org/story/26/11/16/1745238/corporations-are-using-trumps-tariff-refunds-on-bonuses-rather-than-reimbursing?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-16T19:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Clean data was never enough: How IFS Copperleaf taught AI its business with Databricks Genie One",
+  "link": "https://www.databricks.com/blog/clean-data-was-never-enough-how-ifs-copperleaf-taught-ai-its-business-databricks-genie-one-0",
+  "published": "2026-11-16T18:30:56"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Talk to your clinical data: unlocking AWS HealthLake with OpenSharing and Genie One",
+  "link": "https://www.databricks.com/blog/talk-your-clinical-data-unlocking-aws-healthlake-opensharing-and-genie-one",
+  "published": "2026-11-16T18:30:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/",
+  "published": "2026-11-16T18:16:07"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "SpaceX Catches Starship On the First Try",
+  "link": "https://science.slashdot.org/story/26/11/16/1721247/spacex-catches-starship-on-the-first-try?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-16T18:00:00"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026)",
+  "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/",
+  "published": "2026-11-16T17:55:46"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Hostinger VPS in 2026: Hands-On With the AI-Managed VPS",
+  "link": "https://www.sitepoint.com/hostinger-vps-ai-managed-vps-review/?utm_source=rss",
+  "published": "2026-11-16T17:39:48"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Build a real-time next-best-offer recommender using Databricks Feature Views",
+  "link": "https://www.databricks.com/blog/build-real-time-next-best-offer-recommender-using-databricks-feature-views",
+  "published": "2026-11-16T17:30:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform",
+  "link": "https://aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform/",
+  "published": "2026-11-16T17:29:29"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Building a Secure MCP (Model Context Protocol) Server with Auth0.",
+  "link": "https://auth0.com/blog/building-secure-mcp-server-with-auth0/",
+  "published": "2026-11-16T17:06:00"
+ },
+ {
   "blog_name": "Databricks",
   "blog_url": "https://databricks.com/blog",
   "title": "Teach Genie One your workflows: The ultimate guide for skills in Genie One",
   "link": "https://www.databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one",
   "published": "2026-11-16T17:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Tabular foundation models on Databricks AI Runtime",
+  "link": "https://www.databricks.com/blog/tabular-foundation-models-databricks-ai-runtime",
+  "published": "2026-11-16T17:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Hy4 Flash now available on AI Gateway for 50% off",
+  "link": "https://vercel.com/changelog/hy4-flash-now-available-on-ai-gateway-for-50-off",
+  "published": "2026-11-16T17:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Broadening access to AI for scientists",
+  "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+  "published": "2026-11-16T17:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+  "link": "https://openai.com/index/strengthening-online-child-safety",
+  "published": "2026-11-16T17:00:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Cognitive radius",
+  "link": "https://lemire.me/blog/2026/11/16/cognitive-radius/",
+  "published": "2026-11-16T16:51:07"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Lean, AI et Delivery Tech - J’ai observé le futur du développement",
+  "link": "https://blog.octo.com/lean-ai-et-delivery-tech-j'ai-observe-le-futur-du-developpement",
+  "published": "2026-11-16T16:45:10"
+ },
+ {
+  "blog_name": "Pinterest Engineering",
+  "blog_url": "https://medium.com/pinterest-engineering",
+  "title": "Rebuilding Guardian: How Pinterest Upgraded Its Real-Time Abuse Platform to Modern Infrastructure…",
+  "link": "https://medium.com/pinterest-engineering/rebuilding-guardian-how-pinterest-upgraded-its-real-time-abuse-platform-to-modern-infrastructure-56e45ee8f471?source=rss----4c5a5f6279b6---4",
+  "published": "2026-11-16T16:01:03"
+ },
+ {
+  "blog_name": "Pinterest",
+  "blog_url": "https://medium.com/@Pinterest_Engineering",
+  "title": "Rebuilding Guardian: How Pinterest Upgraded Its Real-Time Abuse Platform to Modern Infrastructure…",
+  "link": "https://medium.com/pinterest-engineering/rebuilding-guardian-how-pinterest-upgraded-its-real-time-abuse-platform-to-modern-infrastructure-56e45ee8f471?source=rss-ef81ef829bcb------2",
+  "published": "2026-11-16T16:01:02"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+  "link": "https://blogs.nvidia.com/blog/lambda-photonics/",
+  "published": "2026-11-16T16:00:51"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+  "link": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+  "published": "2026-11-16T16:00:47"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+  "link": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+  "published": "2026-11-16T16:00:25"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+  "link": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+  "published": "2026-11-16T16:00:16"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain",
+  "link": "https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain/",
+  "published": "2026-11-16T16:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0",
+  "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0/",
+  "published": "2026-11-16T16:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
+  "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/",
+  "published": "2026-11-16T16:00:00"
  },
  {
   "blog_name": "Red Hat",
@@ -63,6 +301,13 @@
   "published": "2026-11-16T12:59:03"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Build Live Video Chat With WebRTC: From First Call to Production Debugging",
+  "link": "https://www.sitepoint.com/build-live-video-chat-with-webrtc-from-first-call-to-production-debugging/?utm_source=rss",
+  "published": "2026-11-16T12:48:14"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "AI-Assisted Coders Run Windows on iPhone Duo, Build a Floppy Disk-Based AI Chatbot for MS-DOS",
@@ -84,6 +329,13 @@
   "published": "2026-11-16T12:00:00"
  },
  {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Science at the Frontier: How scientists use ChatGPT",
+  "link": "https://openai.com/index/science-at-the-frontier",
+  "published": "2026-11-16T12:00:00"
+ },
+ {
   "blog_name": "Hostinger",
   "blog_url": "https://www.hostinger.com/blog/engineering/",
   "title": "Hostinger weekly product updates: Week 46, 2026",
@@ -96,6 +348,13 @@
   "title": "A New Workflow Page for Complex Pipelines",
   "link": "https://semaphore.io/blog/a-new-workflow-page-for-complex-pipelines",
   "published": "2026-11-16T11:09:03"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "What Is the Best UI design Tool? 8 Tools Compared by the Job They Do (2026)",
+  "link": "https://www.sitepoint.com/what-is-the-best-ui-design-tool-8-tools-compared-by-the-job-they-do-2026/?utm_source=rss",
+  "published": "2026-11-16T11:02:48"
  },
  {
   "blog_name": "Scrapinghub",
@@ -117,6 +376,20 @@
   "title": "Purism Announces 'Librem 5 v2' Linux Phone with RISC-V SoC",
   "link": "https://mobile.slashdot.org/story/26/11/16/0742226/purism-announces-librem-5-v2-linux-phone-with-risc-v-soc?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-16T08:34:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Our first phase of embedded assessments",
+  "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+  "published": "2026-11-16T08:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "AI Gateway now supports Private Inference",
+  "link": "https://vercel.com/changelog/ai-gateway-now-supports-private-inference",
+  "published": "2026-11-16T07:47:00"
  },
  {
   "blog_name": "Slashdot",
@@ -152,6 +425,13 @@
   "title": "Hot topics in DNS from DNS OARC 47",
   "link": "https://blog.apnic.net/2026/11/16/hot-topics-in-dns-from-dns-oarc-47/",
   "published": "2026-11-16T05:53:06"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Agents are users, so your software needs evals",
+  "link": "https://vercel.com/blog/agent-evals",
+  "published": "2026-11-16T05:00:00"
  },
  {
   "blog_name": "SitePoint",
@@ -221,6 +501,55 @@
   "blog_url": "https://openai.com/news/",
   "title": "The King’s Trust and OpenAI launch £1m partnership",
   "link": "https://openai.com/index/the-kings-trust-and-openai",
+  "published": "2026-11-16T00:00:00"
+ },
+ {
+  "blog_name": "Discord",
+  "blog_url": "https://blog.discordapp.com/",
+  "title": "Give Discord a Vice City Makeover",
+  "link": "https://discord.com/blog/vice-city-theme-available-in-discord",
+  "published": "2026-11-16T00:00:00"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Beyond the app: Expanding buyer reach across new surfaces with Google Play",
+  "link": "https://developer.android.com/blog/posts/beyond-the-app-google-play-buyer-reach",
+  "published": "2026-11-16T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Seedance 2.5 Flash now available on AI Gateway",
+  "link": "https://vercel.com/changelog/seedance-2-5-flash-now-available-on-ai-gateway",
+  "published": "2026-11-16T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Set budgets for projects and products in Spend Management",
+  "link": "https://vercel.com/changelog/set-budgets-for-projects-and-products-in-spend-management",
+  "published": "2026-11-16T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+  "link": "https://huggingface.co/blog/openrouter",
+  "published": "2026-11-16T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "How to check if your EC2 workloads are ready for IMDSv2",
+  "link": "https://www.datadoghq.com/blog/check-ec2-workloads-imdsv2-readiness/",
+  "published": "2026-11-16T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Get useful logs from any source with Datadog Auto-Processing",
+  "link": "https://www.datadoghq.com/blog/auto-processing-log-pipelines/",
   "published": "2026-11-16T00:00:00"
  },
  {
@@ -1292,6 +1621,13 @@
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter",
   "link": "https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human-q-and-a-with-tom-harvey-stack-overflow-technical-recruiter/",
+  "published": "2026-11-12T16:16:25"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter",
+  "link": "https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human/",
   "published": "2026-11-12T16:16:25"
  },
  {
