@@ -14,6 +14,111 @@
   "published": "2026-11-16T17:00:00"
  },
  {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Red Hat Enterprise Linux 10 Developer Preview for RISC-V updates to 10.3",
+  "link": "https://developers.redhat.com/articles/2026/11/16/rhel-10-developer-preview-for-risc-v-updates-to-10-3",
+  "published": "2026-11-16T14:17:02"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Streamlining Red Hat OpenShift support with the new support log gather operator",
+  "link": "https://developers.redhat.com/articles/2026/11/16/streamlining-red-hat-openshift-support-with-the-new-support-log-gather-operator",
+  "published": "2026-11-16T14:17:00"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "Give sandboxed agents live web access with the Firecrawl kit for Docker Sandboxes",
+  "link": "https://www.docker.com/blog/docker-sandboxes-firecrawl-web-access/",
+  "published": "2026-11-16T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "How to Set Up a Python Project for Agentic Coding",
+  "link": "https://realpython.com/python-project-for-agentic-coding/",
+  "published": "2026-11-16T14:00:00"
+ },
+ {
+  "blog_name": "Jeffrey Zeldman",
+  "blog_url": "https://zeldman.com/",
+  "title": "Standout Designs for the Web",
+  "link": "https://zeldman.com/2026/11/16/standout-designs-for-the-web/",
+  "published": "2026-11-16T13:29:26"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Building Software for Value: Start with the Outcome and Work Backward",
+  "link": "https://spin.atomicobject.com/building-software-value-outcome/",
+  "published": "2026-11-16T13:00:27"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "How we taught AI models to share memory instead of starting over",
+  "link": "https://www.hostinger.com/blog/kv-cache-translation/",
+  "published": "2026-11-16T12:59:03"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "AI-Assisted Coders Run Windows on iPhone Duo, Build a Floppy Disk-Based AI Chatbot for MS-DOS",
+  "link": "https://tech.slashdot.org/story/26/11/16/0848255/ai-assisted-coders-run-windows-on-iphone-duo-build-a-floppy-disk-based-ai-chatbot-for-ms-dos?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-16T12:34:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "wire:key and the Row That Kept the Wrong Data",
+  "link": "https://freek.dev/3224-wirekey-and-the-row-that-kept-the-wrong-data",
+  "published": "2026-11-16T12:30:15"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: How to Set Up a Python Project for Agentic Coding",
+  "link": "https://realpython.com/quizzes/python-project-for-agentic-coding/",
+  "published": "2026-11-16T12:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Hostinger weekly product updates: Week 46, 2026",
+  "link": "https://www.hostinger.com/blog/product-updates-week-46-2026/",
+  "published": "2026-11-16T11:47:55"
+ },
+ {
+  "blog_name": "Semaphore Engineering",
+  "blog_url": "http://semaphoreci.io/feed",
+  "title": "A New Workflow Page for Complex Pipelines",
+  "link": "https://semaphore.io/blog/a-new-workflow-page-for-complex-pipelines",
+  "published": "2026-11-16T11:09:03"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "The easiest sites to scrape are the ones that want to be found",
+  "link": "https://www.zyte.com/blog/sowa-easiest-sites-to-scrape/",
+  "published": "2026-11-16T10:10:58"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+  "link": "https://openai.com/index/lvmh-media-division-partnership",
+  "published": "2026-11-16T09:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Purism Announces 'Librem 5 v2' Linux Phone with RISC-V SoC",
+  "link": "https://mobile.slashdot.org/story/26/11/16/0742226/purism-announces-librem-5-v2-linux-phone-with-risc-v-soc?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-16T08:34:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "ULA Vulcan Rocket Failure Destroys 40 Amazon Leo Satellites",
@@ -21,11 +126,39 @@
   "published": "2026-11-16T06:34:00"
  },
  {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Unenumerbrated",
+  "link": "https://thedailywtf.com/articles/unenumerbrated",
+  "published": "2026-11-16T06:30:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Advancing computer-use agents for healthcare teams",
+  "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+  "published": "2026-11-16T06:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "More ways to move care forward with ChatGPT for Healthcare",
+  "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+  "published": "2026-11-16T06:00:00"
+ },
+ {
   "blog_name": "APNIC",
   "blog_url": "https://blog.apnic.net/",
   "title": "Hot topics in DNS from DNS OARC 47",
   "link": "https://blog.apnic.net/2026/11/16/hot-topics-in-dns-from-dns-oarc-47/",
   "published": "2026-11-16T05:53:06"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Markdown to PDF in 2026: No-Install Methods and the Rendering Problems Nobody Warns You About",
+  "link": "https://www.sitepoint.com/markdown-to-pdf-in-2026-no-install-methods-and-the-rendering-problems-nobody-warns-you-about/?utm_source=rss",
+  "published": "2026-11-16T04:51:57"
  },
  {
   "blog_name": "Slashdot",
@@ -49,6 +182,13 @@
   "published": "2026-11-16T01:02:00"
  },
  {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "JSONBench is back, and ClickHouse still leads",
+  "link": "https://clickhouse.com/blog/jsonbench-is-back-clickhouse-still-leads",
+  "published": "2026-11-16T00:30:00"
+ },
+ {
   "blog_name": "Nvidia",
   "blog_url": "https://blogs.nvidia.com/",
   "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
@@ -67,6 +207,20 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Kafka Listeners, Mail and Live Streams in Your Backend, With Records as Entities",
   "link": "https://www.codenameone.com/blog/kafka-mail-and-records-in-your-java-backend/",
+  "published": "2026-11-16T00:00:00"
+ },
+ {
+  "blog_name": "Rust",
+  "blog_url": "https://blog.rust-lang.org/",
+  "title": "Enabling the parallel frontend on nightly",
+  "link": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/",
+  "published": "2026-11-16T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "The King’s Trust and OpenAI launch £1m partnership",
+  "link": "https://openai.com/index/the-kings-trust-and-openai",
   "published": "2026-11-16T00:00:00"
  },
  {
@@ -929,6 +1083,20 @@
   "title": "Investigate the person behind the risk with Cloud SIEM",
   "link": "https://www.datadoghq.com/blog/cloud-siem-investigate-user-entity-risks/",
   "published": "2026-11-13T00:00:00"
+ },
+ {
+  "blog_name": "Vinted",
+  "blog_url": "http://engineering.vinted.com/",
+  "title": "Vinted is Fully Composed",
+  "link": "https://vinted.engineering//2026/11/13/vinted-is-fully-composed/",
+  "published": "2026-11-13T00:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Session Replay for Laravel: Self-Hosted Browser Recordings",
+  "link": "https://laravel-news.com/laravel-session-replay?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-12T23:41:11"
  },
  {
   "blog_name": "Laravel",
