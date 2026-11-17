@@ -7,6 +7,90 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "The pioneering coding tricks that built Doom and Quake",
+  "link": "https://stackoverflow.blog/2026/11/17/coding-tricks-that-built-doom-and-quake/",
+  "published": "2026-11-17T08:40:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "California Sues OpenAI Over Hugging Face, Other AI Model Loss of Control",
+  "link": "https://yro.slashdot.org/story/26/11/16/2353225/california-sues-openai-over-hugging-face-other-ai-model-loss-of-control?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-17T07:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "How can I ask a second program to show a dialog box as if it were shown by my first program?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261116-01/?p=112863/",
+  "published": "2026-11-17T05:54:01"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Q&A: Why building math muscles remains important in the AI era",
+  "link": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
+  "published": "2026-11-17T05:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Learning the language of machine learning",
+  "link": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+  "published": "2026-11-17T05:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+  "link": "https://news.slashdot.org/story/26/11/16/2137223/just-400-us-data-centers-use-more-electricity-than-michigan?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-17T03:30:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Ship Your Game on Steam, and Why the Art Matters More Than the Engine",
+  "link": "https://www.codenameone.com/blog/ship-your-java-game-on-steam/",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "JPMorgan Chase Glitch Disrupts Online Banking Across Major US Banks",
+  "link": "https://news.slashdot.org/story/26/11/16/2332229/jpmorgan-chase-glitch-disrupts-online-banking-across-major-us-banks?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Stenberg",
+  "blog_url": "https://daniel.haxx.se/blog/",
+  "title": "Actual curl rewrites in rust",
+  "link": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/",
+  "published": "2026-11-16T23:54:58"
+ },
+ {
+  "blog_name": "Heroku",
+  "blog_url": "https://www.heroku.com/blog/",
+  "title": "Heroku at KubeCon Recap: Meeting Builders Where They Build",
+  "link": "https://www.heroku.com/blog/heroku-at-kubecon-recap-meeting-builders-where-they-build/",
+  "published": "2026-11-16T23:33:35"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+  "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+  "published": "2026-11-16T23:00:05"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Comcast's 'Fiber-Powered Wi-Fi' Is Just Cable, AT&amp;T Says In False Advertising Case",
+  "link": "https://yro.slashdot.org/story/26/11/16/2129234/comcasts-fiber-powered-wi-fi-is-just-cable-att-says-in-false-advertising-case?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-16T23:00:00"
+ },
+ {
   "blog_name": "AWS Machine Learning",
   "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
   "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
@@ -172,6 +256,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
   "link": "https://openai.com/index/strengthening-online-child-safety",
+  "published": "2026-11-16T17:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Introducing the Databricks AI Index: The state of enterprise AI tokenomics",
+  "link": "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
   "published": "2026-11-16T17:00:00"
  },
  {
@@ -366,6 +457,13 @@
  {
   "blog_name": "OpenAI",
   "blog_url": "https://openai.com/news/",
+  "title": "How Revolut raises ambition without lowering the bar",
+  "link": "https://openai.com/business/customer-stories/revolut",
+  "published": "2026-11-16T09:30:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
   "link": "https://openai.com/index/lvmh-media-division-partnership",
   "published": "2026-11-16T09:00:00"
@@ -550,6 +648,13 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Get useful logs from any source with Datadog Auto-Processing",
   "link": "https://www.datadoghq.com/blog/auto-processing-log-pipelines/",
+  "published": "2026-11-16T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "How attackers target banks through trusted logins and tools",
+  "link": "https://www.elastic.co/blog/how-attackers-target-banks",
   "published": "2026-11-16T00:00:00"
  },
  {
@@ -5485,6 +5590,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "How to audit what your AI agent knows about a customer",
   "link": "https://www.twilio.com/en-us/blog/insights/ai-agent-audit-trail",
+  "published": "2026-11-05T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Distributed by design: Why Agile Combat Employment needs 1 platform, not a dozen",
+  "link": "https://www.elastic.co/blog/agile-combat-employment",
   "published": "2026-11-05T00:00:00"
  },
  {
@@ -40511,6 +40623,13 @@
  {
   "blog_name": "Elastic",
   "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "How are GenAI and data analytics reshaping the public sector?",
+  "link": "https://www.elastic.co/blog/behind-the-scenes-genai-data-analytics-public-sector",
+  "published": "2024-09-26T07:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
   "title": "Encryption at rest in Elastic Cloud: Bring your own key with Google Cloud",
   "link": "https://www.elastic.co/blog/encryption-at-rest-elastic-cloud-google-cloud",
   "published": "2024-09-25T00:00:00"
@@ -42049,6 +42168,13 @@
   "published": "2023-01-10T00:00:00"
  },
  {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Looking back at 2022 — Elastic year in review",
+  "link": "https://www.elastic.co/blog/looking-back-at-2022-elastic-year-in-review",
+  "published": "2023-01-03T00:00:00"
+ },
+ {
   "blog_name": "Alan Storm",
   "blog_url": "http://alanstorm.com/",
   "title": "Accessing Docker Desktop’s Virtual Machine",
@@ -42138,6 +42264,13 @@
   "title": "DevOps at Findmypast: Postgres Database Upgrades",
   "link": "https://tech.findmypast.com/postgres-database-upgrades/",
   "published": "2022-11-17T11:30:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic at AWS re:Invent 2022",
+  "link": "https://www.elastic.co/blog/elastic-aws-reinvent-2022",
+  "published": "2022-11-14T00:00:00"
  },
  {
   "blog_name": "Cerner",
