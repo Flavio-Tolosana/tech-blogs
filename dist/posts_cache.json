@@ -7,6 +7,251 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google To Keep Temporary Gemini Chats For Two Months",
+  "link": "https://yro.slashdot.org/story/26/11/17/2246233/google-to-keep-temporary-gemini-chats-for-two-months?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-17T23:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
+  "link": "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/",
+  "published": "2026-11-17T22:44:51"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Optimizely Hack Turns World's Biggest Websites Into Malware Dispensers",
+  "link": "https://it.slashdot.org/story/26/11/17/2035243/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-17T22:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Cut generative AI costs: Code for rules, models for judgment",
+  "link": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/",
+  "published": "2026-11-17T21:14:55"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
+  "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/",
+  "published": "2026-11-17T21:11:51"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Introducing staged publishing on NuGet.org",
+  "link": "https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/",
+  "published": "2026-11-17T21:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Nvidia Stopped Disclosing Singapore Sales As Revenues Hit $104 Billion",
+  "link": "https://news.slashdot.org/story/26/11/17/1942228/nvidia-stopped-disclosing-singapore-sales-as-revenues-hit-104-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-17T21:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Putting a spotlight on AI, society, and humanity",
+  "link": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+  "published": "2026-11-17T20:40:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Govern and discover records with common metadata in AWS Agent Registry",
+  "link": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/",
+  "published": "2026-11-17T20:31:04"
+ },
+ {
+  "blog_name": "Heroku",
+  "blog_url": "https://www.heroku.com/blog/",
+  "title": "Introducing Snapshot Migration to Heroku Postgres Advanced",
+  "link": "https://www.heroku.com/blog/introducing-snapshot-migration-heroku-postgres-advanced/",
+  "published": "2026-11-17T20:29:26"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/",
+  "published": "2026-11-17T20:25:23"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+  "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+  "published": "2026-11-17T20:24:27"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Standard builds move to usage-based billing for new teams",
+  "link": "https://vercel.com/changelog/standard-build-billing-new-teams",
+  "published": "2026-11-17T20:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Highly Classified NSA Network Goes Down",
+  "link": "https://news.slashdot.org/story/26/11/17/1954223/highly-classified-nsa-network-goes-down?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-17T20:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Azure Databricks sessions at Microsoft Ignite 2026",
+  "link": "https://www.databricks.com/blog/azure-databricks-sessions-microsoft-ignite-2026",
+  "published": "2026-11-17T19:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Branch, sync, serve: What our Lakebase Hackathon taught us about building on Lakebase",
+  "link": "https://www.databricks.com/blog/branch-sync-serve-what-our-lakebase-hackathon-taught-us-about-building-lakebase",
+  "published": "2026-11-17T19:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "School Phone Bans Are Gradually Improving Test Scores",
+  "link": "https://mobile.slashdot.org/story/26/11/17/1739215/school-phone-bans-are-gradually-improving-test-scores?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-17T19:00:00"
+ },
+ {
+  "blog_name": "Microsoft Edge",
+  "blog_url": "https://blogs.windows.com/msedgedev/",
+  "title": "Edge for Business becomes the most used enterprise browser and unveils Ignite 2026 innovations",
+  "link": "https://blogs.windows.com/msedgedev/2026/11/17/edge-for-business-ignite-2026-innovations/",
+  "published": "2026-11-17T18:40:43"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "Maintainers don’t need more AI bug reports. They need fixes.",
+  "link": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+  "published": "2026-11-17T18:29:29"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "Building the Agent Host Protocol for sessions that continue across devices",
+  "link": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+  "published": "2026-11-17T18:20:40"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Bring your Claude Platform organization to ClickHouse Cloud with linked billing",
+  "link": "https://clickhouse.com/blog/claude-platform-linked-billing",
+  "published": "2026-11-17T18:14:57"
+ },
+ {
+  "blog_name": "Airbnb",
+  "blog_url": "https://medium.com/airbnb-engineering",
+  "title": "De-identifying text at scale: How Airbnb protects personal data in AI training",
+  "link": "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss----53c7c27702d5---4",
+  "published": "2026-11-17T18:01:03"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Blob now supports TTLs for automatic deletion",
+  "link": "https://vercel.com/changelog/vercel-blob-now-supports-ttls-for-automatic-deletion",
+  "published": "2026-11-17T18:00:00"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Introducing Replit Missions",
+  "link": "https://replit.com/blog/introducing-replit-missions",
+  "published": "2026-11-17T18:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Introducing GPT-6.2 Astra and Sol",
+  "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+  "published": "2026-11-17T17:45:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
+  "link": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/",
+  "published": "2026-11-17T17:30:00"
+ },
+ {
+  "blog_name": "AWS",
+  "blog_url": "https://aws.amazon.com/blogs/aws/",
+  "title": "Four Continents, Four New AWS Heroes: Closing Out 2026",
+  "link": "https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/",
+  "published": "2026-11-17T17:06:43"
+ },
+ {
+  "blog_name": "Netflix",
+  "blog_url": "https://medium.com/netflix-techblog",
+  "title": "Engineering AI Discover",
+  "link": "https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4",
+  "published": "2026-11-17T17:01:02"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins",
+  "link": "https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins/",
+  "published": "2026-11-17T17:00:00"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+  "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+  "published": "2026-11-17T16:48:33"
+ },
+ {
+  "blog_name": "Tailscale",
+  "blog_url": "https://tailscale.com/blog",
+  "title": "Netmap caching: keeping Tailscale up on iffy connections",
+  "link": "https://tailscale.com/blog/netmap-caching",
+  "published": "2026-11-17T16:45:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "ClickHouse forecasting and anomaly detection with time series foundation models",
+  "link": "https://clickhouse.com/blog/clickhouse-time-series-foundation-models",
+  "published": "2026-11-17T16:39:39"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "The new Azure Databricks on Azure Government is now in Beta",
+  "link": "https://www.databricks.com/blog/new-azure-databricks-azure-government-now-beta",
+  "published": "2026-11-17T16:30:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Advancing Catalog Interoperability with Unity Catalog and Google Cloud’s Borderless Lakehouse",
+  "link": "https://www.databricks.com/blog/advancing-catalog-interoperability-unity-catalog-and-google-clouds-borderless-lakehouse",
+  "published": "2026-11-17T16:30:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How packaged clean rooms bring RampID to your lakehouse",
+  "link": "https://www.databricks.com/blog/liveramp-rampid-identity-resolution-packaged-clean-rooms",
+  "published": "2026-11-17T16:30:00"
+ },
+ {
   "blog_name": "Martin Fowler",
   "blog_url": "https://martinfowler.com/",
   "title": "Deterministic Simulation Testing",
@@ -42,6 +287,13 @@
   "published": "2026-11-17T14:01:36"
  },
  {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+  "link": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+  "published": "2026-11-17T14:00:10"
+ },
+ {
   "blog_name": "Real Python",
   "blog_url": "https://realpython.com/blog/",
   "title": "Python Bindings: Calling C or C++ From Python",
@@ -74,6 +326,13 @@
   "blog_url": "https://blog.duolingo.com/",
   "title": "A brief history of Italian: how one city’s dialect became a nation’s language",
   "link": "https://blog.duolingo.com/history-of-italian-language/",
+  "published": "2026-11-17T13:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Native lint and typecheck Deployment Checks are being deprecated",
+  "link": "https://vercel.com/changelog/native-lint-and-typecheck-deployment-checks-are-being-deprecated",
   "published": "2026-11-17T13:00:00"
  },
  {
@@ -133,10 +392,31 @@
   "published": "2026-11-17T08:00:00"
  },
  {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "From exposed secrets to managed credentials: Reducing credential risk across the application lifecycle",
+  "link": "https://www.hashicorp.com/blog/from-exposed-secrets-to-managed-credentials",
+  "published": "2026-11-17T08:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Introducing ChatGPT for Sales",
+  "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+  "published": "2026-11-17T08:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "California Sues OpenAI Over Hugging Face, Other AI Model Loss of Control",
   "link": "https://yro.slashdot.org/story/26/11/16/2353225/california-sues-openai-over-hugging-face-other-ai-model-loss-of-control?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-17T07:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How Consumer AI Companions Handle Context Windows, Persistent Memory, and Voice Latency",
+  "link": "https://www.sitepoint.com/consumer-ai-companions-context-memory-voice-latency/?utm_source=rss",
   "published": "2026-11-17T07:00:00"
  },
  {
@@ -173,6 +453,13 @@
   "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
   "link": "https://news.slashdot.org/story/26/11/16/2137223/just-400-us-data-centers-use-more-electricity-than-michigan?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-17T03:30:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Pull-request-only preset now available for preview builds",
+  "link": "https://vercel.com/changelog/pull-request-only-preset-now-available-for-preview-builds",
+  "published": "2026-11-17T02:37:03"
  },
  {
   "blog_name": "CodeName One",
@@ -242,6 +529,48 @@
   "blog_url": "https://openai.com/news/",
   "title": "Introducing OpenAI for Chile",
   "link": "https://openai.com/index/introducing-openai-for-chile",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "Android",
+  "blog_url": "https://android-developers.blogspot.com/",
+  "title": "Ship smarter keep rules: How library providers can unblock app-level DEX code optimization",
+  "link": "https://developer.android.com/blog/posts/ship-smarter-keep-rules-unblock-dex-optimization",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Introducing eve 1.0",
+  "link": "https://vercel.com/blog/eve-is-now-generally-available",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Astra for Law leads in legal intelligence",
+  "link": "https://openai.com/index/astra-law-6-2",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "How we scaled metrics aggregation by moving durable state into storage",
+  "link": "https://www.datadoghq.com/blog/engineering/how-we-scaled-metrics-aggregation/",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Send query-ready logs to Azure Data Explorer with Datadog Observability Pipelines",
+  "link": "https://www.datadoghq.com/blog/adx-observability-pipelines/",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Datadog named a Leader in the 2026 Gartner® Magic Quadrant™ for Observability Pipelines",
+  "link": "https://www.datadoghq.com/blog/datadog-observability-pipelines-gartner-magic-quadrant-2026/",
   "published": "2026-11-17T00:00:00"
  },
  {
@@ -371,6 +700,13 @@
   "published": "2026-11-16T18:16:07"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Is Kling 4.0 the Right AI Video Generator for Your Project?",
+  "link": "https://www.sitepoint.com/is-kling-4-0-the-right-ai-video-generator-for-your-project/?utm_source=rss",
+  "published": "2026-11-16T18:07:02"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "SpaceX Catches Starship On the First Try",
@@ -452,6 +788,13 @@
   "blog_url": "https://databricks.com/blog",
   "title": "Introducing the Databricks AI Index: The state of enterprise AI tokenomics",
   "link": "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
+  "published": "2026-11-16T17:00:00"
+ },
+ {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "HCP introduces IBMid support and new enterprise governance capabilities",
+  "link": "https://www.hashicorp.com/blog/hcp-introduces-ibmid-support-and-new-enterprise-governance-capabilities",
   "published": "2026-11-16T17:00:00"
  },
  {
@@ -558,6 +901,13 @@
   "title": "How to Set Up a Python Project for Agentic Coding",
   "link": "https://realpython.com/python-project-for-agentic-coding/",
   "published": "2026-11-16T14:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Test WCAG 2.2 in CI: What axe-core Misses",
+  "link": "https://www.sitepoint.com/how-to-test-wcag-2-2-in-ci-what-axe-core-misses/?utm_source=rss",
+  "published": "2026-11-16T13:52:13"
  },
  {
   "blog_name": "Jeffrey Zeldman",
@@ -733,6 +1083,13 @@
   "title": "AI-Generated Books Confront Publishing Industry With Big Questions",
   "link": "https://news.slashdot.org/story/26/11/16/0342245/ai-generated-books-confront-publishing-industry-with-big-questions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-16T03:45:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Durable Workflow: Long-Running Workflows for Laravel",
+  "link": "https://laravel-news.com/durable-workflow-laravel?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-16T03:04:17"
  },
  {
   "blog_name": "Slashdot",
