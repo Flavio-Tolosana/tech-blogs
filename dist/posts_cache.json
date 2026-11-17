@@ -7,6 +7,104 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Deterministic Simulation Testing",
+  "link": "https://martinfowler.com/articles/deterministic-simulation-testing.html",
+  "published": "2026-11-17T14:33:00"
+ },
+ {
+  "blog_name": "Lyft",
+  "blog_url": "https://eng.lyft.com/",
+  "title": "Smooth Cruiser at Lyft: Built for Safety and Transparency",
+  "link": "https://eng.lyft.com/smooth-cruiser-at-lyft-built-for-safety-and-transparency-b6a461e16f2a?source=rss----25cd379abb8---4",
+  "published": "2026-11-17T14:27:11"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "GitOps Promoter: Declare, deploy, deliver",
+  "link": "https://developers.redhat.com/articles/2026/11/17/gitops-promoter-technology-preview",
+  "published": "2026-11-17T14:01:39"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Securing third-party AI agents on Red Hat AI with OpenShell",
+  "link": "https://developers.redhat.com/articles/2026/11/17/omnigent-case-study-securing-third-party-ai-agents-on-red-hat-ai-with-openshell",
+  "published": "2026-11-17T14:01:38"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Red Hat Enterprise Linux GitHub hosted runner images now generally available",
+  "link": "https://developers.redhat.com/articles/2026/11/17/red-hat-enterprise-linux-github-hosted-runner-images-ga",
+  "published": "2026-11-17T14:01:36"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Python Bindings: Calling C or C++ From Python",
+  "link": "https://realpython.com/python-bindings-overview/",
+  "published": "2026-11-17T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Getting Started With Git",
+  "link": "https://realpython.com/courses/getting-started-with-git/",
+  "published": "2026-11-17T14:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Built on object storage, served from cache",
+  "link": "https://www.databricks.com/blog/built-object-storage-served-cache",
+  "published": "2026-11-17T13:54:05"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "A Human’s Guide to iOS Development: 5 Lessons from My First Swift App",
+  "link": "https://spin.atomicobject.com/ios-development-swift-app/",
+  "published": "2026-11-17T13:00:54"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "A brief history of Italian: how one city’s dialect became a nation’s language",
+  "link": "https://blog.duolingo.com/history-of-italian-language/",
+  "published": "2026-11-17T13:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Giving AI Agents a Better Way to Debug CSS",
+  "link": "https://freek.dev/3225-giving-ai-agents-a-better-way-to-debug-css",
+  "published": "2026-11-17T12:30:30"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Understanding Python Namespace Packages",
+  "link": "https://realpython.com/quizzes/understanding-python-namespace-packages/",
+  "published": "2026-11-17T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "'123456' Has Been the World's Most Popular Password for 7 of the Last 8 Years",
+  "link": "https://it.slashdot.org/story/26/11/17/006235/123456-has-been-the-worlds-most-popular-password-for-7-of-the-last-8-years?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-17T11:00:00"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 27.0.0-alpha.0.1.1 (Alpha)",
+  "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.1",
+  "published": "2026-11-17T08:41:07"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "The pioneering coding tricks that built Doom and Quake",
@@ -14,11 +112,39 @@
   "published": "2026-11-17T08:40:00"
  },
  {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Hostinger launches Preview, a free tool for sharing local projects with clients",
+  "link": "https://www.hostinger.com/blog/hostinger-preview-launch/",
+  "published": "2026-11-17T08:12:47"
+ },
+ {
+  "blog_name": "Ebay",
+  "blog_url": "https://www.ebayinc.com/stories/blogs/tech/",
+  "title": "eBay reveals the collectibles that defined 2026",
+  "link": "https://www.ebayinc.com/stories/news/ebay-reveals-the-collectibles-that-defined-2026/",
+  "published": "2026-11-17T08:00:00"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "7 Questions Your API Context Graph Should Be Able to Answer",
+  "link": "https://nordicapis.com/7-questions-your-api-context-graph-should-be-able-to-answer/",
+  "published": "2026-11-17T08:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "California Sues OpenAI Over Hugging Face, Other AI Model Loss of Control",
   "link": "https://yro.slashdot.org/story/26/11/16/2353225/california-sues-openai-over-hugging-face-other-ai-model-loss-of-control?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-17T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: Building a Line",
+  "link": "https://thedailywtf.com/articles/building-a-line",
+  "published": "2026-11-17T06:30:00"
  },
  {
   "blog_name": "Raymond Chen",
@@ -60,6 +186,62 @@
   "blog_url": "https://slashdot.org/",
   "title": "JPMorgan Chase Glitch Disrupts Online Banking Across Major US Banks",
   "link": "https://news.slashdot.org/story/26/11/16/2332229/jpmorgan-chase-glitch-disrupts-online-banking-across-major-us-banks?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "How security leaders see AI being used in the SOC",
+  "link": "https://www.elastic.co/blog/how-security-leaders-see-ai-being-used-in-the-soc",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Monitor your Azure AI stack and get broad Azure coverage with Datadog",
+  "link": "https://www.datadoghq.com/blog/azure-ai-monitoring-ignite-2026/",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Taking AI agents from pilot to production starts with workforce design",
+  "link": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/taking-ai-agents-from-pilot-to-production-starts-with-workforce-",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Why agentic AI pilots don’t scale",
+  "link": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/why-agentic-ai-pilots-dont-scale",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Model sovereignty is not about owning the model",
+  "link": "https://www.thoughtworks.com/insights/articles/model-sovereignty-is-not-about-owning-the-model",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Sovereign AI: A practical approach to models, infrastructure and control",
+  "link": "https://www.thoughtworks.com/insights/articles/sovereign-ai--practical-approach-to-models-infrastructure-and-control",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Strengthening NATO and allied cyber defenses with AI",
+  "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Introducing OpenAI for Chile",
+  "link": "https://openai.com/index/introducing-openai-for-chile",
   "published": "2026-11-17T00:00:00"
  },
  {
@@ -152,6 +334,13 @@
   "title": "Apple Eyes 2027 Launch For AI-Powered Smart Glasses",
   "link": "https://apple.slashdot.org/story/26/11/16/186242/apple-eyes-2027-launch-for-ai-powered-smart-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-16T20:00:00"
+ },
+ {
+  "blog_name": "Gusto",
+  "blog_url": "http://engineering.gusto.com/",
+  "title": "The Case for AI Guardrails: How We Switched AI from Copy-Pasta to Building the Way We Want",
+  "link": "https://engineering.gusto.com/the-case-for-ai-guardrails-how-we-switched-ai-from-copy-pasta-to-building-the-way-we-want-c4559b820e65?source=rss----645edd256348---4",
+  "published": "2026-11-16T19:01:53"
  },
  {
   "blog_name": "Slashdot",
@@ -2454,6 +2643,13 @@
   "blog_url": "https://www.ebayinc.com/stories/blogs/tech/",
   "title": "eBay makes selling easier with a new camera-first experience",
   "link": "https://www.ebayinc.com/stories/news/ebay-makes-selling-easier-with-a-new-camera-first-experience/",
+  "published": "2026-11-11T08:00:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "What is a self-healing web scraper?",
+  "link": "https://www.zyte.com/blog/what-is-a-self-healing-web-scraper/",
   "published": "2026-11-11T08:00:00"
  },
  {
