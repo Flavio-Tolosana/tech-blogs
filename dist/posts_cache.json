@@ -7,6 +7,174 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+  "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+  "published": "2026-11-18T15:00:23"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+  "link": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/",
+  "published": "2026-11-18T15:00:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
+  "link": "https://blog.cloudflare.com/java4shell-waf-protection/",
+  "published": "2026-11-18T14:52:10"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "How to inspect, test, and debug MCP servers in Red Hat OpenShift console",
+  "link": "https://developers.redhat.com/articles/2026/11/18/how-to-inspect-test-and-debug-mcp-servers-in-red-hat-openshift-console",
+  "published": "2026-11-18T14:16:54"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Getting started with containers using Podman",
+  "link": "https://developers.redhat.com/articles/2026/11/18/getting-started-with-containers-using-podman",
+  "published": "2026-11-18T14:16:53"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "How asago bridges the gaps in AI agent security",
+  "link": "https://developers.redhat.com/articles/2026/11/18/how-asago-bridges-gaps-ai-agent-security",
+  "published": "2026-11-18T14:16:50"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Data Contracts",
+  "link": "https://martinfowler.com/articles/data-contracts.html",
+  "published": "2026-11-18T14:02:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "When Is a Workday Done?",
+  "link": "https://freek.dev/3226-when-is-a-workday-done",
+  "published": "2026-11-18T14:01:18"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+  "link": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+  "published": "2026-11-18T14:00:31"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "The Trust Layer: Securing Agentic AI with Docker AI Governance",
+  "link": "https://www.docker.com/blog/agentic-ai-security-docker-governance/",
+  "published": "2026-11-18T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "GPT-6.2 Astra Draws a Python Reading a Book",
+  "link": "https://realpython.com/ai-benchmark-gpt-6-2-astra/",
+  "published": "2026-11-18T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "GPT-6.2 Sol Draws a Python Reading a Book",
+  "link": "https://realpython.com/ai-benchmark-gpt-6-2-sol/",
+  "published": "2026-11-18T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Nuitka: Compile Python Into a Standalone Executable",
+  "link": "https://realpython.com/nuitka/",
+  "published": "2026-11-18T14:00:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "Building Software Got Faster. Building Trust Didn’t.",
+  "link": "https://spin.atomicobject.com/building-software-ai-risk/",
+  "published": "2026-11-18T13:00:38"
+ },
+ {
+  "blog_name": "Blender",
+  "blog_url": "https://code.blender.org/",
+  "title": "Blender on Tablet: Path to Release",
+  "link": "https://code.blender.org/2026/11/tablet-path-to-release/",
+  "published": "2026-11-18T12:45:12"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Nuitka: Compile Python Into a Standalone Executable",
+  "link": "https://realpython.com/quizzes/nuitka/",
+  "published": "2026-11-18T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Voyager 1 Reaches One Light-Day From Earth",
+  "link": "https://science.slashdot.org/story/26/11/18/0141255/voyager-1-reaches-one-light-day-from-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-18T11:00:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "The spider that fixes itself: Help your scraper rise from the ashes",
+  "link": "https://www.zyte.com/blog/self-repairing-web-scrapers-scrapy-phoenix/",
+  "published": "2026-11-18T10:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "The day the sky emptied: rendering the FAA outage with ClickHouse FORMAT PNG",
+  "link": "https://clickhouse.com/blog/faa-outage-clickhouse-format-png",
+  "published": "2026-11-18T09:26:18"
+ },
+ {
+  "blog_name": "Daniel Stenberg",
+  "blog_url": "https://daniel.haxx.se/blog/",
+  "title": "curl on OSS-Scanner",
+  "link": "https://daniel.haxx.se/blog/2026/11/18/curl-on-oss-scanner/",
+  "published": "2026-11-18T09:19:33"
+ },
+ {
+  "blog_name": "SurveyMonkey",
+  "blog_url": "https://engineering.surveymonkey.com/",
+  "title": "Create and analyze SurveyMonkey surveys directly in Gemini",
+  "link": "https://www.surveymonkey.com/curiosity/surveymonkey-gemini-integration/?ut_source=rss",
+  "published": "2026-11-18T07:00:18"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Hacker Pleads Guilty to Leak of Grand Theft Auto VI Footage",
+  "link": "https://yro.slashdot.org/story/26/11/18/0154214/hacker-pleads-guilty-to-leak-of-grand-theft-auto-vi-footage?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-18T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Representative Line: Terning White as a (Style)Sheet",
+  "link": "https://thedailywtf.com/articles/terning-white-as-a-style-sheet",
+  "published": "2026-11-18T06:30:00"
+ },
+ {
+  "blog_name": "Confluent",
+  "blog_url": "https://www.confluent.io/blog",
+  "title": "Is your observability pipeline becoming the bottleneck?",
+  "link": "https://www.confluent.io/blog/is-your-observability-pipeline-becoming-the-bottleneck/",
+  "published": "2026-11-18T05:04:51"
+ },
+ {
   "blog_name": "MIT AI News",
   "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
   "title": "Helping AI text detectors keep up with changing conditions",
@@ -32,6 +200,34 @@
   "blog_url": "http://www.codenameone.com/blog.html",
   "title": "Windows Kiosks and Command Line Tools, Built From Java",
   "link": "https://www.codenameone.com/blog/windows-kiosks-and-command-line-apps/",
+  "published": "2026-11-18T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Celebrating Microsoft Ignite with Azure region expansion in Toronto",
+  "link": "https://www.elastic.co/blog/elastic-cloud-serverless-now-available-azure-toronto",
+  "published": "2026-11-18T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+  "link": "https://huggingface.co/blog/rumble-2-flash",
+  "published": "2026-11-18T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+  "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+  "published": "2026-11-18T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Bring Datadog BYOC to your on-premises data with MinIO AIStor",
+  "link": "https://www.datadoghq.com/blog/datadog-byoc-minio-aistor/",
   "published": "2026-11-18T00:00:00"
  },
  {
@@ -294,6 +490,13 @@
   "published": "2026-11-17T16:30:00"
  },
  {
+  "blog_name": "Kotlin",
+  "blog_url": "https://blog.jetbrains.com/kotlin/",
+  "title": "Kotlin Toolchain 0.14: Agentic Development and iOS Publishing",
+  "link": "https://blog.jetbrains.com/kotlin/2026/11/kotlin-toolchain-0-14-agentic-development-and-ios-publishing/",
+  "published": "2026-11-17T15:25:05"
+ },
+ {
   "blog_name": "Raymond Chen",
   "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
   "title": "In the Microsoft employee price list, why did the BASIC compiler cost less than the BASIC interpreter?",
@@ -385,6 +588,13 @@
   "published": "2026-11-17T13:00:00"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Speed Insights now measures soft navigations",
+  "link": "https://vercel.com/changelog/speed-insights-now-measures-soft-navigations",
+  "published": "2026-11-17T12:40:00"
+ },
+ {
   "blog_name": "Freek Van der Herten",
   "blog_url": "https://murze.be/",
   "title": "Giving AI Agents a Better Way to Debug CSS",
@@ -466,6 +676,13 @@
   "blog_url": "https://sitepoint.com",
   "title": "How Consumer AI Companions Handle Context Windows, Persistent Memory, and Voice Latency",
   "link": "https://www.sitepoint.com/consumer-ai-companions-context-memory-voice-latency/?utm_source=rss",
+  "published": "2026-11-17T07:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python Rich console: Separate style from text with Console.print",
+  "link": "https://lernerpython.com/2026/11/17/python-rich-console-separate-style-from-text-with-console-print/",
   "published": "2026-11-17T07:00:00"
  },
  {
@@ -627,6 +844,41 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Decision-1.1 now available on AI Gateway",
   "link": "https://vercel.com/changelog/decision-1-1-now-available-on-ai-gateway",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "From Voice AI Demo to Production: Why Infrastructure and Agent Supervision Matter",
+  "link": "https://www.twilio.com/en-us/blog/products/new-capabilities-conversation-relay-intelligence-twilio-agent-connect",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Twilio Expands Conversations Layer for AI Agent Supervision",
+  "link": "https://www.twilio.com/en-us/blog/products/launches/conversation-intelligence-operators-ai-agent-supervision",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Creating a Halloween Escape Room Hotline for Twilio",
+  "link": "https://www.twilio.com/en-us/blog/developers/halloween-escape-room-hotline-2026-twilio",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "What is a no-reply email (and why you should never use them)",
+  "link": "https://www.twilio.com/en-us/blog/insights/why-you-should-not-use-noreplydomain-com-in-your-emails",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "More load is faster: Tuning Postgres read replicas",
+  "link": "https://clickhouse.com/blog/tuning-postgres-read-replicas",
   "published": "2026-11-17T00:00:00"
  },
  {
