@@ -7,6 +7,48 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Helping AI text detectors keep up with changing conditions",
+  "link": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+  "published": "2026-11-18T05:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "US Officially a Measles Endemic Country",
+  "link": "https://science.slashdot.org/story/26/11/18/0029236/us-officially-a-measles-endemic-country?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-18T03:30:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "How we raised Databricks cluster rate limits by 7.5×",
+  "link": "https://www.databricks.com/blog/how-we-raised-databricks-cluster-rate-limits-75",
+  "published": "2026-11-18T02:30:31"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Windows Kiosks and Command Line Tools, Built From Java",
+  "link": "https://www.codenameone.com/blog/windows-kiosks-and-command-line-apps/",
+  "published": "2026-11-18T00:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
+  "link": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/",
+  "published": "2026-11-17T23:33:26"
+ },
+ {
+  "blog_name": "Daniel Stenberg",
+  "blog_url": "https://daniel.haxx.se/blog/",
+  "title": "The curl 30 years gource",
+  "link": "https://daniel.haxx.se/blog/2026/11/18/the-curl-30-years-gource/",
+  "published": "2026-11-17T23:19:19"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Google To Keep Temporary Gemini Chats For Two Months",
@@ -250,6 +292,13 @@
   "title": "How packaged clean rooms bring RampID to your lakehouse",
   "link": "https://www.databricks.com/blog/liveramp-rampid-identity-resolution-packaged-clean-rooms",
   "published": "2026-11-17T16:30:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "In the Microsoft employee price list, why did the BASIC compiler cost less than the BASIC interpreter?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261117-00/?p=112866/",
+  "published": "2026-11-17T15:00:00"
  },
  {
   "blog_name": "Martin Fowler",
@@ -571,6 +620,13 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Datadog named a Leader in the 2026 Gartner® Magic Quadrant™ for Observability Pipelines",
   "link": "https://www.datadoghq.com/blog/datadog-observability-pipelines-gartner-magic-quadrant-2026/",
+  "published": "2026-11-17T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Decision-1.1 now available on AI Gateway",
+  "link": "https://vercel.com/changelog/decision-1-1-now-available-on-ai-gateway",
   "published": "2026-11-17T00:00:00"
  },
  {
@@ -47310,6 +47366,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "Physicists Trap a Single Antimatter Particle For a Month",
   "link": "https://science.slashdot.org/story/26/10/23/021237/physicists-trap-a-single-antimatter-particle-for-a-month?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": null
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Nvidia Rejects Jensen Huang's Offer to Return as CEO",
+  "link": "https://slashdot.org/story/26/11/18/0124249/nvidia-rejects-jensen-huangs-offer-to-return-as-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": null
  }
 ]
