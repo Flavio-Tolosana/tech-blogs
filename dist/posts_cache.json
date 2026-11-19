@@ -7,6 +7,83 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Satellites Now Outnumber the Visible Stars Above Most Towns",
+  "link": "https://science.slashdot.org/story/26/11/19/013231/satellites-now-outnumber-the-visible-stars-above-most-towns?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-19T07:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Databricks Wins A-Team Award for AI in Capital Markets",
+  "link": "https://www.databricks.com/blog/databricks-wins-team-award-ai-capital-markets-0",
+  "published": "2026-11-19T03:54:28"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "New Study Shows How Young People Feel About AI Companions",
+  "link": "https://slashdot.org/story/26/11/19/0054258/new-study-shows-how-young-people-feel-about-ai-companions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-19T03:30:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+  "link": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
+  "published": "2026-11-19T00:15:58"
+ },
+ {
+  "blog_name": "HubSpot",
+  "blog_url": "http://product.hubspot.com/blog/topic/engineering",
+  "title": "HubSpot Incident Report: September 8, 2026",
+  "link": "https://product.hubspot.com/blog/hubspot-incident-report-september-8-2026",
+  "published": "2026-11-19T00:09:28"
+ },
+ {
+  "blog_name": "Thoughtbot",
+  "blog_url": "https://robots.thoughtbot.com/",
+  "title": "Friction worth protecting when shaping products",
+  "link": "https://feed.thoughtbot.com/link/24077/17528847/friction-worth-protecting-when-shaping-products",
+  "published": "2026-11-19T00:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
+  "link": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
+  "published": "2026-11-18T23:58:22"
+ },
+ {
+  "blog_name": "Heroku",
+  "blog_url": "https://www.heroku.com/blog/",
+  "title": "Automated Certificate Management is Moving to ECDSA Certificates",
+  "link": "https://www.heroku.com/blog/automated-certificate-management-is-moving-to-ecdsa-certificates/",
+  "published": "2026-11-18T23:15:28"
+ },
+ {
+  "blog_name": "Hayden James",
+  "blog_url": "https://haydenjames.io/",
+  "title": "Best Linux Compatible Laptops 2026",
+  "link": "https://linuxblog.io/best-linux-compatible-laptops/",
+  "published": "2026-11-18T23:06:43"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
+  "link": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
+  "published": "2026-11-18T23:03:29"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "US Bankruptcy Judge Approves Spirit Airlines Data Sale to Google",
+  "link": "https://yro.slashdot.org/story/26/11/18/2224242/us-bankruptcy-judge-approves-spirit-airlines-data-sale-to-google?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-18T23:00:00"
+ },
+ {
   "blog_name": "APNIC",
   "blog_url": "https://blog.apnic.net/",
   "title": "Without a lawsuit, Linux might not have happened",
@@ -49,6 +126,34 @@
   "published": "2026-11-18T22:00:00"
  },
  {
+  "blog_name": "Ruby-lang",
+  "blog_url": "https://www.ruby-lang.org/en/news/",
+  "title": "Ruby 4.0.10 Released",
+  "link": "https://www.ruby-lang.org/en/news/2026/11/18/ruby-4-0-10-released/",
+  "published": "2026-11-18T22:00:00"
+ },
+ {
+  "blog_name": "Ruby-lang",
+  "blog_url": "https://www.ruby-lang.org/en/news/",
+  "title": "Ruby 3.4.13 Released",
+  "link": "https://www.ruby-lang.org/en/news/2026/11/18/ruby-3-4-13-released/",
+  "published": "2026-11-18T22:00:00"
+ },
+ {
+  "blog_name": "Ruby-lang",
+  "blog_url": "https://www.ruby-lang.org/en/news/",
+  "title": "Ruby 3.3.14 Released",
+  "link": "https://www.ruby-lang.org/en/news/2026/11/18/ruby-3-3-14-released/",
+  "published": "2026-11-18T22:00:00"
+ },
+ {
+  "blog_name": "Ruby-lang",
+  "blog_url": "https://www.ruby-lang.org/en/news/",
+  "title": "Security advisories: multiple vulnerabilities in Regexp and String case conversion",
+  "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+  "published": "2026-11-18T22:00:00"
+ },
+ {
   "blog_name": "AWS Machine Learning",
   "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
   "title": "How Airbnb uses cost per task to operate coding agents on Amazon Bedrock",
@@ -61,6 +166,13 @@
   "title": "Design responsible AI controls for Amazon Aurora PostgreSQL",
   "link": "https://aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql/",
   "published": "2026-11-18T21:38:22"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Introducing Gemini 4 Neon",
+  "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+  "published": "2026-11-18T21:35:43"
  },
  {
   "blog_name": "Slashdot",
@@ -154,6 +266,13 @@
   "published": "2026-11-18T18:15:00"
  },
  {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Genie 4 is now available",
+  "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+  "published": "2026-11-18T18:13:42"
+ },
+ {
   "blog_name": "Nubank",
   "blog_url": "https://building.nubank.com/",
   "title": "Beyond Borders: Why International Talent Chooses to Build a Career at Nubank",
@@ -228,6 +347,13 @@
   "blog_url": "https://developer.nvidia.com/blog/",
   "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
   "link": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/",
+  "published": "2026-11-18T15:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "If the Windows documentation doesn’t list a particular technology as supporting an operation, does that mean that it doesn’t support it?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261118-00/?p=112870/",
   "published": "2026-11-18T15:00:00"
  },
  {
@@ -427,6 +553,27 @@
   "published": "2026-11-18T08:00:00"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Introducing Vercel Board",
+  "link": "https://vercel.com/blog/introducing-vercel-board",
+  "published": "2026-11-18T08:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Research acceleration: The jagged frontier",
+  "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "published": "2026-11-18T08:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+  "link": "https://openai.com/business/customer-stories/sumitomo-life",
+  "published": "2026-11-18T08:00:00"
+ },
+ {
   "blog_name": "SurveyMonkey",
   "blog_url": "https://engineering.surveymonkey.com/",
   "title": "Create and analyze SurveyMonkey surveys directly in Gemini",
@@ -480,6 +627,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Parallel web search is free on AI Gateway and eve through January 31",
   "link": "https://vercel.com/changelog/parallel-web-search-is-free-on-ai-gateway-and-eve-through-january-31",
+  "published": "2026-11-18T05:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Board is now available",
+  "link": "https://vercel.com/changelog/vercel-board-is-now-available",
   "published": "2026-11-18T05:00:00"
  },
  {
@@ -620,6 +774,55 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "How we fine-tuned a faster model for Patterns on Baseten",
   "link": "https://www.datadoghq.com/blog/fine-tuning-patterns-baseten/",
+  "published": "2026-11-18T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Securing Your Newest Customer Channel with Auth for Personal Agents",
+  "link": "https://auth0.com/blog/auth-for-personal-agents-beta-release/",
+  "published": "2026-11-18T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Memory Architecture for AI Agents: Integrating Twilio Conversations and Amazon Bedrock",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/memory-architecture-ai-agents-conversations-amazon-bedrock",
+  "published": "2026-11-18T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Where (and when) to deploy conversational AI first",
+  "link": "https://www.twilio.com/en-us/blog/insights/where-to-deploy-conversational-ai-first",
+  "published": "2026-11-18T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Deliver Greater Precision, Context, and Efficiency with Enhancements to Twilio Segment Journeys",
+  "link": "https://www.twilio.com/en-us/blog/products/enhancements-to-twilio-segment-journeys",
+  "published": "2026-11-18T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to evaluate AI agents in production",
+  "link": "https://www.twilio.com/en-us/blog/insights/evaluate-ai-agents-production",
+  "published": "2026-11-18T00:00:00"
+ },
+ {
+  "blog_name": "Teleport",
+  "blog_url": "https://goteleport.com/blog/",
+  "title": "Teleport for SaaS MCPs",
+  "link": "https://goteleport.com/blog/teleport-for-third-party-saas-mcp-servers/",
+  "published": "2026-11-18T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Java4Shell Remote Code Execution (RCE) Vulnerability - CVE-2026-114938",
+  "link": "https://www.elastic.co/blog/java4shell-remote-code-execution-rce-vulnerability",
   "published": "2026-11-18T00:00:00"
  },
  {
