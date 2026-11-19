@@ -7,11 +7,214 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "ML@CMU",
+  "blog_url": "https://blog.ml.cmu.edu/",
+  "title": "Towards a Science of Capable Autonomous Agents & Provable Safety — Part I",
+  "link": "https://blog.ml.cmu.edu/2026/11/19/towards-a-science-of-capable-autonomous-agents-provable-safety/",
+  "published": "2026-11-19T15:02:05"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "The ultimate guide to analyzing and troubleshooting critical issues on Red Hat Enterprise Linux 8 and 9",
+  "link": "https://developers.redhat.com/articles/2026/11/19/ultimate-guide-to-troubleshooting-critical-issues-on-rhel-8-and-9",
+  "published": "2026-11-19T14:16:41"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Automate Spring 5.3.x CVE remediation with Lightwell",
+  "link": "https://developers.redhat.com/articles/2026/11/19/automate-spring-5-3-x-cve-remediation-lightwell",
+  "published": "2026-11-19T14:16:40"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": ".NET 11 is now available for RHEL and Red Hat OpenShift",
+  "link": "https://developers.redhat.com/articles/2026/11/19/dot-net-11-now-available-rhel-and-red-hat-openshift",
+  "published": "2026-11-19T14:16:38"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Deploy R models on Red Hat OpenShift AI with KServe",
+  "link": "https://developers.redhat.com/articles/2026/11/19/deploy-r-models-red-hat-openshift-ai-kserve",
+  "published": "2026-11-19T14:16:36"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+  "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+  "published": "2026-11-19T14:00:12"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+  "link": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+  "published": "2026-11-19T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Build an AI Agent From Scratch in Python: The Agentic Loop",
+  "link": "https://realpython.com/agentic-loop/",
+  "published": "2026-11-19T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Data Management With Python, SQLite, and SQLAlchemy",
+  "link": "https://realpython.com/python-sqlite-sqlalchemy/",
+  "published": "2026-11-19T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Hy4 flash Draws a Python Reading a Book",
+  "link": "https://realpython.com/ai-benchmark-hy4-flash/",
+  "published": "2026-11-19T14:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Study reveals data centers’ long-distance damage to air quality",
+  "link": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
+  "published": "2026-11-19T14:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Introducing CustomerLake Conversions: Improve advertising performance with first-party customer context",
+  "link": "https://www.databricks.com/blog/customerlake-conversions",
+  "published": "2026-11-19T13:35:00"
+ },
+ {
+  "blog_name": "Spotify",
+  "blog_url": "https://labs.spotify.com/",
+  "title": "When Can You Ship on Offline Evals Alone?",
+  "link": "https://engineering.atspotify.com/2026/11/when-can-you-ship-on-offline-evals-alone/",
+  "published": "2026-11-19T13:34:19"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Go for PHP Developers: Your First Program and a Different Workflow",
+  "link": "https://freek.dev/3227-go-for-php-developers-your-first-program-and-a-different-workflow",
+  "published": "2026-11-19T13:30:56"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "How I Use AI to Turn Digital Health Product Ideas into an Executable Backlog",
+  "link": "https://spin.atomicobject.com/digital-health-product-backlog/",
+  "published": "2026-11-19T13:00:09"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "What are batteries in chess?",
+  "link": "https://blog.duolingo.com/chess-batteries/",
+  "published": "2026-11-19T13:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Making games is no longer just for developers: Hostinger launches AI Game Maker",
+  "link": "https://www.hostinger.com/blog/hostinger-game-maker-debut/",
+  "published": "2026-11-19T12:39:25"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Exploring the Python math Module",
+  "link": "https://realpython.com/quizzes/exploring-python-math-module/",
+  "published": "2026-11-19T12:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "pg_clickhouse 0.11.1: Now with pgvector, UPDATE, DELETE pushdown",
+  "link": "https://clickhouse.com/blog/pg-clickhouse-0-11-1",
+  "published": "2026-11-19T11:52:49"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Detect, act, keep the evidence: node reliability across three clouds",
+  "link": "https://clickhouse.com/blog/node-reliability-across-three-clouds",
+  "published": "2026-11-19T11:48:57"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "College Board Delivers Another AI Ultimatum: No AI, No AP CS Principles Course",
+  "link": "https://news.slashdot.org/story/26/11/19/0628241/college-board-delivers-another-ai-ultimatum-no-ai-no-ap-cs-principles-course?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-19T11:00:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Inside the anti-block engine: How we built a 320,000-strategy web access hero",
+  "link": "https://www.zyte.com/blog/how-we-built-a-320000-strategy-web-access-hero/",
+  "published": "2026-11-19T09:55:31"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Critical PHP security release today: our timeline for getting you patched",
+  "link": "https://www.hostinger.com/blog/php-fixes-november-2026/",
+  "published": "2026-11-19T08:46:12"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Chaos, then control: the maturity model most AI rollouts skip over",
+  "link": "https://stackoverflow.blog/2026/11/19/chaos-then-control/",
+  "published": "2026-11-19T08:40:00"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Modèle et effort de raisonnement : trouver le bon équilibre pour vos agents",
+  "link": "https://blog.octo.com/modele-et-effort-de-raisonnement--trouver-le-bon-equilibre-pour-vos-agents",
+  "published": "2026-11-19T08:24:10"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "Shadow MCP Servers: Security Risks and How to Prevent Them",
+  "link": "https://nordicapis.com/shadow-mcp-servers-security-risks-and-how-to-prevent-them/",
+  "published": "2026-11-19T08:00:00"
+ },
+ {
+  "blog_name": "SurveyMonkey",
+  "blog_url": "https://engineering.surveymonkey.com/",
+  "title": "Ask the Market: Gamers notice AI, and it’s making them think twice.",
+  "link": "https://www.surveymonkey.com/curiosity/ask-the-market-gamers-and-ai/?ut_source=rss",
+  "published": "2026-11-19T08:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Satellites Now Outnumber the Visible Stars Above Most Towns",
   "link": "https://science.slashdot.org/story/26/11/19/013231/satellites-now-outnumber-the-visible-stars-above-most-towns?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-19T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: A Living Fossil",
+  "link": "https://thedailywtf.com/articles/a-living-fossil",
+  "published": "2026-11-19T06:30:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Your AI Pipeline Works. But Can You Trust It?",
+  "link": "https://www.sitepoint.com/your-ai-pipeline-works-but-can-you-trust-it/?utm_source=rss",
+  "published": "2026-11-19T04:38:31"
  },
  {
   "blog_name": "Databricks",
@@ -46,6 +249,41 @@
   "blog_url": "https://robots.thoughtbot.com/",
   "title": "Friction worth protecting when shaping products",
   "link": "https://feed.thoughtbot.com/link/24077/17528847/friction-worth-protecting-when-shaping-products",
+  "published": "2026-11-19T00:00:00"
+ },
+ {
+  "blog_name": "MapTiler",
+  "blog_url": "https://www.maptiler.com/blog/",
+  "title": "EU Data Residency for Your Maps: User IPs Never Leave the EU",
+  "link": "https://www.maptiler.com/news/2026/11/eu-data-residency-for-your-maps-user-ips-never-leave-the-eu",
+  "published": "2026-11-19T00:00:00"
+ },
+ {
+  "blog_name": "Amit Merchant",
+  "blog_url": "https://www.amitmerchant.com/",
+  "title": "Let the Pull Request Wake Your Agent Up",
+  "link": "https://www.amitmerchant.com/github-event-streams-for-agents/",
+  "published": "2026-11-19T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Automatic RSpec Sharding on GitHub Actions",
+  "link": "https://code.dblock.org/2026/11/19/automatic-rspec-sharding-on-github-actions.html",
+  "published": "2026-11-19T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "How Datadog resolves evolving OpenTelemetry semantics at query time",
+  "link": "https://www.datadoghq.com/blog/engineering/semantic-translation-otel/",
+  "published": "2026-11-19T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Retain more logs for longer with Flex Logs BYOBucket",
+  "link": "https://www.datadoghq.com/blog/flex-logs-bring-your-own-bucket/",
   "published": "2026-11-19T00:00:00"
  },
  {
@@ -443,6 +681,13 @@
  {
   "blog_name": "SitePoint",
   "blog_url": "https://sitepoint.com",
+  "title": "From Script to Screen: A Developer's Workflow for Long-Form AI Video",
+  "link": "https://www.sitepoint.com/from-script-to-screen-a-developer-s-workflow-for-long-form-ai-video/?utm_source=rss",
+  "published": "2026-11-18T13:37:35"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
   "title": "Sizing GPU Memory for a RAG Service: KV Cache, Context and Concurrency",
   "link": "https://www.sitepoint.com/sizing-gpu-memory-for-a-rag-service-kv-cache-context-and-concurrency/?utm_source=rss",
   "published": "2026-11-18T13:31:55"
@@ -588,6 +833,13 @@
   "published": "2026-11-18T07:00:00"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python Rich console: Setting text width and justification",
+  "link": "https://lernerpython.com/2026/11/18/python-rich-console-setting-text-width-and-justification/",
+  "published": "2026-11-18T07:00:00"
+ },
+ {
   "blog_name": "The Daily WTF",
   "blog_url": "http://thedailywtf.com/",
   "title": "Representative Line: Terning White as a (Style)Sheet",
@@ -634,6 +886,13 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Vercel Board is now available",
   "link": "https://vercel.com/changelog/vercel-board-is-now-available",
+  "published": "2026-11-18T05:00:00"
+ },
+ {
+  "blog_name": "Toptal",
+  "blog_url": "https://www.toptal.com/blog/",
+  "title": "Closing the Cybersecurity Skills Gap With Flexible Global Talent",
+  "link": "https://www.toptal.com/executive-guidance/information-security/cybersecurity-skills-gap",
   "published": "2026-11-18T05:00:00"
  },
  {
@@ -823,6 +1082,13 @@
   "blog_url": "https://www.elastic.co/blog/category/engineering",
   "title": "Java4Shell Remote Code Execution (RCE) Vulnerability - CVE-2026-114938",
   "link": "https://www.elastic.co/blog/java4shell-remote-code-execution-rce-vulnerability",
+  "published": "2026-11-18T00:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Why Front migrated from Elasticsearch to ClickHouse for “pixel-perfect” analytics at scale",
+  "link": "https://clickhouse.com/blog/front-elasticsearch-clickhouse",
   "published": "2026-11-18T00:00:00"
  },
  {
@@ -37118,6 +37384,13 @@
   "blog_url": "https://jerrygamblin.com/",
   "title": "CVE Mid-Year 2026 Check-In: Volume Vertical, Exploitation Rare",
   "link": "https://jerrygamblin.com/2026/07/01/3528/",
+  "published": "2026-07-01T15:47:10"
+ },
+ {
+  "blog_name": "Jerry Gamblin",
+  "blog_url": "https://jerrygamblin.com/",
+  "title": "CVE Mid-Year 2026 Check-In: Volume Vertical, Exploitation Rare",
+  "link": "https://jerrygamblin.com/2026/07/01/cve-mid-year-2026-check-in/",
   "published": "2026-07-01T15:47:10"
  },
  {
