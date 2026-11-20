@@ -7,6 +7,83 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Trying to get our Arms around AI efficiency",
+  "link": "https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/",
+  "published": "2026-11-20T08:40:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "How we found the right models for every task in our AI website builder for WordPress",
+  "link": "https://www.hostinger.com/blog/wordpress-ai-builder-glowup/",
+  "published": "2026-11-20T06:44:31"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "What small ISPs told me about IPv6 adoption",
+  "link": "https://blog.apnic.net/2026/11/20/what-small-isps-told-me-about-ipv6-adoption/",
+  "published": "2026-11-20T04:12:28"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Amazon Fights the Delivery Protection Act With Homepage Banner, In-App Pop-Up",
+  "link": "https://politics.slashdot.org/story/26/11/20/006220/amazon-fights-the-delivery-protection-act-with-homepage-banner-in-app-pop-up?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-20T03:30:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+  "link": "https://blog.cloudflare.com/nginx2root/",
+  "published": "2026-11-20T01:58:29"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Iowans Brace For Lead Dust Cloud As Army Plans to Detonate 5 Tons of Bomb-Making Chemicals",
+  "link": "https://tech.slashdot.org/story/26/11/19/2353250/iowans-brace-for-lead-dust-cloud-as-army-plans-to-detonate-5-tons-of-bomb-making-chemicals?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-20T01:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+  "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
+  "published": "2026-11-20T00:34:07"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+  "link": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+  "published": "2026-11-20T00:33:30"
+ },
+ {
+  "blog_name": "Microsoft Edge",
+  "blog_url": "https://blogs.windows.com/msedgedev/",
+  "title": "Hybrid intelligence on the Web: Introducing Aion Instruct and Prompt API in Microsoft Edge",
+  "link": "https://blogs.windows.com/msedgedev/2026/11/19/hybrid-intelligence-on-the-web-introducing-aion-instruct-and-prompt-api-in-microsoft-edge/",
+  "published": "2026-11-19T23:08:46"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+  "link": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
+  "published": "2026-11-19T23:02:16"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Nvidia Approaches Arm Boss Rene Haas In Search For New CEO",
+  "link": "https://slashdot.org/story/26/11/19/2212215/nvidia-approaches-arm-boss-rene-haas-in-search-for-new-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-19T23:00:00"
+ },
+ {
   "blog_name": "SeveralNines",
   "blog_url": "https://severalnines.com/database-blog",
   "title": "ClickHouse Security, Compliance and Governance in Polyglot Environments",
@@ -40,6 +117,13 @@
   "title": "AI helps researchers investigate how thousands of medical studies share code",
   "link": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
   "published": "2026-11-19T22:15:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Why PostgreSQL 19 shipped late",
+  "link": "https://www.databricks.com/blog/why-postgresql-19-shipped-late",
+  "published": "2026-11-19T22:04:02"
  },
  {
   "blog_name": "Slashdot",
@@ -641,6 +725,41 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "The AI factory stack",
   "link": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/ai-factory-stack",
+  "published": "2026-11-19T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "GPT-Live 1.1 now available on AI Gateway",
+  "link": "https://vercel.com/changelog/gpt-live-1-1-now-available-on-ai-gateway",
+  "published": "2026-11-19T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Deploying Daybreak Red",
+  "link": "https://openai.com/business/learn/deploying-daybreak-red",
+  "published": "2026-11-19T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "See PR scans in action",
+  "link": "https://openai.com/business/learn/pr-scans-demo",
+  "published": "2026-11-19T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Explore the Codex Security Plugin",
+  "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+  "published": "2026-11-19T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Get started with Daybreak Blue",
+  "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
   "published": "2026-11-19T00:00:00"
  },
  {
@@ -39900,6 +40019,13 @@
   "published": "2026-03-09T13:50:30"
  },
  {
+  "blog_name": "Marcelo Rinesi",
+  "blog_url": "https://blog.rinesi.com/",
+  "title": "Children Insurance",
+  "link": "https://blog.rinesi.com/2026/03/children-insurance",
+  "published": "2026-03-07T03:00:00"
+ },
+ {
   "blog_name": "Microsoft TypeScript",
   "blog_url": "https://devblogs.microsoft.com/typescript/",
   "title": "Announcing TypeScript 6.0 RC",
@@ -44284,6 +44410,13 @@
  {
   "blog_name": "Elastic",
   "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Accelerate root cause analysis, response times, and more with Elastic 8.6",
+  "link": "https://www.elastic.co/blog/whats-new-elastic-8-6-0",
+  "published": "2023-01-10T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
   "title": "Looking back at 2022 — Elastic year in review",
   "link": "https://www.elastic.co/blog/looking-back-at-2022-elastic-year-in-review",
   "published": "2023-01-03T00:00:00"
@@ -44700,6 +44833,13 @@
   "title": "Logging millions of requests reliably with our new data ingestion pipeline",
   "link": "http://engineering.hackerearth.com/2022/07/01/logging-millions-of-requests-reliably-with-our-new-data-ingestion-pipeline/",
   "published": "2022-07-01T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Search, observe, and protect everything, across any environment with Elastic 8.3",
+  "link": "https://www.elastic.co/blog/whats-new-elastic-8-3-0",
+  "published": "2022-06-28T07:00:00"
  },
  {
   "blog_name": "Remind",
@@ -45143,6 +45283,13 @@
   "published": "2021-10-19T13:58:52"
  },
  {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic's platform: Maximizing data utility in public sector",
+  "link": "https://www.elastic.co/blog/the-elastic-search-platform-maximizing-data-utility-in-public-sector",
+  "published": "2021-10-13T15:00:00"
+ },
+ {
   "blog_name": "RetailMeNot",
   "blog_url": "https://medium.com/retailmenot-engineering/",
   "title": "RetailMeNot  GraphQL Federation",
@@ -45157,11 +45304,25 @@
   "published": "2021-10-08T03:42:18"
  },
  {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic's platform: More data, more insight, lower cost",
+  "link": "https://www.elastic.co/blog/elasticon-global-platform",
+  "published": "2021-10-06T15:00:00"
+ },
+ {
   "blog_name": "Philip Walton",
   "blog_url": "https://philipwalton.com/",
   "title": "My Challenge to the Web Performance Community",
   "link": "https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/",
   "published": "2021-10-06T07:18:38"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic{ON} Global 2021: Search, solve, and succeed with Elastic",
+  "link": "https://www.elastic.co/blog/elasticon-global-opening-keynote",
+  "published": "2021-10-05T15:00:00"
  },
  {
   "blog_name": "Stephen Colebourne",
