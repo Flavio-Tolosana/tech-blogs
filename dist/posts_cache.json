@@ -7,6 +7,146 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Signal Restricts Screenshots to Block AI Agents From Reading Messages",
+  "link": "https://yro.slashdot.org/story/26/11/20/2231247/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-20T23:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+  "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+  "published": "2026-11-20T22:35:24"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Trump Vows To Stop US Companies From Building Data Centers Abroad",
+  "link": "https://news.slashdot.org/story/26/11/20/2223202/trump-vows-to-stop-us-companies-from-building-data-centers-abroad?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-20T22:25:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+  "link": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-20T21:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
+  "link": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
+  "published": "2026-11-20T21:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+  "link": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
+  "published": "2026-11-20T20:37:31"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+  "link": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+  "published": "2026-11-20T20:24:38"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+  "link": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+  "published": "2026-11-20T20:22:00"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+  "link": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+  "published": "2026-11-20T20:00:45"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Trump Admin Still Won't Let TP-Link Sell Routers In US",
+  "link": "https://yro.slashdot.org/story/26/11/20/1929255/trump-admin-still-wont-let-tp-link-sell-routers-in-us?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-20T20:00:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "New approach enables physically consistent AI models of chaotic systems",
+  "link": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+  "published": "2026-11-20T20:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "California Issues Subpoena to Nvidia Over Chip Sales to China",
+  "link": "https://yro.slashdot.org/story/26/11/20/1755250/california-issues-subpoena-to-nvidia-over-chip-sales-to-china?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-20T19:00:00"
+ },
+ {
+  "blog_name": "Martin Fowler",
+  "blog_url": "https://martinfowler.com/",
+  "title": "Fragments: November 20",
+  "link": "https://martinfowler.com/fragments/2026-11-20.html",
+  "published": "2026-11-20T18:38:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+  "link": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
+  "published": "2026-11-20T18:24:06"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "AI is Changing the Cross-Platform Decision Matrix",
+  "link": "https://devblogs.microsoft.com/dotnet/ai-cross-platform-decision-matrix/",
+  "published": "2026-11-20T18:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "How we protected WordPress sites from WP2Shell before it went public",
+  "link": "https://www.hostinger.com/blog/tackling-wp2shell-vulnerability/",
+  "published": "2026-11-20T17:30:29"
+ },
+ {
+  "blog_name": "Heroku",
+  "blog_url": "https://www.heroku.com/blog/",
+  "title": "Borealis Isolated Postgres: Serious Database Security for the Common Runtime",
+  "link": "https://www.heroku.com/blog/borealis-isolated-postgres/",
+  "published": "2026-11-20T17:24:16"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Dispatches from O'Reilly: Inside a software factory",
+  "link": "https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/",
+  "published": "2026-11-20T17:18:38"
+ },
+ {
+  "blog_name": "Jeffrey Zeldman",
+  "blog_url": "https://zeldman.com/",
+  "title": "Snow White, 2008–2026",
+  "link": "https://zeldman.com/2026/11/20/snow-white-2008-2026/",
+  "published": "2026-11-20T16:03:01"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Following the “mathocalypse,” mathematicians consider the future",
+  "link": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+  "published": "2026-11-20T15:20:00"
+ },
+ {
   "blog_name": "Tailscale",
   "blog_url": "https://tailscale.com/blog",
   "title": "Working remotely, staying connected: why digital security matters in the outdoors",
@@ -84,6 +224,13 @@
   "published": "2026-11-20T13:00:39"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Functions now support request bodies up to 20MiB",
+  "link": "https://vercel.com/changelog/vercel-functions-now-support-request-bodies-up-to-20mib",
+  "published": "2026-11-20T13:00:00"
+ },
+ {
   "blog_name": "Daniel Lemire",
   "blog_url": "https://lemire.me/blog/",
   "title": "Decoding base64 email attachments: a speed ranking of programming languages",
@@ -117,6 +264,13 @@
   "title": "★ Detecting suspicious logins in your Laravel app",
   "link": "https://freek.dev/3230-detecting-suspicious-logins-in-your-laravel-app",
   "published": "2026-11-20T10:01:17"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Combatting adversarial distillation",
+  "link": "https://openai.com/index/combatting-adversarial-distillation",
+  "published": "2026-11-20T10:00:00"
  },
  {
   "blog_name": "Clickhouse",
@@ -182,11 +336,25 @@
   "published": "2026-11-20T06:30:00"
  },
  {
+  "blog_name": "8th Light",
+  "blog_url": "https://8thlight.com/blog/",
+  "title": "How I shipped 39 PRs to prod as a non-developer",
+  "link": "https://8thlight.com/insights/how-i-shipped-39-prs-to-prod-as-a-non-dev-2",
+  "published": "2026-11-20T06:00:00"
+ },
+ {
   "blog_name": "Angular",
   "blog_url": "https://blog.angular.io/",
   "title": "The momentum across the global Angular ecosystem never slows down!",
   "link": "https://blog.angular.dev/the-momentum-across-the-global-angular-ecosystem-never-slows-down-7d69d0d07a69?source=rss----447683c3d9a3---4",
   "published": "2026-11-20T05:01:02"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel completes ISO/IEC 42001:2023 certification",
+  "link": "https://vercel.com/blog/vercel-completes-iso-iec-42001-2023-certification",
+  "published": "2026-11-20T05:00:00"
  },
  {
   "blog_name": "APNIC",
@@ -201,6 +369,13 @@
   "title": "Amazon Fights the Delivery Protection Act With Homepage Banner, In-App Pop-Up",
   "link": "https://politics.slashdot.org/story/26/11/20/006220/amazon-fights-the-delivery-protection-act-with-homepage-banner-in-app-pop-up?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-20T03:30:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "pgjumbo: A PostgreSQL Client for macOS, Windows, and Linux",
+  "link": "https://laravel-news.com/pgjumbo-postgresql-client?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-20T02:01:20"
  },
  {
   "blog_name": "Cloudflare",
@@ -256,6 +431,62 @@
   "blog_url": "https://huggingface.co/blog",
   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
   "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "published": "2026-11-20T00:00:00"
+ },
+ {
+  "blog_name": "Alex Korbonits",
+  "blog_url": "https://korbonits.com/",
+  "title": "In Decreasing Order of Digestion",
+  "link": "https://korbonits.com/blog/2026-11-20-in-decreasing-order-of-digestion/",
+  "published": "2026-11-20T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "link": "https://huggingface.co/blog/inkling2mini",
+  "published": "2026-11-20T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Build and troubleshoot Observability Pipelines with AI agents",
+  "link": "https://www.datadoghq.com/blog/observability-pipelines-mcp-server-ai-agents/",
+  "published": "2026-11-20T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Let your AI agent set up Datadog with Agentic Onboarding",
+  "link": "https://www.datadoghq.com/blog/agentic-onboarding/",
+  "published": "2026-11-20T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Let your product dashboards report to you with the Dashboard Reporter Agent",
+  "link": "https://www.datadoghq.com/blog/agentic-reporting-product-analytics/",
+  "published": "2026-11-20T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Map sensitive data with Datadog Data Security Posture Management",
+  "link": "https://www.datadoghq.com/blog/data-security-posture-management/",
+  "published": "2026-11-20T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+  "link": "https://openai.com/business/customer-stories/hebbia",
+  "published": "2026-11-20T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Can AI help scientists identify promising drug candidates?",
+  "link": "https://openai.com/index/introducing-medchembench",
   "published": "2026-11-20T00:00:00"
  },
  {
@@ -532,6 +763,13 @@
   "published": "2026-11-19T15:02:05"
  },
  {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Why do I get inconsistent results when I ask for the icon for the .. parent folder?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261119-00/?p=112879/",
+  "published": "2026-11-19T15:00:00"
+ },
+ {
   "blog_name": "Red Hat",
   "blog_url": "https://developers.redhat.com/blog/",
   "title": "The ultimate guide to analyzing and troubleshooting critical issues on Red Hat Enterprise Linux 8 and 9",
@@ -642,6 +880,13 @@
   "title": "Making games is no longer just for developers: Hostinger launches AI Game Maker",
   "link": "https://www.hostinger.com/blog/hostinger-game-maker-debut/",
   "published": "2026-11-19T12:39:25"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "What Is BIO Tagging and How to Use It for Document AI Training Data",
+  "link": "https://www.sitepoint.com/what-is-bio-tagging-and-how-to-use-it-for-document-ai-training-data/?utm_source=rss",
+  "published": "2026-11-19T12:24:33"
  },
  {
   "blog_name": "SitePoint",
@@ -763,6 +1008,13 @@
   "published": "2026-11-19T05:00:00"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Agents can now find Vercel CLI commands by describing the task",
+  "link": "https://vercel.com/changelog/agents-can-now-find-vercel-cli-commands-by-describing-the-task",
+  "published": "2026-11-19T05:00:00"
+ },
+ {
   "blog_name": "SitePoint",
   "blog_url": "https://sitepoint.com",
   "title": "Your AI Pipeline Works. But Can You Trust It?",
@@ -789,6 +1041,13 @@
   "title": "New Study Shows How Young People Feel About AI Companions",
   "link": "https://slashdot.org/story/26/11/19/0054258/new-study-shows-how-young-people-feel-about-ai-companions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-19T03:30:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Priority Projects now in public beta",
+  "link": "https://vercel.com/changelog/priority-projects-now-in-public-beta",
+  "published": "2026-11-19T01:10:00"
  },
  {
   "blog_name": "AWS Machine Learning",
@@ -4639,6 +4898,13 @@
   "title": "Databricks Doubles Down on AI Products, Opens New 235,000-Square-Foot San Francisco Headquarters",
   "link": "https://www.databricks.com/blog/databricks-doubles-down-ai-products-opens-new-235000-square-foot-san-francisco-headquarters",
   "published": "2026-11-11T18:20:00"
+ },
+ {
+  "blog_name": "Replit",
+  "blog_url": "https://blog.replit.com/",
+  "title": "Securely connect Replit to your private network with Tunnels",
+  "link": "https://replit.com/blog/build-with-private-data-using-tunnels",
+  "published": "2026-11-11T17:55:00"
  },
  {
   "blog_name": "Bootstrap.com",
