@@ -7,6 +7,146 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Tailscale",
+  "blog_url": "https://tailscale.com/blog",
+  "title": "Working remotely, staying connected: why digital security matters in the outdoors",
+  "link": "https://tailscale.com/blog/iwo-secure-remote-access",
+  "published": "2026-11-20T15:00:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Interactive Databricks Reference Architectures Across 70 Industries",
+  "link": "https://www.databricks.com/blog/interactive-databricks-reference-architectures-across-70-industries",
+  "published": "2026-11-20T14:48:28"
+ },
+ {
+  "blog_name": "OCTO Technology",
+  "blog_url": "https://blog.octo.com/en/",
+  "title": "Qualité interne et ralentissement du rythme de livraison : pourquoi le code se dégrade et comment l'éviter",
+  "link": "https://blog.octo.com/qualite-interne-et-rythme-de-livraison--pourquoi-le-code-se-degrade-et-comment-l'eviter",
+  "published": "2026-11-20T14:41:10"
+ },
+ {
+  "blog_name": "Ray Wenderlich",
+  "blog_url": "https://www.raywenderlich.com/",
+  "title": "Kodeco Podcast S4 E1: AI can write the code. But can you trust it? [FREE]",
+  "link": "https://www.kodeco.com/55064518-kodeco-podcast-s4-e1-ai-can-write-the-code-but-can-you-trust-it",
+  "published": "2026-11-20T14:10:42"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "We asked AI what Hostinger is and got 58 different answers. What does it say about your business?",
+  "link": "https://www.hostinger.com/blog/what-ai-says-about-your-business/",
+  "published": "2026-11-20T14:04:43"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Automate Lightwell updates with Mend Renovate",
+  "link": "https://developers.redhat.com/articles/2026/11/20/automate-lightwell-updates-mend-renovate",
+  "published": "2026-11-20T14:02:01"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Configure HikariCP for Spring Boot on Red Hat OpenShift 4",
+  "link": "https://developers.redhat.com/articles/2026/11/20/configure-hikaricp-spring-boot-red-hat-openshift-4",
+  "published": "2026-11-20T14:01:58"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "OpenAI Cuts the Price of Its Best AI Model by 20 Percent",
+  "link": "https://realpython.com/ai-news-weekly-2026-11-20/",
+  "published": "2026-11-20T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "How to Refactor Python Code With an AI Agent",
+  "link": "https://realpython.com/ai-refactor-python/",
+  "published": "2026-11-20T14:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "What broke when we compressed AI models for real products",
+  "link": "https://www.hostinger.com/blog/compressed-ai-models-for-real-products/",
+  "published": "2026-11-20T13:48:22"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "What a Delivery Lead Does When AI Takes the Transactional Work",
+  "link": "https://spin.atomicobject.com/delivery-lead-ai-work/",
+  "published": "2026-11-20T13:00:39"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Decoding base64 email attachments: a speed ranking of programming languages",
+  "link": "https://lemire.me/blog/2026/11/20/decoding-base64-email-attachments/",
+  "published": "2026-11-20T12:37:52"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "llms.txt and MCP didn't move the needle for us. Here's what did.",
+  "link": "https://freek.dev/3228-llmstxt-and-mcp-didnt-move-the-needle-for-us-heres-what-did",
+  "published": "2026-11-20T12:30:17"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python Practice Problems: Parsing CSV Files",
+  "link": "https://realpython.com/quizzes/python-interview-problem-parsing-csv-files/",
+  "published": "2026-11-20T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Intuit Sells Mailchimp At About a Third of Its 2021 Purchase Price",
+  "link": "https://tech.slashdot.org/story/26/11/20/0121230/intuit-sells-mailchimp-at-about-a-third-of-its-2021-purchase-price?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-20T11:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "★ Detecting suspicious logins in your Laravel app",
+  "link": "https://freek.dev/3230-detecting-suspicious-logins-in-your-laravel-app",
+  "published": "2026-11-20T10:01:17"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "November 2026 newsletter",
+  "link": "https://clickhouse.com/blog/202611-newsletter",
+  "published": "2026-11-20T09:50:28"
+ },
+ {
+  "blog_name": "GoCardless",
+  "blog_url": "https://gocardless.com/blog/tagged/engineering/",
+  "title": "What I wish gym owners knew about payments before opening a gym",
+  "link": "https://gocardless.com/blog/clubright-wish-gym-owners-knew",
+  "published": "2026-11-20T09:30:38"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "The world's hardest sites protect their prices",
+  "link": "https://www.zyte.com/blog/sowa-hardest-sites-to-scrape/",
+  "published": "2026-11-20T09:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Always within reach: inside our patented VPS web terminal",
+  "link": "https://www.hostinger.com/blog/patented-vps-web-terminal/",
+  "published": "2026-11-20T08:54:23"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "Trying to get our Arms around AI efficiency",
@@ -14,11 +154,39 @@
   "published": "2026-11-20T08:40:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "What to get right before you ship webhooks",
+  "link": "https://www.sitepoint.com/webhooks-best-practices-before-you-ship/?utm_source=rss",
+  "published": "2026-11-20T07:35:47"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Signs Deal With Blue Origin to Send Satellite Data Centers Into Orbit",
+  "link": "https://science.slashdot.org/story/26/11/20/0010255/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-20T07:00:00"
+ },
+ {
   "blog_name": "Hostinger",
   "blog_url": "https://www.hostinger.com/blog/engineering/",
   "title": "How we found the right models for every task in our AI website builder for WordPress",
   "link": "https://www.hostinger.com/blog/wordpress-ai-builder-glowup/",
   "published": "2026-11-20T06:44:31"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Error'd: There's a Chill in the Air",
+  "link": "https://thedailywtf.com/articles/there-s-a-chill-in-the-air",
+  "published": "2026-11-20T06:30:00"
+ },
+ {
+  "blog_name": "Angular",
+  "blog_url": "https://blog.angular.io/",
+  "title": "The momentum across the global Angular ecosystem never slows down!",
+  "link": "https://blog.angular.dev/the-momentum-across-the-global-angular-ecosystem-never-slows-down-7d69d0d07a69?source=rss----447683c3d9a3---4",
+  "published": "2026-11-20T05:01:02"
  },
  {
   "blog_name": "APNIC",
@@ -42,6 +210,13 @@
   "published": "2026-11-20T01:58:29"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laranon: Reversible PII Anonymization for Laravel and LLMs",
+  "link": "https://laravel-news.com/laranon-pii-anonymization?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-20T01:44:50"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Iowans Brace For Lead Dust Cloud As Army Plans to Detonate 5 Tons of Bomb-Making Chemicals",
@@ -61,6 +236,27 @@
   "title": "Use Kimi Code CLI with models on Amazon Bedrock",
   "link": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
   "published": "2026-11-20T00:33:30"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Why My Kids are Learning to Program - The New Baseline",
+  "link": "https://www.codenameone.com/blog/why-my-kids-are-learning-to-program/",
+  "published": "2026-11-20T00:00:00"
+ },
+ {
+  "blog_name": "Fly.io",
+  "blog_url": "https://fly.io/blog/",
+  "title": "Petsem: Sometimes Dead Is Better",
+  "link": "https://fly.io/blog/petsem/",
+  "published": "2026-11-20T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "published": "2026-11-20T00:00:00"
  },
  {
   "blog_name": "Microsoft Edge",
@@ -448,6 +644,13 @@
   "published": "2026-11-19T12:39:25"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "What to Check Before Adding a Tripo Model to a Website",
+  "link": "https://www.sitepoint.com/what-to-check-before-adding-a-tripo-model-to-a-website/?utm_source=rss",
+  "published": "2026-11-19T12:12:38"
+ },
+ {
   "blog_name": "Real Python",
   "blog_url": "https://realpython.com/blog/",
   "title": "Quiz: Exploring the Python math Module",
@@ -536,6 +739,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "Satellites Now Outnumber the Visible Stars Above Most Towns",
   "link": "https://science.slashdot.org/story/26/11/19/013231/satellites-now-outnumber-the-visible-stars-above-most-towns?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-19T07:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Rich Console: Set default styles with keyword arguments",
+  "link": "https://lernerpython.com/2026/11/19/rich-console-set-default-styles-with-keyword-arguments/",
   "published": "2026-11-19T07:00:00"
  },
  {
