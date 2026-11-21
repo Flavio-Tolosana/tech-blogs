@@ -7,6 +7,55 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Eli Bendersky",
+  "blog_url": "http://eli.thegreenplace.net/",
+  "title": "Notes on the discrete Fourier transform (DFT)",
+  "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+  "published": "2026-11-21T22:26:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "59 Years Later, 'The Prisoner' is Getting a Second Remake - from Amazon Studios",
+  "link": "https://entertainment.slashdot.org/story/26/11/21/1956209/59-years-later-the-prisoner-is-getting-a-second-remake---from-amazon-studios?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-21T22:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
+  "link": "https://tech.slashdot.org/story/26/11/21/0627227/toyota-nissan-and-honda-to-standardize-parts-to-lower-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-21T21:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Americans Enters Post-Penny World, Businesses Now Allowed to Round Cash Transactions to Nearest Nickel",
+  "link": "https://news.slashdot.org/story/26/11/21/0616258/americans-enters-post-penny-world-businesses-now-allowed-to-round-cash-transactions-to-nearest-nickel?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-21T20:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Will AI-Fueled Cyberattacks Lead to Better Funding for Critical Open Source Projects?",
+  "link": "https://news.slashdot.org/story/26/11/21/0651203/will-ai-fueled-cyberattacks-lead-to-better-funding-for-critical-open-source-projects?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-21T19:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Nvidia's Accounting Practices Now Being Investigated by America's SEC",
+  "link": "https://yro.slashdot.org/story/26/11/21/0445220/nvidias-accounting-practices-now-being-investigated-by-americas-sec?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-21T18:00:00"
+ },
+ {
+  "blog_name": "Hayden James",
+  "blog_url": "https://haydenjames.io/",
+  "title": "12 Most Stable Linux Rolling Release Distros (2027)",
+  "link": "https://linuxblog.io/linux-rolling-release-distros/",
+  "published": "2026-11-21T15:28:15"
+ },
+ {
   "blog_name": "Real Python",
   "blog_url": "https://realpython.com/blog/",
   "title": "Gemini 4 Neon Draws a Python Reading a Book",
