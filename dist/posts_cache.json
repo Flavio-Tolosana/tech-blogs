@@ -9,6 +9,48 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "FCC Backs AT&amp;T's Plan To Remove Copper Landlines In California",
+  "link": "https://slashdot.org/story/26/11/20/2357248/fcc-backs-atts-plan-to-remove-copper-landlines-in-california?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-21T03:30:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+  "link": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+  "published": "2026-11-21T01:06:42"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+  "link": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+  "published": "2026-11-21T00:14:26"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "A Million Rows and Live Excel Formulas, Inside Your Own App",
+  "link": "https://www.codenameone.com/blog/a-million-rows-and-live-excel-formulas/",
+  "published": "2026-11-21T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "GTA 6 Hits Massive $3.79 Billion In First-Day Sales",
+  "link": "https://games.slashdot.org/story/26/11/20/2320231/gta-6-hits-massive-379-billion-in-first-day-sales?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-21T00:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+  "link": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+  "published": "2026-11-20T23:07:03"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Signal Restricts Screenshots to Block AI Agents From Reading Messages",
   "link": "https://yro.slashdot.org/story/26/11/20/2231247/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-20T23:00:00"
@@ -151,6 +193,13 @@
   "blog_url": "https://tailscale.com/blog",
   "title": "Working remotely, staying connected: why digital security matters in the outdoors",
   "link": "https://tailscale.com/blog/iwo-secure-remote-access",
+  "published": "2026-11-20T15:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Another failed attempt to get the icon for the icon for the .. parent folder",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261120-00/?p=112883/",
   "published": "2026-11-20T15:00:00"
  },
  {
@@ -487,6 +536,20 @@
   "blog_url": "https://openai.com/news/",
   "title": "Can AI help scientists identify promising drug candidates?",
   "link": "https://openai.com/index/introducing-medchembench",
+  "published": "2026-11-20T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How To Import Data From Your CRM Or Another External Source Into Conversation Memory",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-import-data-from-your-crm-external-source-into-conversation-memory",
+  "published": "2026-11-20T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "What is an SMTP server? How Simple Mail Transfer Protocol works",
+  "link": "https://www.twilio.com/en-us/blog/insights/what-is-an-smtp-server",
   "published": "2026-11-20T00:00:00"
  },
  {
@@ -1229,6 +1292,20 @@
   "blog_url": "https://openai.com/news/",
   "title": "Get started with Daybreak Blue",
   "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+  "published": "2026-11-19T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to write a top-notch email newsletter (27+ tips)",
+  "link": "https://www.twilio.com/en-us/blog/insights/write-email-newsletter",
+  "published": "2026-11-19T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Extending Twilio Verify Beyond Carrier Channels: Passkeys, TOTP, and Push Without the Plumbing",
+  "link": "https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp-push",
   "published": "2026-11-19T00:00:00"
  },
  {
