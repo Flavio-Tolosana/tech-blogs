@@ -7,6 +7,48 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Gemini 4 Neon Draws a Python Reading a Book",
+  "link": "https://realpython.com/ai-benchmark-gemini-4-neon/",
+  "published": "2026-11-21T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Inkling 2 Mini Draws a Python Reading a Book",
+  "link": "https://realpython.com/ai-benchmark-inkling-2-mini/",
+  "published": "2026-11-21T14:00:00"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "When Your Teammate Is Your Competitor – Enemies to Lovers Arc",
+  "link": "https://spin.atomicobject.com/teammate-competitor/",
+  "published": "2026-11-21T13:00:21"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Clone Your Voice: Local Text-to-Speech With Chatterbox and the Laravel AI SDK",
+  "link": "https://freek.dev/3229-clone-your-voice-local-text-to-speech-with-chatterbox-and-the-laravel-ai-sdk",
+  "published": "2026-11-21T12:30:37"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Mercury-Bound X-Ray Telescope Delivers First Images After Eight Years In Space",
+  "link": "https://science.slashdot.org/story/26/11/21/0224236/mercury-bound-x-ray-telescope-delivers-first-images-after-eight-years-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-21T11:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Anthropic Mathematician Claims to Prove Riemann Hypothesis",
+  "link": "https://science.slashdot.org/story/26/11/21/028221/anthropic-mathematician-claims-to-prove-riemann-hypothesis?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-21T07:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "FCC Backs AT&amp;T's Plan To Remove Copper Landlines In California",
@@ -39,6 +81,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "GTA 6 Hits Massive $3.79 Billion In First-Day Sales",
   "link": "https://games.slashdot.org/story/26/11/20/2320231/gta-6-hits-massive-379-billion-in-first-day-sales?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-21T00:00:00"
+ },
+ {
+  "blog_name": "Amit Merchant",
+  "blog_url": "https://www.amitmerchant.com/",
+  "title": "When AI Doesn’t Need to Generate Anything",
+  "link": "https://www.amitmerchant.com/gemini-decisions-api/",
   "published": "2026-11-21T00:00:00"
  },
  {
@@ -256,6 +305,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "How to Refactor Python Code With an AI Agent",
   "link": "https://realpython.com/ai-refactor-python/",
+  "published": "2026-11-20T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "How to Use any() in Python",
+  "link": "https://realpython.com/any-python/",
   "published": "2026-11-20T14:00:00"
  },
  {
