@@ -7,6 +7,48 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Sellers are Closing Etsy Stores in Response to Its New AI Training Policy",
+  "link": "https://slashdot.org/story/26/11/22/2221256/sellers-are-closing-etsy-stores-in-response-to-its-new-ai-training-policy?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-22T22:24:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "The New 'Riemann Hypothesis' Proof Has Been Confirmed in Mathlib/Lean Communities",
+  "link": "https://science.slashdot.org/story/26/11/22/2031237/the-new-riemann-hypothesis-proof-has-been-confirmed-in-mathliblean-communities?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-22T20:51:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Microsoft Admits Some Emails Bounced During Global Outlook Outage, Reveals New Failures",
+  "link": "https://tech.slashdot.org/story/26/11/22/1949204/microsoft-admits-some-emails-bounced-during-global-outlook-outage-reveals-new-failures?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-22T19:51:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Climate Change Talks Fall Apart In Final Hours Over Fossil Fuels",
+  "link": "https://news.slashdot.org/story/26/11/22/1838218/climate-change-talks-fall-apart-in-final-hours-over-fossil-fuels?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-22T18:41:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "How Does GTA 6 Depict Electric Cars?",
+  "link": "https://games.slashdot.org/story/26/11/22/0457218/how-does-gta-6-depict-electric-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-22T17:34:00"
+ },
+ {
+  "blog_name": "Kyle Kingsbury",
+  "blog_url": "https://aphyr.com/",
+  "title": "\"And You Would be Supporting a Local Paper\"",
+  "link": "https://aphyr.com/posts/429-and-you-would-be-supporting-a-local-paper",
+  "published": "2026-11-22T14:46:19"
+ },
+ {
   "blog_name": "Real Python",
   "blog_url": "https://realpython.com/blog/",
   "title": "DaisyRose 27B Draws a Python Reading a Book",
@@ -70,6 +112,27 @@
   "published": "2026-11-22T00:00:00"
  },
  {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Teaching My Copilot and Claude Children to Share",
+  "link": "https://code.dblock.org/2026/11/22/teaching-my-copilot-and-claude-children-to-share.html",
+  "published": "2026-11-22T00:00:00"
+ },
+ {
+  "blog_name": "Nicolas Fränkel",
+  "blog_url": "https://blog.frankel.ch/",
+  "title": "On reviewing AI-generated code",
+  "link": "https://blog.frankel.ch/reviewing-ai-generated-code/",
+  "published": "2026-11-22T00:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Perplexity and Intelligence",
+  "link": "https://openai.com/index/perplexity-and-intelligence",
+  "published": "2026-11-22T00:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "US DOJ Charges Suspected Russian Agent for Stalking Palantir Employees in California",
@@ -95,6 +158,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
   "link": "https://tech.slashdot.org/story/26/11/21/0627227/toyota-nissan-and-honda-to-standardize-parts-to-lower-costs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-21T21:00:00"
+ },
+ {
+  "blog_name": "Yegor Bugayenko",
+  "blog_url": "http://www.yegor256.com/",
+  "title": "Immortal AI",
+  "link": "https://www.yegor256.com/2026/11/22/immortal-ai.html",
   "published": "2026-11-21T21:00:00"
  },
  {
