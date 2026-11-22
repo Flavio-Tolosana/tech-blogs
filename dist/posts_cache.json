@@ -7,6 +7,48 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "GTA 6: 32.5 Million copies, Cameos, and Easter Eggs - but No Physical Discs",
+  "link": "https://games.slashdot.org/story/26/11/22/0336243/gta-6-325-million-copies-cameos-and-easter-eggs---but-no-physical-discs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-22T05:34:00"
+ },
+ {
+  "blog_name": "Jeremy Kun",
+  "blog_url": "https://jeremykun.com/",
+  "title": "After 20 years I finally learned what 'double buffering' is",
+  "link": "https://www.jeremykun.com/shortform/2026-11-21-1938/",
+  "published": "2026-11-22T03:38:50"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Several Waymo Self-Driving Cars Stalled in Traffic as San Francisco's Streets Flooded",
+  "link": "https://tech.slashdot.org/story/26/11/22/0016228/several-waymo-self-driving-cars-stalled-in-traffic-as-san-franciscos-streets-flooded?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-22T02:34:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Meta ads is now available in AWS Quick",
+  "link": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+  "published": "2026-11-22T01:59:13"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Build a Multi-Tenant SaaS Backend That Can't Leak One Customer Into Another",
+  "link": "https://www.codenameone.com/blog/multi-tenant-saas-backend-in-java/",
+  "published": "2026-11-22T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "US DOJ Charges Suspected Russian Agent for Stalking Palantir Employees in California",
+  "link": "https://news.slashdot.org/story/26/11/21/212248/us-doj-charges-suspected-russian-agent-for-stalking-palantir-employees-in-california?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-21T23:00:00"
+ },
+ {
   "blog_name": "Eli Bendersky",
   "blog_url": "http://eli.thegreenplace.net/",
   "title": "Notes on the discrete Fourier transform (DFT)",
