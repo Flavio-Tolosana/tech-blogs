@@ -7,6 +7,34 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "DaisyRose 27B Draws a Python Reading a Book",
+  "link": "https://realpython.com/ai-benchmark-daisyrose-27b/",
+  "published": "2026-11-22T14:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Aptera Completes Its First Solar Electric Vehicle for Customer Delivery",
+  "link": "https://tech.slashdot.org/story/26/11/22/0514226/aptera-completes-its-first-solar-electric-vehicle-for-customer-delivery?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-22T12:34:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "What’s New in PHP 8.6 from a Performance Perspective",
+  "link": "https://freek.dev/3231-whats-new-in-php-86-from-a-performance-perspective",
+  "published": "2026-11-22T12:30:34"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Quantum Computing's First Real-world Payoff May Come In Energy Solutions",
+  "link": "https://hardware.slashdot.org/story/26/11/22/078255/quantum-computings-first-real-world-payoff-may-come-in-energy-solutions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-22T08:34:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "GTA 6: 32.5 Million copies, Cameos, and Easter Eggs - but No Physical Discs",
@@ -137,6 +165,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "Anthropic Mathematician Claims to Prove Riemann Hypothesis",
   "link": "https://science.slashdot.org/story/26/11/21/028221/anthropic-mathematician-claims-to-prove-riemann-hypothesis?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-21T07:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Rich tables in Python: Using Table, add_column, and add_row",
+  "link": "https://lernerpython.com/2026/11/21/rich-tables-in-python-using-table-add-column-and-add-row/",
   "published": "2026-11-21T07:00:00"
  },
  {
@@ -411,6 +446,13 @@
   "title": "What broke when we compressed AI models for real products",
   "link": "https://www.hostinger.com/blog/compressed-ai-models-for-real-products/",
   "published": "2026-11-20T13:48:22"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Add AI Facial Expression Editing to Your Video Pipeline (2026)",
+  "link": "https://www.sitepoint.com/how-to-add-ai-facial-expression-editing-to-your-video-pipeline-2026/?utm_source=rss",
+  "published": "2026-11-20T13:23:57"
  },
  {
   "blog_name": "Atomic Object",
@@ -1664,6 +1706,13 @@
   "title": "Why your fine-tuning job takes longer than the FLOPs say",
   "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
   "published": "2026-11-18T18:53:43"
+ },
+ {
+  "blog_name": "RoseHosting",
+  "blog_url": "https://www.rosehosting.com/blog/",
+  "title": "How to Install Jellyfin on AlmaLinux 10: A Media Server with Hardware Transcoding Notes",
+  "link": "https://www.rosehosting.com/blog/how-to-install-jellyfin-on-almalinux-10/",
+  "published": "2026-11-18T18:30:00"
  },
  {
   "blog_name": "DigitalOcean",
@@ -3049,6 +3098,13 @@
   "blog_url": "https://databricks.com/blog",
   "title": "Talk to your clinical data: unlocking AWS HealthLake with OpenSharing and Genie One",
   "link": "https://www.databricks.com/blog/talk-your-clinical-data-unlocking-aws-healthlake-opensharing-and-genie-one",
+  "published": "2026-11-16T18:30:00"
+ },
+ {
+  "blog_name": "RoseHosting",
+  "blog_url": "https://www.rosehosting.com/blog/",
+  "title": "How to Deploy Dokploy on AlmaLinux 10 with Docker and Automatic SSL",
+  "link": "https://www.rosehosting.com/blog/how-to-deploy-dokploy-on-almalinux-10/",
   "published": "2026-11-16T18:30:00"
  },
  {
@@ -5110,6 +5166,13 @@
   "published": "2026-11-11T18:40:44"
  },
  {
+  "blog_name": "RoseHosting",
+  "blog_url": "https://www.rosehosting.com/blog/",
+  "title": "How to Install Authentik on Ubuntu 26.04: An Identity Provider with PostgreSQL and Redis",
+  "link": "https://www.rosehosting.com/blog/how-to-install-authentik-on-ubuntu-26-04/",
+  "published": "2026-11-11T18:30:00"
+ },
+ {
   "blog_name": "Shopify",
   "blog_url": "https://shopify.engineering/",
   "title": "Shopify’s generative discovery model",
@@ -6417,6 +6480,13 @@
   "title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
   "link": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/",
   "published": "2026-11-09T18:55:43"
+ },
+ {
+  "blog_name": "RoseHosting",
+  "blog_url": "https://www.rosehosting.com/blog/",
+  "title": "How to Install Immich on Ubuntu 26.04 with Docker Compose and PostgreSQL",
+  "link": "https://www.rosehosting.com/blog/how-to-install-immich-on-ubuntu-26-04-with-docker-compose-and-postgresql/",
+  "published": "2026-11-09T18:30:00"
  },
  {
   "blog_name": "Slashdot",
@@ -8594,6 +8664,13 @@
   "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
   "link": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/",
   "published": "2026-11-04T18:46:07"
+ },
+ {
+  "blog_name": "RoseHosting",
+  "blog_url": "https://www.rosehosting.com/blog/",
+  "title": "How to Install and Configure Valkey on AlmaLinux 10",
+  "link": "https://www.rosehosting.com/blog/how-to-install-and-configure-valkey-on-almalinux-10/",
+  "published": "2026-11-04T18:30:00"
  },
  {
   "blog_name": "Hugging Face",
