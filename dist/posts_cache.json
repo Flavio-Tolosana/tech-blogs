@@ -7,11 +7,214 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Trump Halts Army's Plans to Detonate Bomb-Making Chemicals In Iowa",
+  "link": "https://yro.slashdot.org/story/26/11/23/2256228/trump-halts-armys-plans-to-detonate-bomb-making-chemicals-in-iowa?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-23T23:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Anthropic Launches Claude Ship to Review, Fix, and Approve Code",
+  "link": "https://features.slashdot.org/story/26/11/23/2116230/anthropic-launches-claude-ship-to-review-fix-and-approve-code?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-23T22:00:00"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "Ladybird's first alpha release",
+  "link": "https://simonwillison.net/2026/Nov/23/ladybird/",
+  "published": "2026-11-23T21:46:35"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "OpenAI and Cisco introduce Shirudo",
+  "link": "https://openai.com/index/introducing-shirudo",
+  "published": "2026-11-23T21:20:00"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "Many languages, one common neural code",
+  "link": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+  "published": "2026-11-23T21:15:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Jensen Huang Says He'll Be a 'Better CEO' As Staff Applauds His Return",
+  "link": "https://slashdot.org/story/26/11/23/216201/jensen-huang-says-hell-be-a-better-ceo-as-staff-applauds-his-return?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-23T21:07:00"
+ },
+ {
+  "blog_name": "Wealthfront",
+  "blog_url": "http://eng.wealthfront.com/",
+  "title": "Leading Projects as a Wealthfront Engineer",
+  "link": "https://eng.wealthfront.com/2026/11/23/leading-projects-as-a-wealthfront-engineer/",
+  "published": "2026-11-23T20:43:29"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "CrowdStrike to Buy Zscaler In $44 Billion Deal",
+  "link": "https://slashdot.org/story/26/11/23/1845255/crowdstrike-to-buy-zscaler-in-44-billion-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-23T20:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0",
+  "link": "https://developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0/",
+  "published": "2026-11-23T19:59:40"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief",
+  "link": "https://news.slashdot.org/story/26/11/23/1837208/trump-is-said-to-have-directed-effort-to-reinstate-nvidia-chief?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-23T19:00:00"
+ },
+ {
+  "blog_name": "Nextdoor",
+  "blog_url": "https://engblog.nextdoor.com/",
+  "title": "Tracing Cache Inconsistencies to Their Root Cause",
+  "link": "https://engblog.nextdoor.com/tracing-cache-inconsistencies-to-their-root-cause-8f9c7f4a00e7?source=rss----5e54f11cdfdf---4",
+  "published": "2026-11-23T18:56:32"
+ },
+ {
+  "blog_name": "Tumblr",
+  "blog_url": "https://engineering.tumblr.com/",
+  "title": "Push notifications for browsers",
+  "link": "https://engineering.tumblr.com/post/834100458918412288",
+  "published": "2026-11-23T18:56:24"
+ },
+ {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "People first, AI second: How to lead an AI product without being an AI expert",
+  "link": "https://building.nu.com/people-first-ai-second-how-to-lead-an-ai-product-without-being-an-ai-expert/",
+  "published": "2026-11-23T18:15:44"
+ },
+ {
+  "blog_name": ".NET",
+  "blog_url": "https://blogs.msdn.microsoft.com/dotnet/",
+  "title": "Run local models in your .NET apps with Llama on Windows",
+  "link": "https://devblogs.microsoft.com/dotnet/local-models-dotnet-llama-windows/",
+  "published": "2026-11-23T18:05:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Top 10 Black Friday Deals for Designers and Agencies in 2026",
+  "link": "https://www.sitepoint.com/top-10-black-friday-deals-designers-agencies/?utm_source=rss",
+  "published": "2026-11-23T17:45:23"
+ },
+ {
+  "blog_name": "Capital One Tech",
+  "blog_url": "https://medium.com/capital-one-tech",
+  "title": "Capital One at AWS re:Invent 2026",
+  "link": "https://medium.com/capital-one-tech/capital-one-at-aws-re-invent-2026-9955f22483cc?source=rss----3db3a67cb648---4",
+  "published": "2026-11-23T17:41:22"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+  "link": "https://huggingface.co/blog/allenai/robotrack",
+  "published": "2026-11-23T17:20:37"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
+  "link": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension/",
+  "published": "2026-11-23T17:09:28"
+ },
+ {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+  "link": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+  "published": "2026-11-23T17:00:08"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Announcing General Availability of native Lakebase Postgres sink for Spark Structured Streaming",
+  "link": "https://www.databricks.com/blog/announcing-general-availability-native-lakebase-postgres-sink-spark-structured-streaming",
+  "published": "2026-11-23T16:32:10"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "ClickHouse expands AWS strategic collaboration with a $1.5 billion-plus agreement to scale its unified enterprise AI data stack",
+  "link": "https://clickhouse.com/blog/clickhouse-expands-aws-strategic-collaboration-scale-unified-enterprise-ai-data-stack",
+  "published": "2026-11-23T15:57:17"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "AI website builder statistics 2026: market growth, adoption, and trends",
+  "link": "https://www.hostinger.com/blog/ai-website-builder-statistics/",
+  "published": "2026-11-23T15:48:38"
+ },
+ {
+  "blog_name": "Federico Tomassetti",
+  "blog_url": "https://tomassetti.me/",
+  "title": "Legacy Modernization with LLMs, measured",
+  "link": "https://tomassetti.me/legacy-modernization-llms-measured/",
+  "published": "2026-11-23T15:47:10"
+ },
+ {
+  "blog_name": "Federico Tomassetti",
+  "blog_url": "https://tomassetti.me/",
+  "title": "Legacy Modernization with LLMs and the decisions nobody asked about",
+  "link": "https://tomassetti.me/legacy-modernization-llms-decisions/",
+  "published": "2026-11-23T15:46:10"
+ },
+ {
+  "blog_name": "Federico Tomassetti",
+  "blog_url": "https://tomassetti.me/",
+  "title": "Legacy Modernization with LLMs: Does the Translation Behave Like the Original?",
+  "link": "https://tomassetti.me/legacy-modernization-llms-correctness/",
+  "published": "2026-11-23T15:45:10"
+ },
+ {
+  "blog_name": "Federico Tomassetti",
+  "blog_url": "https://tomassetti.me/",
+  "title": "Legacy Modernization with LLMs: is a large translation consistent with itself?",
+  "link": "https://tomassetti.me/legacy-modernization-llms-large-translation-consistency/",
+  "published": "2026-11-23T15:44:10"
+ },
+ {
+  "blog_name": "Federico Tomassetti",
+  "blog_url": "https://tomassetti.me/",
+  "title": "Legacy Modernization with LLMs: what a well-done migration will look like in 2027",
+  "link": "https://tomassetti.me/legacy-modernization-llms-migration-2027/",
+  "published": "2026-11-23T15:43:10"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "UHM Digital: How six people keep a big-agency promise",
+  "link": "https://www.hostinger.com/blog/uhm-digital/",
+  "published": "2026-11-23T15:14:57"
+ },
+ {
   "blog_name": "Laravel",
   "blog_url": "https://laravel-news.com/blog/",
   "title": "Laravel Black Friday and Cyber Monday Deals 2026",
   "link": "https://laravel-news.com/laravel-black-friday-deals-2026?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
   "published": "2026-11-23T14:27:20"
+ },
+ {
+  "blog_name": "Kotlin",
+  "blog_url": "https://blog.jetbrains.com/kotlin/",
+  "title": "Kotlin Benchmark 2.0: How AI Coding Agents Handle Harder Tasks and Closed-Source Code",
+  "link": "https://blog.jetbrains.com/kotlin/2026/11/kotlin-benchmark-2-0-how-ai-coding-agents-handle-harder-tasks-and-closed-source-code/",
+  "published": "2026-11-23T14:13:29"
  },
  {
   "blog_name": "Red Hat",
@@ -84,6 +287,13 @@
   "published": "2026-11-23T12:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Why the Agent Isn’t the Hard Part: Where Developers Go Wrong With Agentic Workflows",
+  "link": "https://www.sitepoint.com/why-the-agent-isn-t-the-hard-part-where-developers-go-wrong-with-agentic-workflows/?utm_source=rss",
+  "published": "2026-11-23T10:25:06"
+ },
+ {
   "blog_name": "Scrapinghub",
   "blog_url": "https://blog.scrapinghub.com/",
   "title": "Real estate is the hardest industry to scrape after retail",
@@ -96,6 +306,20 @@
   "title": "Alice Huang In Touch With Chinese Spy Agency During Affair With Nvidia CEO, NYT Says",
   "link": "https://hardware.slashdot.org/story/26/11/23/089219/alice-huang-in-touch-with-chinese-spy-agency-during-affair-with-nvidia-ceo-nyt-says?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-23T08:34:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Connected intelligence for in-house legal",
+  "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+  "published": "2026-11-23T08:00:00"
+ },
+ {
+  "blog_name": "OpenAI",
+  "blog_url": "https://openai.com/news/",
+  "title": "Richpanel helps companies automate 50% of support in 30 days",
+  "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+  "published": "2026-11-23T08:00:00"
  },
  {
   "blog_name": "The Daily WTF",
@@ -144,6 +368,20 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Catch missing feature flags before they reach production",
   "link": "https://vercel.com/changelog/catch-missing-feature-flags-before-they-reach-production",
+  "published": "2026-11-23T05:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "AI Gateway now supports extraction models",
+  "link": "https://vercel.com/changelog/ai-gateway-now-supports-extraction-models",
+  "published": "2026-11-23T05:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel Drives adds CLI commands and standalone SDKs",
+  "link": "https://vercel.com/changelog/vercel-drives-adds-cli-commands-and-standalone-sdks",
   "published": "2026-11-23T05:00:00"
  },
  {
@@ -263,6 +501,97 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "We started a hackathon; we got a pipeline",
   "link": "https://www.thoughtworks.com/insights/blog/technology-strategy/hackathon-pipeline",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Registering MCP Clients with CIMD in Auth0",
+  "link": "https://auth0.com/blog/registering-mcp-clients-with-cimd-in-auth0/",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Discord",
+  "blog_url": "https://blog.discordapp.com/",
+  "title": "Introducing Auto Clips: Just Play the Game, We’ll Save the Clip",
+  "link": "https://discord.com/blog/introducing-auto-clips",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Deliveroo",
+  "blog_url": "https://deliveroo.engineering/",
+  "title": "The life of an undercover academic at Deliveroo: what moving from research to data science actually looks like",
+  "link": "https://deliveroo.engineering/2026/11/23/the-life-of-an-undercover-academic-at-deliveroo.html",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "The Link Is Not Dead, It's Behind Cloudflare",
+  "link": "https://code.dblock.org/2026/11/23/the-link-is-not-dead-its-behind-cloudflare.html",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Drew DeVault",
+  "blog_url": "https://drewdevault.com/",
+  "title": "sneakernet: a slow, decentralized messaging network",
+  "link": "https://drewdevault.com/blog/Introducing-sneakernet/",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Bootstrap.com",
+  "blog_url": "https://blog.getbootstrap.com/",
+  "title": "Bootstrap 6 Alpha 2",
+  "link": "https://blog.getbootstrap.com/2026/11/23/bootstrap-6-alpha-2/",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "From scattered searches to instant insight: Why Iron Mountain unified its enterprise search with Elastic",
+  "link": "https://www.elastic.co/blog/iron-mountain-enterprise-search",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Stack 9.4.10 released",
+  "link": "https://www.elastic.co/blog/elastic-stack-9-4-10-released",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Stack 8.19.26 released",
+  "link": "https://www.elastic.co/blog/elastic-stack-8-19-26-released",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic Stack 9.5.7 released",
+  "link": "https://www.elastic.co/blog/elastic-stack-9-5-7-released",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic 9.6: AlertZero, ES|QL S3 Data Federation, Universal Alerting, and more!",
+  "link": "https://www.elastic.co/blog/whats-new-elastic-9-6-0",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Simplify BYOC cluster operations with Datadog Operator",
+  "link": "https://www.datadoghq.com/blog/simplify-byoc-cluster-operations-with-datadog-operator/",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Key learnings from the 2026 State of Cloud Security study",
+  "link": "https://www.datadoghq.com/blog/cloud-security-study-learnings-2026/",
   "published": "2026-11-23T00:00:00"
  },
  {
@@ -1113,6 +1442,13 @@
   "published": "2026-11-20T00:00:00"
  },
  {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Datadog positioned as a Challenger in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management",
+  "link": "https://www.datadoghq.com/blog/datadog-siem-gartner-magic-quadrant-2026/",
+  "published": "2026-11-20T00:00:00"
+ },
+ {
   "blog_name": "Microsoft Edge",
   "blog_url": "https://blogs.windows.com/msedgedev/",
   "title": "Hybrid intelligence on the Web: Introducing Aion Instruct and Prompt API in Microsoft Edge",
@@ -1866,6 +2202,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "Extending Twilio Verify Beyond Carrier Channels: Passkeys, TOTP, and Push Without the Plumbing",
   "link": "https://www.twilio.com/en-us/blog/developers/best-practices/verify-passkeys-totp-push",
+  "published": "2026-11-19T00:00:00"
+ },
+ {
+  "blog_name": "IPFS",
+  "blog_url": "https://ipfs.io/blog/",
+  "title": "Inside the IPFS Stack: Maintainers and What's Next",
+  "link": "https://blog.ipfs.tech/2026-11-inside-the-ipfs-stack/",
   "published": "2026-11-19T00:00:00"
  },
  {
