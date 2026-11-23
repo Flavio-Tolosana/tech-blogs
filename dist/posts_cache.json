@@ -9,6 +9,55 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "GrapheneOS Accuses Google of Kneecapping Its Android Partners Using Pixel Exclusives",
+  "link": "https://mobile.slashdot.org/story/26/11/23/063242/grapheneos-accuses-google-of-kneecapping-its-android-partners-using-pixel-exclusives?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-23T06:06:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "The supply chain risk beneath our network services: Maybe it’s us",
+  "link": "https://blog.apnic.net/2026/11/23/the-supply-chain-risk-beneath-our-network-services-maybe-its-us/",
+  "published": "2026-11-23T05:39:14"
+ },
+ {
+  "blog_name": "MIT AI News",
+  "blog_url": "https://news.mit.edu/topic/artificial-intelligence2",
+  "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
+  "link": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+  "published": "2026-11-23T05:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Your elected leaders: Oanh Nguyen, NIR SIG Chair",
+  "link": "https://blog.apnic.net/2026/11/23/your-elected-leaders-oanh-nguyen-nir-sig-chair/",
+  "published": "2026-11-23T04:10:22"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "America's Shipping Ports Now Face Thousands of Cyberattacks Each Day",
+  "link": "https://news.slashdot.org/story/26/11/22/2339252/americas-shipping-ports-now-face-thousands-of-cyberattacks-each-day?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-23T02:34:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Invoices, Tickets and Reports: Generate, View and Print PDFs From One Java Codebase",
+  "link": "https://www.codenameone.com/blog/generate-and-view-pdfs-in-java/",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Have Investors Lost Their Faith in the AI Boom?",
+  "link": "https://slashdot.org/story/26/11/22/2257249/have-investors-lost-their-faith-in-the-ai-boom?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-22T23:24:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Sellers are Closing Etsy Stores in Response to Its New AI Training Policy",
   "link": "https://slashdot.org/story/26/11/22/2221256/sellers-are-closing-etsy-stores-in-response-to-its-new-ai-training-policy?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-22T22:24:00"
@@ -130,6 +179,13 @@
   "blog_url": "https://openai.com/news/",
   "title": "Perplexity and Intelligence",
   "link": "https://openai.com/index/perplexity-and-intelligence",
+  "published": "2026-11-22T00:00:00"
+ },
+ {
+  "blog_name": "Josh Sherman",
+  "blog_url": "https://joshtronic.com/",
+  "title": "How I Rebuilt Eleventy in Rust with AI in One Week",
+  "link": "https://joshtronic.com/2026/11/22/eleventy-rebuilt-rust/",
   "published": "2026-11-22T00:00:00"
  },
  {
@@ -40829,6 +40885,13 @@
   "title": "Using Tools: A Meeting Scheduler",
   "link": "https://www.ardanlabs.com/blog/2026/03/using-tools-a-meeting-scheduler/",
   "published": "2026-03-16T00:00:00"
+ },
+ {
+  "blog_name": "Marcelo Rinesi",
+  "blog_url": "https://blog.rinesi.com/",
+  "title": "The Net Sum of Love",
+  "link": "https://blog.rinesi.com/2026/03/the-net-sum-of-love",
+  "published": "2026-03-13T03:00:00"
  },
  {
   "blog_name": "Una Kravets",
