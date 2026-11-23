@@ -7,6 +7,111 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laravel Black Friday and Cyber Monday Deals 2026",
+  "link": "https://laravel-news.com/laravel-black-friday-deals-2026?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-23T14:27:20"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Configure Red Hat OpenShift Lightspeed autonomous agents",
+  "link": "https://developers.redhat.com/articles/2026/11/23/configure-red-hat-openshift-lightspeed-autonomous-agents",
+  "published": "2026-11-23T14:01:26"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Probing DNS at Cloudflare",
+  "link": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+  "published": "2026-11-23T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "LangChain Tutorial: From Prompts to RAG and AI Agents",
+  "link": "https://realpython.com/langchain-tutorial/",
+  "published": "2026-11-23T14:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Hostinger weekly product updates: Week 47, 2026",
+  "link": "https://www.hostinger.com/blog/product-updates-week-47-2026/",
+  "published": "2026-11-23T13:14:21"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Seeing the machine code of your Java program, with a few lines of Java",
+  "link": "https://lemire.me/blog/2026/11/23/seeing-the-machine-code-of-your-java-program/",
+  "published": "2026-11-23T13:00:38"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Black Friday: Learn the habits behind AI workflows that work",
+  "link": "https://laravel-news.com/unlearn-dev-black-friday?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-23T13:00:31"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "A Celebration of My Most Loved Codebases",
+  "link": "https://spin.atomicobject.com/most-loved-codebases/",
+  "published": "2026-11-23T13:00:09"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Anthropic's Safety-Conscious Corporate Culture Still Envisions Superintelligent AI",
+  "link": "https://slashdot.org/story/26/11/23/0713235/anthropics-safety-conscious-corporate-culture-still-envisions-superintelligent-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-23T12:34:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Bypassing iOS Safari’s 60 FPS Limit to Build Web Applications That Feel Native",
+  "link": "https://freek.dev/3232-bypassing-ios-safaris-60-fps-limit-to-build-web-applications-that-feel-native",
+  "published": "2026-11-23T12:30:38"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: LangChain Tutorial: From Prompts to RAG and AI Agents",
+  "link": "https://realpython.com/quizzes/langchain-tutorial/",
+  "published": "2026-11-23T12:00:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Real estate is the hardest industry to scrape after retail",
+  "link": "https://www.zyte.com/blog/sowa-industry-real-estate/",
+  "published": "2026-11-23T09:00:04"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Alice Huang In Touch With Chinese Spy Agency During Affair With Nvidia CEO, NYT Says",
+  "link": "https://hardware.slashdot.org/story/26/11/23/089219/alice-huang-in-touch-with-chinese-spy-agency-during-affair-with-nvidia-ceo-nyt-says?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-23T08:34:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "The Perils of Web Development",
+  "link": "https://thedailywtf.com/articles/the-perils-of-web-development",
+  "published": "2026-11-23T06:30:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "AI Gateway now runs canary ZDR audits",
+  "link": "https://vercel.com/changelog/ai-gateway-now-runs-canary-zdr-audits",
+  "published": "2026-11-23T06:19:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "GrapheneOS Accuses Google of Kneecapping Its Android Partners Using Pixel Exclusives",
@@ -26,6 +131,27 @@
   "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
   "link": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
   "published": "2026-11-23T05:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Introducing Audited ZDR on AI Gateway",
+  "link": "https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway",
+  "published": "2026-11-23T05:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Catch missing feature flags before they reach production",
+  "link": "https://vercel.com/changelog/catch-missing-feature-flags-before-they-reach-production",
+  "published": "2026-11-23T05:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Build Conference Talk Slides With AI Without Looking Generic",
+  "link": "https://www.sitepoint.com/how-to-build-conference-talk-slides-with-ai-without-looking-generic/?utm_source=rss",
+  "published": "2026-11-23T04:17:28"
  },
  {
   "blog_name": "APNIC",
@@ -49,6 +175,97 @@
   "published": "2026-11-23T00:00:00"
  },
  {
+  "blog_name": "Grab",
+  "blog_url": "http://engineering.grab.com/",
+  "title": "Part 1: Simulation-first AI experimentation for ads at Grab",
+  "link": "https://engineering.grab.com/part-1-ads-simulation-blogpost",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Grab",
+  "blog_url": "http://engineering.grab.com/",
+  "title": "Replaying merged changes: how we test whether a knowledge base makes coding agents better",
+  "link": "https://engineering.grab.com/replaying-merged-changes-knowledge-base-coding-agents-better",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Grab",
+  "blog_url": "http://engineering.grab.com/",
+  "title": "How Grab built Scarlet: the AI teammate that turns a Slack message into a production data pipeline",
+  "link": "https://engineering.grab.com/how-grab-built-scarlet-blog",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Okta",
+  "blog_url": "https://developer.okta.com/blog/",
+  "title": "Implement Secure Cross App Access (XAA) in Go",
+  "link": "https://developer.okta.com/blog/2026/11/23/secure-go-mcp-app-cross-app-access/",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Amit Merchant",
+  "blog_url": "https://www.amitmerchant.com/",
+  "title": "JavaScript Gets a New Set of HTML Insertion APIs",
+  "link": "https://www.amitmerchant.com/javascript-gets-a-new-set-of-html-insertion-apis/",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Choose AI Gateway providers by headquarters country",
+  "link": "https://vercel.com/changelog/choose-ai-gateway-providers-by-headquarters-country",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "Least privilege by default: what's new in Pulumi Cloud RBAC",
+  "link": "https://www.pulumi.com/blog/pulumi-cloud-rbac-least-privilege-by-default/",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "Bring your own model to Pulumi Agents",
+  "link": "https://www.pulumi.com/blog/bring-your-own-model-to-pulumi-agents/",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Susam Pal",
+  "blog_url": "https://susam.net/",
+  "title": "Nerd Quiz #5",
+  "link": "https://susam.net/code/news/nq/5.0.0.html",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Fly.io",
+  "blog_url": "https://fly.io/blog/",
+  "title": "Holding the Door for Agents",
+  "link": "https://fly.io/blog/holding-the-door-for-agents/",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "How to build and maintain an agentic evaluation",
+  "link": "https://huggingface.co/blog/agentic-evals",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Understanding the context development lifecycle",
+  "link": "https://www.thoughtworks.com/insights/blog/generative-ai/understanding-context-development-lifecycle",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "We started a hackathon; we got a pipeline",
+  "link": "https://www.thoughtworks.com/insights/blog/technology-strategy/hackathon-pipeline",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Have Investors Lost Their Faith in the AI Boom?",
@@ -68,6 +285,13 @@
   "title": "The New 'Riemann Hypothesis' Proof Has Been Confirmed in Mathlib/Lean Communities",
   "link": "https://science.slashdot.org/story/26/11/22/2031237/the-new-riemann-hypothesis-proof-has-been-confirmed-in-mathliblean-communities?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-22T20:51:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Decide with Jev: Make Failed AI Requests Safe in Laravel",
+  "link": "https://laravel-news.com/decide-with-jev-make-failed-ai-requests-safe-in-laravel?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-22T20:04:08"
  },
  {
   "blog_name": "Slashdot",
@@ -105,6 +329,13 @@
   "published": "2026-11-22T14:00:00"
  },
  {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Top Python Game Engines",
+  "link": "https://realpython.com/top-python-game-engines/",
+  "published": "2026-11-22T14:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Aptera Completes Its First Solar Electric Vehicle for Customer Delivery",
@@ -124,6 +355,13 @@
   "title": "Quantum Computing's First Real-world Payoff May Come In Energy Solutions",
   "link": "https://hardware.slashdot.org/story/26/11/22/078255/quantum-computings-first-real-world-payoff-may-come-in-energy-solutions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-22T08:34:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python loading spinners with Rich: Using Console.status",
+  "link": "https://lernerpython.com/2026/11/22/python-loading-spinners-with-rich-using-console-status/",
+  "published": "2026-11-22T07:00:00"
  },
  {
   "blog_name": "Slashdot",
@@ -341,6 +579,13 @@
   "title": "When AI Doesn’t Need to Generate Anything",
   "link": "https://www.amitmerchant.com/gemini-decisions-api/",
   "published": "2026-11-21T00:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Your Pose Model Gives You Coordinates, Not Meaning",
+  "link": "https://www.sitepoint.com/your-pose-model-gives-you-coordinates-not-meaning/?utm_source=rss",
+  "published": "2026-11-20T23:31:28"
  },
  {
   "blog_name": "AWS Machine Learning",
