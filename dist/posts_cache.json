@@ -7,6 +7,125 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Cheaters are Innovators",
+  "link": "https://lemire.me/blog/2026/11/24/cheaters-are-innovators/",
+  "published": "2026-11-24T14:58:38"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "The end of enterprise software — or, a world of custom solutions",
+  "link": "https://lernerpython.com/2026/11/24/the-end-of-enterprise-software-or-a-world-of-custom-solutions/",
+  "published": "2026-11-24T14:24:12"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "JBoss EAP 8.2 Beta: Java SE 25 and automated provisioning",
+  "link": "https://developers.redhat.com/articles/2026/11/24/jboss-eap-8-2-beta-java-se-25-automated-provisioning",
+  "published": "2026-11-24T14:17:02"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Chasing CVEs: Lessons from a real container build using Red Hat Hardened Images",
+  "link": "https://developers.redhat.com/articles/2026/11/24/lessons-from-a-real-container-build-with-red-hat-hardened-images",
+  "published": "2026-11-24T14:16:59"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Conditional Statements in Python",
+  "link": "https://realpython.com/python-conditional-statements/",
+  "published": "2026-11-24T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "K-Means Clustering in Python: A Practical Guide",
+  "link": "https://realpython.com/k-means-clustering-python/",
+  "published": "2026-11-24T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Build an AI Agent From Scratch in Python",
+  "link": "https://realpython.com/courses/build-ai-agent-scratch-python/",
+  "published": "2026-11-24T14:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "Q&amp;A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
+  "link": "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5/",
+  "published": "2026-11-24T14:00:00"
+ },
+ {
+  "blog_name": "Scrapinghub",
+  "blog_url": "https://blog.scrapinghub.com/",
+  "title": "Competitor price monitoring with Zyte’s MCP in Claude for Black Friday and Cyber Monday",
+  "link": "https://www.zyte.com/blog/competitor-price-monitoring-claude-zyte-mcp/",
+  "published": "2026-11-24T13:40:02"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "AWS Organizations: Give Your Experiments Some Distance from Production",
+  "link": "https://spin.atomicobject.com/aws-organizations-tradeoffs/",
+  "published": "2026-11-24T13:00:02"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "A language feast: the history of turkey, pumpkin, and other Thanksgiving words",
+  "link": "https://blog.duolingo.com/history-of-thanksgiving-food-words/",
+  "published": "2026-11-24T13:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Bad ideas that aren't bad anymore",
+  "link": "https://freek.dev/3233-bad-ideas-that-arent-bad-anymore",
+  "published": "2026-11-24T12:30:41"
+ },
+ {
+  "blog_name": "Expedia",
+  "blog_url": "https://medium.com/expedia-group-tech",
+  "title": "Diversifying Property Galleries with Visual Embeddings and Maximal Marginal Relevance",
+  "link": "https://medium.com/expedia-group-tech/diversifying-property-galleries-with-visual-embeddings-and-maximal-marginal-relevance-30496035dac0?source=rss----38998a53046f---4",
+  "published": "2026-11-24T12:01:01"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python Conditional Statements",
+  "link": "https://realpython.com/quizzes/python-conditional-statements/",
+  "published": "2026-11-24T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Plotting Declarative Charts With Altair",
+  "link": "https://realpython.com/quizzes/plotting-declarative-charts-with-altair/",
+  "published": "2026-11-24T12:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "PostgreSQL 19 on ClickHouse Managed Postgres, from day one",
+  "link": "https://clickhouse.com/blog/postgresql-19-on-clickhouse-managed-postgres-from-day-one",
+  "published": "2026-11-24T11:54:58"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "US To Blacklist Asian AI Firm Megaspeed After Nvidia Scandal",
+  "link": "https://slashdot.org/story/26/11/24/0252253/us-to-blacklist-asian-ai-firm-megaspeed-after-nvidia-scandal?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-24T11:00:00"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "Agent swarms need more than a message board",
@@ -14,11 +133,39 @@
   "published": "2026-11-24T08:40:00"
  },
  {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Your agents don't care that you're a batch shop",
+  "link": "https://clickhouse.com/blog/your-agents-dont-care-that-youre-a-batch-shop",
+  "published": "2026-11-24T08:22:07"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "I Built Myself Into an API. Then ChatGPT Undercut Me.",
+  "link": "https://nordicapis.com/i-built-myself-into-an-api-then-chatgpt-undercut-me/",
+  "published": "2026-11-24T08:00:00"
+ },
+ {
+  "blog_name": "GoCardless",
+  "blog_url": "https://gocardless.com/blog/tagged/engineering/",
+  "title": "GoCardless completes FCA AI Live Testing as research finds 44% of Brits say AI providers should put payment mistakes right",
+  "link": "https://gocardless.com/blog/gocardless-completes-fca-ai-live-testing",
+  "published": "2026-11-24T07:26:40"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Russia May Launch Nuclear Weapon Into Orbit As Soon As Next Month",
   "link": "https://tech.slashdot.org/story/26/11/24/0241247/russia-may-launch-nuclear-weapon-into-orbit-as-soon-as-next-month?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-24T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "How Not to Get Honey-Trapped",
+  "link": "https://thedailywtf.com/articles/how-not-to-get-honey-trapped",
+  "published": "2026-11-24T06:30:00"
  },
  {
   "blog_name": "AWS Machine Learning",
@@ -158,6 +305,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief",
   "link": "https://news.slashdot.org/story/26/11/23/1837208/trump-is-said-to-have-directed-effort-to-reinstate-nvidia-chief?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-23T19:00:00"
+ },
+ {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Terraform introduces tfpolicy support for Stacks, SCIM support, and more",
+  "link": "https://www.hashicorp.com/blog/terraform-introduces-tfpolicy-support-for-stacks-scim-support-and-more",
   "published": "2026-11-23T19:00:00"
  },
  {
@@ -1167,6 +1321,13 @@
   "title": "Dispatches from O'Reilly: Inside a software factory",
   "link": "https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/",
   "published": "2026-11-20T17:18:38"
+ },
+ {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Nomad in 2026: A Year of Scale, Security, and Ecosystem Velocity",
+  "link": "https://www.hashicorp.com/blog/nomad-in-2026-a-year-of-scale-security-and-ecosystem-velocity",
+  "published": "2026-11-20T17:00:00"
  },
  {
   "blog_name": "Jeffrey Zeldman",
@@ -2608,6 +2769,13 @@
   "blog_url": "https://developer.nvidia.com/blog/",
   "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
   "link": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/",
+  "published": "2026-11-18T17:00:00"
+ },
+ {
+  "blog_name": "HashiCorp",
+  "blog_url": "https://www.hashicorp.com/blog/",
+  "title": "Building a secure foundation for AI on Kubernetes with HashiCorp Vault",
+  "link": "https://www.hashicorp.com/blog/building-a-secure-foundation-for-ai-on-kubernetes-with-hashicorp-vault",
   "published": "2026-11-18T17:00:00"
  },
  {
