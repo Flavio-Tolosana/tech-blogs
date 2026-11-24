@@ -7,11 +7,88 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Agent swarms need more than a message board",
+  "link": "https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/",
+  "published": "2026-11-24T08:40:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Russia May Launch Nuclear Weapon Into Orbit As Soon As Next Month",
+  "link": "https://tech.slashdot.org/story/26/11/24/0241247/russia-may-launch-nuclear-weapon-into-orbit-as-soon-as-next-month?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-24T07:00:00"
+ },
+ {
+  "blog_name": "AWS Machine Learning",
+  "blog_url": "https://aws.amazon.com/blogs/machine-learning/",
+  "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+  "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+  "published": "2026-11-24T05:01:14"
+ },
+ {
+  "blog_name": "Jeremy Kun",
+  "blog_url": "https://jeremykun.com/",
+  "title": "Daring theory to care about the real world",
+  "link": "https://www.jeremykun.com/shortform/2026-11-23-2007/",
+  "published": "2026-11-24T04:07:19"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "A new APNIC Academy experience is coming on 30 November 2026",
+  "link": "https://blog.apnic.net/2026/11/24/a-new-apnic-academy-experience-is-coming-on-30-november-2026/",
+  "published": "2026-11-24T04:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "New York Bans Subscription and Post-Purchase Fees On Cars",
+  "link": "https://tech.slashdot.org/story/26/11/24/0233203/new-york-bans-subscription-and-post-purchase-fees-on-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-24T03:30:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Sharing catalog metadata across data platforms, engines, and agents",
+  "link": "https://www.databricks.com/blog/sharing-catalog-metadata-across-data-platforms-engines-and-agents",
+  "published": "2026-11-24T01:30:00"
+ },
+ {
+  "blog_name": "Amit Merchant",
+  "blog_url": "https://www.amitmerchant.com/",
+  "title": "The Case for Browser Engine Diversity",
+  "link": "https://www.amitmerchant.com/the-case-for-browser-engine-diversity/",
+  "published": "2026-11-24T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Fieldline: Launch Your Own Field Service App, With a Scheduler That Plans the Week",
+  "link": "https://www.codenameone.com/blog/field-service-scheduling-template/",
+  "published": "2026-11-24T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Google Is Finally Retiring the Nest App Early Next Year",
+  "link": "https://tech.slashdot.org/story/26/11/23/2122224/google-is-finally-retiring-the-nest-app-early-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-24T00:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Trump Halts Army's Plans to Detonate Bomb-Making Chemicals In Iowa",
   "link": "https://yro.slashdot.org/story/26/11/23/2256228/trump-halts-armys-plans-to-detonate-bomb-making-chemicals-in-iowa?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-23T23:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Solar PV for Internet resilience (Part 3): Installing and operating your system",
+  "link": "https://blog.apnic.net/2026/11/24/solar-pv-for-internet-resilience-part-3-installing-and-operating-your-system/",
+  "published": "2026-11-23T22:51:47"
  },
  {
   "blog_name": "Slashdot",
@@ -47,6 +124,13 @@
   "title": "Jensen Huang Says He'll Be a 'Better CEO' As Staff Applauds His Return",
   "link": "https://slashdot.org/story/26/11/23/216201/jensen-huang-says-hell-be-a-better-ceo-as-staff-applauds-his-return?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-23T21:07:00"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "What 5,400 Malicious npm Packages Reveal about Software Supply Chain Risk in 2026",
+  "link": "https://www.databricks.com/blog/what-5400-malicious-npm-packages-reveal-about-software-supply-chain-risk-2026",
+  "published": "2026-11-23T20:47:23"
  },
  {
   "blog_name": "Wealthfront",
@@ -138,6 +222,13 @@
   "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
   "link": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
   "published": "2026-11-23T17:00:08"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "Finding faster quantum algorithms with agents and formal verification",
+  "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+  "published": "2026-11-23T16:59:40"
  },
  {
   "blog_name": "Databricks",
@@ -322,6 +413,13 @@
   "published": "2026-11-23T08:00:00"
  },
  {
+  "blog_name": "NSHipster",
+  "blog_url": "http://nshipster.com/",
+  "title": "cron & Calendar.RecurrenceRule",
+  "link": "https://nshipster.com/cron-and-calendar-recurrencerule",
+  "published": "2026-11-23T08:00:00"
+ },
+ {
   "blog_name": "The Daily WTF",
   "blog_url": "http://thedailywtf.com/",
   "title": "The Perils of Web Development",
@@ -382,6 +480,20 @@
   "blog_url": "https://vercel.com/blog",
   "title": "Vercel Drives adds CLI commands and standalone SDKs",
   "link": "https://vercel.com/changelog/vercel-drives-adds-cli-commands-and-standalone-sdks",
+  "published": "2026-11-23T05:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Kazunari Hanao joins Vercel as Country Manager, Japan",
+  "link": "https://vercel.com/blog/kazunari-hanao-joins-vercel-as-country-manager-japan",
+  "published": "2026-11-23T05:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Vercel日本法人の代表に花尾和成が就任いたしました",
+  "link": "https://vercel.com/blog/ja-kazunari-hanao-joins-vercel-as-country-manager-japan",
   "published": "2026-11-23T05:00:00"
  },
  {
@@ -592,6 +704,13 @@
   "blog_url": "https://www.datadoghq.com/blog/engineering/",
   "title": "Key learnings from the 2026 State of Cloud Security study",
   "link": "https://www.datadoghq.com/blog/cloud-security-study-learnings-2026/",
+  "published": "2026-11-23T00:00:00"
+ },
+ {
+  "blog_name": "Stripe",
+  "blog_url": "https://stripe.com/blog",
+  "title": "Custom software, specialized workflows, and other new growth paths from SaaS Platform Summit",
+  "link": "https://stripe.com/blog/custom-software-specialized-workflows-and-other-new-growth-paths-from-saas-platform-summit",
   "published": "2026-11-23T00:00:00"
  },
  {
@@ -3028,6 +3147,13 @@
   "blog_url": "https://clickhouse.com/blog",
   "title": "Why Front migrated from Elasticsearch to ClickHouse for “pixel-perfect” analytics at scale",
   "link": "https://clickhouse.com/blog/front-elasticsearch-clickhouse",
+  "published": "2026-11-18T00:00:00"
+ },
+ {
+  "blog_name": "Grab",
+  "blog_url": "http://engineering.grab.com/",
+  "title": "How a shared merchant data service can degrade gracefully",
+  "link": "https://engineering.grab.com/shared-merchant-data-service",
   "published": "2026-11-18T00:00:00"
  },
  {
@@ -45267,6 +45393,13 @@
   "title": "How To Ensure Exceptional Software Quality On Mobile",
   "link": "https://novoda.com/blog/2023/09/26/how-to-ensure-exceptional-software-quality-on-mobile/",
   "published": "2023-09-26T08:49:48"
+ },
+ {
+  "blog_name": "Elastic",
+  "blog_url": "https://www.elastic.co/blog/category/engineering",
+  "title": "Elastic launches new Verified Designation for Managed Service Provider partners",
+  "link": "https://www.elastic.co/blog/elastic-verified-designation-managed-service-provider-partners",
+  "published": "2023-09-22T07:00:00"
  },
  {
   "blog_name": "Novoda",
