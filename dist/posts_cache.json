@@ -16,6 +16,69 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "Amazon Drone Crashes On Garage After Delivering Shampoo, Draws FAA Probe",
+  "link": "https://tech.slashdot.org/story/26/11/25/056210/amazon-drone-crashes-on-garage-after-delivering-shampoo-draws-faa-probe?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-25T07:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "The model inside the server: Network design for inference on a few GPU nodes",
+  "link": "https://blog.apnic.net/2026/11/25/the-model-inside-the-server-network-design-for-inference-on-a-few-gpu-nodes/",
+  "published": "2026-11-25T06:11:44"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "US Spy Agencies Suffer Breach of Some Unclassified Information",
+  "link": "https://it.slashdot.org/story/26/11/25/0056232/us-spy-agencies-suffer-breach-of-some-unclassified-information?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-25T03:30:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "For want of a nail: Supply chain dynamics for techies",
+  "link": "https://blog.apnic.net/2026/11/25/for-want-of-a-nail-supply-chain-dynamics-for-techies/",
+  "published": "2026-11-25T01:19:41"
+ },
+ {
+  "blog_name": "Grab",
+  "blog_url": "http://engineering.grab.com/",
+  "title": "Part 2: Generative bidders for ads at Grab",
+  "link": "https://engineering.grab.com/part-2-ads-simulation-blogpost",
+  "published": "2026-11-25T00:00:00"
+ },
+ {
+  "blog_name": "Armin Ronacher",
+  "blog_url": "http://lucumr.pocoo.org/",
+  "title": "Abolish Lock Poisoning",
+  "link": "https://lucumr.pocoo.org/2026/11/25/poisoning/",
+  "published": "2026-11-25T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Flowcharts, Node Editors and Kanban Boards Are Now Standard Components",
+  "link": "https://www.codenameone.com/blog/diagrams-flowcharts-and-kanban-boards/",
+  "published": "2026-11-25T00:00:00"
+ },
+ {
+  "blog_name": "Simon Willison",
+  "blog_url": "http://simonwillison.net/",
+  "title": "Three LLM inflection points in twelve months",
+  "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+  "published": "2026-11-24T23:02:07"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Waymo Says Recall Prompted By 11 New Incidents of Robotaxis Entering Closed Freeway Lanes",
+  "link": "https://tech.slashdot.org/story/26/11/24/1916240/waymo-says-recall-prompted-by-11-new-incidents-of-robotaxis-entering-closed-freeway-lanes?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-24T23:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Hackers Compromise Check Point Servers In 22 Organizations",
   "link": "https://it.slashdot.org/story/26/11/24/197200/hackers-compromise-check-point-servers-in-22-organizations?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-24T22:00:00"
@@ -348,6 +411,13 @@
   "title": "Searching for distant planets with Astra",
   "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
   "published": "2026-11-24T11:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "AWS PrivateLink endpoints are now available on Secure Compute",
+  "link": "https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute",
+  "published": "2026-11-24T09:54:00"
  },
  {
   "blog_name": "Stack Overflow",
