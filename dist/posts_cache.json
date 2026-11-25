@@ -7,10 +7,122 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Codrops",
+  "blog_url": "https://tympanus.net/codrops/",
+  "title": "Brice Deguigne ’26: A Three.js and WebGPU 3D Portfolio Built Like a Simulation",
+  "link": "https://tympanus.net/codrops/2026/11/25/brice-deguigne-3d-portfolio/",
+  "published": "2026-11-25T14:35:39"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Securing multimodal AI with NeMo Guardrails and vision models",
+  "link": "https://developers.redhat.com/articles/2026/11/25/securing-multimodal-ai-nemo-guardrails-and-vision-models",
+  "published": "2026-11-25T14:02:07"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Scaling multicluster GitOps with argocd-agent and Red Hat Advanced Cluster Management for Kubernetes",
+  "link": "https://developers.redhat.com/articles/2026/11/25/scaling-multicluster-gitops-with-argocd-agent-and-red-hat-advanced-cluster-management-for-kubernetes",
+  "published": "2026-11-25T14:02:05"
+ },
+ {
+  "blog_name": "Cloudflare",
+  "blog_url": "https://blog.cloudflare.com/",
+  "title": "Introducing Search for Agents",
+  "link": "https://blog.cloudflare.com/search-for-agents/",
+  "published": "2026-11-25T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "LLM Evaluation in Python: Build an Eval Harness From Scratch",
+  "link": "https://realpython.com/llm-evaluation/",
+  "published": "2026-11-25T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "pandas Project: Make a Gradebook With Python & pandas",
+  "link": "https://realpython.com/pandas-project-gradebook/",
+  "published": "2026-11-25T14:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Introducing Inertia UI Notifications: Toasts, a notification center, and preferences for Laravel and Inertia.js",
+  "link": "https://freek.dev/3234-introducing-inertia-ui-notifications-toasts-a-notification-center-and-preferences-for-laravel-and-inertiajs",
+  "published": "2026-11-25T13:10:58"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "One Word That Fixed a 126-Second Query",
+  "link": "https://spin.atomicobject.com/sqlite-query-planner-cross-join-analyze/",
+  "published": "2026-11-25T13:00:26"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Command-line JSON filtering at 20 GB/s",
+  "link": "https://lemire.me/blog/2026/11/25/command-line-json-filtering-at-20-gb-s/",
+  "published": "2026-11-25T12:55:13"
+ },
+ {
+  "blog_name": "Semaphore Engineering",
+  "blog_url": "http://semaphoreci.io/feed",
+  "title": "Best Buildkite Alternatives in 2026",
+  "link": "https://semaphore.io/blog/best-buildkite-alternatives",
+  "published": "2026-11-25T12:00:42"
+ },
+ {
+  "blog_name": "Semaphore Engineering",
+  "blog_url": "http://semaphoreci.io/feed",
+  "title": "Best Travis CI Alternatives in 2026",
+  "link": "https://semaphore.io/blog/best-travis-ci-alternatives",
+  "published": "2026-11-25T12:00:29"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: LLM Evaluation in Python: Build an Eval Harness From Scratch",
+  "link": "https://realpython.com/quizzes/llm-evaluation/",
+  "published": "2026-11-25T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Is Nvidia's Legal Trouble Over - Or Just Beginning?",
+  "link": "https://hardware.slashdot.org/story/26/11/25/0923237/is-nvidias-legal-trouble-over---or-just-beginning?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-25T11:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "An Indic Voice Agent with CUGA",
+  "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+  "published": "2026-11-25T10:22:09"
+ },
+ {
+  "blog_name": "GoCardless",
+  "blog_url": "https://gocardless.com/blog/tagged/engineering/",
+  "title": "Five lessons from testing agentic payments with the FCA",
+  "link": "https://gocardless.com/blog/ailt-learnings",
+  "published": "2026-11-25T08:58:12"
+ },
+ {
   "blog_name": "Vercel",
   "blog_url": "https://vercel.com/blog",
   "title": "Standard builds for existing Pro teams have moved to usage-based billing",
   "link": "https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing",
+  "published": "2026-11-25T08:00:00"
+ },
+ {
+  "blog_name": "SeveralNines",
+  "blog_url": "https://severalnines.com/database-blog",
+  "title": "GooshCloud Builds Sovereign DBaaS on ClusterControl and FishOS",
+  "link": "https://severalnines.com/blog/gooshcloud-builds-sovereign-dbaas-on-clustercontrol-and-fishos/",
   "published": "2026-11-25T08:00:00"
  },
  {
@@ -19,6 +131,13 @@
   "title": "Amazon Drone Crashes On Garage After Delivering Shampoo, Draws FAA Probe",
   "link": "https://tech.slashdot.org/story/26/11/25/056210/amazon-drone-crashes-on-garage-after-delivering-shampoo-draws-faa-probe?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-25T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "CodeSOD: ReferenceError: HELL is not defined",
+  "link": "https://thedailywtf.com/articles/referenceerror-hell-is-not-defined",
+  "published": "2026-11-25T06:30:00"
  },
  {
   "blog_name": "APNIC",
@@ -63,6 +182,20 @@
   "published": "2026-11-25T00:00:00"
  },
  {
+  "blog_name": "MapTiler",
+  "blog_url": "https://www.maptiler.com/blog/",
+  "title": "MapTiler Engine 14.2: Native Apple Silicon support and faster JP2 processing",
+  "link": "https://www.maptiler.com/news/2026/11/maptiler-engine-14-2-native-apple-silicon-support-and-faster-jp2-processing",
+  "published": "2026-11-25T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Building Code Argus: From hackathon idea to agentic DevSecOps",
+  "link": "https://www.thoughtworks.com/insights/blog/generative-ai/building-code-argus-hackathon-to-agentic-devsecops",
+  "published": "2026-11-25T00:00:00"
+ },
+ {
   "blog_name": "Simon Willison",
   "blog_url": "http://simonwillison.net/",
   "title": "Three LLM inflection points in twelve months",
@@ -75,6 +208,13 @@
   "title": "Waymo Says Recall Prompted By 11 New Incidents of Robotaxis Entering Closed Freeway Lanes",
   "link": "https://tech.slashdot.org/story/26/11/24/1916240/waymo-says-recall-prompted-by-11-new-incidents-of-robotaxis-entering-closed-freeway-lanes?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-24T23:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Form Request Model Lookups and PHP 8.6 Support in Laravel 13.44",
+  "link": "https://laravel-news.com/laravel-13-44-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-24T22:07:17"
  },
  {
   "blog_name": "Slashdot",
@@ -441,6 +581,13 @@
   "published": "2026-11-24T08:00:00"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Add Idempotency Keys to a Node.js API with PostgreSQL",
+  "link": "https://www.sitepoint.com/how-to-add-idempotency-keys-to-a-node-js-api-with-postgresql/?utm_source=rss",
+  "published": "2026-11-24T07:34:53"
+ },
+ {
   "blog_name": "GoCardless",
   "blog_url": "https://gocardless.com/blog/tagged/engineering/",
   "title": "GoCardless completes FCA AI Live Testing as research finds 44% of Brits say AI providers should put payment mistakes right",
@@ -452,6 +599,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "Russia May Launch Nuclear Weapon Into Orbit As Soon As Next Month",
   "link": "https://tech.slashdot.org/story/26/11/24/0241247/russia-may-launch-nuclear-weapon-into-orbit-as-soon-as-next-month?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-24T07:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python tracebacks with Rich: Colorized output and local variables",
+  "link": "https://lernerpython.com/2026/11/24/python-tracebacks-with-rich-colorized-output-and-local-variables/",
   "published": "2026-11-24T07:00:00"
  },
  {
