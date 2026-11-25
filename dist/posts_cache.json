@@ -7,6 +7,118 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Suspected Chinese Agents Are Trying to Dupe Americans with Fake Listings on Job Platforms",
+  "link": "https://tech.slashdot.org/story/26/11/25/069227/suspected-chinese-agents-are-trying-to-dupe-americans-with-fake-listings-on-job-platforms?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-25T23:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Anthropic, OpenAI Employees Fear Models Are Too Unsafe to Ever Release",
+  "link": "https://slashdot.org/story/26/11/25/0814233/anthropic-openai-employees-fear-models-are-too-unsafe-to-ever-release?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-25T22:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Saudi National Charged In OpenAI Bugging To Be Released On $1 Million Bond",
+  "link": "https://yro.slashdot.org/story/26/11/25/0633231/saudi-national-charged-in-openai-bugging-to-be-released-on-1-million-bond?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-25T21:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "Hints and hazards: pg_plan_advice in PG19",
+  "link": "https://clickhouse.com/blog/pg-plan-advice-postgresql-19",
+  "published": "2026-11-25T20:49:01"
+ },
+ {
+  "blog_name": "Vlad Mihalcea",
+  "blog_url": "https://vladmihalcea.com/",
+  "title": "How to use PostgreSQL pgvector with JPA, Hibernate, and Spring AI",
+  "link": "https://vladmihalcea.com/postgresql-pgvector-jpa-hibernate-spring-ai/",
+  "published": "2026-11-25T20:28:16"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Tuesday Jensen Huang Said Nvidia Doesn't Need a Succession Plan, and that He's in Therapy",
+  "link": "https://hardware.slashdot.org/story/26/11/25/0757217/tuesday-jensen-huang-said-nvidia-doesnt-need-a-succession-plan-and-that-hes-in-therapy?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-25T20:00:00"
+ },
+ {
+  "blog_name": "NVIDIA Developer",
+  "blog_url": "https://developer.nvidia.com/blog/",
+  "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+  "link": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/",
+  "published": "2026-11-25T19:30:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "FAA Identifies Patches for Last Week's Flight-Grounding Router Issue. But Was Staffing an Issue?",
+  "link": "https://tech.slashdot.org/story/26/11/25/0733222/faa-identifies-patches-for-last-weeks-flight-grounding-router-issue-but-was-staffing-an-issue?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-25T19:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Where scientists draw the line on AI agents",
+  "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+  "published": "2026-11-25T18:52:55"
+ },
+ {
+  "blog_name": "Kotlin",
+  "blog_url": "https://blog.jetbrains.com/kotlin/",
+  "title": "Kotlin Heroes: Episode 15 – Anniversary Edition",
+  "link": "https://blog.jetbrains.com/kotlin/2026/11/kotlin-heroes-episode-15-anniversary-edition/",
+  "published": "2026-11-25T17:30:19"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "How well is ClickHouse tested? A detailed view of increasing our own coverage",
+  "link": "https://clickhouse.com/blog/how-well-is-clickhouse-tested",
+  "published": "2026-11-25T17:13:02"
+ },
+ {
+  "blog_name": "Docker",
+  "blog_url": "https://blog.docker.com/",
+  "title": "Prove your AI agent guardrails work",
+  "link": "https://www.docker.com/blog/prove-your-ai-agent-guardrails-work/",
+  "published": "2026-11-25T16:57:00"
+ },
+ {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "Continuity is engineered, not given: How I learned to work with AI agents that forget everything",
+  "link": "https://building.nu.com/continuity-is-engineered-not-given-how-i-learned-to-work-with-ai-agents-that-forget-everything/",
+  "published": "2026-11-25T16:20:02"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "Art of play in the age of AI",
+  "link": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+  "published": "2026-11-25T16:00:00"
+ },
+ {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "When AI Writes the Code, What Counts as Evidence?",
+  "link": "https://stackoverflow.blog/2026/11/25/when-ai-writes-the-code-what-counts-as-evidence/",
+  "published": "2026-11-25T15:59:41"
+ },
+ {
+  "blog_name": "GitHub Old",
+  "blog_url": "https://github.com/blog/category/engineering",
+  "title": "How to choose the next safe step in application modernization",
+  "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+  "published": "2026-11-25T15:00:00"
+ },
+ {
   "blog_name": "Codrops",
   "blog_url": "https://tympanus.net/codrops/",
   "title": "Brice Deguigne ’26: A Three.js and WebGPU 3D Portfolio Built Like a Simulation",
@@ -46,6 +158,13 @@
   "blog_url": "https://realpython.com/blog/",
   "title": "pandas Project: Make a Gradebook With Python & pandas",
   "link": "https://realpython.com/pandas-project-gradebook/",
+  "published": "2026-11-25T14:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "The No AI Slop Manifesto: A Pledge to Own What Agents Ship",
+  "link": "https://realpython.com/no-ai-slop-manifesto/",
   "published": "2026-11-25T14:00:00"
  },
  {
@@ -147,6 +266,13 @@
   "published": "2026-11-25T06:11:44"
  },
  {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "How Cozey turns its operators into software builders on Vercel",
+  "link": "https://vercel.com/blog/how-cozey-turns-its-operators-into-software-builders-on-vercel",
+  "published": "2026-11-25T05:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "US Spy Agencies Suffer Breach of Some Unclassified Information",
@@ -193,6 +319,34 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "Building Code Argus: From hackathon idea to agentic DevSecOps",
   "link": "https://www.thoughtworks.com/insights/blog/generative-ai/building-code-argus-hackathon-to-agentic-devsecops",
+  "published": "2026-11-25T00:00:00"
+ },
+ {
+  "blog_name": "Swizec Teller",
+  "blog_url": "https://swizec.com/blog/",
+  "title": "Hillclimbing your prompts",
+  "link": "https://swizec.com/blog/hillclimbing-your-prompts",
+  "published": "2026-11-25T00:00:00"
+ },
+ {
+  "blog_name": "Vercel",
+  "blog_url": "https://vercel.com/blog",
+  "title": "Workflow is 10x faster, again",
+  "link": "https://vercel.com/changelog/workflows-speculative-execution",
+  "published": "2026-11-25T00:00:00"
+ },
+ {
+  "blog_name": "Pulumi",
+  "blog_url": "https://www.pulumi.com/blog/",
+  "title": "How FIPS led to leaner container images for everyone",
+  "link": "https://www.pulumi.com/blog/fips-images-ga/",
+  "published": "2026-11-25T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+  "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
   "published": "2026-11-25T00:00:00"
  },
  {
@@ -243,6 +397,13 @@
   "title": "Highlights from the 2026 CAIRFI AI Workshop",
   "link": "https://medium.com/capital-one-tech/highlights-from-the-2026-cairfi-ai-workshop-7b2465ae0183?source=rss----3db3a67cb648---4",
   "published": "2026-11-24T20:29:23"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "What an AI Marketing Agent Actually Does, and How to Build a Guarded One",
+  "link": "https://www.sitepoint.com/what-an-ai-marketing-agent-actually-does-and-how-to-build-a-guarded-one/?utm_source=rss",
+  "published": "2026-11-24T20:24:12"
  },
  {
   "blog_name": "Slashdot",
@@ -378,6 +539,13 @@
   "published": "2026-11-24T16:24:41"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How SD Card Photo and Video Recovery Works: A Practical Guide With a JPEG Carving Example",
+  "link": "https://www.sitepoint.com/how-sd-card-photo-and-video-recovery-works-a-practical-guide-with-a-jpeg-carving-example/?utm_source=rss",
+  "published": "2026-11-24T16:21:44"
+ },
+ {
   "blog_name": "GitHub Old",
   "blog_url": "https://github.com/blog/category/engineering",
   "title": "These are the gifts developers will actually want",
@@ -481,6 +649,13 @@
   "title": "Competitor price monitoring with Zyte’s MCP in Claude for Black Friday and Cyber Monday",
   "link": "https://www.zyte.com/blog/competitor-price-monitoring-claude-zyte-mcp/",
   "published": "2026-11-24T13:40:02"
+ },
+ {
+  "blog_name": "Google DeepMind",
+  "blog_url": "https://deepmind.google/discover/blog/",
+  "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+  "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+  "published": "2026-11-24T13:07:53"
  },
  {
   "blog_name": "Atomic Object",
@@ -774,6 +949,20 @@
   "blog_url": "https://openai.com/news/",
   "title": "Clay helps sales teams win with Codex and ChatGPT",
   "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+  "published": "2026-11-24T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Update to FCC's TCPA Consent Revocation Rules",
+  "link": "https://www.twilio.com/en-us/blog/insights/best-practices/update-to-fcc-tcpa-consent-revocation-rules",
+  "published": "2026-11-24T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Improving Your Chances of A2P 10DLC Registration Approval",
+  "link": "https://www.twilio.com/en-us/blog/insights/best-practices/improving-your-chances-of-a2p10dlc-registration-approval",
   "published": "2026-11-24T00:00:00"
  },
  {
@@ -2238,6 +2427,13 @@
   "title": "Laranon: Reversible PII Anonymization for Laravel and LLMs",
   "link": "https://laravel-news.com/laranon-pii-anonymization?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
   "published": "2026-11-20T01:44:50"
+ },
+ {
+  "blog_name": "Elegant Code",
+  "blog_url": "http://elegantcode.com/",
+  "title": "Hello world!",
+  "link": "https://elegantcode.com/hello-world/",
+  "published": "2026-11-20T01:16:47"
  },
  {
   "blog_name": "Slashdot",
@@ -42299,6 +42495,13 @@
   "title": "AI-Powered Playwright: Building a Self-Healing CI/CD Testing Pipeline",
   "link": "https://stackabuse.com/ai-powered-playwright-building-a-self-healing-ci-cd-testing-pipeline/",
   "published": "2026-03-20T09:40:45"
+ },
+ {
+  "blog_name": "Marcelo Rinesi",
+  "blog_url": "https://blog.rinesi.com/",
+  "title": "The Emergent Artifact 12 Heist",
+  "link": "https://blog.rinesi.com/2026/03/emergent-artifact-12",
+  "published": "2026-03-20T03:00:00"
  },
  {
   "blog_name": "REA Group",
