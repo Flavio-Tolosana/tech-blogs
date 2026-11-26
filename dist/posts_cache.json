@@ -7,11 +7,130 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Nvidia",
+  "blog_url": "https://blogs.nvidia.com/",
+  "title": "Come for the Games, Stay for the Community With GeForce NOW",
+  "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+  "published": "2026-11-26T14:00:22"
+ },
+ {
+  "blog_name": "Databricks",
+  "blog_url": "https://databricks.com/blog",
+  "title": "Rethinking read replicas for the lakebase architecture",
+  "link": "https://www.databricks.com/blog/rethinking-read-replicas-lakebase-architecture",
+  "published": "2026-11-26T13:45:08"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Do programmers have a future?",
+  "link": "https://lernerpython.com/2026/11/26/do-programmers-have-a-future/",
+  "published": "2026-11-26T13:23:19"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "You Should Write a CLI for Your Web App",
+  "link": "https://spin.atomicobject.com/you-should-write-a-cli-for-your-web-app/",
+  "published": "2026-11-26T13:00:24"
+ },
+ {
+  "blog_name": "Duolingo Engineering",
+  "blog_url": "https://blog.duolingo.com/",
+  "title": "100+ jobs and professions in English",
+  "link": "https://blog.duolingo.com/jobs-and-professions-in-english/",
+  "published": "2026-11-26T13:00:00"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Ray is getting rusty!",
+  "link": "https://freek.dev/3235-ray-is-getting-rusty",
+  "published": "2026-11-26T12:30:31"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python and TOML: Read, Write, and Configure with tomllib",
+  "link": "https://realpython.com/quizzes/python-toml/",
+  "published": "2026-11-26T12:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "published": "2026-11-26T11:37:17"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Physicists Send an Unblockable Message Using Gravity",
+  "link": "https://science.slashdot.org/story/26/11/25/2217235/physicists-send-an-unblockable-message-using-gravity?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-26T11:00:00"
+ },
+ {
+  "blog_name": "Node.js",
+  "blog_url": "https://nodejs.org/en/blog/",
+  "title": "Node.js 27.0.0-alpha.0.2.0 (Alpha)",
+  "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.2.0",
+  "published": "2026-11-26T10:30:16"
+ },
+ {
+  "blog_name": "GoCardless",
+  "blog_url": "https://gocardless.com/blog/tagged/engineering/",
+  "title": "What we learned building the UK’s first agentic bank payment",
+  "link": "https://gocardless.com/blog/engineering-learnings-first-agentic-payment",
+  "published": "2026-11-26T10:10:25"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "What PHP's session handler teaches us about atomicity",
+  "link": "https://freek.dev/3237-what-phps-session-handler-teaches-us-about-atomicity",
+  "published": "2026-11-26T09:56:33"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "Your AI agent is a brilliant intern with no onboarding",
+  "link": "https://www.hostinger.com/blog/designing-with-ai-agents/",
+  "published": "2026-11-26T08:14:40"
+ },
+ {
+  "blog_name": "Nordic APIs",
+  "blog_url": "https://nordicapis.com/blog/",
+  "title": "Infrastructure Theatrics: Why We Chose Simplicity Over the Cluster",
+  "link": "https://nordicapis.com/infrastructure-theatrics-why-we-chose-simplicity-over-the-cluster/",
+  "published": "2026-11-26T08:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "DNS topics at IETF 127",
+  "link": "https://blog.apnic.net/2026/11/26/dns-topics-at-ietf-127/",
+  "published": "2026-11-26T07:03:21"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "SpaceX Wins FCC Approval To Deploy 1 Million Orbital Data Center Satellites",
   "link": "https://tech.slashdot.org/story/26/11/25/1936200/spacex-wins-fcc-approval-to-deploy-1-million-orbital-data-center-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-26T07:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "2027 Activity Plan published",
+  "link": "https://blog.apnic.net/2026/11/26/2027-activity-plan-published/",
+  "published": "2026-11-26T06:38:59"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Classic WTF: The Quine Programmer",
+  "link": "https://thedailywtf.com/articles/classic-wtf-the-quine-programmer",
+  "published": "2026-11-26T06:30:00"
  },
  {
   "blog_name": "Hugging Face",
@@ -39,6 +158,20 @@
   "blog_url": "https://slashdot.org/",
   "title": "1Password Breach Leaked Customer Names and Emails, But Passwords Are Safe",
   "link": "https://it.slashdot.org/story/26/11/25/1940253/1password-breach-leaked-customer-names-and-emails-but-passwords-are-safe?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-26T00:00:00"
+ },
+ {
+  "blog_name": "Amit Merchant",
+  "blog_url": "https://www.amitmerchant.com/",
+  "title": "What PHP’s Session Handler Teaches Us About Atomicity",
+  "link": "https://www.amitmerchant.com/what-phps-session-handler-teaches-us-about-atomicity/",
+  "published": "2026-11-26T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+  "link": "https://huggingface.co/blog/training-swarms",
   "published": "2026-11-26T00:00:00"
  },
  {
@@ -112,6 +245,13 @@
   "published": "2026-11-25T18:52:55"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How AI-Powered Cameras Are Changing Content Creation: What Developers Should Know",
+  "link": "https://www.sitepoint.com/how-ai-powered-cameras-are-changing-content-creation-what-developers-should-know/?utm_source=rss",
+  "published": "2026-11-25T18:19:07"
+ },
+ {
   "blog_name": "Kotlin",
   "blog_url": "https://blog.jetbrains.com/kotlin/",
   "title": "Kotlin Heroes: Episode 15 – Anniversary Edition",
@@ -152,6 +292,13 @@
   "title": "When AI Writes the Code, What Counts as Evidence?",
   "link": "https://stackoverflow.blog/2026/11/25/when-ai-writes-the-code-what-counts-as-evidence/",
   "published": "2026-11-25T15:59:41"
+ },
+ {
+  "blog_name": "Arkency",
+  "blog_url": "http://blog.arkency.com/",
+  "title": "The things we do to get latest Rails security patches: Bootstrap 3 -> 5 migration story",
+  "link": "https://blog.arkency.com/the-things-we-do-to-get-latest-rails-security-patches-bootstrap-3-5-migration-story/",
+  "published": "2026-11-25T15:28:29"
  },
  {
   "blog_name": "GitHub Old",
@@ -298,6 +445,13 @@
   "blog_url": "https://slashdot.org/",
   "title": "Amazon Drone Crashes On Garage After Delivering Shampoo, Draws FAA Probe",
   "link": "https://tech.slashdot.org/story/26/11/25/056210/amazon-drone-crashes-on-garage-after-delivering-shampoo-draws-faa-probe?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-25T07:00:00"
+ },
+ {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python holidays package: Find the date of Thanksgiving",
+  "link": "https://lernerpython.com/2026/11/25/python-holidays-package-find-the-date-of-thanksgiving/",
   "published": "2026-11-25T07:00:00"
  },
  {
@@ -1019,6 +1173,13 @@
   "blog_url": "https://www.twilio.com/blog/",
   "title": "Improving Your Chances of A2P 10DLC Registration Approval",
   "link": "https://www.twilio.com/en-us/blog/insights/best-practices/improving-your-chances-of-a2p10dlc-registration-approval",
+  "published": "2026-11-24T00:00:00"
+ },
+ {
+  "blog_name": "Clickhouse",
+  "blog_url": "https://clickhouse.com/blog",
+  "title": "What is ClickHouse Security? A technical overview of the agentic SIEM built on ClickHouse",
+  "link": "https://clickhouse.com/blog/clickhouse-security-agentic-siem-overview",
   "published": "2026-11-24T00:00:00"
  },
  {
