@@ -7,6 +7,76 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "wingolog",
+  "blog_url": "https://wingolog.org/",
+  "title": "the incredible lightness of not being",
+  "link": "https://wingolog.org/archives/2026/11/26/the-incredible-lightness-of-not-being",
+  "published": "2026-11-26T22:06:13"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "S&amp;P Warns Nvidia's Board May Be Compromised",
+  "link": "https://news.slashdot.org/story/26/11/25/2340213/sp-warns-nvidias-board-may-be-compromised?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-26T22:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Australia Passes Tough Legislation Requiring Big Tech to Preempt Foreseeable Harms",
+  "link": "https://yro.slashdot.org/story/26/11/25/2326240/australia-passes-tough-legislation-requiring-big-tech-to-preempt-foreseeable-harms?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-26T20:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Anthropic Created a Honeypot To Lure AI Agents Into Misbehaving",
+  "link": "https://slashdot.org/story/26/11/25/2251246/anthropic-created-a-honeypot-to-lure-ai-agents-into-misbehaving?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-26T18:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Node.js Hosting Between Serverless and VPS: Predictable Costs Without Cold Starts",
+  "link": "https://www.sitepoint.com/nodejs-hosting-serverless-vs-vps-predictable-costs/?utm_source=rss",
+  "published": "2026-11-26T16:21:37"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "New York Bans AI Toys For 5 Years",
+  "link": "https://slashdot.org/story/26/11/25/0455230/new-york-bans-ai-toys-for-5-years?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-26T16:00:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Don’t be Andy Bernard",
+  "link": "https://lemire.me/blog/2026/11/26/dont-be-andy-bernard/",
+  "published": "2026-11-26T15:39:37"
+ },
+ {
+  "blog_name": "Codrops",
+  "blog_url": "https://tympanus.net/codrops/",
+  "title": "A Year, One Sphere, Many Shapes: Houmahani Kane’s Portfolio",
+  "link": "https://tympanus.net/codrops/2026/11/26/houmahani-kane-portfolio/",
+  "published": "2026-11-26T15:00:56"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "What happens when you put a non-agile object in the CoreApplication Properties?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261126-00/?p=112899/",
+  "published": "2026-11-26T15:00:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Pun: Format, Lint, and Analyze PHP With One Rust Binary",
+  "link": "https://laravel-news.com/pun-php-toolchain?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-26T14:33:03"
+ },
+ {
   "blog_name": "Nvidia",
   "blog_url": "https://blogs.nvidia.com/",
   "title": "Come for the Games, Stay for the Community With GeForce NOW",
@@ -91,6 +161,13 @@
   "published": "2026-11-26T09:56:33"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Build an Accessible Multi Step Form: A Practical Guide With a Vanilla JavaScript Example",
+  "link": "https://www.sitepoint.com/how-to-build-an-accessible-multi-step-form-a-practical-guide-with-a-vanilla-javascript-example/?utm_source=rss",
+  "published": "2026-11-26T09:48:04"
+ },
+ {
   "blog_name": "Hostinger",
   "blog_url": "https://www.hostinger.com/blog/engineering/",
   "title": "Your AI agent is a brilliant intern with no onboarding",
@@ -140,6 +217,13 @@
   "published": "2026-11-26T05:05:36"
  },
  {
+  "blog_name": "Gleb Bahmutov",
+  "blog_url": "https://glebbahmutov.com/blog/",
+  "title": "Freeze And Resume Network Calls In Cypress",
+  "link": "https://glebbahmutov.com/blog/freeze-network-calls/",
+  "published": "2026-11-26T05:00:00"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "World Has Six Consecutive Days 2C Above Preindustrial Levels For First Time",
@@ -172,6 +256,13 @@
   "blog_url": "https://huggingface.co/blog",
   "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
   "link": "https://huggingface.co/blog/training-swarms",
+  "published": "2026-11-26T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Building what matters in the AI era: A conversation with Marty Cagan",
+  "link": "https://www.thoughtworks.com/insights/articles/building-what-matters-with-marty-cagan",
   "published": "2026-11-26T00:00:00"
  },
  {
@@ -557,6 +648,41 @@
   "blog_url": "http://code.dblock.org/",
   "title": "Launch Agents for My AI Agents",
   "link": "https://code.dblock.org/2026/11/25/launch-agents-for-my-ai-agents.html",
+  "published": "2026-11-25T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Build a Low-latency Voice AI Agent with Guardrails on Twilio and AWS",
+  "link": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/blueprint-voice-ai-agent-guardrails-twilio-aws",
+  "published": "2026-11-25T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Build a Production Voice AI agent: A Reference Architecture",
+  "link": "https://www.twilio.com/en-us/blog/developers/best-practices/voice-ai-agent-reference-architecture",
+  "published": "2026-11-25T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Enable MMS on an iPhone",
+  "link": "https://www.twilio.com/en-us/blog/how-to-enable-mms-on-iphone",
+  "published": "2026-11-25T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "How to Enable MMS Messaging & Fix Download Issues on Android",
+  "link": "https://www.twilio.com/en-us/blog/mms-messages-not-sending",
+  "published": "2026-11-25T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Opt-in and opt-out text messages: definition, examples, and guidelines",
+  "link": "https://www.twilio.com/en-us/blog/insights/compliance/opt-in-opt-out-text-messages",
   "published": "2026-11-25T00:00:00"
  },
  {
