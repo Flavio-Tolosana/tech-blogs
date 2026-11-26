@@ -9,6 +9,48 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "SpaceX Wins FCC Approval To Deploy 1 Million Orbital Data Center Satellites",
+  "link": "https://tech.slashdot.org/story/26/11/25/1936200/spacex-wins-fcc-approval-to-deploy-1-million-orbital-data-center-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-26T07:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+  "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "published": "2026-11-26T05:05:36"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "World Has Six Consecutive Days 2C Above Preindustrial Levels For First Time",
+  "link": "https://news.slashdot.org/story/26/11/25/2227252/world-has-six-consecutive-days-2c-above-preindustrial-levels-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-26T03:30:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Brickyard: Launch Your Own Game Platform, With the Studio Inside the App",
+  "link": "https://www.codenameone.com/blog/build-a-game-platform-with-luau-scripting/",
+  "published": "2026-11-26T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "1Password Breach Leaked Customer Names and Emails, But Passwords Are Safe",
+  "link": "https://it.slashdot.org/story/26/11/25/1940253/1password-breach-leaked-customer-names-and-emails-but-passwords-are-safe?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-26T00:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "[Podcast] The APNIC Honeynet in 2026",
+  "link": "https://blog.apnic.net/2026/11/26/podcast-the-apnic-honeynet-in-2026/",
+  "published": "2026-11-25T23:41:04"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Suspected Chinese Agents Are Trying to Dupe Americans with Fake Listings on Job Platforms",
   "link": "https://tech.slashdot.org/story/26/11/25/069227/suspected-chinese-agents-are-trying-to-dupe-americans-with-fake-listings-on-job-platforms?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-25T23:00:00"
@@ -116,6 +158,13 @@
   "blog_url": "https://github.com/blog/category/engineering",
   "title": "How to choose the next safe step in application modernization",
   "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+  "published": "2026-11-25T15:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Why did it seem that the entries in the CoreApplication Properties expired when the source application shut down?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261125-00/?p=112895/",
   "published": "2026-11-25T15:00:00"
  },
  {
@@ -347,6 +396,13 @@
   "blog_url": "https://huggingface.co/blog",
   "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
   "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+  "published": "2026-11-25T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Launch Agents for My AI Agents",
+  "link": "https://code.dblock.org/2026/11/25/launch-agents-for-my-ai-agents.html",
   "published": "2026-11-25T00:00:00"
  },
  {
