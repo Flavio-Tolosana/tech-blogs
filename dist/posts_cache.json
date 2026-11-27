@@ -7,6 +7,55 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Stack Overflow",
+  "blog_url": "https://stackoverflow.blog/engineering/",
+  "title": "Sandboxes, secure inference, and keeping agents from going rogue",
+  "link": "https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/",
+  "published": "2026-11-27T08:40:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "A Man In Denver Has Been Trapping Waymos",
+  "link": "https://tech.slashdot.org/story/26/11/25/2259238/a-man-in-denver-has-been-trapping-waymos?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-27T03:30:00"
+ },
+ {
+  "blog_name": "Thoughtbot",
+  "blog_url": "https://robots.thoughtbot.com/",
+  "title": "NWRUG's (Manchester, UK) December 2026 meeting — Festive social",
+  "link": "https://feed.thoughtbot.com/link/24077/17541701/nwrug-s-manchester-uk-december-2026-meeting-festive-social",
+  "published": "2026-11-27T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "NYT Warns Photographers Not To Update Photoshop Over AI Features",
+  "link": "https://news.slashdot.org/story/26/11/26/041231/nyt-warns-photographers-not-to-update-photoshop-over-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-27T00:00:00"
+ },
+ {
+  "blog_name": "APNIC",
+  "blog_url": "https://blog.apnic.net/",
+  "title": "Five things I learned in five years of attending APNIC conferences",
+  "link": "https://blog.apnic.net/2026/11/27/five-things-i-learned-in-five-years-of-attending-apnic-conferences/",
+  "published": "2026-11-26T23:16:52"
+ },
+ {
+  "blog_name": "Kotlin",
+  "blog_url": "https://blog.jetbrains.com/kotlin/",
+  "title": "Advent of Code 2026: ’Tis the Season to Code in Kotlin",
+  "link": "https://blog.jetbrains.com/kotlin/2026/11/advent-of-code-2026-in-kotlin/",
+  "published": "2026-11-26T22:35:00"
+ },
+ {
+  "blog_name": "Daniel Lemire",
+  "blog_url": "https://lemire.me/blog/",
+  "title": "Our textbook on machine learning and artificial intelligence is out",
+  "link": "https://lemire.me/blog/2026/11/26/our-textbook-on-machine-learning-and-artificial-intelligence-is-out/",
+  "published": "2026-11-26T22:30:00"
+ },
+ {
   "blog_name": "wingolog",
   "blog_url": "https://wingolog.org/",
   "title": "the incredible lightness of not being",
