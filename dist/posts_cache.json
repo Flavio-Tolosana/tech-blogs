@@ -7,6 +7,41 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Mozilla Thanks Users For New Features in Firefox 161: Site-Specific VPN and Keyboard Shortcuts",
+  "link": "https://news.slashdot.org/story/26/11/27/2025251/mozilla-thanks-users-for-new-features-in-firefox-161-site-specific-vpn-and-keyboard-shortcuts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-27T20:34:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "Des vitrines aux agents d’IA : la prochaine évolution du commerce de détail",
+  "link": "https://auth0.com/blog/fr-secure-agentic-commerce-interactions-auth0-auth-mcp/",
+  "published": "2026-11-27T17:56:00"
+ },
+ {
+  "blog_name": "Auth0",
+  "blog_url": "https://auth0.com/blog/",
+  "title": "実店舗からAIエージェントへ：小売コマースの次なる進化",
+  "link": "https://auth0.com/blog/jp-secure-agentic-commerce-interactions-auth0-auth-mcp/",
+  "published": "2026-11-27T17:32:00"
+ },
+ {
+  "blog_name": "Nubank",
+  "blog_url": "https://building.nubank.com/",
+  "title": "Tech Folklore: When engineering decisions outlive their reasoning",
+  "link": "https://building.nu.com/tech-folklore-when-engineering-decisions-outlive-their-reasoning/",
+  "published": "2026-11-27T17:26:45"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Nvidia Seeded Pirated Books and Shared Them With Adobe, Authors Allege",
+  "link": "https://yro.slashdot.org/story/26/11/26/0449255/nvidia-seeded-pirated-books-and-shared-them-with-adobe-authors-allege?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-27T16:00:00"
+ },
+ {
   "blog_name": "Codrops",
   "blog_url": "https://tympanus.net/codrops/",
   "title": "Build Like an Agency, Think as an Individual: Introducing Neue Academy",
@@ -98,6 +133,20 @@
   "published": "2026-11-27T10:53:28"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Beyond Smartphones: How AI Is Shaping the Next Generation of Personal Devices (Developer Guide)",
+  "link": "https://www.sitepoint.com/beyond-smartphones-how-ai-is-shaping-the-next-generation-of-personal-devices-developer-guide/?utm_source=rss",
+  "published": "2026-11-27T10:52:37"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "How to Shut Down a Node.js API Without Dropping Requests",
+  "link": "https://www.sitepoint.com/how-to-shut-down-a-node-js-api-without-dropping-requests/?utm_source=rss",
+  "published": "2026-11-27T10:30:49"
+ },
+ {
   "blog_name": "Freek Van der Herten",
   "blog_url": "https://murze.be/",
   "title": "NEW Laravel Package: Spatie Suspicious Login",
@@ -124,6 +173,13 @@
   "title": "Error'd: Mental Health",
   "link": "https://thedailywtf.com/articles/mental-health",
   "published": "2026-11-27T06:30:00"
+ },
+ {
+  "blog_name": "Laravel",
+  "blog_url": "https://laravel-news.com/blog/",
+  "title": "Laravel AutoBuilder: Build Visual Automation Workflows",
+  "link": "https://laravel-news.com/laravel-autobuilder?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+  "published": "2026-11-27T05:43:43"
  },
  {
   "blog_name": "Slashdot",
@@ -186,6 +242,20 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "Refactoring the Engine: An Incremental Path to AI-Assisted Delivery",
   "link": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/refactoring_the_engine_an_incremental_path_to_AI_assisted_delivery",
+  "published": "2026-11-27T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Naming Claude Code and Copilot Sessions After Their Project",
+  "link": "https://code.dblock.org/2026/11/27/naming-claude-code-and-copilot-sessions-after-their-project.html",
+  "published": "2026-11-27T00:00:00"
+ },
+ {
+  "blog_name": "Rust",
+  "blog_url": "https://blog.rust-lang.org/",
+  "title": "Announcing Rust 1.100.1",
+  "link": "https://blog.rust-lang.org/2026/11/27/Rust-1.100.1/",
   "published": "2026-11-27T00:00:00"
  },
  {
@@ -473,6 +543,13 @@
   "blog_url": "https://www.thoughtworks.com/insights",
   "title": "Building what matters in the AI era: A conversation with Marty Cagan",
   "link": "https://www.thoughtworks.com/insights/articles/building-what-matters-with-marty-cagan",
+  "published": "2026-11-26T00:00:00"
+ },
+ {
+  "blog_name": "Daniel Doubrovkine (dB.)",
+  "blog_url": "http://code.dblock.org/",
+  "title": "Automatic JavaScript Test Sharding on GitHub Actions",
+  "link": "https://code.dblock.org/2026/11/26/automatic-javascript-test-sharding-on-github-actions.html",
   "published": "2026-11-26T00:00:00"
  },
  {
