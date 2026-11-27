@@ -7,6 +7,104 @@
   "published": "2026-12-10T00:00:00"
  },
  {
+  "blog_name": "Codrops",
+  "blog_url": "https://tympanus.net/codrops/",
+  "title": "Build Like an Agency, Think as an Individual: Introducing Neue Academy",
+  "link": "https://tympanus.net/codrops/2026/11/27/neue-academy/",
+  "published": "2026-11-27T14:16:17"
+ },
+ {
+  "blog_name": "Red Hat",
+  "blog_url": "https://developers.redhat.com/blog/",
+  "title": "Performance testing: Where benchmarks meet reality",
+  "link": "https://developers.redhat.com/articles/2026/11/27/performance-testing-where-benchmarks-meet-reality",
+  "published": "2026-11-27T14:01:28"
+ },
+ {
+  "blog_name": "Spotify",
+  "blog_url": "https://labs.spotify.com/",
+  "title": "September 29 Outage Incident Report: What we learnt",
+  "link": "https://engineering.atspotify.com/2026/11/september-29-outage-incident-report-what-we-learnt/",
+  "published": "2026-11-27T14:00:11"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Google Sets a Deadline for AI Agents Working in Gmail",
+  "link": "https://realpython.com/ai-news-weekly-2026-11-27/",
+  "published": "2026-11-27T14:00:00"
+ },
+ {
+  "blog_name": "Kotlin",
+  "blog_url": "https://blog.jetbrains.com/kotlin/",
+  "title": "Introducing the Kotlin Security Newsletter",
+  "link": "https://blog.jetbrains.com/kotlin/2026/11/introducing-the-kotlin-security-newsletter/",
+  "published": "2026-11-27T13:56:11"
+ },
+ {
+  "blog_name": "Jeffrey Zeldman",
+  "blog_url": "https://zeldman.com/",
+  "title": "Claudine",
+  "link": "https://zeldman.com/2026/11/27/claudine/",
+  "published": "2026-11-27T13:32:52"
+ },
+ {
+  "blog_name": "Atomic Object",
+  "blog_url": "https://spin.atomicobject.com/",
+  "title": "7 Things I Learned From My First 7 Projects",
+  "link": "https://spin.atomicobject.com/software-consulting-lessons/",
+  "published": "2026-11-27T13:00:54"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "Tokens, constraints, and Black+Decker",
+  "link": "https://freek.dev/3236-tokens-constraints-and-blackdecker",
+  "published": "2026-11-27T12:31:09"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "The Real Python Podcast – Episode #320: Optimizing Python Performance & Building a Django Static Site",
+  "link": "https://realpython.com/podcasts/rpp/320/",
+  "published": "2026-11-27T12:00:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: Python Timer Functions: Three Ways to Monitor Your Code",
+  "link": "https://realpython.com/quizzes/python-timer/",
+  "published": "2026-11-27T12:00:00"
+ },
+ {
+  "blog_name": "Hostinger",
+  "blog_url": "https://www.hostinger.com/blog/engineering/",
+  "title": "AI made building online easy. Hostinger Headless takes care of what comes next",
+  "link": "https://www.hostinger.com/blog/hostinger-headless-launch/",
+  "published": "2026-11-27T11:18:46"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "James T. Russell, Physicist Who Pioneered CD and DVD Technology, Dies At 95",
+  "link": "https://entertainment.slashdot.org/story/26/11/26/0437259/james-t-russell-physicist-who-pioneered-cd-and-dvd-technology-dies-at-95?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-27T11:00:00"
+ },
+ {
+  "blog_name": "Federico Tomassetti",
+  "blog_url": "https://tomassetti.me/",
+  "title": "Why We Chose Mistral Large for Code Reviews",
+  "link": "https://tomassetti.me/ai-code-review-mistral-large/",
+  "published": "2026-11-27T10:53:28"
+ },
+ {
+  "blog_name": "Freek Van der Herten",
+  "blog_url": "https://murze.be/",
+  "title": "NEW Laravel Package: Spatie Suspicious Login",
+  "link": "https://freek.dev/3240-new-laravel-package-spatie-suspicious-login",
+  "published": "2026-11-27T09:06:05"
+ },
+ {
   "blog_name": "Stack Overflow",
   "blog_url": "https://stackoverflow.blog/engineering/",
   "title": "Sandboxes, secure inference, and keeping agents from going rogue",
@@ -16,9 +114,30 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "Scientists Used Seabirds To Track Hidden Ships",
+  "link": "https://news.slashdot.org/story/26/11/26/0422228/scientists-used-seabirds-to-track-hidden-ships?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-27T07:00:00"
+ },
+ {
+  "blog_name": "The Daily WTF",
+  "blog_url": "http://thedailywtf.com/",
+  "title": "Error'd: Mental Health",
+  "link": "https://thedailywtf.com/articles/mental-health",
+  "published": "2026-11-27T06:30:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "A Man In Denver Has Been Trapping Waymos",
   "link": "https://tech.slashdot.org/story/26/11/25/2259238/a-man-in-denver-has-been-trapping-waymos?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-27T03:30:00"
+ },
+ {
+  "blog_name": "Chris Wellons",
+  "blog_url": "http://nullprogram.com/",
+  "title": "Safe, automated bug discovery and fixing with Prospero",
+  "link": "https://nullprogram.com/blog/2026/11/27/",
+  "published": "2026-11-27T03:00:00"
  },
  {
   "blog_name": "Thoughtbot",
@@ -32,6 +151,41 @@
   "blog_url": "https://slashdot.org/",
   "title": "NYT Warns Photographers Not To Update Photoshop Over AI Features",
   "link": "https://news.slashdot.org/story/26/11/26/041231/nyt-warns-photographers-not-to-update-photoshop-over-ai-features?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-27T00:00:00"
+ },
+ {
+  "blog_name": "Amit Merchant",
+  "blog_url": "https://www.amitmerchant.com/",
+  "title": "Taking Request Cancellation Beyond the Browser",
+  "link": "https://www.amitmerchant.com/taking-request-cancellation-beyond-the-browser/",
+  "published": "2026-11-27T00:00:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "We Built a Full Shopify Clone in Three Days",
+  "link": "https://www.codenameone.com/blog/full-shopify-clone-in-three-days/",
+  "published": "2026-11-27T00:00:00"
+ },
+ {
+  "blog_name": "Hugging Face",
+  "blog_url": "https://huggingface.co/blog",
+  "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+  "link": "https://huggingface.co/blog/video-trainium3",
+  "published": "2026-11-27T00:00:00"
+ },
+ {
+  "blog_name": "Datadog Engineering",
+  "blog_url": "https://www.datadoghq.com/blog/engineering/",
+  "title": "Prioritize security findings with Datadog Crown Jewels",
+  "link": "https://www.datadoghq.com/blog/prioritize-security-findings-crown-jewels/",
+  "published": "2026-11-27T00:00:00"
+ },
+ {
+  "blog_name": "ThoughtWorks",
+  "blog_url": "https://www.thoughtworks.com/insights",
+  "title": "Refactoring the Engine: An Incremental Path to AI-Assisted Delivery",
+  "link": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/refactoring_the_engine_an_incremental_path_to_AI_assisted_delivery",
   "published": "2026-11-27T00:00:00"
  },
  {
@@ -245,6 +399,13 @@
   "published": "2026-11-26T07:00:00"
  },
  {
+  "blog_name": "Lerner Consulting Blog",
+  "blog_url": "http://blog.lerner.co.il/",
+  "title": "Python holidays module: Finding the earliest Thanksgiving",
+  "link": "https://lernerpython.com/2026/11/26/python-holidays-module-finding-the-earliest-thanksgiving/",
+  "published": "2026-11-26T07:00:00"
+ },
+ {
   "blog_name": "APNIC",
   "blog_url": "https://blog.apnic.net/",
   "title": "2027 Activity Plan published",
@@ -329,6 +490,13 @@
   "published": "2026-11-25T23:00:00"
  },
  {
+  "blog_name": "Arkency",
+  "blog_url": "http://blog.arkency.com/",
+  "title": "Durable event delivery for your asynchronous subscribers",
+  "link": "https://blog.arkency.com/durable-event-delivery-for-your-asynchronous-subscribers/",
+  "published": "2026-11-25T22:15:40"
+ },
+ {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
   "title": "Anthropic, OpenAI Employees Fear Models Are Too Unsafe to Ever Release",
@@ -392,6 +560,13 @@
   "published": "2026-11-25T18:19:07"
  },
  {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "A Preflight Checklist for Shipping 3D Models on the Web",
+  "link": "https://www.sitepoint.com/a-preflight-checklist-for-shipping-3d-models-on-the-web/?utm_source=rss",
+  "published": "2026-11-25T18:16:16"
+ },
+ {
   "blog_name": "Kotlin",
   "blog_url": "https://blog.jetbrains.com/kotlin/",
   "title": "Kotlin Heroes: Episode 15 – Anniversary Edition",
@@ -411,6 +586,13 @@
   "title": "Prove your AI agent guardrails work",
   "link": "https://www.docker.com/blog/prove-your-ai-agent-guardrails-work/",
   "published": "2026-11-25T16:57:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "From AI-Generated HTML to a WordPress Child Theme: A Practical Workflow",
+  "link": "https://www.sitepoint.com/from-ai-generated-html-to-a-wordpress-child-theme-a-practical-workflow/?utm_source=rss",
+  "published": "2026-11-25T16:41:19"
  },
  {
   "blog_name": "Nubank",
