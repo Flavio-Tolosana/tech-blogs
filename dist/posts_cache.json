@@ -9,6 +9,41 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "Google Will Soon Share Android Developers' Addresses Publicly",
+  "link": "https://yro.slashdot.org/story/26/11/28/0629213/google-will-soon-share-android-developers-addresses-publicly?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-28T12:15:00"
+ },
+ {
+  "blog_name": "Real Python",
+  "blog_url": "https://realpython.com/blog/",
+  "title": "Quiz: What Are Python Asterisk and Slash Special Parameters For?",
+  "link": "https://realpython.com/quizzes/python-asterisk-and-slash-special-parameters/",
+  "published": "2026-11-28T12:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "GTA VI: Console Shortages, Performance Showdowns, $1B More Sales, and Some Tech Issues",
+  "link": "https://games.slashdot.org/story/26/11/28/0445221/gta-vi-console-shortages-performance-showdowns-1b-more-sales-and-some-tech-issues?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-28T08:30:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "AI App Development in 2026: Architecture, Tools and a Practical Build Guide",
+  "link": "https://www.sitepoint.com/ai-app-development-in-2026-architecture-tools-and-a-practical-build-guide/?utm_source=rss",
+  "published": "2026-11-28T07:17:03"
+ },
+ {
+  "blog_name": "Codrops",
+  "blog_url": "https://tympanus.net/codrops/",
+  "title": "Sliding Tiles, a Sticky Note in the Wind and a Clock Full of Shapes: Building Loopsii",
+  "link": "https://tympanus.net/codrops/2026/11/28/loopsii/",
+  "published": "2026-11-28T07:12:30"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Will AI Bots Ever Catch on for Online Shopping?",
   "link": "https://tech.slashdot.org/story/26/11/28/024225/will-ai-bots-ever-catch-on-for-online-shopping?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-28T04:45:00"
@@ -152,6 +187,13 @@
   "title": "James T. Russell, Physicist Who Pioneered CD and DVD Technology, Dies At 95",
   "link": "https://entertainment.slashdot.org/story/26/11/26/0437259/james-t-russell-physicist-who-pioneered-cd-and-dvd-technology-dies-at-95?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-27T11:00:00"
+ },
+ {
+  "blog_name": "SitePoint",
+  "blog_url": "https://sitepoint.com",
+  "title": "Improving Video Quality for the Web: A Practical Workflow for Developers and Creators",
+  "link": "https://www.sitepoint.com/improving-video-quality-for-the-web-a-practical-workflow-for-developers-and-creators/?utm_source=rss",
+  "published": "2026-11-27T10:56:24"
  },
  {
   "blog_name": "Federico Tomassetti",
