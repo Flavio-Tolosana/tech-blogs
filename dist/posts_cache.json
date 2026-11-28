@@ -9,6 +9,27 @@
  {
   "blog_name": "Slashdot",
   "blog_url": "https://slashdot.org/",
+  "title": "Will AI Bots Ever Catch on for Online Shopping?",
+  "link": "https://tech.slashdot.org/story/26/11/28/024225/will-ai-bots-ever-catch-on-for-online-shopping?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-28T04:45:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
+  "title": "Chinese Data Center Tied to Alice Huang Found Using Nvidia's Powerful AI Chips",
+  "link": "https://hardware.slashdot.org/story/26/11/28/0022257/chinese-data-center-tied-to-alice-huang-found-using-nvidias-powerful-ai-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+  "published": "2026-11-28T00:25:00"
+ },
+ {
+  "blog_name": "CodeName One",
+  "blog_url": "http://www.codenameone.com/blog.html",
+  "title": "Open, Edit, Spell Check and Present Word and PowerPoint Files Inside Your App",
+  "link": "https://www.codenameone.com/blog/word-documents-and-presentations-in-your-app/",
+  "published": "2026-11-28T00:00:00"
+ },
+ {
+  "blog_name": "Slashdot",
+  "blog_url": "https://slashdot.org/",
   "title": "Mozilla Thanks Users For New Features in Firefox 161: Site-Specific VPN and Keyboard Shortcuts",
   "link": "https://news.slashdot.org/story/26/11/27/2025251/mozilla-thanks-users-for-new-features-in-firefox-161-site-specific-vpn-and-keyboard-shortcuts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-27T20:34:00"
@@ -40,6 +61,13 @@
   "title": "Nvidia Seeded Pirated Books and Shared Them With Adobe, Authors Allege",
   "link": "https://yro.slashdot.org/story/26/11/26/0449255/nvidia-seeded-pirated-books-and-shared-them-with-adobe-authors-allege?utm_source=rss1.0mainlinkanon&utm_medium=feed",
   "published": "2026-11-27T16:00:00"
+ },
+ {
+  "blog_name": "Raymond Chen",
+  "blog_url": "https://blogs.msdn.microsoft.com/oldnewthing/",
+  "title": "Could we use the CoreApplication Properties to manage the lifetime of an object that refuses to be marshaled?",
+  "link": "https://devblogs.microsoft.com/oldnewthing/20261127-00/?p=112901/",
+  "published": "2026-11-27T15:00:00"
  },
  {
   "blog_name": "Codrops",
@@ -550,6 +578,13 @@
   "blog_url": "http://code.dblock.org/",
   "title": "Automatic JavaScript Test Sharding on GitHub Actions",
   "link": "https://code.dblock.org/2026/11/26/automatic-javascript-test-sharding-on-github-actions.html",
+  "published": "2026-11-26T00:00:00"
+ },
+ {
+  "blog_name": "Twilio",
+  "blog_url": "https://www.twilio.com/blog/",
+  "title": "Twilio SIGNAL London 2026: Turning AI Intelligence into Actionable Customer Engagement",
+  "link": "https://www.twilio.com/en-us/blog/events/signal-london-2026",
   "published": "2026-11-26T00:00:00"
  },
  {
